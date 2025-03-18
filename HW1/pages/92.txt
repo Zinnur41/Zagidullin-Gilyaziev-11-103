@@ -1,0 +1,1310 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Арутюнян, Сурен Асатурович — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"85d3fd7b-423e-409d-bc73-8963bae13bd2","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Арутюнян,_Сурен_Асатурович","wgTitle":"Арутюнян, Сурен Асатурович","wgCurRevisionId":143012398,"wgRevisionId":143012398,"wgArticleId":6652719,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Страницы, использующие расширение JsonConfig","Википедия:Cite web (не указан язык)","Википедия:Cite web (недоступные ссылки без архивной копии)","Википедия:Биографии современников","Википедия:Статьи с изображениями: заполнить свойство P373 в Викиданных","Родившиеся 24 августа","Родившиеся в 1950 году","Персоналии по алфавиту","Родившиеся в Москве","Художники по алфавиту","Художники СССР","Художники России","Художники XX века","Художники XXI века","Художники-символисты России","Художники-соцреалисты СССР","Художники-сюрреалисты","Фотографы России"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Арутюнян,_Сурен_Асатурович","wgRelevantArticleId":6652719,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":143012398,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":50000,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q28495784","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};
+RLSTATE={"ext.gadget.common-site":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","codex-search-styles":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","oojs-ui.styles.icons-media","oojs-ui-core.icons"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.44.0-wmf.20">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/6/64/Soren_Arutyunyan%2C_NY_1994.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1312">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/6/64/Soren_Arutyunyan%2C_NY_1994.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="874">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="700">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Арутюнян, Сурен Асатурович — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="//ru.m.wikipedia.org/wiki/%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="login.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Арутюнян_Сурен_Асатурович rootpage-Арутюнян_Сурен_Асатурович skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Арутюнян, Сурен Асатурович</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div role="note" class="hatnote navigation-not-searchable dabhide">В Википедии есть статьи о других людях с такой фамилией, см. <a href="/wiki/%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD" class="mw-disambig" title="Арутюнян">Арутюнян</a>; <a href="/wiki/%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD" class="mw-disambig" title="Арутюнян, Сурен">Арутюнян, Сурен</a>.</div>
+<table class="infobox infobox-a383c52fcbed71fa" style="" data-name="Художник"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Сурен Асатурович Арутюнян</th></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-property-id="P18" class="no-wikidata"><span typeof="mw:File/Frameless"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Soren_Arutyunyan,_NY_1994.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Soren_Arutyunyan%2C_NY_1994.jpg/200px-Soren_Arutyunyan%2C_NY_1994.jpg" decoding="async" width="200" height="219" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Soren_Arutyunyan%2C_NY_1994.jpg/300px-Soren_Arutyunyan%2C_NY_1994.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Soren_Arutyunyan%2C_NY_1994.jpg/400px-Soren_Arutyunyan%2C_NY_1994.jpg 2x" data-file-width="494" data-file-height="540" /></a></span></span> </td></tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Имя при рождении</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P1477" class="no-wikidata">Арутюнян Сурен Асатурович</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Дата&#160;рождения</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P569"><span class="nowrap"><a href="/wiki/24_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="24 августа">24 августа</a> <a href="/wiki/1950_%D0%B3%D0%BE%D0%B4" title="1950 год">1950</a></span><span style="display:none">(<span class="bday">1950-08-24</span>)</span></span> <span class="nowrap">(74 года)</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Место рождения</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P19" class="no-wikidata"><a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0" title="Москва">Москва</a>, <a href="/wiki/%D0%A1%D0%A1%D0%A1%D0%A0" class="mw-redirect" title="СССР">СССР</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Гражданство</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P27" class="no-wikidata"><span class="nowrap" data-sort-value="США"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png" decoding="async" width="22" height="12" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/33px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/44px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></span></span></span>&#160;<a href="/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8" title="Соединённые Штаты Америки"><span class="wrap">США</span></a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Род&#160;деятельности</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q28495784$9C3A299A-D2A4-466B-9C75-B0B6726D2450" class="wikidata-claim" data-wikidata-property-id="P106"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA" title="Художник">художник</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Сайт</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P856" class="no-wikidata"><a rel="nofollow" class="external text" href="http://sorenarutyunyan.ru">sorenarutyunyan.ru</a></span></td>
+</tr>
+</tbody></table>
+<p><b>Сурен Асатурович</b> <b>Арутюнян</b> (род. <a href="/wiki/24_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="24 августа">24 августа</a> <a href="/wiki/1950" class="mw-redirect" title="1950">1950</a>, г. <a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0" title="Москва">Москва</a>, <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">Россия</a>)&#160;— <a href="/wiki/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA" title="Художник">художник</a>, <a href="/wiki/%D0%98%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80" class="mw-redirect" title="Иллюстратор">иллюстратор</a>, <a href="/wiki/%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84" title="Фотограф">фотограф</a>. Является членом <a href="/w/index.php?title=%D0%9F%D1%80%D0%BE%D1%84%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Профессиональный союз художников России (страница отсутствует)">Союза профессиональных художников России</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>. Совершил рабочие экспедиции более, чем в 70 стран.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Происхождение"><span class="tocnumber">1</span> <span class="toctext">Происхождение</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Биография"><span class="tocnumber">2</span> <span class="toctext">Биография</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Творчество"><span class="tocnumber">3</span> <span class="toctext">Творчество</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Персональные_выставки"><span class="tocnumber">3.1</span> <span class="toctext">Персональные выставки</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Групповые_выставки"><span class="tocnumber">3.2</span> <span class="toctext">Групповые выставки</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Галерея_работ"><span class="tocnumber">3.3</span> <span class="toctext">Галерея работ</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Публикации"><span class="tocnumber">3.4</span> <span class="toctext">Публикации</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Работы_в_музеях_и_корпоративных_коллекциях"><span class="tocnumber">3.5</span> <span class="toctext">Работы в музеях и корпоративных коллекциях</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Произведения"><span class="tocnumber">3.6</span> <span class="toctext">Произведения</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Избранные_публикации_о_художнике"><span class="tocnumber">4</span> <span class="toctext">Избранные публикации о художнике</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Интересные_факты"><span class="tocnumber">5</span> <span class="toctext">Интересные факты</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Ссылки"><span class="tocnumber">6</span> <span class="toctext">Ссылки</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Примечания"><span class="tocnumber">7</span> <span class="toctext">Примечания</span></a></li>
+</ul>
+</div>
+
+<div class="mw-heading mw-heading2"><h2 id="Происхождение"><span id=".D0.9F.D1.80.D0.BE.D0.B8.D1.81.D1.85.D0.BE.D0.B6.D0.B4.D0.B5.D0.BD.D0.B8.D0.B5"></span>Происхождение</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Происхождение»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=1" title="Редактировать код раздела «Происхождение»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Сурен&#160;— потомственный художник, его предками были такие известные творческие деятели, как <a href="/wiki/%D0%A1%D0%B0%D1%80%D1%8C%D1%8F%D0%BD_%D0%9C%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%BE%D1%81_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" class="mw-redirect" title="Сарьян Мартирос Сергеевич">Сарьян Мартирос Сергеевич</a>&#160;— армянский и советский живописец-пейзажист, график и театральный художник (годы жизни <a href="/wiki/1880" class="mw-redirect" title="1880">1880</a>—<a href="/wiki/1972" class="mw-redirect" title="1972">1972</a>), а также <a href="/wiki/%D0%90%D0%B3%D0%B0%D1%8F%D0%BD,_%D0%93%D0%B0%D0%B7%D0%B0%D1%80%D0%BE%D1%81" title="Агаян, Газарос">Газарос Степанович Агаян</a>&#160;— армянский писатель, педагог (годы жизни <a href="/wiki/1840" class="mw-redirect" title="1840">1840</a>—<a href="/wiki/1911" class="mw-redirect" title="1911">1911</a>). Рубен Саркисян, также являющийся потомком рода Агаянов, создал подробную историю генеалогического древа, где помимо указанных выше, отмечено много талантливых творческих предшественников Сурена<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>
+<style data-mw-deduplicate="TemplateStyles:r128273053">.mw-parser-output .ts-Начало_цитаты-source{margin:1em 0 0 5%}.mw-parser-output .ts-Начало_цитаты-quote .ts-oq{margin:0 -32px -8px}body.skin-minerva .mw-parser-output .ts-Начало_цитаты-quote .ts-oq{margin-left:0}.mw-parser-output .ts-Начало_цитаты-quote .ts-oq .ts-oq-header.ts-oq-header,.mw-parser-output .ts-Начало_цитаты-quote .ts-oq .ts-oq-content{padding-left:32px;padding-right:1.052632em}.mw-parser-output .ts-Начало_цитаты-quote .ts-oq .ts-oq-content{padding:8px 32px}.mw-parser-output .reference-text .ts-Начало_цитаты-quote{margin:0}</style>
+</p>
+<blockquote class="ts-Начало_цитаты-quote">
+<p>
+…продолжая наш обзор, вспомним самых заметных внуков Грикора Агаяна, младшего брата Газароса. Это&#160;— художник-плакатист Джонрид Агаян, сын Иосифа, и его родная сестра, художница по керамике <a href="/wiki/%D0%90%D0%B3%D0%B0%D1%8F%D0%BD,_%D0%98%D0%B7%D0%B0%D0%B1%D0%B5%D0%BB%D0%BB%D0%B0_%D0%98%D0%BE%D1%81%D0%B8%D1%84%D0%BE%D0%B2%D0%BD%D0%B0" title="Агаян, Изабелла Иосифовна">Изабелла Агаян</a> (по мужу&#160;— Арутюнян), уже упомянутая выше; все 3 их детей также посвятили себя изобразительному искусству, причём Сурену Арутюняну, сыну Изабеллы, на этом поприще удалось даже достичь международной известности.
+</p>
+<style data-mw-deduplicate="TemplateStyles:r128273076">.mw-parser-output .ts-Конец_цитаты-source{margin:1em 2em 0 0;text-align:right}</style><div class="ts-Конец_цитаты-source">— <cite>Р.Саркисян. Заметки к генеалогии рода Агаянов</cite></div></blockquote>
+<p><a href="/wiki/%D0%90%D0%B3%D0%B0%D1%8F%D0%BD,_%D0%98%D0%B7%D0%B0%D0%B1%D0%B5%D0%BB%D0%BB%D0%B0_%D0%98%D0%BE%D1%81%D0%B8%D1%84%D0%BE%D0%B2%D0%BD%D0%B0" title="Агаян, Изабелла Иосифовна">Изабелла Агаян</a> (Арутюнян), мать Сурена, была членом <a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%A1%D0%A1%D0%A1%D0%A0" title="Союз художников СССР">Союза художников СССР</a> и занималась керамикой. Бабушка художника, Сусанна Михайловна Агаян после окончания <a href="/wiki/%D0%92%D0%A5%D0%A3%D0%A2%D0%95%D0%9C%D0%90%D0%A1" title="ВХУТЕМАС">ВХУТЕМАСа</a>, работала главным художником московского шелкового комбината <a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F_%D0%A0%D0%BE%D0%B7%D0%B0_(%D1%84%D0%B0%D0%B1%D1%80%D0%B8%D0%BA%D0%B0)" class="mw-redirect" title="Красная Роза (фабрика)">«Красная роза»</a>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Биография"><span id=".D0.91.D0.B8.D0.BE.D0.B3.D1.80.D0.B0.D1.84.D0.B8.D1.8F"></span>Биография</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Биография»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=2" title="Редактировать код раздела «Биография»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Сурен родился в <a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0" title="Москва">Москве</a> в <a href="/wiki/1950" class="mw-redirect" title="1950">1950</a> г. Изначально его семья жила на <a href="/wiki/%D0%A3%D0%BB%D0%B8%D1%86%D0%B0_%D0%9F%D0%BB%D1%8E%D1%89%D0%B8%D1%85%D0%B0" title="Улица Плющиха">Плющихе</a>, позднее переехала в Дом художников на <a href="/wiki/%D0%92%D0%B5%D1%80%D1%85%D0%BD%D1%8F%D1%8F_%D0%9C%D0%B0%D1%81%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0" class="mw-redirect" title="Верхняя Масловка">Верхней Масловке</a> в атмосферу творческой коммуны <a href="/wiki/%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%BE%D0%BA_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Городок художников">Городка художников</a>.
+</p><p>В <a href="/wiki/1973" class="mw-redirect" title="1973">1973</a> г. Арутюнян окончил <a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE-%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%A1._%D0%93._%D0%A1%D1%82%D1%80%D0%BE%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0" class="mw-redirect" title="Московская государственная художественно-промышленная академия имени С. Г. Строганова">Московское высшее художественно-промышленное училище им. Строганова</a> и поступил в ряды <a href="/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D1%80%D0%BC%D0%B8%D1%8F" title="Советская армия">Советской армии</a>.
+</p><p>После возвращения со службы Сурен стал участвовать в неофициальных «квартирных» выставках. На большой выставке московских художников-нонконформистов в Доме культуры <a href="/wiki/%D0%92%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0_%D0%B4%D0%BE%D1%81%D1%82%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D1%85%D0%BE%D0%B7%D1%8F%D0%B9%D1%81%D1%82%D0%B2%D0%B0" title="Выставка достижений народного хозяйства">ВДНХ</a> показывал сюрреалистические композиции, навеянные журналом «<a href="/wiki/National_Geographic_(%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB)" title="National Geographic (журнал)">National Geographic</a>», а также символами и «штампами» <a href="/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC" title="Социалистический реализм">соцреализма</a>. Выставка проходила с 20 по 30 сентября <a href="/wiki/1975_%D0%B3%D0%BE%D0%B4" title="1975 год">1975&#160;года</a>.
+</p><p>В <a href="/wiki/1977" class="mw-redirect" title="1977">1977</a> г. Сурен переехал на два года в <a href="/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F" title="Норвегия">Норвегию</a>, где продолжил заниматься живописью, сотрудничал с издательскими домами <a href="/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F" title="Норвегия">Норвегии</a> и <a href="/wiki/%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F" title="Швеция">Швеции</a>, выставлялся в галереях разных городов Европы. В этот период характер творчества автора изменился в сторону «визуального реализма».
+</p><p>C <a href="/wiki/1979" class="mw-redirect" title="1979">1979</a> по <a href="/wiki/1981" class="mw-redirect" title="1981">1981</a> гг. получал образование в <a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA" title="Нью-Йорк">Нью-Йорке</a> в <a href="/wiki/%D0%9B%D0%B8%D0%B3%D0%B0_%D1%81%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA%D0%B0" title="Лига студентов-художников Нью-Йорка">Лиге студентов-художников Нью-Йорка</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Art Students League of New York</span>). Сотрудничал в качестве художника-графика с книжными издательствами и рекламными агентствами. В их числе издательский дом <a href="/wiki/Doubleday" title="Doubleday">Doubleday</a><sup id="cite_ref-In_Iron_Years_4-0" class="reference"><a href="#cite_note-In_Iron_Years-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>.
+Периодически отправлялся в живописные и фотографические экспедиции по <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>, посетил <a href="/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0" title="Северная Африка">Северную Африку</a>, <a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0" title="Латинская Америка">Латинскую Америку</a> и <a href="/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D0%9F%D0%B0%D1%81%D1%85%D0%B8" title="Остров Пасхи">остров Пасхи</a>.
+</p><p>В <a href="/wiki/1989_%D0%B3%D0%BE%D0%B4" title="1989 год">1989&#160;году</a> опубликовал свою первую монографию «Les Merveilles du Monde», которая объединила живопись и фотографии в форме <a href="/wiki/%D0%94%D0%B8%D0%BF%D1%82%D0%B8%D1%85" title="Диптих">диптихов</a> и <a href="/wiki/%D0%A2%D1%80%D0%B8%D0%BF%D1%82%D0%B8%D1%85" title="Триптих">триптихов</a>.
+</p><p>В <a href="/wiki/1990_%D0%B3%D0%BE%D0%B4" title="1990 год">1990&#160;году</a> получил гражданство <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>, что облегчило возможность путешествовать. Проделал путь из <a href="/wiki/%D0%9F%D0%B0%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD" title="Пакистан">Пакистана</a> в <a href="/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9" title="Китай">Китай</a> по южному маршруту <a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9_%D1%88%D1%91%D0%BB%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BF%D1%83%D1%82%D1%8C" title="Великий шёлковый путь">шелкового пути</a>&#160;— через горы <a href="/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%BA%D0%BE%D1%80%D1%83%D0%BC_(%D0%B3%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0)" title="Каракорум (горная система)">Каракорум</a>. В следующие годы посетил Центральную и <a href="/wiki/%D0%AE%D0%B6%D0%BD%D0%B0%D1%8F_%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0" title="Южная Африка">Южную</a> Африку, вновь <a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0" title="Латинская Америка">Латинскую Америку</a>. Жил и работал в деревнях <a href="/wiki/%D0%97%D0%B8%D0%BC%D0%B1%D0%B0%D0%B1%D0%B2%D0%B5" title="Зимбабве">Зимбабве</a> и <a href="/wiki/%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%8C" title="Сибирь">Сибири</a>, <a href="/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D1%85" title="Карабах">Карабаха</a> и <a href="/wiki/%D0%9A%D0%B0%D0%B1%D0%BE-%D0%92%D0%B5%D1%80%D0%B4%D0%B5" title="Кабо-Верде">островов Зеленого Мыса</a>, <a href="/wiki/%D0%98%D0%BD%D0%B4%D0%B8%D1%8F" title="Индия">Индии</a> и <a href="/wiki/%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D0%B8%D1%8F" title="Монголия">Монголии</a>.
+</p><p>В <a href="/wiki/1994_%D0%B3%D0%BE%D0%B4" title="1994 год">1994&#160;году</a> выпустил следующую монографию «Шелковый путь», где были собраны живопись и фотографии, этнографические заметки и рассказы путешественников. Книга была напечатана итальянским издательством «Electa Napoli»<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>С <a href="/wiki/1996_%D0%B3%D0%BE%D0%B4" title="1996 год">1996&#160;года</a> живет и работает на юге <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалии</a>. Продолжает путешествовать. Объездил значительную часть Европы, Азии и Африки, посетил более 70 стран<sup id="cite_ref-bio_6-0" class="reference"><a href="#cite_note-bio-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Творчество"><span id=".D0.A2.D0.B2.D0.BE.D1.80.D1.87.D0.B5.D1.81.D1.82.D0.B2.D0.BE"></span>Творчество</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Творчество»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=3" title="Редактировать код раздела «Творчество»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Сурен Арутюнян участвовал в большом количестве персональных и групповых выставок во многих городах мира<sup id="cite_ref-exhibition_7-0" class="reference"><a href="#cite_note-exhibition-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Персональные_выставки"><span id=".D0.9F.D0.B5.D1.80.D1.81.D0.BE.D0.BD.D0.B0.D0.BB.D1.8C.D0.BD.D1.8B.D0.B5_.D0.B2.D1.8B.D1.81.D1.82.D0.B0.D0.B2.D0.BA.D0.B8"></span>Персональные выставки</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Персональные выставки»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=4" title="Редактировать код раздела «Персональные выставки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<table class="simple" style="width:900px; text-align:left; vertical-align:top; margin-left:1em; margin-right: auto;">
+
+
+<tbody><tr>
+<th style="background:#ffffff; text-align:left; width:50px; border-bottom: solid 1px #dddddd;">Год
+</th>
+<th style="background:#ffffff; text-align:left; width:100px; border-bottom: solid 1px #dddddd;">Место
+</th>
+<th style="background:#ffffff; text-align:left; width:50px; border-bottom: solid 1px #dddddd;">Город
+</th>
+<th style="background:#ffffff; text-align:left; width:70px; border-bottom: solid 1px #dddddd;">Страна
+</th></tr>
+<tr>
+<td valign="top"><a href="/wiki/2017" class="mw-redirect" title="2017">2017</a>
+</td>
+<td valign="top">Галерея Классической Фотографии<br /> Выставка «Странник»<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>
+</td>
+<td valign="top"><a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0" title="Москва">Москва</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">Россия</a>
+</td></tr>
+
+<tr>
+<td valign="top"><a href="/wiki/2004" class="mw-redirect" title="2004">2004</a>
+</td>
+<td valign="top">Культурый центр Св. Лоренцо (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">Centro Cultural São Lourenco</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%90%D0%BB%D0%BC%D0%B0%D0%BD%D1%81%D0%B8%D0%BB" title="Алмансил">Алмансил</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/2003" class="mw-redirect" title="2003">2003</a>
+</td>
+<td valign="top">Форум искусств (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">Forma de Arte</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%AD%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BB" class="mw-redirect" title="Эсторил">Эсторил</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/2003" class="mw-redirect" title="2003">2003</a>
+</td>
+<td valign="top">Галерея Вале де Лобо (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">Galeria de Arte Vale do Lobo</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%90%D0%BB%D0%BC%D0%B0%D0%BD%D1%81%D0%B8%D0%BB" title="Алмансил">Алмансил</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/2003" class="mw-redirect" title="2003">2003</a>
+</td>
+<td valign="top">Галерея Рестарасао (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">Galeria de Restauracao</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9E%D0%BB%D1%8C%D1%8F%D0%BD" title="Ольян">Ольян</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/2002" class="mw-redirect" title="2002">2002</a>
+</td>
+<td valign="top">Форум искусств (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">Forma de Arte</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%AD%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%BB" class="mw-redirect" title="Эсторил">Эсторил</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/2000" class="mw-redirect" title="2000">2000</a>
+</td>
+<td valign="top">Монастырь Св. Духа (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">Convento Espírito Santo</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9B%D0%BE%D0%BB%D0%B5" title="Лоле">Лоле</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1999" class="mw-redirect" title="1999">1999</a>
+</td>
+<td valign="top"><a href="https://no.wikipedia.org/wiki/Haugar_Vestfold_Kunstmuseum" class="extiw" title="no:Haugar Vestfold Kunstmuseum">Музей искусств Хагар</a> (<a href="/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B6%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Норвежский язык">норв.</a> <span lang="no" style="font-style:italic;">Haugar Vestfold Kunstmuseum</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%92%D0%B5%D1%81%D1%82%D1%84%D0%BE%D0%BB%D0%B4" class="mw-redirect" title="Вестфолд">Вестфолд</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F" title="Норвегия">Норвегия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1998" class="mw-redirect" title="1998">1998</a>
+</td>
+<td valign="top">Культурный центр Св. Лоренцо (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">Centro Cultural São Lourenco</span>)<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>
+</td>
+<td valign="top"><a href="/wiki/%D0%90%D0%BB%D0%BC%D0%B0%D0%BD%D1%81%D0%B8%D0%BB" title="Алмансил">Алмансил</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1998" class="mw-redirect" title="1998">1998</a>
+</td>
+<td valign="top">Галерея Прайа до Мар (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">Galeria Praça do Mar</span>)
+</td>
+<td valign="top">Квартейра
+</td>
+<td valign="top"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1997" class="mw-redirect" title="1997">1997</a>
+</td>
+<td valign="top">Галерея Эфемейра (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">Galeria Efemera</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%A1%D0%B0%D0%BD%D1%82%D0%B0-%D0%9A%D0%B0%D1%82%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_(%D0%9B%D0%B8%D1%81%D1%81%D0%B0%D0%B1%D0%BE%D0%BD)" title="Санта-Катарина (Лиссабон)">Санта-Катарина</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1996" class="mw-redirect" title="1996">1996</a>
+</td>
+<td valign="top">Галерея Мойра (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">Galeria Arte Moira</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9B%D0%B8%D1%81%D0%B0%D0%B1%D0%BE%D0%BD" class="mw-redirect" title="Лисабон">Лисабон</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1996" class="mw-redirect" title="1996">1996</a>
+</td>
+<td valign="top">Галерея де Арте (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">Galeria de Arte</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%A4%D0%B0%D1%80%D0%BE" title="Фаро">Фаро</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1996" class="mw-redirect" title="1996">1996</a>
+</td>
+<td valign="top">Галерея Розенберга и Кауфмана (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Rosenberg + Kaufman Fine Art</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA" title="Нью-Йорк">Нью-Йорк</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1995" class="mw-redirect" title="1995">1995</a>
+</td>
+<td valign="top">Галерея Примат (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Primart Gallery</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9A%D0%B5%D0%B9%D0%BF%D1%82%D0%B0%D1%83%D0%BD" title="Кейптаун">Кейптаун</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%AE%D0%90%D0%A0" class="mw-redirect" title="ЮАР">ЮАР</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1995" class="mw-redirect" title="1995">1995</a>
+</td>
+<td valign="top">Галерея Сандро (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Sandro Gallery</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%A5%D0%B0%D1%80%D0%B0%D1%80%D0%B5" title="Хараре">Хараре</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%97%D0%B8%D0%BC%D0%B1%D0%B0%D0%B1%D0%B2%D0%B5" title="Зимбабве">Зимбабве</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1995" class="mw-redirect" title="1995">1995</a>
+</td>
+<td valign="top">Международная галерея искусств (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">Galeria International de Arte</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%90%D0%BB%D0%BC%D0%B0%D0%BD%D1%81%D0%B8%D0%BB" title="Алмансил">Алмансил</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1994" class="mw-redirect" title="1994">1994</a>
+</td>
+<td valign="top">Галерея Мойра (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">Galeria Arte Moira</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9B%D0%B8%D1%81%D0%B0%D0%B1%D0%BE%D0%BD" class="mw-redirect" title="Лисабон">Лисабон</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1994" class="mw-redirect" title="1994">1994</a>
+</td>
+<td valign="top">Национальная галерея исусств (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;"> National Art Gallery</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%91%D1%83%D0%BB%D0%B0%D0%B2%D0%B0%D0%B9%D0%BE" title="Булавайо">Булавайо</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%97%D0%B8%D0%BC%D0%B1%D0%B0%D0%B1%D0%B2%D0%B5" title="Зимбабве">Зимбабве</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1993" class="mw-redirect" title="1993">1993</a>
+</td>
+<td valign="top">Галерея Стивена Розенберга (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Stephen Rosenberg Gallery</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA" title="Нью-Йорк">Нью-Йорк</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1992" class="mw-redirect" title="1992">1992</a>
+</td>
+<td valign="top">Галерея Мойра (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">Forma de Arte</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9B%D0%B8%D1%81%D0%B0%D0%B1%D0%BE%D0%BD" class="mw-redirect" title="Лисабон">Лисабон</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1991" class="mw-redirect" title="1991">1991</a>
+</td>
+<td valign="top">Галерея Мойра (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">Galeria Arte Moira</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9B%D0%B8%D1%81%D0%B0%D0%B1%D0%BE%D0%BD" class="mw-redirect" title="Лисабон">Лисабон</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1991" class="mw-redirect" title="1991">1991</a>
+</td>
+<td valign="top">Галерея Стивена Розенберга (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Stephen Rosenberg Gallery</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA" title="Нью-Йорк">Нью-Йорк</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1990" class="mw-redirect" title="1990">1990</a>
+</td>
+<td valign="top">Галерея Субал (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Subal Fine Arts</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%A2%D0%BE%D0%BA%D0%B8%D0%BE" title="Токио">Токио</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F" title="Япония">Япония</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1980" class="mw-redirect" title="1980">1980</a>
+</td>
+<td valign="top">Галерея Бенгстон (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Gallery Bengtson</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%A1%D1%82%D0%BE%D0%BA%D0%B3%D0%BE%D0%BB%D1%8C%D0%BC" title="Стокгольм">Стокгольм</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F" title="Швеция">Швеция</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1979" class="mw-redirect" title="1979">1979</a>
+</td>
+<td valign="top">Галерея Союза ходожников (<a href="/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B6%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Норвежский язык">норв.</a> <span lang="no" style="font-style:italic;">Kunsterforbundet</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9E%D1%81%D0%BB%D0%BE" title="Осло">Осло</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F" title="Норвегия">Норвегия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1979" class="mw-redirect" title="1979">1979</a>
+</td>
+<td valign="top">Галерея Пан (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Gallery Pan</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9B%D0%B8%D0%BD%D1%87%D1%91%D0%BF%D0%B8%D0%BD%D0%B3" title="Линчёпинг">Линчёпинг</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F" title="Швеция">Швеция</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1979" class="mw-redirect" title="1979">1979</a>
+</td>
+<td valign="top">Галерея БиЗ (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Gallery BiZ</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%B0%D0%BD%D1%81%D0%B0%D0%BD%D0%B4" class="mw-redirect" title="Кристиансанд">Кристиансанд</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F" title="Норвегия">Норвегия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1978" class="mw-redirect" title="1978">1978</a>
+</td>
+<td valign="top">Галерея Бенгстон (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Gallery Bengtson</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%A1%D1%82%D0%BE%D0%BA%D0%B3%D0%BE%D0%BB%D1%8C%D0%BC" title="Стокгольм">Стокгольм</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F" title="Швеция">Швеция</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1978" class="mw-redirect" title="1978">1978</a>
+</td>
+<td valign="top">Галерея Бигги (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Gallery Biggy</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%A1%D1%82%D0%B0%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D1%80" title="Ставангер">Ставангер</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F" title="Норвегия">Норвегия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1978" class="mw-redirect" title="1978">1978</a>
+</td>
+<td valign="top">Муниципальная ассоциация художников (<a href="/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B6%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Норвежский язык">норв.</a> <span lang="no" style="font-style:italic;">Kunstforening</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%91%D0%B5%D1%80%D0%B3%D0%B5%D0%BD" title="Берген">Берген</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F" title="Норвегия">Норвегия</a>
+</td></tr></tbody></table>
+<div class="mw-heading mw-heading3"><h3 id="Групповые_выставки"><span id=".D0.93.D1.80.D1.83.D0.BF.D0.BF.D0.BE.D0.B2.D1.8B.D0.B5_.D0.B2.D1.8B.D1.81.D1.82.D0.B0.D0.B2.D0.BA.D0.B8"></span>Групповые выставки</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Групповые выставки»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=5" title="Редактировать код раздела «Групповые выставки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<table class="simple" style="width:900px; text-align:left; vertical-align:top; margin-left:1em; margin-right: auto;">
+
+<tbody><tr>
+<th style="background:#ffffff; text-align:left; width:50px; border-bottom: solid 1px #dddddd;">Год
+</th>
+<th style="background:#ffffff; text-align:left; width:120px; border-bottom: solid 1px #dddddd;">Место
+</th>
+<th style="background:#ffffff; text-align:left; width:70px; border-bottom: solid 1px #dddddd;">Город
+</th>
+<th style="background:#ffffff; text-align:left; width:70px; border-bottom: solid 1px #dddddd;">Страна
+</th></tr>
+<tr>
+<td valign="top"><a href="/wiki/2012" class="mw-redirect" title="2012">2012</a>
+</td>
+<td valign="top">Культурный центр<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>
+</td>
+<td valign="top"><a href="/wiki/%D0%9B%D0%B0%D0%B3%D1%83%D1%88" title="Лагуш">Лагуш</a> (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">Lagos</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/2008" class="mw-redirect" title="2008">2008</a>
+</td>
+<td valign="top">Дворцовая галерея (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">Palácio da Galeria</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%A2%D0%B0%D0%B2%D0%B8%D1%80%D0%B0" title="Тавира">Тавира</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1998" class="mw-redirect" title="1998">1998</a>
+</td>
+<td valign="top">Галерея Мойра (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">Galeria Arte Moira</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9B%D0%B8%D1%81%D0%B0%D0%B1%D0%BE%D0%BD" class="mw-redirect" title="Лисабон">Лисабон</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1997" class="mw-redirect" title="1997">1997</a>
+</td>
+<td valign="top"><a href="https://en.wikipedia.org/wiki/Hofstra_University_Museum" class="extiw" title="en:Hofstra University Museum">Музей университета Хофстра Хемпстед</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Hofstra U. Museum</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9B%D0%BE%D0%BD%D0%B3-%D0%90%D0%B9%D0%BB%D0%B5%D0%BD%D0%B4" title="Лонг-Айленд">Лонг-Айленд</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1996" class="mw-redirect" title="1996">1996</a>
+</td>
+<td valign="top">Ф. А.С (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">F.A.C</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83" title="Порту">Порту</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1996" class="mw-redirect" title="1996">1996</a>
+</td>
+<td valign="top">Галерея Патио (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">Galleria Patio</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%A2%D0%B0%D0%B2%D0%B8%D1%80%D0%B0" title="Тавира">Тавира</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1995" class="mw-redirect" title="1995">1995</a>
+</td>
+<td valign="top">Галерея Эверард Реар (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Everard Rear Gallery</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%99%D0%BE%D1%85%D0%B0%D0%BD%D0%BD%D0%B5%D1%81%D0%B1%D1%83%D1%80%D0%B3" title="Йоханнесбург">Йоханнесбург</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%AE%D0%90%D0%A0" class="mw-redirect" title="ЮАР">ЮАР</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1995" class="mw-redirect" title="1995">1995</a>
+</td>
+<td valign="top">«Искусство сейчас», Сантон (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Sandton</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%99%D0%BE%D1%85%D0%B0%D0%BD%D0%BD%D0%B5%D1%81%D0%B1%D1%83%D1%80%D0%B3" title="Йоханнесбург">Йоханнесбург</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%AE%D0%90%D0%A0" class="mw-redirect" title="ЮАР">ЮАР</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1995" class="mw-redirect" title="1995">1995</a>
+</td>
+<td valign="top">Галерея де Арворе (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">Galeria de Arvore</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83" title="Порту">Порту</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1994" class="mw-redirect" title="1994">1994</a>
+</td>
+<td valign="top">Галерея Эверард Реар (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Everard Rear Gallery</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%99%D0%BE%D1%85%D0%B0%D0%BD%D0%BD%D0%B5%D1%81%D0%B1%D1%83%D1%80%D0%B3" title="Йоханнесбург">Йоханнесбург</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%AE%D0%90%D0%A0" class="mw-redirect" title="ЮАР">ЮАР</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1993" class="mw-redirect" title="1993">1993</a>
+</td>
+<td valign="top">Галерея Далта (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Delta Gallery</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%A5%D0%B0%D1%80%D0%B0%D1%80%D0%B5" title="Хараре">Хараре</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%97%D0%B8%D0%BC%D0%B1%D0%B0%D0%B1%D0%B2%D0%B5" title="Зимбабве">Зимбабве</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1993" class="mw-redirect" title="1993">1993</a>
+</td>
+<td valign="top">«Десятое лето», Галерея Стивена Розенберга (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Stephen Rosenberg Gallery</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA" title="Нью-Йорк">Нью-Йорк</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1993" class="mw-redirect" title="1993">1993</a>
+</td>
+<td valign="top">Чикагская ярмарка искусств (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Chicago Art Fair</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%A7%D0%B8%D0%BA%D0%B0%D0%B3%D0%BE" title="Чикаго">Чикаго</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1991" class="mw-redirect" title="1991">1991</a>
+</td>
+<td valign="top">«Бумажный след», Галерея Стивена Розенберга (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Stephen Rosenberg Gallery</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA" title="Нью-Йорк">Нью-Йорк</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1990" class="mw-redirect" title="1990">1990</a>
+</td>
+<td valign="top">Галерея Венгера (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Wenger Gallery</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9B%D0%BE%D1%81-%D0%90%D0%BD%D0%B4%D0%B6%D0%B5%D0%BB%D0%B5%D1%81" title="Лос-Анджелес">Лос-Анджелес</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1989" class="mw-redirect" title="1989">1989</a>
+</td>
+<td valign="top">«Пометки», Галерея Стивена Розенберга (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Stephen Rosenberg Gallery</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA" title="Нью-Йорк">Нью-Йорк</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1988" class="mw-redirect" title="1988">1988</a>
+</td>
+<td valign="top">Галерея Ирина (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Gallery Irina</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%94%D0%B5%D1%82%D1%80%D0%BE%D0%B9%D1%82" title="Детройт">Детройт</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1987" class="mw-redirect" title="1987">1987</a>
+</td>
+<td valign="top">Международная галерея 52 (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Gallery International 52</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA" title="Нью-Йорк">Нью-Йорк</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1986" class="mw-redirect" title="1986">1986</a>
+</td>
+<td valign="top">Международная галерея 52 (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Gallery International 52</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA" title="Нью-Йорк">Нью-Йорк</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1979" class="mw-redirect" title="1979">1979</a>
+</td>
+<td valign="top">Галерея Билд ог Форм (<a href="/wiki/%D0%A8%D0%B2%D0%B5%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Шведский язык">швед.</a> <span lang="sv" style="font-style:italic;">Galleri Bild og Form</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%92%D0%B5%D1%81%D1%82%D0%B5%D1%80%D0%BE%D1%81" title="Вестерос">Вестерос</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F" title="Швеция">Швеция</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1978" class="mw-redirect" title="1978">1978</a>
+</td>
+<td valign="top">«Эротика», Галерея русского искусства (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Russian Art Gallery</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD" title="Лондон">Лондон</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F" title="Великобритания">Великобритания</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1978" class="mw-redirect" title="1978">1978</a>
+</td>
+<td valign="top">Свободное советское искусство (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Libera Art Sovietica</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%93%D0%B5%D0%BD%D1%83%D1%8F" title="Генуя">Генуя</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F" title="Италия">Италия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1978" class="mw-redirect" title="1978">1978</a>
+</td>
+<td valign="top">Осенний художественный салон (<a href="/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B6%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Норвежский язык">норв.</a> <span lang="no" style="font-style:italic;">Statens Hostutstilling</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9E%D1%81%D0%BB%D0%BE" title="Осло">Осло</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F" title="Норвегия">Норвегия</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1977" class="mw-redirect" title="1977">1977</a>
+</td>
+<td valign="top">Галерея Ратти (<a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Французский язык">фр.</a>&#160;<span lang="fr" style="font-style:italic;">Galerie Rattie</span>)
+</td>
+<td valign="top"><a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B8%D0%B6" title="Париж">Париж</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Франция">Франция</a>
+</td></tr>
+<tr>
+<td valign="top"><a href="/wiki/1976" class="mw-redirect" title="1976">1976</a>—<a href="/wiki/1975" class="mw-redirect" title="1975">1975</a>
+</td>
+<td valign="top">Участие в выставках художников-неконформистов,<br />
+<p>выставке в Доме культуры ВДНХ,<br />
+в «квартирных» выставках
+</p>
+</td>
+<td valign="top"><a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0" title="Москва">Москва</a>
+</td>
+<td valign="top"><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">Россия</a>
+</td></tr></tbody></table>
+<div class="mw-heading mw-heading3"><h3 id="Галерея_работ"><span id=".D0.93.D0.B0.D0.BB.D0.B5.D1.80.D0.B5.D1.8F_.D1.80.D0.B0.D0.B1.D0.BE.D1.82"></span>Галерея работ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Галерея работ»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=6" title="Редактировать код раздела «Галерея работ»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div style="position: relative; width: 600px; float: left;">
+<p><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Gooseneck_,_Utah._1989.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gooseneck_%2C_Utah._1989.jpg/600px-Gooseneck_%2C_Utah._1989.jpg" decoding="async" width="600" height="287" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gooseneck_%2C_Utah._1989.jpg/900px-Gooseneck_%2C_Utah._1989.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/Gooseneck_%2C_Utah._1989.jpg/1200px-Gooseneck_%2C_Utah._1989.jpg 2x" data-file-width="2254" data-file-height="1080" /></a></span>
+</p>
+<div style="color:white; position:absolute; text-align:center; left:8px; top:6px; ;">Тriptych. Gooseneck. Utah, 1989 год</div>
+</div>
+<div style="position: relative; width: 832px; float: left; height: 306px; margin-left: -30px;">
+<div class="tright" style="position:relative; left:-1px; width:800px;"><div class="thumbimage" style="width:800px; overflow:hidden;"><div style="margin:-130px -25px -193px -45px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Market_in_Marrakech_1987.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Market_in_Marrakech_1987.jpg/900px-Market_in_Marrakech_1987.jpg" decoding="async" width="900" height="609" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Market_in_Marrakech_1987.jpg/1350px-Market_in_Marrakech_1987.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/e/e9/Market_in_Marrakech_1987.jpg 2x" data-file-width="1572" data-file-height="1064" /></a></span></div></div></div>
+<div style="color:white; position:absolute; text-align:center; left:39px; top:10px; ;">Рынок в Маракеше,  1987 год</div>
+</div>
+<div style="position: relative; width: 418px; float: left;">
+<p><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A1%D1%82%D0%B0%D1%80%D0%B0%D1%8F_%D0%A8%D0%BA%D0%BE%D0%B4%D0%B0,_%D0%A4%D1%8C%D1%91%D1%80%D0%B4%D1%81._1977.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/%D0%A1%D1%82%D0%B0%D1%80%D0%B0%D1%8F_%D0%A8%D0%BA%D0%BE%D0%B4%D0%B0%2C_%D0%A4%D1%8C%D1%91%D1%80%D0%B4%D1%81._1977.jpg/418px-%D0%A1%D1%82%D0%B0%D1%80%D0%B0%D1%8F_%D0%A8%D0%BA%D0%BE%D0%B4%D0%B0%2C_%D0%A4%D1%8C%D1%91%D1%80%D0%B4%D1%81._1977.jpg" decoding="async" width="418" height="306" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dc/%D0%A1%D1%82%D0%B0%D1%80%D0%B0%D1%8F_%D0%A8%D0%BA%D0%BE%D0%B4%D0%B0%2C_%D0%A4%D1%8C%D1%91%D1%80%D0%B4%D1%81._1977.jpg/627px-%D0%A1%D1%82%D0%B0%D1%80%D0%B0%D1%8F_%D0%A8%D0%BA%D0%BE%D0%B4%D0%B0%2C_%D0%A4%D1%8C%D1%91%D1%80%D0%B4%D1%81._1977.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dc/%D0%A1%D1%82%D0%B0%D1%80%D0%B0%D1%8F_%D0%A8%D0%BA%D0%BE%D0%B4%D0%B0%2C_%D0%A4%D1%8C%D1%91%D1%80%D0%B4%D1%81._1977.jpg/836px-%D0%A1%D1%82%D0%B0%D1%80%D0%B0%D1%8F_%D0%A8%D0%BA%D0%BE%D0%B4%D0%B0%2C_%D0%A4%D1%8C%D1%91%D1%80%D0%B4%D1%81._1977.jpg 2x" data-file-width="2313" data-file-height="1696" /></a></span>
+</p>
+<div style="color:white; position:absolute; text-align:center; left:2.36px; top:8.72px; ;">Старая Шкода, 1977 год</div>
+</div>
+<div style="position: relative; width: 215px; float: left; margin-left: 20px;">
+<p><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A2%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD._%D0%91%D0%B5%D1%80%D0%B3%D0%B5%D0%BD._1977.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/%D0%A2%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD._%D0%91%D0%B5%D1%80%D0%B3%D0%B5%D0%BD._1977.jpg/215px-%D0%A2%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD._%D0%91%D0%B5%D1%80%D0%B3%D0%B5%D0%BD._1977.jpg" decoding="async" width="215" height="307" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/%D0%A2%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD._%D0%91%D0%B5%D1%80%D0%B3%D0%B5%D0%BD._1977.jpg/323px-%D0%A2%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD._%D0%91%D0%B5%D1%80%D0%B3%D0%B5%D0%BD._1977.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/%D0%A2%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD._%D0%91%D0%B5%D1%80%D0%B3%D0%B5%D0%BD._1977.jpg/430px-%D0%A2%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD._%D0%91%D0%B5%D1%80%D0%B3%D0%B5%D0%BD._1977.jpg 2x" data-file-width="1366" data-file-height="1948" /></a></span>
+</p>
+<div style="color:white; position:absolute; text-align:center; left:6.9px; top:9.2px; ;">Телефон. Берген, 1977 год</div>
+</div>
+<div style="clear:both;"></div>
+<div class="mw-heading mw-heading3"><h3 id="Публикации"><span id=".D0.9F.D1.83.D0.B1.D0.BB.D0.B8.D0.BA.D0.B0.D1.86.D0.B8.D0.B8"></span>Публикации</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Публикации»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=7" title="Редактировать код раздела «Публикации»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p><a href="/wiki/2011_%D0%B3%D0%BE%D0%B4" title="2011 год">2011&#160;год</a>&#160;— «Оптический обмен»&#160;— статья в журнале «Вокруг Света»<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p><a href="/wiki/1994_%D0%B3%D0%BE%D0%B4" title="1994 год">1994&#160;год</a>&#160;— монография «Шелковый путь» (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">«The silk road»</span>) издательство «Электа» (<a href="/wiki/%D0%9D%D0%B5%D0%B0%D0%BF%D0%BE%D0%BB%D1%8C" title="Неаполь">Неаполь</a>, <a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F" title="Италия">Италия</a>). По данным библиографической <a href="/wiki/WorldCat" title="WorldCat">базы данных WorldCat</a> книга входит в фонд следующих учреждений:<sup id="cite_ref-Tsk_13-0" class="reference"><a href="#cite_note-Tsk-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<ul><li><a href="/wiki/%D0%9C%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9" title="Метрополитен-музей">Метрополитен-музей</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Metropolitan Museum of Art. Thomas J. Watson Library</span>), г. <a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA" title="Нью-Йорк">Нью-Йорк</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a><sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li><a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0" title="Нью-Йоркская публичная библиотека">Нью-Йоркская публичная библиотека</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">New York Public Library System</span>), г. <a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA" title="Нью-Йорк">Нью-Йорк</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>Библиотека <a href="https://en.wikipedia.org/wiki/Queens_College,_City_University_of_New_York" class="extiw" title="en:Queens College, City University of New York">Колледжа Квинс</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Queens College. Benjamin Rosenthal Library</span>), г. <a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA" title="Нью-Йорк">Нью-Йорк</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a><sup id="cite_ref-Tsk_13-1" class="reference"><a href="#cite_note-Tsk-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>Цифровая библиотека <a href="https://en.wikipedia.org/wiki/HathiTrust" class="extiw" title="en:HathiTrust">HathiTrust</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">HathiTrust Digital Library Ann Arbor</span>), г. <a href="/wiki/%D0%9C%D0%B8%D1%87%D0%B8%D0%B3%D0%B0%D0%BD" title="Мичиган">Мичиган</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a><sup id="cite_ref-Tsk_13-2" class="reference"><a href="#cite_note-Tsk-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li><a href="/wiki/%D0%A7%D0%B8%D0%BA%D0%B0%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2" title="Чикагский институт искусств">Чикагский институт искусств</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Art Institute of Chicago. Ryerson &amp; Burnham Libraries</span>), г. <a href="/wiki/%D0%A7%D0%B8%D0%BA%D0%B0%D0%B3%D0%BE" title="Чикаго">Чикаго</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a><sup id="cite_ref-Tsk_13-3" class="reference"><a href="#cite_note-Tsk-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D0%BD%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%B2_%D0%A1%D0%B0%D0%BD%D1%82%D0%B0-%D0%9A%D1%80%D1%83%D0%B7%D0%B5" title="Калифорнийский университет в Санта-Крузе">Калифорнийский университет в Санта-Крузе</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">University of California</span>), г. <a href="/wiki/%D0%A1%D0%B0%D0%BD%D1%82%D0%B0-%D0%9A%D1%80%D1%83%D0%B7_(%D0%9A%D0%B0%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D0%BD%D0%B8%D1%8F)" title="Санта-Круз (Калифорния)">Санта-Круз</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>Библиотека <a href="/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%9C%D0%BE%D0%BD%D0%B0%D1%88%D0%B0" title="Университет Монаша">Университета Монаша</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Monash University Library</span>), г. <a href="https://en.wikipedia.org/wiki/Clayton,_Victoria" class="extiw" title="en:Clayton, Victoria">Клейтон</a>, <a href="/wiki/%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D1%8F" title="Австралия">Австралия</a><sup id="cite_ref-aus_17-0" class="reference"><a href="#cite_note-aus-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>Библиотека <a href="/wiki/%D0%A1%D0%B8%D0%B4%D0%BD%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Сиднейский университет">Сиднейского университета</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">University of Sydney Library</span>), г. <a href="/wiki/%D0%A1%D0%B8%D0%B4%D0%BD%D0%B5%D0%B9" title="Сидней">Сидней</a>, <a href="/wiki/%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D1%8F" title="Австралия">Австралия</a><sup id="cite_ref-aus_17-1" class="reference"><a href="#cite_note-aus-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup>.</li></ul>
+<p><a href="/wiki/1990_%D0%B3%D0%BE%D0%B4" title="1990 год">1990&#160;год</a>&#160;— Каталог «Остров Пасхи», г. <a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA" title="Нью-Йорк">Нью-Йорк</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>.
+</p><p><a href="/wiki/1989_%D0%B3%D0%BE%D0%B4" title="1989 год">1989&#160;год</a>&#160;— монография «Les Merveilles du Monde». По данным библиографической <a href="/wiki/WorldCat" title="WorldCat">базы данных WorldCat</a> работа входит в фонд следующих учреждений:<sup id="cite_ref-WC_S_LMdM_18-0" class="reference"><a href="#cite_note-WC_S_LMdM-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-WC_AS_LMdM_19-0" class="reference"><a href="#cite_note-WC_AS_LMdM-19"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<ul><li><a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0" class="mw-redirect" title="Нью-Йоркский музей современного искусства">Нью-Йоркский музей современного искусства</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Museum of Modern Art (MOMA)</span>), г. <a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA" title="Нью-Йорк">Нью-Йорк</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a><sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span class="cite-bracket">&#91;</span>20<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li><a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0" title="Нью-Йоркская публичная библиотека">Нью-Йоркская публичная библиотека</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">New York Public Library System</span>), г. <a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA" title="Нью-Йорк">Нью-Йорк</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a><sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span class="cite-bracket">&#91;</span>21<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>Библиотека <a href="/wiki/%D0%A1%D0%BC%D0%B8%D1%82%D1%81%D0%BE%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82" title="Смитсоновский институт">Смитсоновского института</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Smithsonian Institution Libraries</span>), г. <a href="/wiki/%D0%92%D0%B0%D1%88%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD" title="Вашингтон">Вашингтон</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a><sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span class="cite-bracket">&#91;</span>22<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li><a href="/wiki/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%9A%D0%BB%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0" title="Художественный музей Кливленда">Художественный музей Кливленда</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Cleveland Museum of Art</span>), г. <a href="/wiki/%D0%9A%D0%BB%D0%B8%D0%B2%D0%BB%D0%B5%D0%BD%D0%B4" title="Кливленд">Кливленд</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a><sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span class="cite-bracket">&#91;</span>23<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>Библиотека <a href="https://en.wikipedia.org/wiki/Kenyon_College" class="extiw" title="en:Kenyon College">колледжа Кеньон</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Kenyon College Library</span>), г. <a href="https://en.wikipedia.org/wiki/Gambier,_Ohio" class="extiw" title="en:Gambier, Ohio">Гамбьер</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a><sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span class="cite-bracket">&#91;</span>24<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>Библиотека <a href="/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D1%88%D1%82%D0%B0%D1%82%D0%B0_%D0%9C%D0%B8%D1%87%D0%B8%D0%B3%D0%B0%D0%BD" title="Университет штата Мичиган">Университета штата Мичиган</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">KenyonMichigan State University Libraries</span>), г. <a href="/wiki/%D0%9C%D0%B8%D1%87%D0%B8%D0%B3%D0%B0%D0%BD" title="Мичиган">Мичиган</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a><sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span class="cite-bracket">&#91;</span>25<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>Библиотека <a href="https://en.wikipedia.org/wiki/Walker_Art_Center" class="extiw" title="en:Walker Art Center">Волкер Арт-Центра</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Walker Art Center Library</span>), г. <a href="/wiki/%D0%9C%D0%B8%D0%BD%D0%BD%D0%B5%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81" title="Миннеаполис">Миннеаполис</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a><sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span class="cite-bracket">&#91;</span>26<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>Библиотека <a href="/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D1%88%D1%82%D0%B0%D1%82%D0%B0_%D0%90%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D0%B0" title="Университет штата Аризона">Университет штата Аризона</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Arizona State University Libraries</span>), г. <a href="/wiki/%D0%A2%D0%B5%D0%BC%D0%BF%D0%B5" title="Темпе">Темпе</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a><sup id="cite_ref-27" class="reference"><a href="#cite_note-27"><span class="cite-bracket">&#91;</span>27<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li><a href="/wiki/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9_%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0_%D0%A1%D0%B0%D0%BD-%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%81%D0%BA%D0%BE" title="Музей современного искусства Сан-Франциско">Музей современного искусства Сан-Франциско</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">San Francisco Museum of Modern Art. SFMOMA</span>), г. <a href="/wiki/%D0%A1%D0%B0%D0%BD-%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%81%D0%BA%D0%BE" title="Сан-Франциско">Сан-Франциско</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a><sup id="cite_ref-WC_S_LMdM_18-1" class="reference"><a href="#cite_note-WC_S_LMdM-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li><a href="/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%AE%D0%B6%D0%BD%D0%BE%D0%B9_%D0%9A%D0%B0%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D0%BD%D0%B8%D0%B8" title="Университет Южной Калифорнии">Университет Южной Калифорнии</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">San University of Southern California. USC Libraries</span>), г. <a href="/wiki/%D0%9B%D0%BE%D1%81-%D0%90%D0%BD%D0%B4%D0%B6%D0%B5%D0%BB%D0%B5%D1%81" title="Лос-Анджелес">Лос-Анджелес</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>.</li>
+<li><a href="https://de.wikipedia.org/wiki/S%C3%A4chsische_Landesbibliothek_%E2%80%93_Staats-_und_Universit%C3%A4tsbibliothek_Dresden" class="extiw" title="de:Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden">Саксонская государственная библиотека Дрездена</a> (<a href="/wiki/%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Немецкий язык">нем.</a>&#160;<span lang="de" style="font-style:italic;">Sächsische Landesbibliothek - Staats- und Universitätsbibliothek Dresden</span>), г. <a href="/wiki/%D0%94%D1%80%D0%B5%D0%B7%D0%B4%D0%B5%D0%BD" title="Дрезден">Дрезден</a>, <a href="/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F" title="Германия">Германия</a><sup id="cite_ref-28" class="reference"><a href="#cite_note-28"><span class="cite-bracket">&#91;</span>28<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li><a href="/wiki/%D0%A8%D0%B2%D0%B5%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Шведский язык">швед.</a> <span lang="sv" style="font-style:italic;">Libris Consortium</span>, г. <a href="/wiki/%D0%A1%D1%82%D0%BE%D0%BA%D0%B3%D0%BE%D0%BB%D1%8C%D0%BC" title="Стокгольм">Стокгольм</a>, <a href="/wiki/%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F" title="Швеция">Швеция</a><sup id="cite_ref-San_29-0" class="reference"><a href="#cite_note-San-29"><span class="cite-bracket">&#91;</span>29<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>Библиотека и архив <a href="/wiki/%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F_%D0%A2%D0%B5%D0%B9%D1%82" title="Британская галерея Тейт">Британской галерии Тейт</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">ТейтTate Library and Archive</span>), г. <a href="/wiki/%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD" title="Лондон">Лондон</a>, <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="Англия">Англия</a><sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span class="cite-bracket">&#91;</span>30<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li><a href="/wiki/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9_%D0%B8%D0%B7%D1%8F%D1%89%D0%BD%D1%8B%D1%85_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2_(%D0%91%D0%BE%D1%81%D1%82%D0%BE%D0%BD)" title="Музей изящных искусств (Бостон)">Музей изящных искусств</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Museum of Fine Arts</span>), г. <a href="/wiki/%D0%91%D0%BE%D1%81%D1%82%D0%BE%D0%BD" title="Бостон">Бостон</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a><sup id="cite_ref-WC_AS_LMdM_19-1" class="reference"><a href="#cite_note-WC_AS_LMdM-19"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>Библиотека <a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F_%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%8B" title="Национальная галерея Канады">Национальной галереи Канады</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">National Gallery of Canada Library</span>), г. <a href="/wiki/%D0%9E%D1%82%D1%82%D0%B0%D0%B2%D0%B0" title="Оттава">Оттава</a>, <a href="/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0" title="Канада">Канада</a><sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span class="cite-bracket">&#91;</span>31<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>Библиотека <a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BD%D0%B5%D0%BB%D0%BB%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Корнеллский университет">Корнеллского университета</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Cornell University Library</span>), г. <a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA" title="Нью-Йорк">Нью-Йорк</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a><sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span class="cite-bracket">&#91;</span>32<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li><a href="/wiki/%D0%9C%D0%B5%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D0%BD-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9" title="Метрополитен-музей">Метрополитен-музей</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Metropolitan Museum of Art. Thomas J. Watson Library</span>), г. <a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA" title="Нью-Йорк">Нью-Йорк</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a><sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span class="cite-bracket">&#91;</span>33<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li><a href="/wiki/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2_%D0%A4%D0%B8%D0%BB%D0%B1%D1%80%D1%83%D0%BA" title="Музей искусств Филбрук">Музей искусств Филбрук</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Philbrook Museum of Art</span>), г. <a href="/wiki/%D0%A2%D0%B0%D0%BB%D1%81%D0%B0" title="Талса">Талса</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a><sup id="cite_ref-34" class="reference"><a href="#cite_note-34"><span class="cite-bracket">&#91;</span>34<span class="cite-bracket">&#93;</span></a></sup>.</li></ul>
+<p><a href="/wiki/1989_%D0%B3%D0%BE%D0%B4" title="1989 год">1989&#160;год</a>&#160;— Каталог «Чудеса света», г. <a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA" title="Нью-Йорк">Нью-Йорк</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Работы_в_музеях_и_корпоративных_коллекциях"><span id=".D0.A0.D0.B0.D0.B1.D0.BE.D1.82.D1.8B_.D0.B2_.D0.BC.D1.83.D0.B7.D0.B5.D1.8F.D1.85_.D0.B8_.D0.BA.D0.BE.D1.80.D0.BF.D0.BE.D1.80.D0.B0.D1.82.D0.B8.D0.B2.D0.BD.D1.8B.D1.85_.D0.BA.D0.BE.D0.BB.D0.BB.D0.B5.D0.BA.D1.86.D0.B8.D1.8F.D1.85"></span>Работы в музеях и корпоративных коллекциях</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Работы в музеях и корпоративных коллекциях»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=8" title="Редактировать код раздела «Работы в музеях и корпоративных коллекциях»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Работы художника разместили следующии музеи и коллекции:<sup id="cite_ref-exhibition_7-1" class="reference"><a href="#cite_note-exhibition-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup><br />
+— Коллекция Нортона Доджа (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Norton Dodge Collection</span>), <a href="https://en.wikipedia.org/wiki/Zimmerli_Art_Museum_at_Rutgers_University" class="extiw" title="en:Zimmerli Art Museum at Rutgers University">Музей искусств Zimmerli</a>, г. <a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%91%D1%80%D0%B0%D0%BD%D1%81%D1%83%D0%B8%D0%BA_(%D0%9D%D1%8C%D1%8E-%D0%94%D0%B6%D0%B5%D1%80%D1%81%D0%B8)" title="Нью-Брансуик (Нью-Джерси)">Нью-Брансуик</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>.<br />
+— Коллекция Беррадо-Доджа (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Berrado Dodge Collection</span>), Музей современного искусства, г. <a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%91%D1%80%D0%B0%D0%BD%D1%81%D1%83%D0%B8%D0%BA_(%D0%9D%D1%8C%D1%8E-%D0%94%D0%B6%D0%B5%D1%80%D1%81%D0%B8)" title="Нью-Брансуик (Нью-Джерси)">Нью-Брансуик</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>.<br />
+— Корпорация Бенеттон (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Benetton Corp.</span>), г. <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83" title="Порту">Порту</a>, <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a>.<br />
+— Корпорация «Кристалтек» (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Kristaltech Corp.</span>), г. <a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA" title="Нью-Йорк">Нью-Йорк</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>.<br />
+— Корпорация «ДМ Ньюз» (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">DM News</span>), г. <a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA" title="Нью-Йорк">Нью-Йорк</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>.<br />
+— Городской совет города <a href="/wiki/%D0%9B%D0%BE%D0%BB%D0%B5" title="Лоле">Лоле</a> в <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалии</a> (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">Câmara Municipal de Loulé</span>).<br />
+— Отель Дон Карлос (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">Hotel Dom Carlos</span>), г. <a href="/wiki/%D0%9B%D0%B8%D1%81%D0%B0%D0%B1%D0%BE%D0%BD" class="mw-redirect" title="Лисабон">Лисабон</a>, <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a>.
+</p>
+<div class="mw-heading mw-heading3"><h3 id="Произведения"><span id=".D0.9F.D1.80.D0.BE.D0.B8.D0.B7.D0.B2.D0.B5.D0.B4.D0.B5.D0.BD.D0.B8.D1.8F"></span>Произведения</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Произведения»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=9" title="Редактировать код раздела «Произведения»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Сурен создает как отдельные полотна, так и целые серии, включающие живопись и фотографии.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35"><span class="cite-bracket">&#91;</span>35<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span class="cite-bracket">&#91;</span>36<span class="cite-bracket">&#93;</span></a></sup>
+<sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span class="cite-bracket">&#91;</span>37<span class="cite-bracket">&#93;</span></a></sup>
+</p><p>Некоторые работы, принадлежащие авторству Сурена:
+</p>
+<table class="simple" style="width:950px; text-align:left; vertical-align:top; margin-left:1em; margin-right: auto;">
+
+<tbody><tr>
+<th style="background:#ffffff; text-align:left; width:700px; border-bottom: solid 1px #dddddd;">Название работы
+</th>
+<th style="background:#ffffff; text-align:left; width:50px; border-bottom: solid 1px #dddddd;">Год
+</th>
+<th style="background:#ffffff; text-align:left; width:300px; border-bottom: solid 1px #dddddd;">Характеристики
+</th></tr>
+<tr>
+<td valign="Top">Без Названия. Из Серии "Путешествие (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Untitled, From The Travel Series</span>)
+</td>
+<td valign="Top"><a href="/wiki/1990" class="mw-redirect" title="1990">1990</a>
+</td>
+<td valign="Top">Холст; масло; 153х210&#160;см.
+</td></tr>
+<tr>
+<td valign="Top">Без Названия (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Untitled</span>)
+</td>
+<td valign="Top"><a href="/wiki/1990" class="mw-redirect" title="1990">1990</a>
+</td>
+<td valign="Top">Холст; масло; 152,5х203&#160;см.
+</td></tr>
+<tr>
+<td valign="Top">Триптих. Гуснек. Юта (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Тriptych. Gooseneck. Utah</span>)
+</td>
+<td valign="Top"><a href="/wiki/1989" class="mw-redirect" title="1989">1989</a>
+</td>
+<td valign="Top">162x335&#160;см.
+</td></tr>
+<tr>
+<td valign="Top">Рынок в Маракеше (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Market in Marrakech</span>)
+</td>
+<td valign="Top"><a href="/wiki/1987" class="mw-redirect" title="1987">1987</a>
+</td>
+<td valign="Top">66x54&#160;см.
+</td></tr>
+<tr>
+<td valign="Top">Памятник (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Monument</span>)
+</td>
+<td valign="Top"><a href="/wiki/1980" class="mw-redirect" title="1980">1980</a>
+</td>
+<td valign="Top">Холст; масло; 96х71&#160;см.
+</td></tr>
+<tr>
+<td valign="Top">Лестница (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Lestnitza</span>)
+</td>
+<td valign="Top"><a href="/wiki/1980" class="mw-redirect" title="1980">1980</a>
+</td>
+<td valign="Top">Холст; масло; 101х76,2&#160;см.
+</td></tr>
+<tr>
+<td valign="Top">Яблоко на снегу (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Apples In The Snow</span>)
+</td>
+<td valign="Top"><a href="/wiki/1980" class="mw-redirect" title="1980">1980</a>
+</td>
+<td valign="Top">Холст; масло; 70х92&#160;см.
+</td></tr>
+<tr>
+<td valign="Top">Чайка (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Chayka</span>)
+</td>
+<td valign="Top"><a href="/wiki/1980" class="mw-redirect" title="1980">1980</a>
+</td>
+<td valign="Top">Холст; масло; 71х96&#160;см.
+</td></tr>
+<tr>
+<td valign="Top">Приставная лестница (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">The Ladder</span>)
+</td>
+<td valign="Top"><a href="/wiki/1980" class="mw-redirect" title="1980">1980</a>
+</td>
+<td valign="Top">Холст; масло; 101х76,5&#160;см.
+</td></tr>
+<tr>
+<td valign="Top">Прыжок в длину (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Long Jump</span>)
+</td>
+<td valign="Top"><a href="/wiki/1979" class="mw-redirect" title="1979">1979</a>
+</td>
+<td valign="Top">Холст; масло; 120х90&#160;см.
+</td></tr>
+<tr>
+<td valign="Top">Машина (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Mashina</span>)
+</td>
+<td valign="Top"><a href="/wiki/1979" class="mw-redirect" title="1979">1979</a>
+</td>
+<td valign="Top">Холст; масло; 76х105&#160;см.
+</td></tr>
+<tr>
+<td valign="Top">Красная рыба (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Red Fish</span>)
+</td>
+<td valign="Top"><a href="/wiki/1979" class="mw-redirect" title="1979">1979</a>
+</td>
+<td valign="Top">Холст; масло; 76х101,7&#160;см.
+</td></tr>
+<tr>
+<td valign="Top">Античный подарок (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">The Antique Gift</span>)
+</td>
+<td valign="Top"><a href="/wiki/1979" class="mw-redirect" title="1979">1979</a>
+</td>
+<td valign="Top">Холст; масло; 75х75&#160;см.
+</td></tr>
+<tr>
+<td valign="Top">День и ночь (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">The Day And The Night</span>)
+</td>
+<td valign="Top"><a href="/wiki/1979" class="mw-redirect" title="1979">1979</a>
+</td>
+<td valign="Top">Холст; масло; 80х61&#160;см.
+</td></tr>
+<tr>
+<td valign="Top">Кошки в ее ванной (<a href="/wiki/%D0%A8%D0%B2%D0%B5%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Шведский язык">швед.</a> <span lang="sv" style="font-style:italic;">Katterna I Hennes Bad</span>)
+</td>
+<td valign="Top"><a href="/wiki/1979" class="mw-redirect" title="1979">1979</a>
+</td>
+<td valign="Top">Холст; масло; 82х62&#160;см.
+</td></tr>
+<tr>
+<td valign="Top">Условное наказание (<a href="/wiki/%D0%A8%D0%B2%D0%B5%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Шведский язык">швед.</a> <span lang="sv" style="font-style:italic;">De Straffbara</span>)
+</td>
+<td valign="Top"><a href="/wiki/1979" class="mw-redirect" title="1979">1979</a>
+</td>
+<td valign="Top">Холст; масло; 82х62&#160;см.
+</td></tr>
+<tr>
+<td valign="Top">Леопард который пугает птиц (<a href="/wiki/%D0%A8%D0%B2%D0%B5%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Шведский язык">швед.</a> <span lang="sv" style="font-style:italic;">En Leopard Som Skrämt En Fågel</span>)
+</td>
+<td valign="Top"><a href="/wiki/1979" class="mw-redirect" title="1979">1979</a>
+</td>
+<td valign="Top">Холст; масло; 82х62&#160;см.
+</td></tr>
+<tr>
+<td valign="Top">Пять копеек (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Five Kopeks</span>)
+</td>
+<td valign="Top"><a href="/wiki/1979" class="mw-redirect" title="1979">1979</a>
+</td>
+<td valign="Top">Холст; масло; 94×66&#160;см.
+</td></tr>
+<tr>
+<td valign="Top">Наркотики (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">The Drugs</span>)
+</td>
+<td valign="Top"><a href="/wiki/1978" class="mw-redirect" title="1978">1978</a>
+</td>
+<td valign="Top">Холст; масло; 81х60&#160;см.
+</td></tr>
+<tr>
+<td valign="Top">Старая Шкода, Фьёрдс (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">The old Skoda, Fjords</span>)
+</td>
+<td valign="Top"><a href="/wiki/1977" class="mw-redirect" title="1977">1977</a>
+</td>
+<td valign="Top">
+</td></tr>
+<tr>
+<td valign="Top">Телефон. Берген (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Phone booth. Bergen</span>)
+</td>
+<td valign="Top"><a href="/wiki/1977" class="mw-redirect" title="1977">1977</a>
+</td>
+<td valign="Top">
+</td></tr>
+</tbody></table>
+<div class="mw-heading mw-heading2"><h2 id="Избранные_публикации_о_художнике"><span id=".D0.98.D0.B7.D0.B1.D1.80.D0.B0.D0.BD.D0.BD.D1.8B.D0.B5_.D0.BF.D1.83.D0.B1.D0.BB.D0.B8.D0.BA.D0.B0.D1.86.D0.B8.D0.B8_.D0.BE_.D1.85.D1.83.D0.B4.D0.BE.D0.B6.D0.BD.D0.B8.D0.BA.D0.B5"></span>Избранные публикации о художнике</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Избранные публикации о художнике»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=10" title="Редактировать код раздела «Избранные публикации о художнике»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Ряд избранных публикаций:<sup id="cite_ref-exhibition_7-2" class="reference"><a href="#cite_note-exhibition-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup><br />
+<a href="/wiki/1994_%D0%B3%D0%BE%D0%B4" title="1994 год">1994&#160;год</a>&#160;— Мозе Эдуардо Агвалуса (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">Mose Eduardo Agualusa</span>), статья в ежедневной газете <a href="https://pt.wikipedia.org/wiki/P%C3%BAblico_(Portugal)" class="extiw" title="pt:Público (Portugal)">«Publico»</a> (<a href="/wiki/%D0%9B%D0%B8%D1%81%D0%B0%D0%B1%D0%BE%D0%BD" class="mw-redirect" title="Лисабон">Лисабон</a>, <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a>).<br />
+<a href="/wiki/1994_%D0%B3%D0%BE%D0%B4" title="1994 год">1994&#160;год</a>&#160;— Лурдес Фериа (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">Lourdes Feria</span>), статья в журнале <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">«Casa Claudia»</span> (<a href="/wiki/%D0%9B%D0%B8%D1%81%D0%B0%D0%B1%D0%BE%D0%BD" class="mw-redirect" title="Лисабон">Лисабон</a>, <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a>).<br />
+<a href="/wiki/1992_%D0%B3%D0%BE%D0%B4" title="1992 год">1992&#160;год</a>&#160;— Надежда Шмакова, газетная статья «Искусство пластики» (<a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Португальский язык">порт.</a> <span lang="pt" style="font-style:italic;">«Arte de Plastico»</span>) (<a href="/wiki/%D0%9B%D0%B8%D1%81%D0%B0%D0%B1%D0%BE%D0%BD" class="mw-redirect" title="Лисабон">Лисабон</a>, <a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D1%8F" title="Португалия">Португалия</a>).<br />
+<a href="/wiki/1991_%D0%B3%D0%BE%D0%B4" title="1991 год">1991&#160;год</a>&#160;— «Человек и природа» (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Man and Nature</span>), издательство Аква Планет (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Aqua Planet</span>) (<a href="/wiki/%D0%A2%D0%BE%D0%BA%D0%B8%D0%BE" title="Токио">Токио</a>, <a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F" title="Япония">Япония</a>).<br />
+<a href="/wiki/1990_%D0%B3%D0%BE%D0%B4" title="1990 год">1990&#160;год</a>&#160;— Нэнси Гримс (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Nancy Grimes</span>), эссе дле каталога «Остров Пасхи» (<a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA" title="Нью-Йорк">Нью-Йорк</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>).<br />
+<a href="/wiki/1989_%D0%B3%D0%BE%D0%B4" title="1989 год">1989&#160;год</a>&#160;— <a href="https://en.wikipedia.org/wiki/Komar_and_Melamid" class="extiw" title="en:Komar and Melamid">Komar and Melamid</a>, эссе к каталогу «Чудеса света» (<a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA" title="Нью-Йорк">Нью-Йорк</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>).
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Интересные_факты"><span id=".D0.98.D0.BD.D1.82.D0.B5.D1.80.D0.B5.D1.81.D0.BD.D1.8B.D0.B5_.D1.84.D0.B0.D0.BA.D1.82.D1.8B"></span>Интересные факты</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Интересные факты»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=11" title="Редактировать код раздела «Интересные факты»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>— Сурен&#160;— автор обложки книги «<a href="https://en.wikipedia.org/wiki/In_Iron_Years" class="extiw" title="en:In Iron Years">In Iron Years</a>», которую написал известный американский писатель-фантаст <a href="/wiki/%D0%94%D0%B8%D0%BA%D1%81%D0%BE%D0%BD,_%D0%93%D0%BE%D1%80%D0%B4%D0%BE%D0%BD" title="Диксон, Гордон">Гордон Руперт Диксон</a> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Gordon Rupert Dickson</span>). Издательство <a href="/wiki/Doubleday" title="Doubleday">Doubleday</a><sup id="cite_ref-In_Iron_Years_4-1" class="reference"><a href="#cite_note-In_Iron_Years-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>.<br />
+— Сурен также является автором обложки книги «The Gods of Cerus Major». Автор книги&#160;— Гари Алан Русе (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Gary Alan Ruse</span>). Издательство <a href="/wiki/Doubleday" title="Doubleday">Doubleday</a><sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span class="cite-bracket">&#91;</span>38<span class="cite-bracket">&#93;</span></a></sup>.<br />
+— две картины Сурена были проданы через аукцион <a href="/wiki/%D0%A1%D0%BE%D1%82%D0%B1%D0%B8%D1%81" title="Сотбис">Сотбис</a>. Первая в <a href="/wiki/2001_%D0%B3%D0%BE%D0%B4" title="2001 год">2001 году</a>, вторая в <a href="/wiki/2006_%D0%B3%D0%BE%D0%B4" title="2006 год">2006 году</a><sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span class="cite-bracket">&#91;</span>39<span class="cite-bracket">&#93;</span></a></sup>.<br />
+— в 2007 году картина «Прыжок в длину» (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">Long Jump</span>) была продана на аукционе Shapiro Auctions за $31 070<sup id="cite_ref-40" class="reference"><a href="#cite_note-40"><span class="cite-bracket">&#91;</span>40<span class="cite-bracket">&#93;</span></a></sup>.<br />
+— на монографию «Шелковый путь» ссылается Индийская Википедия в статье о <a href="https://meta.wikimedia.org/wiki/w:hi:%E0%A4%B9%E0%A5%81%E0%A4%A8%E0%A5%8D%E0%A4%9C%E0%A4%BC%E0%A4%BE_%E0%A4%A8%E0%A4%A6%E0%A5%80" class="extiw" title="m:w:hi:हुन्ज़ा नदी">Реке Хунзе</a>.<br />
+— По данным крупнейшей в мире библиографической <a href="/wiki/WorldCat" title="WorldCat">базы данных WorldCat</a>, 10 отдельных работ автора в 18 разных публикациях на английском языке располагаются, по меньшей мере, в 45 библиотечных фондах по всему миру<sup id="cite_ref-41" class="reference"><a href="#cite_note-41"><span class="cite-bracket">&#91;</span>41<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Ссылки"><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span>Ссылки</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=12" title="Редактировать раздел «Ссылки»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=12" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a rel="nofollow" class="external text" href="http://sorenarutyunyan.ru">Официальный сайт</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.facebook.com/soren.arutyunyan">Страница</a> в Facebook</li>
+<li><a rel="nofollow" class="external text" href="https://www.instagram.com/arutyunyan.soren">Страница</a> в Instagram</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=13" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=13" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://painters.artunion.ru/2-01-3.htm">Реестр профессиональных художников</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Профессиональный союз художников России.&#32;Дата обращения: 27 ноября 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161127215728/http://painters.artunion.ru/2-01-3.htm">Архивировано</a> 27 ноября 2016 года.</span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.dgh.name/ru/dgh5141i.html">"Р.Саркисян. Заметки к генеалогии рода Агаянов.</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>&#32;М. Открытый Мир&#32;(2006).&#32;Дата обращения: 27 ноября 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161201142850/http://www.dgh.name/ru/dgh5141i.html">Архивировано</a> 1 декабря 2016 года.</span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.dgh.name/ru/dgh5141i.html">Рубен Саркисян «Заметки к генеалогии рода Агаянов»</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Открытый мир. М.&#32;(2006).&#32;Дата обращения: 27 ноября 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161201142850/http://www.dgh.name/ru/dgh5141i.html">Архивировано</a> 1 декабря 2016 года.</span></span>
+</li>
+<li id="cite_note-In_Iron_Years-4"><span class="mw-cite-backlink">↑ <a href="#cite_ref-In_Iron_Years_4-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-In_Iron_Years_4-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.isfdb.org/cgi-bin/pl.cgi?17971">Gordon R. Dickson «In Iron Years»</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Doubleday. NY, U.S.A.&#32;(1980).&#32;Дата обращения: 27 ноября 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161201075904/http://www.isfdb.org/cgi-bin/pl.cgi?17971">Архивировано</a> 1 декабря 2016 года.</span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.vokrugsveta.ru/authors/777">Авторы: Сурен Арутюнян</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Журнал «Вокруг света».&#32;Дата обращения: 27 ноября 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20140313081831/http://www.vokrugsveta.ru/authors/777/">Архивировано</a> 13 марта 2014 года.</span></span>
+</li>
+<li id="cite_note-bio-6"><span class="mw-cite-backlink"><a href="#cite_ref-bio_6-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20161201081953/http://www.algarvean-properties.com/sorensbiorussian.pdf">Сурен Арутюнян: творческая автобиография</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Algarvean-properties.&#32;Архивировано из <a rel="nofollow" class="external text" href="http://www.algarvean-properties.com/sorensbiorussian.pdf">оригинала</a> 1 декабря 2016 года.</span></span>
+</li>
+<li id="cite_note-exhibition-7"><span class="mw-cite-backlink">↑ <a href="#cite_ref-exhibition_7-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-exhibition_7-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-exhibition_7-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180804201958/http://www.algarvean-properties.com/soren_arutyunyan_fine_artist.html">Soren Arutyunyan Fine Artist</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Algarvean-properties.&#32;Дата обращения: 27 ноября 2016.&#32;Архивировано из <a rel="nofollow" class="external text" href="http://www.algarvean-properties.com/soren_arutyunyan_fine_artist.html">оригинала</a> 4 августа 2018 года.</span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://new.liveauctioneers.com/item/4274046_soren-arutyunyan-b1950-russian-painting-olympics">124: Soren Arutyunyan B1950 Russian Painting Olympics</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Liveauctioneers&#32;(октябрь 2007).&#32;Дата обращения: 27 ноября 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161229171950/https://new.liveauctioneers.com/item/4274046_soren-arutyunyan-b1950-russian-painting-olympics">Архивировано</a> 29 декабря 2016 года.</span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://sorenarutyunyan.ru/exhibitions/personal/classicgallery.html">Галерея Классической Фотографии</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;classicgallery.ru&#32;(февраль 2017).&#32;Дата обращения: 29 мая 2017.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20210511175031/http://sorenarutyunyan.ru/exhibitions/personal/classicgallery.html">Архивировано</a> 11 мая 2021 года.</span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.apagina.pt/?aba=7&amp;cat=75&amp;doc=7541&amp;mid=2">Artes, Galeria e Palco</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Apagina&#32;(декабрь 1998).&#32;Дата обращения: 27 ноября 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161201081008/http://www.apagina.pt/?aba=7&amp;cat=75&amp;doc=7541&amp;mid=2">Архивировано</a> 1 декабря 2016 года.</span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://www.cm-lagos.pt/portal_autarquico/lagos/v_pt-PT/pagina_inicial/noticias/expos_aquecem_verao_lagos.htm">Mostras de arte aquecem o verão de Lagos</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Municipal de Lagos&#32;(июль 2012).&#32;Дата обращения: 27 ноября 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161230000618/http://www.cm-lagos.pt/portal_autarquico/lagos/v_pt-PT/pagina_inicial/noticias/expos_aquecem_verao_lagos.htm">Архивировано</a> 30 декабря 2016 года.</span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.vokrugsveta.ru/vs/article/7375">Оптический обмен</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Журнал «Вокруг света»&#32;(март 2011).&#32;Дата обращения: 27 ноября 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161023150040/http://www.vokrugsveta.ru/vs/article/7375/">Архивировано</a> 23 октября 2016 года.</span></span>
+</li>
+<li id="cite_note-Tsk-13"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Tsk_13-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-Tsk_13-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-Tsk_13-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-Tsk_13-3"><sup><i><b>4</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.worldcat.org/title/silk-road-paintings-and-photography-by-soren/oclc/222090597">The silk road: paintings and photography by Soren (Find a copy in the library)</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;WorldCat.&#32;Дата обращения: 27 ноября 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161201143402/http://www.worldcat.org/title/silk-road-paintings-and-photography-by-soren/oclc/222090597">Архивировано</a> 1 декабря 2016 года.</span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://library.metmuseum.org/search/?searchtype=o&amp;searcharg=32449924">Call No.N7260 .A78 1994</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Metropolitan Museum of Art. Thomas J. Watson Library. New York.</span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://catalog.nypl.org/search/o32449924">Call No.3-MAMY 95-5059</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;New York Public Library System. NYPL. New York.</span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://cruzcat.ucsc.edu/search/o32449924">Call No. N6999.A78 A4 1994</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>&#160;<small class="ref-info">(недоступная ссылка&#160;— <a rel="nofollow" class="external text" href="//web.archive.org/web/*/http://cruzcat.ucsc.edu/search/o32449924"><i>история</i></a>)</small>.&#32;University of California, Santa Cruz.</span></span>
+</li>
+<li id="cite_note-aus-17"><span class="mw-cite-backlink">↑ <a href="#cite_ref-aus_17-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-aus_17-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.worldcat.org/title/silk-road-paintings-and-photography-by-soren/oclc/222090597">The silk road: paintings and photography by Soren (Find a copy in the library: «Australia»)</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;WorldCat.&#32;Дата обращения: 27 ноября 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161201143402/http://www.worldcat.org/title/silk-road-paintings-and-photography-by-soren/oclc/222090597">Архивировано</a> 1 декабря 2016 года.</span></span>
+</li>
+<li id="cite_note-WC_S_LMdM-18"><span class="mw-cite-backlink">↑ <a href="#cite_ref-WC_S_LMdM_18-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-WC_S_LMdM_18-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.worldcat.org/title/soren-les-merveilles-du-monde/oclc/24851493">Soren: les merveilles du monde (Find a copy in the libayry)</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;WorldCat.&#32;Дата обращения: 27 ноября 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161128060247/http://www.worldcat.org/title/soren-les-merveilles-du-monde/oclc/24851493">Архивировано</a> 28 ноября 2016 года.</span></span>
+</li>
+<li id="cite_note-WC_AS_LMdM-19"><span class="mw-cite-backlink">↑ <a href="#cite_ref-WC_AS_LMdM_19-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-WC_AS_LMdM_19-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.worldcat.org/title/soren-arutyunyan-les-merveilles-du-monde/oclc/26627415">Soren Arutyunyan: "les merveilles du monde." (Find a copy in the libayry)</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;WorldCat.&#32;Дата обращения: 27 ноября 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161127220529/http://www.worldcat.org/title/soren-arutyunyan-les-merveilles-du-monde/oclc/26627415">Архивировано</a> 27 ноября 2016 года.</span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://arcade.nyarc.org/search/?searchscope=8&amp;searchtype=o&amp;searcharg=24851493">Call No. AEC ARUT 1990 961983</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Museum of Modern Art (MOMA). New York.</span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://catalog.nypl.org/search/o24851493">Call No.JAX C-6099</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;New York Public Library System. NYPL. New York.</span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://siris-libraries.si.edu/ipac20/ipac.jsp?menu=search&amp;aspect=power&amp;profile=liball&amp;index=UTILEXP&amp;term=24851493">Call No. ND237 .S634 A4 1990</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Smithsonian Libraries. Washington.&#32;Дата обращения: 27 ноября 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161201080458/http://siris-libraries.si.edu/ipac20/ipac.jsp?menu=search&amp;aspect=power&amp;profile=liball&amp;index=UTILEXP&amp;term=24851493">Архивировано</a> 1 декабря 2016 года.</span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://library.clevelandart.org/opac/?func=find-b&amp;find_code=OCL&amp;submit=Search&amp;request=698596540">Call No. N6999.A78 A4 1989</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Cleveland Museum of Art. Cleveland.&#32;Дата обращения: 27 ноября 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161201143635/http://library.clevelandart.org/opac/?func=find-b&amp;find_code=OCL&amp;submit=Search&amp;request=698596540">Архивировано</a> 1 декабря 2016 года.</span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://consort.library.denison.edu/search/?searchscope=2&amp;searchtype=o&amp;searcharg=24851493">Call No.ND699.A78 A4 1990</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Kenyon College Library. Gambier.</span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://catalog.lib.msu.edu/search~/o24851493">Call No. ND699.A78 A4 1990</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>&#160;<small class="ref-info">(недоступная ссылка&#160;— <a rel="nofollow" class="external text" href="//web.archive.org/web/*/http://catalog.lib.msu.edu/search~/o24851493"><i>история</i></a>)</small>.&#32;Michigan State University Libraries.</span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://library.walkerart.org/cgi-bin/koha/opac-detail.pl?biblionumber=13387">Arutyunyan, Soren. Catalogs</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Walker Art Center Library.</span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://library.lib.asu.edu/search/o24851493">Call No. ND699.A78 A4x 1990</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>&#160;<small class="ref-info">(недоступная ссылка&#160;— <a rel="nofollow" class="external text" href="//web.archive.org/web/*/http://library.lib.asu.edu/search/o24851493"><i>история</i></a>)</small>.&#32;Arizona State University Libraries. Tempe.</span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://katalogbeta.slub-dresden.de/id/0011539058">Signatur: 74.4.4448</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Sächsische Landesbibliothek – Staats- und Universitätsbibliothek Dresden.&#32;Дата обращения: 27 ноября 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161202034505/http://katalogbeta.slub-dresden.de/id/0011539058/">Архивировано</a> 2 декабря 2016 года.</span></span>
+</li>
+<li id="cite_note-San-29"><span class="mw-cite-backlink"><a href="#cite_ref-San_29-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.worldcat.org/title/soren-arutyunyan-les-merveilles-du-monde/oclc/26627415&amp;referer=brief_results">Soren: les merveilles du monde (Find a copy in the libayry: «San». Page 2)</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;WorldCat.&#32;Дата обращения: 2 июня 2022.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161201082834/http://www.worldcat.org/title/soren-arutyunyan-les-merveilles-du-monde/oclc/26627415%26referer%3Dbrief_results">Архивировано</a> 1 декабря 2016 года.</span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.worldcat.org/title/soren-arutyunyan-les-merveilles-du-monde/oclc/26627415&amp;referer=brief_results">Soren: les merveilles du monde (Find a copy in the libayry: «London». Page 3)</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;WorldCat.&#32;Дата обращения: 2 июня 2022.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161201082834/http://www.worldcat.org/title/soren-arutyunyan-les-merveilles-du-monde/oclc/26627415%26referer%3Dbrief_results">Архивировано</a> 1 декабря 2016 года.</span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.worldcat.org/title/soren-arutyunyan-les-merveilles-du-monde/oclc/26627415">Soren Arutyunyan: "les merveilles du monde." Find a copy in the libayry. Page 2</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;WorldCat.&#32;Дата обращения: 27 ноября 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161127220529/http://www.worldcat.org/title/soren-arutyunyan-les-merveilles-du-monde/oclc/26627415">Архивировано</a> 27 ноября 2016 года.</span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><a href="#cite_ref-32">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://newcatalog.library.cornell.edu/catalog?search_field=publisher+number%2Fother+identifier&amp;q=26627415">Library Annex N6999.A78 A4 1989</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Cornell University Library.</span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><a href="#cite_ref-33">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://library.metmuseum.org/search/?searchtype=o&amp;searcharg=26627415">Call No ND699.A78 A4 1989</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Metropolitan Museum of Art. Thomas J. Watson.</span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><a href="#cite_ref-34">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.worldcat.org/title/soren-arutyunyan-les-merveilles-du-monde/oclc/26627415&amp;referer=brief_results">Soren: les merveilles du monde (Find a copy in the libayry: «san»)</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;WorldCat.&#32;Дата обращения: 2 июня 2022.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161201082834/http://www.worldcat.org/title/soren-arutyunyan-les-merveilles-du-monde/oclc/26627415%26referer%3Dbrief_results">Архивировано</a> 1 декабря 2016 года.</span></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><a href="#cite_ref-35">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://artinvestment.ru/auctions/9265">Арутюнян Сурен Асатурович</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Проект Artinvestment.&#32;Дата обращения: 27 ноября 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161220043013/https://artinvestment.ru/auctions/9265">Архивировано</a> 20 декабря 2016 года.</span></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><a href="#cite_ref-36">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://artinvestment.ru/en/auctions/10705">Arutyunyan Suren Asaturovich</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Проект Artinvestment.&#32;Дата обращения: 27 ноября 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161220044715/https://artinvestment.ru/en/auctions/10705">Архивировано</a> 20 декабря 2016 года.</span></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><a href="#cite_ref-37">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://artsalesindex.artinfo.com/Soren-Arutyunyan-205464-results.action">Soren Arutyunyan</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Artsalesindex.&#32;Дата обращения: 27 ноября 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161229170936/http://artsalesindex.artinfo.com/Soren-Arutyunyan-205464-results.action">Архивировано</a> 29 декабря 2016 года.</span></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><a href="#cite_ref-38">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://www.abebooks.com/servlet/BookDetailsPL?bi=152590376&amp;searchurl=kn%3DSoren%2BArutyunyan%26sts%3Dt%26sortby%3D17">Ruse, Gary A. «The Gods of Cerus Major»</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Doubleday. NY, U.S.A.&#32;(1986).</span></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><a href="#cite_ref-39">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20161203004849/http://www.sothebys.com/ru/search-results.html?keyword=Soren+Arutyunyan">Арутюнян Сурен</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Аукцион Sothebys.&#32;Дата обращения: 27 ноября 2016.&#32;Архивировано из <a rel="nofollow" class="external text" href="http://www.sothebys.com/ru/search-results.html?keyword=Soren+Arutyunyan">оригинала</a> 3 декабря 2016 года.</span></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><a href="#cite_ref-40">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.shapiroauctions.com/soren-arutyunyan-russian-b1950.html">Suren Arutyunyan</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Shapiro Auctions.&#32;Дата обращения: 27 ноября 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20161229172411/http://www.shapiroauctions.com/soren-arutyunyan-russian-b1950.html">Архивировано</a> 29 декабря 2016 года.</span></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><a href="#cite_ref-41">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.worldcat.org/identities/lccn-nr99-6852">Arutyunyan, Soren. Overview</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;WorldCat.</span></span>
+</li>
+</ol></div></div></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=0" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Арутюнян,_Сурен_Асатурович&amp;oldid=143012398">https://ru.wikipedia.org/w/index.php?title=Арутюнян,_Сурен_Асатурович&amp;oldid=143012398</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_24_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="Категория:Родившиеся 24 августа">Родившиеся 24 августа</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_1950_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Родившиеся в 1950 году">Родившиеся в 1950 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Персоналии по алфавиту">Персоналии по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5" title="Категория:Родившиеся в Москве">Родившиеся в Москве</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Художники по алфавиту">Художники по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Художники СССР">Художники СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Художники России">Художники России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_XX_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Художники XX века">Художники XX века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_XXI_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Художники XXI века">Художники XXI века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8-%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Художники-символисты России">Художники-символисты России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8-%D1%81%D0%BE%D1%86%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D1%8B_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Художники-соцреалисты СССР">Художники-соцреалисты СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8-%D1%81%D1%8E%D1%80%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D1%8B" title="Категория:Художники-сюрреалисты">Художники-сюрреалисты</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Фотографы России">Фотографы России</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B5_JsonConfig" title="Категория:Страницы, использующие расширение JsonConfig">Страницы, использующие расширение JsonConfig</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B0%D1%80%D1%85%D0%B8%D0%B2%D0%BD%D0%BE%D0%B9_%D0%BA%D0%BE%D0%BF%D0%B8%D0%B8)" title="Категория:Википедия:Cite web (недоступные ссылки без архивной копии)">Википедия:Cite web (недоступные ссылки без архивной копии)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8_%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Категория:Википедия:Биографии современников">Википедия:Биографии современников</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8:_%D0%B7%D0%B0%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D1%8C_%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_P373_%D0%B2_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Википедия:Статьи с изображениями: заполнить свойство P373 в Викиданных">Википедия:Статьи с изображениями: заполнить свойство P373 в Викиданных</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD%2C+%D0%A1%D1%83%D1%80%D0%B5%D0%BD+%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD%2C+%D0%A1%D1%83%D1%80%D0%B5%D0%BD+%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-namespaces-label"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;oldid=143012398" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD%2C_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;id=143012398&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2590%25D1%2580%25D1%2583%25D1%2582%25D1%258E%25D0%25BD%25D1%258F%25D0%25BD%2C_%25D0%25A1%25D1%2583%25D1%2580%25D0%25B5%25D0%25BD_%25D0%2590%25D1%2581%25D0%25B0%25D1%2582%25D1%2583%25D1%2580%25D0%25BE%25D0%25B2%25D0%25B8%25D1%2587"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2590%25D1%2580%25D1%2583%25D1%2582%25D1%258E%25D0%25BD%25D1%258F%25D0%25BD%2C_%25D0%25A1%25D1%2583%25D1%2580%25D0%25B5%25D0%25BD_%25D0%2590%25D1%2581%25D0%25B0%25D1%2582%25D1%2583%25D1%2580%25D0%25BE%25D0%25B2%25D0%25B8%25D1%2587"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD%2C_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q28495784" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q28495784#sitelinks-wikipedia" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 27 января 2025 в 19:41.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.log.warn("This page is using the deprecated ResourceLoader module \"codex-search-styles\".\n[1.43] Use a CodexModule with codexComponents to set your specific components used: https://www.mediawiki.org/wiki/Codex#Using_a_limited_subset_of_components");mw.config.set({"wgHostname":"mw-web.eqiad.main-7fd96bd568-9rzqh","wgBackendResponseTime":315,"wgPageParseReport":{"limitreport":{"cputime":"0.504","walltime":"0.934","ppvisitednodes":{"value":9249,"limit":1000000},"postexpandincludesize":{"value":122869,"limit":2097152},"templateargumentsize":{"value":16832,"limit":2097152},"expansiondepth":{"value":19,"limit":100},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":42071,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  541.005      1 -total"," 47.99%  259.617      1 Шаблон:Художник"," 43.39%  234.764      1 Шаблон:Карточка"," 26.62%  144.002      1 Шаблон:Примечания"," 21.52%  116.412     41 Шаблон:Cite_web"," 11.43%   61.848      7 Шаблон:Wikidata"," 10.68%   57.769      1 Шаблон:ФИО","  7.88%   42.641      1 Шаблон:Карточка/оригинал_имени","  3.96%   21.405      1 Шаблон:Карточка/имя","  3.64%   19.691      1 Шаблон:Сначала_имя"]},"scribunto":{"limitreport-timeusage":{"value":"0.206","limit":"10.000"},"limitreport-memusage":{"value":8255332,"limit":52428800},"limitreport-logs":"Loaded datatype string of P742 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P136 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-web.eqiad.next-c5d9d5ccb-ft8q9","timestamp":"20250311063025","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0410\u0440\u0443\u0442\u044e\u043d\u044f\u043d, \u0421\u0443\u0440\u0435\u043d \u0410\u0441\u0430\u0442\u0443\u0440\u043e\u0432\u0438\u0447","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%90%D1%80%D1%83%D1%82%D1%8E%D0%BD%D1%8F%D0%BD,_%D0%A1%D1%83%D1%80%D0%B5%D0%BD_%D0%90%D1%81%D0%B0%D1%82%D1%83%D1%80%D0%BE%D0%B2%D0%B8%D1%87","sameAs":"http:\/\/www.wikidata.org\/entity\/Q28495784","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q28495784","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2016-11-11T05:14:01Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/64\/Soren_Arutyunyan%2C_NY_1994.jpg"}</script>
+</body>
+</html>

@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Амашукели, Элгуджа Давидович — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"f4536b13-fa80-403e-84d8-1434078e5460","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Амашукели,_Элгуджа_Давидович","wgTitle":"Амашукели, Элгуджа Давидович","wgCurRevisionId":140312204,"wgRevisionId":140312204,"wgArticleId":1420377,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Cite web (не указан язык)","Страницы, использующие волшебные ссылки ISBN","Википедия:Статьи с источниками из Викиданных","Родившиеся 22 июня","Родившиеся в 1928 году","Персоналии по алфавиту","Родившиеся в Тбилиси","Умершие 16 марта","Умершие в 2002 году","Умершие в Тбилиси","Скульпторы по алфавиту","Деятели изобразительного искусства по алфавиту","Скульпторы СССР","Скульпторы Грузии","Скульпторы XX века","Выпускники Тбилисской академии художеств","Кавалеры ордена Чести (Грузия)","Кавалеры ордена Трудового Красного Знамени","Кавалеры ордена Дружбы народов","Кавалеры ордена «Знак Почёта»","Народные художники СССР","Лауреаты Государственной премии СССР","Лауреаты Государственной премии Грузинской ССР имени Шота Руставели","Художники по алфавиту","Художники XX века","Художники СССР","Художники Грузии","Заслуженные художники Грузинской ССР","Народные художники Грузинской ССР","Художники-соцреалисты СССР","Художники-соцреалисты Грузии","Художники-иллюстраторы СССР","Художники-иллюстраторы Грузии","Члены Союза художников СССР","Члены-корреспонденты Академии наук Грузии","Скульпторы-монументалисты СССР","Скульпторы-монументалисты Грузии","Авторы памятников и мемориалов","Почётные граждане Тбилиси","Похороненные в Дидубийском пантеоне","Лауреаты Государственной премии Грузии"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Амашукели,_Элгуджа_Давидович","wgRelevantArticleId":1420377,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":140312204,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":9000,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q595180","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};
+RLSTATE={"ext.gadget.common-site":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","codex-search-styles":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","oojs-ui.styles.icons-media","oojs-ui-core.icons"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.44.0-wmf.20">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/7/7b/Elguja_Amashukeli_2023_stamp_of_Georgia.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="888">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/7/7b/Elguja_Amashukeli_2023_stamp_of_Georgia.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="592">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Elguja_Amashukeli_2023_stamp_of_Georgia.jpg/640px-Elguja_Amashukeli_2023_stamp_of_Georgia.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="474">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Амашукели, Элгуджа Давидович — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="//ru.m.wikipedia.org/wiki/%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8,_%D0%AD%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8,_%D0%AD%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8,_%D0%AD%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="login.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Амашукели_Элгуджа_Давидович rootpage-Амашукели_Элгуджа_Давидович skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Амашукели, Элгуджа Давидович</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div role="note" class="hatnote navigation-not-searchable dabhide">В Википедии есть статьи о других людях с фамилией <a href="/wiki/%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8" class="mw-disambig" title="Амашукели">Амашукели</a>.</div>
+<table class="infobox infobox-8a00d139987a9071" style="" data-name="Художник"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Элгуджа Давидович Амашукели</th></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-claim-id="Q595180$4dab467d-421d-5d06-2f29-60451d0289d2" class="wikidata-claim" data-wikidata-property-id="P18"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File/Frameless"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Elguja_Amashukeli_2023_stamp_of_Georgia.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Elguja_Amashukeli_2023_stamp_of_Georgia.jpg/274px-Elguja_Amashukeli_2023_stamp_of_Georgia.jpg" decoding="async" width="274" height="203" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Elguja_Amashukeli_2023_stamp_of_Georgia.jpg/411px-Elguja_Amashukeli_2023_stamp_of_Georgia.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Elguja_Amashukeli_2023_stamp_of_Georgia.jpg/548px-Elguja_Amashukeli_2023_stamp_of_Georgia.jpg 2x" data-file-width="792" data-file-height="586" /></a></span></span></span> </td></tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Имя при рождении</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q595180$48758D37-C654-46B3-9E0F-259FA698DFDC" class="wikidata-claim" data-wikidata-property-id="P1477"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Грузинский язык">груз.</a> <span lang="ka">ელგუჯა ამაშუკელი</span></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Дата&#160;рождения</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q595180$de721a25-4cc6-c6cd-5229-4c6479d81da7" class="wikidata-claim" data-wikidata-property-id="P569"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/22_%D0%B8%D1%8E%D0%BD%D1%8F" title="22 июня">22 июня</a> <a href="/wiki/1928_%D0%B3%D0%BE%D0%B4" title="1928 год">1928</a></span><span style="display:none">(<span class="bday">1928-06-22</span>)</span></span><sup id="cite_ref-_402e7b54f27bb9c8_1-0" class="reference"><a href="#cite_note-_402e7b54f27bb9c8-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Место рождения</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P19" class="no-wikidata"><a href="/wiki/%D0%A2%D0%B1%D0%B8%D0%BB%D0%B8%D1%81%D0%B8" title="Тбилиси">Тифлис</a>, <a href="/wiki/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%A1%D0%A1%D0%A0" class="mw-redirect" title="Грузинская ССР">Грузинская ССР</a>, <a href="/wiki/%D0%97%D0%A1%D0%A4%D0%A1%D0%A0" class="mw-redirect" title="ЗСФСР">ЗСФСР</a>, <a href="/wiki/%D0%A1%D0%A1%D0%A1%D0%A0" class="mw-redirect" title="СССР">СССР</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Дата смерти</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q595180$A9246204-445E-4A69-8DBC-44E9E18AFE00" class="wikidata-claim" data-wikidata-property-id="P570"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/16_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="16 марта">16 марта</a> <a href="/wiki/2002_%D0%B3%D0%BE%D0%B4" title="2002 год">2002</a></span><span style="display:none">(<span class="dday">2002-03-16</span>)</span></span><sup id="cite_ref-_571def3471ba4a6c_2-0" class="reference"><a href="#cite_note-_571def3471ba4a6c-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-_9f5454b4c318cff9_3-0" class="reference"><a href="#cite_note-_9f5454b4c318cff9-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> <span style="white-space:nowrap;">(73 года)</span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Место смерти</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q595180$297305B4-3EA2-487C-869C-CDFB6BF20D6A" class="wikidata-claim" data-wikidata-property-id="P20"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A2%D0%B1%D0%B8%D0%BB%D0%B8%D1%81%D0%B8" title="Тбилиси">Тбилиси</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F" title="Грузия">Грузия</a></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Гражданство</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P27" class="no-wikidata"><span class="nowrap" data-sort-value="СССР"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/22px-Flag_of_the_Soviet_Union.svg.png" decoding="async" width="22" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/33px-Flag_of_the_Soviet_Union.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/44px-Flag_of_the_Soviet_Union.svg.png 2x" data-file-width="1200" data-file-height="600" /></span></span></span>&#160;<a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA" title="Союз Советских Социалистических Республик"><span class="wrap">СССР</span></a></span><br /><span class="nowrap" data-sort-value="Грузия"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_Georgia_%281918%E2%80%931921%2C_1-2%29.svg/22px-Flag_of_Georgia_%281918%E2%80%931921%2C_1-2%29.svg.png" decoding="async" width="22" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_Georgia_%281918%E2%80%931921%2C_1-2%29.svg/33px-Flag_of_Georgia_%281918%E2%80%931921%2C_1-2%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_Georgia_%281918%E2%80%931921%2C_1-2%29.svg/44px-Flag_of_Georgia_%281918%E2%80%931921%2C_1-2%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></span></span></span>&#160;<a href="/wiki/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F" title="Грузия"><span class="wrap">Грузия</span></a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Род&#160;деятельности</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q595180$A7D42082-BA7E-44FC-AE4B-CBBFB62A2F48" class="wikidata-claim" data-wikidata-property-id="P106"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D0%BE%D1%80" class="mw-redirect" title="Скульптор">скульптор</a></span></span>,&#32;<span data-wikidata-claim-id="Q595180$DE48BAB4-5051-45D7-ADF9-70630C71B398" class="wikidata-claim" data-wikidata-property-id="P106"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA" title="Художник">художник</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Жанр</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P136" class="no-wikidata"><a href="/wiki/%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D0%BE%D1%80" class="mw-redirect" title="Скульптор">скульптор</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Стиль</th>
+<td class="P135 plainlist">
+<a href="/wiki/%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC" title="Социалистический реализм">социалистический реализм</a></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Учёба</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q595180$6bd1281b-3fe2-4a0b-aeaf-fc120d12ba44" class="wikidata-claim" data-wikidata-property-id="P69"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A2%D0%B1%D0%B8%D0%BB%D0%B8%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2" title="Тбилисская государственная академия художеств">Тбилисская академия художеств</a></span><sup id="cite_ref-_7dee67fd87a2914f_4-0" class="reference"><a href="#cite_note-_7dee67fd87a2914f-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Награды</th>
+<td class="plainlist">
+<div data-wikidata-property-id="P166" class="no-wikidata">
+<style data-mw-deduplicate="TemplateStyles:r117420385">.mw-parser-output .ts-Ряд{width:auto;border-collapse:collapse}.mw-parser-output .ts-Ряд td{padding-right:2px;padding-left:2px;text-align:center}.mw-parser-output .ts-Ряд td:first-child{padding-left:0;text-align:left}.mw-parser-output .ts-Ряд td:last-child{padding-right:0;text-align:right}.mw-parser-output .ts-Ряд.pull-left{}.mw-parser-output .ts-Ряд.pull-center{margin:0 auto!important}.mw-parser-output .ts-Ряд.pull-right{clear:right;margin:0 0 0 auto!important}.mw-parser-output .ts-Ряд.pull-justify{width:100%}body.skin-minerva .mw-parser-output .ts-Ряд{display:table}body.skin-minerva .mw-parser-output .ts-Ряд td{padding:2px}body.skin-minerva .mw-parser-output .ts-Ряд:not(.pull-justify){width:auto!important}</style><table role="presentation" class="infobox-inherit ts-Ряд pull-left"><tbody><tr><td><span typeof="mw:File"><a href="/wiki/%D0%9E%D1%80%D0%B4%D0%B5%D0%BD_%D0%A7%D0%B5%D1%81%D1%82%D0%B8_(%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F)" title="Кавалер ордена Чести (Грузия)"><img alt="Кавалер ордена Чести (Грузия)" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Order_of_Honor_%28Georgia%29_ribbon.svg/60px-Order_of_Honor_%28Georgia%29_ribbon.svg.png" decoding="async" width="60" height="17" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Order_of_Honor_%28Georgia%29_ribbon.svg/90px-Order_of_Honor_%28Georgia%29_ribbon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Order_of_Honor_%28Georgia%29_ribbon.svg/120px-Order_of_Honor_%28Georgia%29_ribbon.svg.png 2x" data-file-width="218" data-file-height="60" /></a></span></td>
+</tr></tbody></table>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r117420385" /><table role="presentation" class="infobox-inherit ts-Ряд pull-left"><tbody><tr><td><span typeof="mw:File"><a href="/wiki/%D0%9E%D1%80%D0%B4%D0%B5%D0%BD_%D0%A2%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%BE_%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8" title="Орден Трудового Красного Знамени"><img alt="Орден Трудового Красного Знамени" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SU_Order_of_the_Red_Banner_of_Labour_ribbon.svg/40px-SU_Order_of_the_Red_Banner_of_Labour_ribbon.svg.png" decoding="async" width="40" height="17" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SU_Order_of_the_Red_Banner_of_Labour_ribbon.svg/60px-SU_Order_of_the_Red_Banner_of_Labour_ribbon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/SU_Order_of_the_Red_Banner_of_Labour_ribbon.svg/80px-SU_Order_of_the_Red_Banner_of_Labour_ribbon.svg.png 2x" data-file-width="144" data-file-height="60" /></a></span></td><td><span typeof="mw:File"><a href="/wiki/%D0%9E%D1%80%D0%B4%D0%B5%D0%BD_%D0%94%D1%80%D1%83%D0%B6%D0%B1%D1%8B_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BE%D0%B2" title="Орден Дружбы народов"><img alt="Орден Дружбы народов" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/SU_Order_of_Friendship_of_Peoples_ribbon.svg/40px-SU_Order_of_Friendship_of_Peoples_ribbon.svg.png" decoding="async" width="40" height="17" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/SU_Order_of_Friendship_of_Peoples_ribbon.svg/60px-SU_Order_of_Friendship_of_Peoples_ribbon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9e/SU_Order_of_Friendship_of_Peoples_ribbon.svg/120px-SU_Order_of_Friendship_of_Peoples_ribbon.svg.png 2x" data-file-width="144" data-file-height="60" /></a></span></td><td><span typeof="mw:File"><a href="/wiki/%D0%9E%D1%80%D0%B4%D0%B5%D0%BD_%C2%AB%D0%97%D0%BD%D0%B0%D0%BA_%D0%9F%D0%BE%D1%87%D1%91%D1%82%D0%B0%C2%BB" title="Орден «Знак Почёта»"><img alt="Орден «Знак Почёта»" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/SU_Order_of_the_Badge_of_Honour_ribbon.svg/40px-SU_Order_of_the_Badge_of_Honour_ribbon.svg.png" decoding="async" width="40" height="17" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/SU_Order_of_the_Badge_of_Honour_ribbon.svg/60px-SU_Order_of_the_Badge_of_Honour_ribbon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/SU_Order_of_the_Badge_of_Honour_ribbon.svg/80px-SU_Order_of_the_Badge_of_Honour_ribbon.svg.png 2x" data-file-width="144" data-file-height="60" /></a></span></td>
+</tr></tbody></table></div></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Звания</th>
+<td class="plainlist">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r117420385" /><table role="presentation" class="infobox-inherit ts-Ряд pull-left"><tbody><tr><td><span typeof="mw:File"><a href="/wiki/%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA_%D0%A1%D0%A1%D0%A1%D0%A0" title="Народный художник СССР — 1988"><img alt="Народный художник СССР — 1988" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/People_Artist_of_the_USSR1.png/20px-People_Artist_of_the_USSR1.png" decoding="async" width="20" height="41" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/People_Artist_of_the_USSR1.png/30px-People_Artist_of_the_USSR1.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/People_Artist_of_the_USSR1.png/40px-People_Artist_of_the_USSR1.png 2x" data-file-width="148" data-file-height="305" /></a></span></td>
+</tr></tbody></table></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Премии</th>
+<td class="plainlist">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r117420385" /><table role="presentation" class="infobox-inherit ts-Ряд pull-left"><tbody><tr><td><span typeof="mw:File"><a href="/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%D0%A1%D0%A1%D0%A1%D0%A0" title="Государственная премия СССР — 1982"><img alt="Государственная премия СССР — 1982" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Medal_State_Prize_Soviet_Union.png/20px-Medal_State_Prize_Soviet_Union.png" decoding="async" width="20" height="39" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Medal_State_Prize_Soviet_Union.png/30px-Medal_State_Prize_Soviet_Union.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Medal_State_Prize_Soviet_Union.png/40px-Medal_State_Prize_Soviet_Union.png 2x" data-file-width="82" data-file-height="161" /></a></span></td>
+</tr></tbody></table></td>
+</tr><tr><td colspan="2" class="infobox-below" style=";"><span data-wikidata-claim-id="q595180$F283BD72-26DB-42FA-826A-6173290E2483" class="wikidata-claim" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:Elguja_Amashukeli" title="commons:Category:Elguja Amashukeli"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" decoding="async" width="15" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 1.5x" data-file-width="1024" data-file-height="1376" /></a></span>&#160;<a href="https://commons.wikimedia.org/wiki/Category:Elguja_Amashukeli" class="extiw" title="commons:Category:Elguja Amashukeli">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table>
+<p><b>Элгу́джа Дави́дович Амашуке́ли</b> (<a href="/wiki/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Грузинский язык">груз.</a> <span lang="ka">ელგუჯა დავითის ძე ამაშუკელი</span>; <a href="/wiki/1928" class="mw-redirect" title="1928">1928</a>—<a href="/wiki/2002" class="mw-redirect" title="2002">2002</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>)&#160;— <a href="/wiki/%D0%A1%D0%A1%D0%A1%D0%A0" class="mw-redirect" title="СССР">советский</a>, <a href="/wiki/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F" title="Грузия">грузинский</a> <a href="/wiki/%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D0%BE%D1%80" class="mw-redirect" title="Скульптор">скульптор</a>, <a href="/wiki/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA" title="Художник">художник</a>. <a href="/wiki/%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA_%D0%A1%D0%A1%D0%A1%D0%A0" title="Народный художник СССР">Народный художник СССР</a> (<a href="/wiki/1988" class="mw-redirect" title="1988">1988</a>). Лауреат <a href="/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%D0%A1%D0%A1%D0%A1%D0%A0" title="Государственная премия СССР">Государственной премии СССР</a> (<a href="/wiki/1982" class="mw-redirect" title="1982">1982</a>).
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Биография"><span id=".D0.91.D0.B8.D0.BE.D0.B3.D1.80.D0.B0.D1.84.D0.B8.D1.8F"></span>Биография</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8,_%D0%AD%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Биография»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8,_%D0%AD%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=1" title="Редактировать код раздела «Биография»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Элгуджа Амашукели родился <a href="/wiki/22_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="22 апреля">22 апреля</a> <a href="/wiki/1928_%D0%B3%D0%BE%D0%B4" title="1928 год">1928 года</a> в Тифлисе (ныне <a href="/wiki/%D0%A2%D0%B1%D0%B8%D0%BB%D0%B8%D1%81%D0%B8" title="Тбилиси">Тбилиси</a>, <a href="/wiki/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F" title="Грузия">Грузия</a>).
+</p><p>Учился в 1947—1954 годах в <a href="/wiki/%D0%A2%D0%B1%D0%B8%D0%BB%D0%B8%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2" class="mw-redirect" title="Тбилисская академия художеств">Тбилисской академии художеств</a> у <a href="/wiki/%D0%9A%D0%B0%D0%BD%D0%B4%D0%B5%D0%BB%D0%B0%D0%BA%D0%B8,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%9F%D0%BE%D1%80%D1%84%D0%B8%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Канделаки, Николай Порфирьевич">Н. П. Канделаки</a>. После окончания академии продолжил обучение в аспирантуре (1958—1959), где работал над проектом памятника <a href="/wiki/%D0%93%D0%BE%D1%80%D0%B3%D0%B0%D1%81%D0%B0%D0%BB%D0%B8" class="mw-redirect" title="Горгасали">Вахтангу Горгасали</a>.
+</p><p>Автор скульптуры «<a href="/wiki/%D0%9C%D0%B0%D1%82%D1%8C_%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8" class="mw-redirect" title="Мать Грузии">Мать Грузии</a>», барельефов на станции метро «<a href="/wiki/%D0%A0%D1%83%D1%81%D1%82%D0%B0%D0%B2%D0%B5%D0%BB%D0%B8_(%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F_%D0%BC%D0%B5%D1%82%D1%80%D0%BE)" title="Руставели (станция метро)">Площадь Руставели</a>» (1966), <a href="/wiki/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%92%D0%B0%D1%85%D1%82%D0%B0%D0%BD%D0%B3%D1%83_%D0%93%D0%BE%D1%80%D0%B3%D0%B0%D1%81%D0%B0%D0%BB%D0%B8" title="Памятник Вахтангу Горгасали">памятника Вахтангу Горгасали</a> (1967) в <a href="/wiki/%D0%A2%D0%B1%D0%B8%D0%BB%D0%B8%D1%81%D0%B8" title="Тбилиси">Тбилиси</a>, монумента Победы в <a href="/wiki/%D0%93%D0%BE%D1%80%D0%B8" title="Гори">Гори</a> (1979), мемориала Славы героям-морякам в <a href="/wiki/%D0%9F%D0%BE%D1%82%D0%B8" title="Поти">Поти</a> (1979)<sup id="cite_ref-bse-ama_6-0" class="reference"><a href="#cite_note-bse-ama-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Иллюстрировал и оформил книги для издательств «Сабчота Сакартвело», «Накадули»: «Песня о Нибелунгах» (1960), «Сочинения» Важа-Пшавела (1962—1964, 5 т.). Автор серии картин «Фантазия леса» (1962—1964), ряда <a href="/wiki/%D0%9C%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C%D0%BE%D0%BD" title="Медальон">медальонов</a>.
+</p><p>С <a href="/wiki/1996_%D0%B3%D0%BE%D0%B4" title="1996 год">1996 года</a> — член-корреспондент отделения языка и литературы <a href="/wiki/%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F_%D0%BD%D0%B0%D1%83%D0%BA_%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8" class="mw-redirect" title="Академия наук Грузии">Академии наук Грузии</a>.
+</p><p>Председатель правления Союза художников Грузии (1981–1996). Секретарь <a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%A1%D0%A1%D0%A1%D0%A0" title="Союз художников СССР">Союза художников СССР</a> (1984—1989).
+</p><p>Член-корреспондент АХ СССР (1988).
+</p><p>Жил в Тбилиси, <a href="/w/index.php?title=%D0%9C%D1%86%D1%85%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Мцхетская улица (страница отсутствует)">Мцхетская улица</a>, I<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Умер 10 (по другим источникам — 16<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>) марта <a href="/wiki/2002_%D0%B3%D0%BE%D0%B4" title="2002 год">2002 года</a> в Тбилиси. Похоронен в <a href="/wiki/%D0%94%D0%B8%D0%B4%D1%83%D0%B1%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B0%D0%BD%D1%82%D0%B5%D0%BE%D0%BD" title="Дидубийский пантеон">Дидубийском пантеоне</a>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Награды_и_звания"><span id=".D0.9D.D0.B0.D0.B3.D1.80.D0.B0.D0.B4.D1.8B_.D0.B8_.D0.B7.D0.B2.D0.B0.D0.BD.D0.B8.D1.8F"></span>Награды и звания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8,_%D0%AD%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Награды и звания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8,_%D0%AD%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=2" title="Редактировать код раздела «Награды и звания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li>Заслуженный художник Грузинской ССР (1965)</li>
+<li>Народный художник Грузинской ССР (1979)</li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA_%D0%A1%D0%A1%D0%A1%D0%A0" title="Народный художник СССР">Народный художник СССР</a> (1988)</li>
+<li><a href="/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%D0%A1%D0%A1%D0%A1%D0%A0" title="Государственная премия СССР">Государственная премия СССР</a> (1982)&#160;— за монумент Победы в <a href="/wiki/%D0%93%D0%BE%D1%80%D0%B8" title="Гори">Гори</a> и Мемориал героям-морякам в <a href="/wiki/%D0%9F%D0%BE%D1%82%D0%B8" title="Поти">Поти</a></li>
+<li><a href="/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%B8%D0%BC._%D0%A8._%D0%A0%D1%83%D1%81%D1%82%D0%B0%D0%B2%D0%B5%D0%BB%D0%B8" class="mw-redirect" title="Государственная премия Грузинской ССР им. Ш. Руставели">Государственная премия Грузинской ССР им. Ш. Руставели</a> (1965)&#160;— за скульптуру «Мать Грузия»</li>
+<li>Государственная премия Грузии в области литературы, искусства и архитектуры (1996)<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/%D0%9E%D1%80%D0%B4%D0%B5%D0%BD_%D0%A7%D0%B5%D1%81%D1%82%D0%B8_(%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F)" title="Орден Чести (Грузия)">Орден Чести</a> (1999)<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup></li>
+<li><a href="/wiki/%D0%9E%D1%80%D0%B4%D0%B5%D0%BD_%D0%A2%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%BE_%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8" title="Орден Трудового Красного Знамени">Орден Трудового Красного Знамени</a></li>
+<li><a href="/wiki/%D0%9E%D1%80%D0%B4%D0%B5%D0%BD_%C2%AB%D0%97%D0%BD%D0%B0%D0%BA_%D0%9F%D0%BE%D1%87%D1%91%D1%82%D0%B0%C2%BB" title="Орден «Знак Почёта»">Орден «Знак Почёта»</a></li>
+<li><a href="/wiki/%D0%9E%D1%80%D0%B4%D0%B5%D0%BD_%D0%94%D1%80%D1%83%D0%B6%D0%B1%D1%8B_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BE%D0%B2" title="Орден Дружбы народов">Орден Дружбы народов</a></li>
+<li>Государственная премия Народной Республики Болгарии</li>
+<li><a href="/wiki/%D0%9F%D0%BE%D1%87%D1%91%D1%82%D0%BD%D1%8B%D0%B5_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B5_%D0%A2%D0%B1%D0%B8%D0%BB%D0%B8%D1%81%D0%B8" title="Почётные граждане Тбилиси">Почётный гражданин Тбилиси</a> (1981).</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8,_%D0%AD%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8,_%D0%AD%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=3" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-_402e7b54f27bb9c8-1"><span class="mw-cite-backlink"><a href="#cite_ref-_402e7b54f27bb9c8_1-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q47461344" data-entity-id="Q15120934"><a href="/wiki/%D0%AD%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%C2%AB%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F%C2%BB" title="Энциклопедия «Грузия»">ენციკლოპედია საქართველო</a>&#160;<span class="ref-info" style="cursor:help;" title="на грузинском языке">(груз.)</span><span class="wef_low_priority_links"> — <a href="/wiki/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%B0%D1%8F_%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%86%D0%B8%D1%8F_%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D0%B8" title="Главная научная редакция Грузинской энциклопедии">ქართული საბჭოთა ენციკლოპედიის მთავარი სამეცნიერო რედაქცია</a>, 1997. — Т.&#160;1. — С.&#160;119.</span></span></span>
+</li>
+<li id="cite_note-_571def3471ba4a6c-2"><span class="mw-cite-backlink"><a href="#cite_ref-_571def3471ba4a6c_2-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3331189 citetype_Q615699" data-entity-id="Q76499581"><a rel="nofollow" class="external text" href="https://www.vle.lt/straipsnis/elgudza-amasukeli/">Visuotinė lietuvių enciklopedija</a>&#160;<span class="ref-info" style="cursor:help;" title="на литовском языке">(лит.)</span><span class="wef_low_priority_links"></span></span></span>
+</li>
+<li id="cite_note-_9f5454b4c318cff9-3"><span class="mw-cite-backlink"><a href="#cite_ref-_9f5454b4c318cff9_3-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q47461344 citetype_Q7094076" data-entity-id="Q58357743">ელგუჯა ამაშუკელი // <a rel="nofollow" class="external text" href="http://www.nplg.gov.ge/bios/ka/00000028/">საქართველოს ბიოგრაფიული ლექსიკონი</a>&#160;<span class="ref-info" style="cursor:help;" title="на грузинском языке">(груз.)</span><span class="wef_low_priority_links"> — 2001.</span></span></span>
+</li>
+<li id="cite_note-_7dee67fd87a2914f-4"><span class="mw-cite-backlink"><a href="#cite_ref-_7dee67fd87a2914f_4-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q13136" data-entity-id="Q126204483">АМАШУКЕЛИ Элгуджа Давидович // <a href="https://www.wikidata.org/wiki/Q126204483" class="extiw" title="d:Q126204483">Ежегодник Большой Советской Энциклопедии. 1989</a><span class="wef_low_priority_links"> / под ред. <a href="/wiki/%D0%9F%D0%B0%D0%BD%D0%BE%D0%B2,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D0%B8%D1%87" title="Панов, Виктор Георгиевич">В.&#160;Г.&#160;Панова</a> — <span title="Москва" style="border-bottom: 1px dotted; cursor: help; white-space: nowrap">М.</span>: <a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)" title="Большая российская энциклопедия (издательство)">Советская энциклопедия</a>, 1989. — С.&#160;569. — <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5852700045" class="internal mw-magiclink-isbn">ISBN 5-85270-004-5</a></span></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r141305934">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a::after,.mw-parser-output .id-lock-limited a::after,.mw-parser-output .id-lock-registration a::after,.mw-parser-output .id-lock-subscription a::after,.mw-parser-output .cs1-ws-icon a::after{content:"";width:1.1em;height:1.1em;display:inline-block;vertical-align:middle;background-position:center;background-repeat:no-repeat;background-size:contain}.mw-parser-output .id-lock-free.id-lock-free a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")}.mw-parser-output .id-lock-limited.id-lock-limited a::after,.mw-parser-output .id-lock-registration.id-lock-registration a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")}.mw-parser-output .id-lock-subscription.id-lock-subscription a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")}.mw-parser-output .cs1-ws-icon a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}html.skin-theme-clientpref-night .mw-parser-output .id-lock-free a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-limited a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-registration a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-subscription a::after{filter:invert(1)hue-rotate(180deg)}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}html.skin-theme-clientpref-os .mw-parser-output .id-lock-free a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-limited a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-registration a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-subscription a::after{filter:invert(1)hue-rotate(180deg)}}</style><span class="citation no-wikidata" data-wikidata-property-id="P1343"><a rel="nofollow" class="external text" href="http://www.nplg.gov.ge/index.php?sec_id=342&amp;info_id=1533">Почётные граждане Тбилиси</a>&#32;&#61;&#32;თბილისის საპატიო მოქალაქეები (1979—2006).&#160;— Тбилиси, 2006.&#160;— 225&#160;p.&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131004213053/http://www.nplg.gov.ge/index.php?sec_id=342&amp;info_id=1533">Архивировано</a> 4&#160;октября 2013&#160;года.</small></span></span>
+</li>
+<li id="cite_note-bse-ama-6"><span class="mw-cite-backlink"><a href="#cite_ref-bse-ama_6-0">↑</a></span> <span class="reference-text"><span class="citation" id="CITEREFБСЭ">Амашукели Элгуджа Давидович&#160;//&#32;<a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F#Третье_издание" title="Большая советская энциклопедия">Большая советская энциклопедия</a>&#160;: <span class="nowrap">[в 30 т.]</span>&#160;/ гл. ред. <span class="nowrap"> <a href="/wiki/%D0%9F%D1%80%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Прохоров, Александр Михайлович">А. М. Прохоров</a></span>.&#160;— 3-е изд.&#160;— <abbr title="Москва">М.</abbr>&#160;: Советская энциклопедия, 1969—1978.</span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://img-fotki.yandex.ru/get/15524/41972460.bf/0_108cb8_ecb849df_orig.jpg">мемориал Славы героям-морякам</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 30 августа 2018.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20180831035336/https://img-fotki.yandex.ru/get/15524/41972460.bf/0_108cb8_ecb849df_orig.jpg">Архивировано</a> 31 августа 2018 года.</span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070730200624/http://www.acnet.ge/nofull.htm#c9">Georgian Academy of Sciences </a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://www.rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=53494&amp;sphrase_id=106355">АМАШУКЕЛИ Элгуджа Давидович (1928-2002)</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 27 января 2021.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20210205235829/https://www.rah.ru/the_academy_today/the_members_of_the_academie/member.php?ID=53494&amp;sphrase_id=106355">Архивировано</a> 5 февраля 2021 года.</span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://matsne.gov.ge/ka/document/view/109312?publication=0">1996 წლის საქართველოს სახელმწიფო პრემიების მინიჭების შესახებ</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 17 января 2023.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20230117190624/https://matsne.gov.ge/ka/document/view/109312?publication=0">Архивировано</a> 17 января 2023 года.</span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.nplg.gov.ge/bios/en/00000028/">ელგუჯა ამაშუკელი</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 24 января 2023.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20230124145917/http://www.nplg.gov.ge/bios/en/00000028/">Архивировано</a> 24 января 2023 года.</span></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Ссылки_на_внешние_ресурсы" data-name="External links" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div class="skin-invert-image" style="float: left;"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span>&#160;<span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q595180#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div>&#160;&#160;Словари и энциклопедии</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="http://www.nplg.gov.ge/bios/ka/00000028/">Биографический Грузии</a></li>
+<li><a rel="nofollow" class="external text" href="https://old.bigenc.ru/text/1817184">Большая российская (старая версия)</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.vle.lt/straipsnis/elgudza-amasukeli">Литовская универсальная</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Генеалогия и некрополистика</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://www.findagrave.com/memorial/222922076">Find a Grave</a></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><style data-mw-deduplicate="TemplateStyles:r113287755">.mw-parser-output .ts-navbox-plaintitle{font-size:100%!important;margin:0 6em!important}</style></div><table class="nowraplinks authoritycontrol collapsible collapsed navbox-subgroup" style="border-spacing:0;text-align: left;"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><div id="В_библиографических_каталогах" class="ts-navbox-plaintitle" style="font-size:114%;margin:0 5em">В&#160;библиографических каталогах</div></th></tr><tr><td class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <a rel="nofollow" class="external text" href="https://d-nb.info/gnd/1139922297">1139922297</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D1%85_%D0%BD%D0%B0%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9" title="Международный идентификатор стандартных наименований">ISNI</a>: <a rel="nofollow" class="external text" href="http://isni.org/isni/000000003647353X">000000003647353X</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B0" title="Контрольный номер Библиотеки Конгресса">LCCN</a>: <a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/n2003063717">n2003063717</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8" title="Национальная библиотека Польши">NLP</a>:&#160;:&#160;a0000001813874</li>
+<li><a href="/wiki/VIAF" title="VIAF">VIAF</a>: <a rel="nofollow" class="external text" href="https://viaf.org/viaf/63384549/">63384549</a></li>
+<li><a href="/wiki/WorldCat" title="WorldCat">WorldCat VIAF</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/63384549">63384549</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=0" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Амашукели,_Элгуджа_Давидович&amp;oldid=140312204">https://ru.wikipedia.org/w/index.php?title=Амашукели,_Элгуджа_Давидович&amp;oldid=140312204</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_22_%D0%B8%D1%8E%D0%BD%D1%8F" title="Категория:Родившиеся 22 июня">Родившиеся 22 июня</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_1928_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Родившиеся в 1928 году">Родившиеся в 1928 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Персоналии по алфавиту">Персоналии по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_%D0%A2%D0%B1%D0%B8%D0%BB%D0%B8%D1%81%D0%B8" title="Категория:Родившиеся в Тбилиси">Родившиеся в Тбилиси</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_16_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="Категория:Умершие 16 марта">Умершие 16 марта</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_%D0%B2_2002_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Умершие в 2002 году">Умершие в 2002 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_%D0%B2_%D0%A2%D0%B1%D0%B8%D0%BB%D0%B8%D1%81%D0%B8" title="Категория:Умершие в Тбилиси">Умершие в Тбилиси</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D0%BE%D1%80%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Скульпторы по алфавиту">Скульпторы по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D0%B8_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Деятели изобразительного искусства по алфавиту">Деятели изобразительного искусства по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D0%BE%D1%80%D1%8B_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Скульпторы СССР">Скульпторы СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D0%BE%D1%80%D1%8B_%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8" title="Категория:Скульпторы Грузии">Скульпторы Грузии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D0%BE%D1%80%D1%8B_XX_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Скульпторы XX века">Скульпторы XX века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A2%D0%B1%D0%B8%D0%BB%D0%B8%D1%81%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%B8_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2" title="Категория:Выпускники Тбилисской академии художеств">Выпускники Тбилисской академии художеств</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B0%D0%B2%D0%B0%D0%BB%D0%B5%D1%80%D1%8B_%D0%BE%D1%80%D0%B4%D0%B5%D0%BD%D0%B0_%D0%A7%D0%B5%D1%81%D1%82%D0%B8_(%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F)" title="Категория:Кавалеры ордена Чести (Грузия)">Кавалеры ордена Чести (Грузия)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B0%D0%B2%D0%B0%D0%BB%D0%B5%D1%80%D1%8B_%D0%BE%D1%80%D0%B4%D0%B5%D0%BD%D0%B0_%D0%A2%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%BE_%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8" title="Категория:Кавалеры ордена Трудового Красного Знамени">Кавалеры ордена Трудового Красного Знамени</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B0%D0%B2%D0%B0%D0%BB%D0%B5%D1%80%D1%8B_%D0%BE%D1%80%D0%B4%D0%B5%D0%BD%D0%B0_%D0%94%D1%80%D1%83%D0%B6%D0%B1%D1%8B_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BE%D0%B2" title="Категория:Кавалеры ордена Дружбы народов">Кавалеры ордена Дружбы народов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B0%D0%B2%D0%B0%D0%BB%D0%B5%D1%80%D1%8B_%D0%BE%D1%80%D0%B4%D0%B5%D0%BD%D0%B0_%C2%AB%D0%97%D0%BD%D0%B0%D0%BA_%D0%9F%D0%BE%D1%87%D1%91%D1%82%D0%B0%C2%BB" title="Категория:Кавалеры ордена «Знак Почёта»">Кавалеры ордена «Знак Почёта»</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Народные художники СССР">Народные художники СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B0%D1%83%D1%80%D0%B5%D0%B0%D1%82%D1%8B_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D0%B8_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Лауреаты Государственной премии СССР">Лауреаты Государственной премии СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B0%D1%83%D1%80%D0%B5%D0%B0%D1%82%D1%8B_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D0%B8_%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%A8%D0%BE%D1%82%D0%B0_%D0%A0%D1%83%D1%81%D1%82%D0%B0%D0%B2%D0%B5%D0%BB%D0%B8" title="Категория:Лауреаты Государственной премии Грузинской ССР имени Шота Руставели">Лауреаты Государственной премии Грузинской ССР имени Шота Руставели</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Художники по алфавиту">Художники по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_XX_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Художники XX века">Художники XX века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Художники СССР">Художники СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8" title="Категория:Художники Грузии">Художники Грузии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%97%D0%B0%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0" title="Категория:Заслуженные художники Грузинской ССР">Заслуженные художники Грузинской ССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B5_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0" title="Категория:Народные художники Грузинской ССР">Народные художники Грузинской ССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8-%D1%81%D0%BE%D1%86%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D1%8B_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Художники-соцреалисты СССР">Художники-соцреалисты СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8-%D1%81%D0%BE%D1%86%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D1%8B_%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8" title="Категория:Художники-соцреалисты Грузии">Художники-соцреалисты Грузии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8-%D0%B8%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Художники-иллюстраторы СССР">Художники-иллюстраторы СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8-%D0%B8%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B_%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8" title="Категория:Художники-иллюстраторы Грузии">Художники-иллюстраторы Грузии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A7%D0%BB%D0%B5%D0%BD%D1%8B_%D0%A1%D0%BE%D1%8E%D0%B7%D0%B0_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Члены Союза художников СССР">Члены Союза художников СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A7%D0%BB%D0%B5%D0%BD%D1%8B-%D0%BA%D0%BE%D1%80%D1%80%D0%B5%D1%81%D0%BF%D0%BE%D0%BD%D0%B4%D0%B5%D0%BD%D1%82%D1%8B_%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%B8_%D0%BD%D0%B0%D1%83%D0%BA_%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8" title="Категория:Члены-корреспонденты Академии наук Грузии">Члены-корреспонденты Академии наук Грузии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D0%BE%D1%80%D1%8B-%D0%BC%D0%BE%D0%BD%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D1%8B_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Скульпторы-монументалисты СССР">Скульпторы-монументалисты СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D0%BE%D1%80%D1%8B-%D0%BC%D0%BE%D0%BD%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D1%8B_%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8" title="Категория:Скульпторы-монументалисты Грузии">Скульпторы-монументалисты Грузии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%8B_%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%B8_%D0%BC%D0%B5%D0%BC%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D0%BE%D0%B2" title="Категория:Авторы памятников и мемориалов">Авторы памятников и мемориалов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%87%D1%91%D1%82%D0%BD%D1%8B%D0%B5_%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D0%B5_%D0%A2%D0%B1%D0%B8%D0%BB%D0%B8%D1%81%D0%B8" title="Категория:Почётные граждане Тбилиси">Почётные граждане Тбилиси</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B2_%D0%94%D0%B8%D0%B4%D1%83%D0%B1%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%BC_%D0%BF%D0%B0%D0%BD%D1%82%D0%B5%D0%BE%D0%BD%D0%B5" title="Категория:Похороненные в Дидубийском пантеоне">Похороненные в Дидубийском пантеоне</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B0%D1%83%D1%80%D0%B5%D0%B0%D1%82%D1%8B_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D0%B8_%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8" title="Категория:Лауреаты Государственной премии Грузии">Лауреаты Государственной премии Грузии</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8_%D0%B8%D0%B7_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Википедия:Статьи с источниками из Викиданных">Википедия:Статьи с источниками из Викиданных</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8%2C+%D0%AD%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0+%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8%2C+%D0%AD%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0+%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-namespaces-label"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8,_%D0%AD%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8,_%D0%AD%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8,_%D0%AD%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8,_%D0%AD%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8,_%D0%AD%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8,_%D0%AD%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8,_%D0%AD%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8,_%D0%AD%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8,_%D0%AD%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87&amp;oldid=140312204" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8,_%D0%AD%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8%2C_%D0%AD%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87&amp;id=140312204&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2590%25D0%25BC%25D0%25B0%25D1%2588%25D1%2583%25D0%25BA%25D0%25B5%25D0%25BB%25D0%25B8%2C_%25D0%25AD%25D0%25BB%25D0%25B3%25D1%2583%25D0%25B4%25D0%25B6%25D0%25B0_%25D0%2594%25D0%25B0%25D0%25B2%25D0%25B8%25D0%25B4%25D0%25BE%25D0%25B2%25D0%25B8%25D1%2587"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2590%25D0%25BC%25D0%25B0%25D1%2588%25D1%2583%25D0%25BA%25D0%25B5%25D0%25BB%25D0%25B8%2C_%25D0%25AD%25D0%25BB%25D0%25B3%25D1%2583%25D0%25B4%25D0%25B6%25D0%25B0_%25D0%2594%25D0%25B0%25D0%25B2%25D0%25B8%25D0%25B4%25D0%25BE%25D0%25B2%25D0%25B8%25D1%2587"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8%2C_%D0%AD%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8,_%D0%AD%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Elguja_Amashukeli" hreflang="en"><span>Викисклад</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q595180" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%B3%D9%83%D8%B1_%D8%A7%D9%84%D9%82%D9%88%D8%AC%D9%87" title="سكر القوجه — Egyptian Arabic" lang="arz" hreflang="arz" data-title="سكر القوجه" data-language-autonym="مصرى" data-language-local-name="Egyptian Arabic" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Elgudscha_Amaschukeli" title="Elgudscha Amaschukeli — немецкий" lang="de" hreflang="de" data-title="Elgudscha Amaschukeli" data-language-autonym="Deutsch" data-language-local-name="немецкий" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Elguja_Amashukeli" title="Elguja Amashukeli — английский" lang="en" hreflang="en" data-title="Elguja Amashukeli" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Elguja_Amashukeli" title="Elguja Amashukeli — испанский" lang="es" hreflang="es" data-title="Elguja Amashukeli" data-language-autonym="Español" data-language-local-name="испанский" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%B7%D5%AC%D5%A3%D5%B8%D6%82%D5%BB%D5%A1_%D4%B1%D5%B4%D5%A1%D5%B7%D5%B8%D6%82%D5%AF%D5%A5%D5%AC%D5%AB" title="Էլգուջա Ամաշուկելի — армянский" lang="hy" hreflang="hy" data-title="Էլգուջա Ամաշուկելի" data-language-autonym="Հայերեն" data-language-local-name="армянский" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%94%E1%83%9A%E1%83%92%E1%83%A3%E1%83%AF%E1%83%90_%E1%83%90%E1%83%9B%E1%83%90%E1%83%A8%E1%83%A3%E1%83%99%E1%83%94%E1%83%9A%E1%83%98" title="ელგუჯა ამაშუკელი — грузинский" lang="ka" hreflang="ka" data-title="ელგუჯა ამაშუკელი" data-language-autonym="ქართული" data-language-local-name="грузинский" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Elgud%C5%BCa_Amaszukeli" title="Elgudża Amaszukeli — польский" lang="pl" hreflang="pl" data-title="Elgudża Amaszukeli" data-language-autonym="Polski" data-language-local-name="польский" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D1%96_%D0%95%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87" title="Амашукелі Елгуджа Давидович — украинский" lang="uk" hreflang="uk" data-title="Амашукелі Елгуджа Давидович" data-language-autonym="Українська" data-language-local-name="украинский" class="interlanguage-link-target"><span>Українська</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q595180#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 20 сентября 2024 в 18:05.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8,_%D0%AD%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.log.warn("This page is using the deprecated ResourceLoader module \"codex-search-styles\".\n[1.43] Use a CodexModule with codexComponents to set your specific components used: https://www.mediawiki.org/wiki/Codex#Using_a_limited_subset_of_components");mw.config.set({"wgHostname":"mw-web.eqiad.main-8669bc5c8-dmftd","wgBackendResponseTime":160,"wgPageParseReport":{"limitreport":{"cputime":"0.425","walltime":"0.678","ppvisitednodes":{"value":3454,"limit":1000000},"postexpandincludesize":{"value":73916,"limit":2097152},"templateargumentsize":{"value":17547,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":15877,"limit":5000000},"entityaccesscount":{"value":17,"limit":400},"timingprofile":["100.00%  617.451      1 -total"," 66.11%  408.201      1 Шаблон:Художник"," 62.92%  388.486      1 Шаблон:Карточка"," 15.51%   95.756      1 Шаблон:Примечания"," 10.81%   66.754      1 Шаблон:Библиоинформация"," 10.33%   63.805      6 Шаблон:Wikidata","  7.66%   47.312      1 Шаблон:Wikidata/p569","  6.71%   41.411      1 Шаблон:Однофамильцы","  6.19%   38.219      1 Шаблон:Карточка/оригинал_имени","  5.54%   34.214      1 Шаблон:БСЭ3"]},"scribunto":{"limitreport-timeusage":{"value":"0.268","limit":"10.000"},"limitreport-memusage":{"value":6408109,"limit":52428800},"limitreport-logs":"Loaded datatype string of P742 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P136 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-web.eqiad.main-5b95fccc77-kkgrb","timestamp":"20250317111605","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0410\u043c\u0430\u0448\u0443\u043a\u0435\u043b\u0438, \u042d\u043b\u0433\u0443\u0434\u0436\u0430 \u0414\u0430\u0432\u0438\u0434\u043e\u0432\u0438\u0447","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%90%D0%BC%D0%B0%D1%88%D1%83%D0%BA%D0%B5%D0%BB%D0%B8,_%D0%AD%D0%BB%D0%B3%D1%83%D0%B4%D0%B6%D0%B0_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87","sameAs":"http:\/\/www.wikidata.org\/entity\/Q595180","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q595180","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-10-06T07:39:02Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/7b\/Elguja_Amashukeli_2023_stamp_of_Georgia.jpg","headline":"\u0441\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439 \u0438 \u0433\u0440\u0443\u0437\u0438\u043d\u0441\u043a\u0438\u0439 \u0441\u043a\u0443\u043b\u044c\u043f\u0442\u043e\u0440, \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a"}</script>
+</body>
+</html>

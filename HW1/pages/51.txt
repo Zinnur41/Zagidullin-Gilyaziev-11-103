@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Альвар Кавен — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"fca72042-514a-447e-913e-823bb7f2a526","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Альвар_Кавен","wgTitle":"Альвар Кавен","wgCurRevisionId":102704490,"wgRevisionId":102704490,"wgArticleId":7336547,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Статьи с источниками из Викиданных","Википедия:Статьи со ссылками на элементы Викиданных без русской подписи","Википедия:Статьи с изображениями: заполнить свойство P373 в Викиданных","Родившиеся 8 июня","Родившиеся в 1886 году","Родившиеся в Корпилахти","Умершие 3 марта","Умершие в 1935 году","Умершие в Хельсинки","Персоналии по алфавиту","Художники по алфавиту","Деятели изобразительного искусства по алфавиту","Художники XX века","Художники-экспрессионисты Финляндии","Художники-пейзажисты Финляндии","Художники-портретисты Финляндии","Похороненные на кладбище Хиетаниеми","Выпускники Академии изящных искусств (Хельсинки)"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Альвар_Кавен","wgRelevantArticleId":7336547,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":102704490,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":5000,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q4356043","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};
+RLSTATE={"ext.gadget.common-site":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","codex-search-styles":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","oojs-ui.styles.icons-media","oojs-ui-core.icons"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.page.gallery.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.44.0-wmf.20">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/e/e2/Alvar_Caw%C3%A9n_-_Omakuva_%281923%29.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1422">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/e/e2/Alvar_Caw%C3%A9n_-_Omakuva_%281923%29.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="948">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Alvar_Caw%C3%A9n_-_Omakuva_%281923%29.jpg/640px-Alvar_Caw%C3%A9n_-_Omakuva_%281923%29.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="759">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Альвар Кавен — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="//ru.m.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="login.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Альвар_Кавен rootpage-Альвар_Кавен skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Альвар Кавен</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div role="note" class="hatnote navigation-not-searchable dabhide">В Википедии есть статьи о других людях с фамилией <a href="/wiki/%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD" class="mw-disambig" title="Кавен">Кавен</a>.</div><table class="infobox infobox-579f87a5ab59e42c" style="" data-name="Персона"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Альвар Кавен</th></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-property-id="P18" class="no-wikidata"><span typeof="mw:File/Frameless"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Alvar_Caw%C3%A9n_-_Omakuva_(1923).jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Alvar_Caw%C3%A9n_-_Omakuva_%281923%29.jpg/190px-Alvar_Caw%C3%A9n_-_Omakuva_%281923%29.jpg" decoding="async" width="190" height="225" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Alvar_Caw%C3%A9n_-_Omakuva_%281923%29.jpg/285px-Alvar_Caw%C3%A9n_-_Omakuva_%281923%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Alvar_Caw%C3%A9n_-_Omakuva_%281923%29.jpg/380px-Alvar_Caw%C3%A9n_-_Omakuva_%281923%29.jpg 2x" data-file-width="658" data-file-height="780" /></a></span></span> </td></tr>
+<tr>
+<th scope="row" class="plainlist">Дата&#160;рождения</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q4356043$F3A7A5F9-0B8F-49B4-BA35-808A14D006C6" class="wikidata-claim" data-wikidata-property-id="P569"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/8_%D0%B8%D1%8E%D0%BD%D1%8F" title="8 июня">8 июня</a> <a href="/wiki/1886_%D0%B3%D0%BE%D0%B4" title="1886 год">1886</a></span><span style="display:none">(<span class="bday">1886-06-08</span>)</span></span><sup id="cite_ref-_8b432f4d2f735ae7_1-0" class="reference"><a href="#cite_note-_8b432f4d2f735ae7-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-_f54d7807d0a875d6_2-0" class="reference"><a href="#cite_note-_f54d7807d0a875d6-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup><sup><a href="https://www.wikidata.org/wiki/Q4356043#P569" class="extiw" title="d:Q4356043">[…]</a></sup></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Место рождения</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q4356043$8793C8F7-6924-409F-8FCF-64CE3AE8B62A" class="wikidata-claim" data-wikidata-property-id="P19"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BF%D0%B8%D0%BB%D0%B0%D1%85%D1%82%D0%B8" title="Корпилахти">Корпилахти</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A5%D1%8F%D0%BC%D0%B5_(%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D1%8F)" title="Хяме (губерния)">Тавастгусская губерния</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B5_%D0%BA%D0%BD%D1%8F%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D1%81%D0%BA%D0%BE%D0%B5" title="Великое княжество Финляндское">Великое княжество Финляндское</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" title="Российская империя">Российская империя</a></span><sup id="cite_ref-_f54d7807d0a875d6_2-2" class="reference"><a href="#cite_note-_f54d7807d0a875d6-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Дата&#160;смерти</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q4356043$DEA2274E-8778-4DF1-8360-1C0538ECA8D8" class="wikidata-claim" data-wikidata-property-id="P570"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/3_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="3 марта">3 марта</a> <a href="/wiki/1935_%D0%B3%D0%BE%D0%B4" title="1935 год">1935</a></span><span style="display:none">(<span class="dday">1935-03-03</span>)</span></span><sup id="cite_ref-_8b432f4d2f735ae7_1-1" class="reference"><a href="#cite_note-_8b432f4d2f735ae7-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-_f54d7807d0a875d6_2-1" class="reference"><a href="#cite_note-_f54d7807d0a875d6-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup><sup><a href="https://www.wikidata.org/wiki/Q4356043#P570" class="extiw" title="d:Q4356043">[…]</a></sup> <span style="white-space:nowrap;">(48 лет)</span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Место смерти</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q4356043$EE0608A5-6515-4152-8C5A-32EB054DFBA1" class="wikidata-claim" data-wikidata-property-id="P20"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A5%D0%B5%D0%BB%D1%8C%D1%81%D0%B8%D0%BD%D0%BA%D0%B8" title="Хельсинки">Хельсинки</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F" title="Финляндия">Финляндия</a></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Страна</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q4356043$6CB5D3B2-ED58-4F54-9C7D-A487745ECAD0" class="wikidata-claim" data-wikidata-property-id="P27"><span class="mw-image-border" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/20px-Flag_of_Russia.svg.png" decoding="async" width="20" height="13" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/30px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/40px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></span></span>&#160;<span class="country-name"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B8%D1%8F" title="Российская империя">Российская империя</a></span></span></span></li><li><span data-wikidata-claim-id="Q4356043$8c6947e9-4377-85df-b42a-64a0ea13dee2" class="wikidata-claim" data-wikidata-property-id="P27"><span class="mw-image-border" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/20px-Flag_of_Finland.svg.png" decoding="async" width="20" height="12" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/30px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/40px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></span></span>&#160;<span class="country-name"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F" title="Финляндия">Финляндия</a></span></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Род&#160;деятельности</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q4356043$F7BBB47A-DD4D-45CC-AB3D-5D38C9471F07" class="wikidata-claim" data-wikidata-property-id="P106"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA" title="Художник">художник</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Супруга</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q4356043$e4009f1e-46be-1537-c9e7-aea6a91b386e" class="wikidata-claim" data-wikidata-property-id="P26"><span class="wikidata-snak wikidata-main-snak"><span lang="en"><style data-mw-deduplicate="TemplateStyles:r138326222">.mw-parser-output .ts-Wikidata-redLink a{background:none;padding:0}.mw-parser-output .ts-Wikidata-redLink a.external{color:#ba0000;color:var(--color-link-red,#ba0000)}.mw-parser-output .ts-Wikidata-redLink a.external:visited{color:#a55858;color:var(--color-link-red--visited,#a55858)}</style><span class="ts-Wikidata-redLink plainlinks"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Ragni_Caw%C3%A9n&amp;action=edit&amp;editintro=T:Нет_статьи/editintro&amp;preload=T:Нет_статьи/preload&amp;preloadparams%5B%5D=Q16168652&amp;preloadparams%5B%5D=Ragni+Caw%C3%A9n&amp;preloadparams%5B%5D=%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0">Ragni Cawén</a></span><sup class="noprint"><a href="https://www.wikidata.org/wiki/Q16168652#sitelinks-wikipedia" class="extiw" title="d:Q16168652"><span>[вд]</span></a></sup></span></span></span></td>
+</tr><tr><td colspan="2" class="infobox-below" style=";"><span data-wikidata-claim-id="q4356043$312E7286-1EFA-4476-8E5E-F16B3CE029A6" class="wikidata-claim" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:Alvar_Caw%C3%A9n" title="commons:Category:Alvar Cawén"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></span>&#160;<a href="https://commons.wikimedia.org/wiki/Category:Alvar_Caw%C3%A9n" class="extiw" title="commons:Category:Alvar Cawén">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table>
+<figure typeof="mw:File/Thumb"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Caw%C3%A9n,_Alvar_-_Members_of_The_November_Group_-_Google_Art_Project.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Caw%C3%A9n%2C_Alvar_-_Members_of_The_November_Group_-_Google_Art_Project.jpg/250px-Caw%C3%A9n%2C_Alvar_-_Members_of_The_November_Group_-_Google_Art_Project.jpg" decoding="async" width="250" height="223" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Caw%C3%A9n%2C_Alvar_-_Members_of_The_November_Group_-_Google_Art_Project.jpg/500px-Caw%C3%A9n%2C_Alvar_-_Members_of_The_November_Group_-_Google_Art_Project.jpg 1.5x" data-file-width="5803" data-file-height="5166" /></a><figcaption>Альвар Кавен. <i>Члены «Ноябрьской группы»</i> (1921) (EMMA&#160;— Эспоо музей современного искусства (Швеция)</figcaption></figure>
+<p><b>Франс Альвар Альфред Кавен</b> (<a href="/wiki/%D0%A4%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Финский язык">фин.</a> <span lang="fi" style="font-style:italic;">Alvar Cawén</span>; <span data-wikidata-claim-id="Q4356043$F3A7A5F9-0B8F-49B4-BA35-808A14D006C6" class="wikidata-claim" data-wikidata-property-id="P569"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/8_%D0%B8%D1%8E%D0%BD%D1%8F" title="8 июня">8 июня</a> <a href="/wiki/1886_%D0%B3%D0%BE%D0%B4" title="1886 год">1886</a></span></span><sup id="cite_ref-_8b432f4d2f735ae7_1-2" class="reference"><a href="#cite_note-_8b432f4d2f735ae7-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-_f54d7807d0a875d6_2-3" class="reference"><a href="#cite_note-_f54d7807d0a875d6-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup><sup><a href="https://www.wikidata.org/wiki/Q4356043#P569" class="extiw" title="d:Q4356043">[…]</a></sup></span>, <span data-wikidata-claim-id="Q4356043$8793C8F7-6924-409F-8FCF-64CE3AE8B62A" class="wikidata-claim" data-wikidata-property-id="P19"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BF%D0%B8%D0%BB%D0%B0%D1%85%D1%82%D0%B8" title="Корпилахти">Корпилахти</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A5%D1%8F%D0%BC%D0%B5_(%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D1%8F)" title="Хяме (губерния)">Тавастгусская губерния</a></span><sup id="cite_ref-_f54d7807d0a875d6_2-4" class="reference"><a href="#cite_note-_f54d7807d0a875d6-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup></span>&#160;— <span data-wikidata-claim-id="Q4356043$DEA2274E-8778-4DF1-8360-1C0538ECA8D8" class="wikidata-claim" data-wikidata-property-id="P570"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/3_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="3 марта">3 марта</a> <a href="/wiki/1935_%D0%B3%D0%BE%D0%B4" title="1935 год">1935</a></span></span><sup id="cite_ref-_8b432f4d2f735ae7_1-3" class="reference"><a href="#cite_note-_8b432f4d2f735ae7-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-_f54d7807d0a875d6_2-5" class="reference"><a href="#cite_note-_f54d7807d0a875d6-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup><sup><a href="https://www.wikidata.org/wiki/Q4356043#P570" class="extiw" title="d:Q4356043">[…]</a></sup></span>, <span data-wikidata-claim-id="Q4356043$EE0608A5-6515-4152-8C5A-32EB054DFBA1" class="wikidata-claim" data-wikidata-property-id="P20"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A5%D0%B5%D0%BB%D1%8C%D1%81%D0%B8%D0%BD%D0%BA%D0%B8" title="Хельсинки">Хельсинки</a></span></span>)&#160;— финский <a href="/wiki/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA" title="Художник">художник</a>. Член <a href="/wiki/%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F_%D0%B8%D0%B7%D1%8F%D1%89%D0%BD%D1%8B%D1%85_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2_(%D0%A5%D0%B5%D0%BB%D1%8C%D1%81%D0%B8%D0%BD%D0%BA%D0%B8)" title="Академия изящных искусств (Хельсинки)">Академии изобразительного искусства Финляндии</a> (с 1929). Председатель Ассоциации художников Финляндии (1929—1925).
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Биография"><span class="tocnumber">1</span> <span class="toctext">Биография</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Галерея_картин"><span class="tocnumber">2</span> <span class="toctext">Галерея картин</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Примечания"><span class="tocnumber">3</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Ссылки"><span class="tocnumber">4</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+
+<div class="mw-heading mw-heading2"><h2 id="Биография"><span id=".D0.91.D0.B8.D0.BE.D0.B3.D1.80.D0.B0.D1.84.D0.B8.D1.8F"></span>Биография</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Биография»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD&amp;action=edit&amp;section=1" title="Редактировать код раздела «Биография»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Родился в центральной Финляндии в семье, увлекавшейся музыкой и искусством. Художественное образование получил в <a href="/wiki/%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F_%D0%B8%D0%B7%D1%8F%D1%89%D0%BD%D1%8B%D1%85_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2_(%D0%A5%D0%B5%D0%BB%D1%8C%D1%81%D0%B8%D0%BD%D0%BA%D0%B8)" title="Академия изящных искусств (Хельсинки)">Академии изящных искусств в Хельсинки</a> (1905—1907), затем, с 1908 по 1909 год продолжил учёбу в Париже в студии Саймона Коттета.
+</p><p>Первая выставка работ художника состоялась в Финляндии в 1910 год. В 1912 году вернулся в <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B8%D0%B6" title="Париж">Париж</a>, откуда отправился в <a href="/wiki/%D0%91%D1%80%D0%B5%D1%82%D0%B0%D0%BD%D1%8C" title="Бретань">Бретань</a>, затем в <a href="/wiki/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F" title="Испания">Испанию</a>.
+</p><p>А. Кавен был в числе основателей «<a href="/wiki/%D0%9D%D0%BE%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0" title="Ноябрьская группа">Ноябрьской группы</a>» в Финляндии, объединявшей финских художников и деятелей искусства&#160;— <a href="/wiki/%D0%AD%D0%BA%D1%81%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B8%D0%B7%D0%BC" title="Экспрессионизм">экспрессионистов</a> и <a href="/wiki/%D0%9A%D1%83%D0%B1%D0%B8%D0%B7%D0%BC" title="Кубизм">кубистов</a>.
+</p><p>После Первой мировой войны в 1919 году А. Кавен совершил путешествие, побывав в Дании, Италии, Испании и Франции.
+</p><p>С того же года до 1921&#160;г. преподавал в школе рисования финского художественного общества.
+</p><p>В 1924 году посетил ряд европейских стран (<a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F" title="Италия">Италия</a>, <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Франция">Франция</a>, <a href="/wiki/%D0%91%D0%B5%D0%BB%D1%8C%D0%B3%D0%B8%D1%8F" title="Бельгия">Бельгия</a> и <a href="/wiki/%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B" title="Нидерланды">Нидерланды</a>).
+</p><p>В 1929 году стал членом Академии изобразительных искусств Финляндии; до 1935 года был председателем Ассоциации художников Финляндии.
+</p><p>Среди его известных работ&#160;— <a href="/wiki/%D0%90%D0%BB%D1%82%D0%B0%D1%80%D1%8C" title="Алтарь">алтарь</a> для церквей в <a href="/wiki/%D0%9C%D1%8F%D0%BD%D1%82%D1%82%D1%8F" title="Мянття">Мянття</a>, <a href="/wiki/%D0%9A%D1%83%D1%83%D1%81%D0%B0%D0%BD%D0%BA%D0%BE%D1%81%D0%BA%D0%B8" title="Куусанкоски">Куусанкоски</a>, <a href="/wiki/%D0%9B%D0%B0%D0%BF%D0%B8%D0%BD%D0%BB%D0%B0%D1%85%D1%82%D0%B8" title="Лапинлахти">Лапинлахти</a> и Симпеле. Ряд картин художника хранится в коллекции <a href="/wiki/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%94%D0%B8%D0%B4%D1%80%D0%B8%D1%85%D1%81%D0%B5%D0%BD%D0%B0" title="Художественный музей Дидрихсена">Художественного музея Дидрихсена</a>.
+</p><p>Он женился на Рагни Кавене (1891-1981), художнице, которая после его смерти продолжала рисовать<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>. Он умер в Хельсинки и похоронен на <a href="/wiki/%D0%A5%D0%B8%D0%B5%D1%82%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC%D0%B8_(%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5)" title="Хиетаниеми (кладбище)">кладбище Хиетаниеми</a>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Галерея_картин"><span id=".D0.93.D0.B0.D0.BB.D0.B5.D1.80.D0.B5.D1.8F_.D0.BA.D0.B0.D1.80.D1.82.D0.B8.D0.BD"></span>Галерея картин</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Галерея картин»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD&amp;action=edit&amp;section=2" title="Редактировать код раздела «Галерея картин»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul class="gallery mw-gallery-traditional center">
+		<li class="gallerybox" style="width: 180px">
+			<div class="thumb" style="width: 175px; height: 175px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Alvar_Caw%C3%A9n_%22Pime%22_(blind).jpg" class="mw-file-description" title="Слепой"><img alt="Слепой" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Alvar_Caw%C3%A9n_%22Pime%22_%28blind%29.jpg/93px-Alvar_Caw%C3%A9n_%22Pime%22_%28blind%29.jpg" decoding="async" width="93" height="145" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Alvar_Caw%C3%A9n_%22Pime%22_%28blind%29.jpg/139px-Alvar_Caw%C3%A9n_%22Pime%22_%28blind%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Alvar_Caw%C3%A9n_%22Pime%22_%28blind%29.jpg/186px-Alvar_Caw%C3%A9n_%22Pime%22_%28blind%29.jpg 2x" data-file-width="461" data-file-height="720" /></a></span></div>
+			<div class="gallerytext">Слепой</div>
+		</li>
+		<li class="gallerybox" style="width: 180px">
+			<div class="thumb" style="width: 175px; height: 175px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Alvar_Caw%C3%A9n_Maisema_Korpilahdelta.jpg" class="mw-file-description" title="Пейзаж в Корпилахти"><img alt="Пейзаж в Корпилахти" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Alvar_Caw%C3%A9n_Maisema_Korpilahdelta.jpg/145px-Alvar_Caw%C3%A9n_Maisema_Korpilahdelta.jpg" decoding="async" width="145" height="73" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Alvar_Caw%C3%A9n_Maisema_Korpilahdelta.jpg/218px-Alvar_Caw%C3%A9n_Maisema_Korpilahdelta.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Alvar_Caw%C3%A9n_Maisema_Korpilahdelta.jpg/290px-Alvar_Caw%C3%A9n_Maisema_Korpilahdelta.jpg 2x" data-file-width="500" data-file-height="252" /></a></span></div>
+			<div class="gallerytext">Пейзаж в <a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BF%D0%B8%D0%BB%D0%B0%D1%85%D1%82%D0%B8" title="Корпилахти">Корпилахти</a></div>
+		</li>
+		<li class="gallerybox" style="width: 180px">
+			<div class="thumb" style="width: 175px; height: 175px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Cawen_Alvar_Sokea_Soittoniekka_1922.JPG" class="mw-file-description" title="Слепой музыкант"><img alt="Слепой музыкант" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cawen_Alvar_Sokea_Soittoniekka_1922.JPG/145px-Cawen_Alvar_Sokea_Soittoniekka_1922.JPG" decoding="async" width="145" height="116" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cawen_Alvar_Sokea_Soittoniekka_1922.JPG/218px-Cawen_Alvar_Sokea_Soittoniekka_1922.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Cawen_Alvar_Sokea_Soittoniekka_1922.JPG/290px-Cawen_Alvar_Sokea_Soittoniekka_1922.JPG 2x" data-file-width="2200" data-file-height="1766" /></a></span></div>
+			<div class="gallerytext">Слепой музыкант</div>
+		</li>
+		<li class="gallerybox" style="width: 180px">
+			<div class="thumb" style="width: 175px; height: 175px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Caw%C3%A9n_Cloudy_day.jpg" class="mw-file-description" title="Пасмурный день"><img alt="Пасмурный день" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Caw%C3%A9n_Cloudy_day.jpg/133px-Caw%C3%A9n_Cloudy_day.jpg" decoding="async" width="133" height="145" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Caw%C3%A9n_Cloudy_day.jpg/200px-Caw%C3%A9n_Cloudy_day.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Caw%C3%A9n_Cloudy_day.jpg/266px-Caw%C3%A9n_Cloudy_day.jpg 2x" data-file-width="3142" data-file-height="3428" /></a></span></div>
+			<div class="gallerytext">Пасмурный день</div>
+		</li>
+</ul>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD&amp;action=edit&amp;section=3" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-_8b432f4d2f735ae7-1"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_8b432f4d2f735ae7_1-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_8b432f4d2f735ae7_1-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-_8b432f4d2f735ae7_1-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-_8b432f4d2f735ae7_1-3"><sup><i><b>4</b></i></sup></a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q36570165" data-entity-id="Q17299517"><a rel="nofollow" class="external text" href="https://rkd.nl/artists/16049">RKDartists</a>&#160;<span class="ref-info" style="cursor:help;" title="на нидерландском языке">(нидерл.)</span><span class="wef_low_priority_links"></span></span></span>
+</li>
+<li id="cite_note-_f54d7807d0a875d6-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_f54d7807d0a875d6_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_f54d7807d0a875d6_2-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-_f54d7807d0a875d6_2-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-_f54d7807d0a875d6_2-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-_f54d7807d0a875d6_2-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-_f54d7807d0a875d6_2-5"><sup><i><b>6</b></i></sup></a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q8513" data-entity-id="Q11873875">Kuvataiteilijamatrikkeli&#160;<span class="ref-info" style="cursor:help;" title="на финском языке">(фин.)</span><span class="wef_low_priority_links"></span></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><i>Sofie Strandén-Backa, Elina Hytönen.</i>&#32;<a rel="nofollow" class="external text" href="https://dx.doi.org/10.30666/elore.79009">Merkittäviä tekstejä</a>&#160;// Elore.&#160;— 2012-12-01.&#160;— <span class="nowrap">Т. 19</span>, <span class="nowrap">вып. 2</span>.&#160;— <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D0%B9_%D1%81%D0%B5%D1%80%D0%B8%D0%B9%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80" class="mw-redirect" title="Международный стандартный серийный номер">ISSN</a> <a rel="nofollow" class="external text" href="//www.worldcat.org/search?fq=x0:jrnl&amp;q=n2:1456-3010">1456-3010</a>.&#160;— <a href="/wiki/Doi" class="mw-redirect" title="Doi">doi</a>:<a rel="nofollow" class="external text" href="https://dx.doi.org/10.30666%2Felore.79009">10.30666/elore.79009</a>.</span></span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Ссылки"><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span>Ссылки</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Ссылки»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD&amp;action=edit&amp;section=4" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160304073724/http://www.kuvataiteilijamatrikkeli.fi/fi/haku/ennen-vuotta-1900-syntyneet.html?artist=57&amp;year=1900">CAWEN, Frans ALVAR Alfred</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Ссылки_на_внешние_ресурсы" data-name="External links" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div class="skin-invert-image" style="float: left;"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span>&#160;<span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q4356043#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div>&#160;&#160;Тематические сайты</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://rkd.nl/nl/explore/artists/16049">RKDartists</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Словари и энциклопедии</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://snl.no/Alvar_Cawén">Большая норвежская</a></li>
+<li><a rel="nofollow" class="external text" href="https://kansallisbiografia.fi/kansallisbiografia/henkilo/3313">Национальная биография Финляндия</a></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><style data-mw-deduplicate="TemplateStyles:r113287755">.mw-parser-output .ts-navbox-plaintitle{font-size:100%!important;margin:0 6em!important}</style></div><table class="nowraplinks authoritycontrol collapsible collapsed navbox-subgroup" style="border-spacing:0;text-align: left;"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><div id="В_библиографических_каталогах" class="ts-navbox-plaintitle" style="font-size:114%;margin:0 5em">В&#160;библиографических каталогах</div></th></tr><tr><td class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <a rel="nofollow" class="external text" href="https://d-nb.info/gnd/132652080">132652080</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D1%85_%D0%BD%D0%B0%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9" title="Международный идентификатор стандартных наименований">ISNI</a>: <a rel="nofollow" class="external text" href="http://isni.org/isni/0000000097896413">0000000097896413</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B0" title="Контрольный номер Библиотеки Конгресса">LCCN</a>: <a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/n89608848">n89608848</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%BE%D0%B2" title="Королевская национальная библиотека Нидерландов">NTA</a>: <a rel="nofollow" class="external text" href="https://data.bibliotheken.nl/doc/thes/p217235050">217235050</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D0%B8" title="Национальная библиотека Швеции">LIBRIS</a>: <a rel="nofollow" class="external text" href="https://libris.kb.se/nl022vx64rhtg24">nl022vx64rhtg24</a></li>
+<li><a href="/wiki/VIAF" title="VIAF">VIAF</a>: <a rel="nofollow" class="external text" href="https://viaf.org/viaf/31138569/">31138569</a></li>
+<li><a href="/wiki/WorldCat" title="WorldCat">WorldCat VIAF</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/31138569">31138569</a></li>
+<li><span title="Union List of Artist Names" style="border-bottom: 1px dotted; cursor: help;">ULAN</span>: <a rel="nofollow" class="external text" href="https://www.getty.edu/vow/ULANFullDisplay?find=&amp;role=&amp;nation=&amp;subjectid=500023206">500023206</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=0" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Альвар_Кавен&amp;oldid=102704490">https://ru.wikipedia.org/w/index.php?title=Альвар_Кавен&amp;oldid=102704490</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_8_%D0%B8%D1%8E%D0%BD%D1%8F" title="Категория:Родившиеся 8 июня">Родившиеся 8 июня</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_1886_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Родившиеся в 1886 году">Родившиеся в 1886 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_%D0%9A%D0%BE%D1%80%D0%BF%D0%B8%D0%BB%D0%B0%D1%85%D1%82%D0%B8" title="Категория:Родившиеся в Корпилахти">Родившиеся в Корпилахти</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_3_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="Категория:Умершие 3 марта">Умершие 3 марта</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_%D0%B2_1935_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Умершие в 1935 году">Умершие в 1935 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_%D0%B2_%D0%A5%D0%B5%D0%BB%D1%8C%D1%81%D0%B8%D0%BD%D0%BA%D0%B8" title="Категория:Умершие в Хельсинки">Умершие в Хельсинки</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Персоналии по алфавиту">Персоналии по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Художники по алфавиту">Художники по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D0%B8_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Деятели изобразительного искусства по алфавиту">Деятели изобразительного искусства по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_XX_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Художники XX века">Художники XX века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8-%D1%8D%D0%BA%D1%81%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B8%D1%81%D1%82%D1%8B_%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D0%B8" title="Категория:Художники-экспрессионисты Финляндии">Художники-экспрессионисты Финляндии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8-%D0%BF%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6%D0%B8%D1%81%D1%82%D1%8B_%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D0%B8" title="Категория:Художники-пейзажисты Финляндии">Художники-пейзажисты Финляндии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8-%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%B8%D1%81%D1%82%D1%8B_%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D0%B8" title="Категория:Художники-портретисты Финляндии">Художники-портретисты Финляндии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BD%D0%B0_%D0%BA%D0%BB%D0%B0%D0%B4%D0%B1%D0%B8%D1%89%D0%B5_%D0%A5%D0%B8%D0%B5%D1%82%D0%B0%D0%BD%D0%B8%D0%B5%D0%BC%D0%B8" title="Категория:Похороненные на кладбище Хиетаниеми">Похороненные на кладбище Хиетаниеми</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA%D0%B8_%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%B8_%D0%B8%D0%B7%D1%8F%D1%89%D0%BD%D1%8B%D1%85_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2_(%D0%A5%D0%B5%D0%BB%D1%8C%D1%81%D0%B8%D0%BD%D0%BA%D0%B8)" title="Категория:Выпускники Академии изящных искусств (Хельсинки)">Выпускники Академии изящных искусств (Хельсинки)</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8_%D0%B8%D0%B7_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Википедия:Статьи с источниками из Викиданных">Википедия:Статьи с источниками из Викиданных</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%8B_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%B1%D0%B5%D0%B7_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B9_%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8" title="Категория:Википедия:Статьи со ссылками на элементы Викиданных без русской подписи">Википедия:Статьи со ссылками на элементы Викиданных без русской подписи</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8:_%D0%B7%D0%B0%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D1%8C_%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_P373_%D0%B2_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Википедия:Статьи с изображениями: заполнить свойство P373 в Викиданных">Википедия:Статьи с изображениями: заполнить свойство P373 в Викиданных</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80+%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80+%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-namespaces-label"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD&amp;oldid=102704490" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD&amp;id=102704490&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2590%25D0%25BB%25D1%258C%25D0%25B2%25D0%25B0%25D1%2580_%25D0%259A%25D0%25B0%25D0%25B2%25D0%25B5%25D0%25BD"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2590%25D0%25BB%25D1%258C%25D0%25B2%25D0%25B0%25D1%2580_%25D0%259A%25D0%25B0%25D0%25B2%25D0%25B5%25D0%25BD"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Alvar_Caw%C3%A9n" hreflang="en"><span>Викисклад</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4356043" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-avk mw-list-item"><a href="https://avk.wikipedia.org/wiki/Alvar_Caw%C3%A9n" title="Alvar Cawén — Kotava" lang="avk" hreflang="avk" data-title="Alvar Cawén" data-language-autonym="Kotava" data-language-local-name="Kotava" class="interlanguage-link-target"><span>Kotava</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Alvar_Caw%C3%A9n" title="Alvar Cawén — чешский" lang="cs" hreflang="cs" data-title="Alvar Cawén" data-language-autonym="Čeština" data-language-local-name="чешский" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Alvar_Caw%C3%A9n" title="Alvar Cawén — датский" lang="da" hreflang="da" data-title="Alvar Cawén" data-language-autonym="Dansk" data-language-local-name="датский" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Alvar_Caw%C3%A9n" title="Alvar Cawén — английский" lang="en" hreflang="en" data-title="Alvar Cawén" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Alvar_Caw%C3%A9n" title="Alvar Cawén — финский" lang="fi" hreflang="fi" data-title="Alvar Cawén" data-language-autonym="Suomi" data-language-local-name="финский" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Alvar_Caw%C3%A9n" title="Alvar Cawén — французский" lang="fr" hreflang="fr" data-title="Alvar Cawén" data-language-autonym="Français" data-language-local-name="французский" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Alvar_Caw%C3%A9n" title="Alvar Cawén — румынский" lang="ro" hreflang="ro" data-title="Alvar Cawén" data-language-autonym="Română" data-language-local-name="румынский" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Alvar_Caw%C3%A9n" title="Alvar Cawén — шведский" lang="sv" hreflang="sv" data-title="Alvar Cawén" data-language-autonym="Svenska" data-language-local-name="шведский" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD" title="Альвар Кавен — украинский" lang="uk" hreflang="uk" data-title="Альвар Кавен" data-language-autonym="Українська" data-language-local-name="украинский" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Alvar_Caw%C3%A9n" title="Alvar Cawén — узбекский" lang="uz" hreflang="uz" data-title="Alvar Cawén" data-language-autonym="Oʻzbekcha / ўзбекча" data-language-local-name="узбекский" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4356043#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 13 октября 2019 в 11:38.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.log.warn("This page is using the deprecated ResourceLoader module \"codex-search-styles\".\n[1.43] Use a CodexModule with codexComponents to set your specific components used: https://www.mediawiki.org/wiki/Codex#Using_a_limited_subset_of_components");mw.config.set({"wgHostname":"mw-web.eqiad.main-8669bc5c8-2lvc9","wgBackendResponseTime":170,"wgPageParseReport":{"limitreport":{"cputime":"0.579","walltime":"0.769","ppvisitednodes":{"value":2430,"limit":1000000},"postexpandincludesize":{"value":63062,"limit":2097152},"templateargumentsize":{"value":9527,"limit":2097152},"expansiondepth":{"value":17,"limit":100},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":8962,"limit":5000000},"entityaccesscount":{"value":15,"limit":400},"timingprofile":["100.00%  726.420      1 -total"," 67.44%  489.911      1 Шаблон:Персона"," 64.40%  467.841      1 Шаблон:Карточка"," 34.97%  254.044     11 Шаблон:Wikidata"," 10.04%   72.919      1 Шаблон:ВД-Преамбула","  9.99%   72.539      1 Шаблон:Wikidata/p569","  9.82%   71.316      1 Шаблон:ВД-Преамбула/основа","  8.77%   63.723      1 Шаблон:ВС","  7.22%   52.435      1 Шаблон:Примечания","  6.50%   47.185      1 Шаблон:Статья"]},"scribunto":{"limitreport-timeusage":{"value":"0.437","limit":"10.000"},"limitreport-memusage":{"value":7223562,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-5886496d-x8hg8","timestamp":"20250317085952","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0410\u043b\u044c\u0432\u0430\u0440 \u041a\u0430\u0432\u0435\u043d","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%90%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9A%D0%B0%D0%B2%D0%B5%D0%BD","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4356043","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4356043","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2018-02-18T22:21:00Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e2\/Alvar_Caw%C3%A9n_-_Omakuva_%281923%29.jpg"}</script>
+</body>
+</html>

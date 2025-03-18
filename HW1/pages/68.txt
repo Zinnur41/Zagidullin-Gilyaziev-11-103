@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Андреенков, Владимир Емельянович — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"8eaaef40-97dc-4645-9f94-4caee5a809cb","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Андреенков,_Владимир_Емельянович","wgTitle":"Андреенков, Владимир Емельянович","wgCurRevisionId":142930137,"wgRevisionId":142930137,"wgArticleId":5172833,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Биографии современников","Википедия:Статьи с изображениями: заполнить свойство P373 в Викиданных","Страницы, использующие волшебные ссылки ISBN","Родившиеся 23 августа","Родившиеся в 1930 году","Родившиеся в Чаусах","Персоналии по алфавиту","Художники по алфавиту","Деятели изобразительного искусства по алфавиту","Художники XX века","Художники XXI века","Художники СССР","Художники России","Выпускники Московского академического художественного лицея","Выпускники МГХИ им. Сурикова","Художники неофициального искусства СССР","Современные художники России","Графики России","Графики СССР","Художники-иллюстраторы России","Художники Москвы","Скульпторы России","Скульпторы Москвы","Скульпторы XXI века","Скульпторы-абстракционисты","Художники-абстракционисты России","Художники геометрической абстракции"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Андреенков,_Владимир_Емельянович","wgRelevantArticleId":5172833,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":142930137,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q18019647","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};
+RLSTATE={"ext.gadget.common-site":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","codex-search-styles":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","ext.scribunto.logs","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","oojs-ui.styles.icons-media","oojs-ui-core.icons"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.44.0-wmf.20">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/0/00/Vladimir_Andreenkov_Portrait.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1788">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/0/00/Vladimir_Andreenkov_Portrait.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1192">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Vladimir_Andreenkov_Portrait.jpg/640px-Vladimir_Andreenkov_Portrait.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="954">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Андреенков, Владимир Емельянович — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="//ru.m.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="login.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Андреенков_Владимир_Емельянович rootpage-Андреенков_Владимир_Емельянович skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Андреенков, Владимир Емельянович</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div role="note" class="hatnote navigation-not-searchable dabhide">В Википедии есть статьи о других людях с такой фамилией, см. <a href="/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2" class="mw-disambig" title="Андреенков">Андреенков</a>.</div>
+<table class="infobox infobox-20e3ee815af55302" style="" data-name="Художник"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Владимир Андреенков</th></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-property-id="P18" class="no-wikidata"><span typeof="mw:File/Frameless"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Vladimir_Andreenkov_Portrait.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Vladimir_Andreenkov_Portrait.jpg/268px-Vladimir_Andreenkov_Portrait.jpg" decoding="async" width="268" height="400" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Vladimir_Andreenkov_Portrait.jpg/402px-Vladimir_Andreenkov_Portrait.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Vladimir_Andreenkov_Portrait.jpg/537px-Vladimir_Andreenkov_Portrait.jpg 2x" data-file-width="671" data-file-height="1000" /></a></span></span> </td></tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Дата&#160;рождения</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q18019647$DC6980F9-BCAF-4D86-992E-AB140FFF49AD" class="wikidata-claim" data-wikidata-property-id="P569"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/23_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="23 августа">23 августа</a> <a href="/wiki/1930_%D0%B3%D0%BE%D0%B4" title="1930 год">1930</a></span><span style="display:none">(<span class="bday">1930-08-23</span>)</span></span> <span style="white-space:nowrap;">(94 года)</span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Место рождения</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q18019647$D53062A1-41F1-4DA7-AF2A-70FFDBC61156" class="wikidata-claim" data-wikidata-property-id="P19"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A7%D0%B0%D1%83%D1%81%D1%8B" title="Чаусы">Чаусы</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" title="Белорусская Советская Социалистическая Республика">Белорусская ССР</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA" title="Союз Советских Социалистических Республик">СССР</a></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Страна</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q18019647$3FB451CB-4BBE-429A-AF1E-AC302431FBC1" class="wikidata-claim" data-wikidata-property-id="P27"><span class="mw-image-border" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/20px-Flag_of_the_Soviet_Union.svg.png" decoding="async" width="20" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/30px-Flag_of_the_Soviet_Union.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/40px-Flag_of_the_Soviet_Union.svg.png 2x" data-file-width="1200" data-file-height="600" /></span></span>&#160;<span class="country-name"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA" title="Союз Советских Социалистических Республик">СССР</a></span></span></span></li><li><span data-wikidata-claim-id="Q18019647$39636C1E-69C8-4175-86D6-A171CBD8699C" class="wikidata-claim" data-wikidata-property-id="P27"><span class="mw-image-border" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/20px-Flag_of_Russia.svg.png" decoding="async" width="20" height="13" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/30px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/40px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></span></span>&#160;<span class="country-name"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">Россия</a></span></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Род&#160;деятельности</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q18019647$158F70BD-B259-43AC-BCE2-032794F81FF5" class="wikidata-claim" data-wikidata-property-id="P106"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA" title="Художник">художник</a></span></span>,&#32;<span data-wikidata-claim-id="Q18019647$1751972D-4F6D-4D55-B7A2-D320A76A6802" class="wikidata-claim" data-wikidata-property-id="P106"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D0%BE%D1%80" class="mw-redirect" title="Скульптор">скульптор</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Жанр</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P136" class="no-wikidata"><a href="/wiki/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA" title="Художник">художник</a><br /> <a href="/wiki/%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0" title="Графика">график</a><br /> <a href="/wiki/%D0%98%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80" class="mw-redirect" title="Иллюстратор">иллюстратор</a><br /> <a href="/wiki/%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D0%BE%D1%80" class="mw-redirect" title="Скульптор">скульптор</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Стиль</th>
+<td class="P135 plainlist">
+<a href="/wiki/%D0%90%D0%B1%D1%81%D1%82%D1%80%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D0%B7%D0%BC" title="Абстракционизм">абстракционизм</a><br /> <a href="/wiki/%D0%93%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D0%B1%D1%81%D1%82%D1%80%D0%B0%D0%BA%D1%86%D0%B8%D1%8F" class="mw-redirect" title="Геометрическая абстракция">геометрическая абстракция</a></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Учёба</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P69" class="no-wikidata"><a href="/wiki/%D0%9C%D0%A1%D0%A5%D0%A8" class="mw-redirect" title="МСХШ">МСХШ</a><br /> <a href="/wiki/%D0%9C%D0%93%D0%90%D0%A5%D0%98_%D0%B8%D0%BC._%D0%92._%D0%98._%D0%A1%D1%83%D1%80%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0" class="mw-redirect" title="МГАХИ им. В. И. Сурикова">МГАХИ им. В. И. Сурикова</a></span></td>
+</tr>
+</tbody></table>
+<p><b>Влади́мир Емелья́нович Андрее́нков</b> (род. <span data-wikidata-claim-id="Q18019647$DC6980F9-BCAF-4D86-992E-AB140FFF49AD" class="wikidata-claim" data-wikidata-property-id="P569"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/23_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="23 августа">23 августа</a> <a href="/wiki/1930_%D0%B3%D0%BE%D0%B4" title="1930 год">1930</a></span></span></span>, <span data-wikidata-claim-id="Q18019647$D53062A1-41F1-4DA7-AF2A-70FFDBC61156" class="wikidata-claim" data-wikidata-property-id="P19"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A7%D0%B0%D1%83%D1%81%D1%8B" title="Чаусы">Чаусы</a></span></span>)&#160;— <a href="/wiki/%D0%A1%D0%A1%D0%A1%D0%A0" class="mw-redirect" title="СССР">советский</a> и <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">российский</a> <a href="/wiki/%D0%96%D0%B8%D0%B2%D0%BE%D0%BF%D0%B8%D1%81%D0%B5%D1%86" class="mw-redirect" title="Живописец">живописец</a>, <a href="/wiki/%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D0%BE%D1%80" class="mw-redirect" title="Скульптор">скульптор</a> и <a href="/wiki/%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0" title="Графика">график</a>-<a href="/wiki/%D0%9D%D0%B5%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE_%D0%A1%D0%A1%D0%A1%D0%A0" title="Неофициальное искусство СССР">нонконформист</a> второй половины ХХ&#160;— начала XXI&#160;века, работающий в стиле <a href="/wiki/%D0%93%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D0%B1%D1%81%D1%82%D1%80%D0%B0%D0%BA%D1%86%D0%B8%D1%8F" class="mw-redirect" title="Геометрическая абстракция">геометрической абстракции</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Творческая_биография"><span class="tocnumber">1</span> <span class="toctext">Творческая биография</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Выставки"><span class="tocnumber">2</span> <span class="toctext">Выставки</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Видео"><span class="tocnumber">3</span> <span class="toctext">Видео</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Музейные_коллекции"><span class="tocnumber">4</span> <span class="toctext">Музейные коллекции</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Изображения_в_сети"><span class="tocnumber">5</span> <span class="toctext">Изображения в сети</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Литература"><span class="tocnumber">6</span> <span class="toctext">Литература</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Примечания"><span class="tocnumber">7</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Ссылки"><span class="tocnumber">8</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+
+<div class="mw-heading mw-heading2"><h2 id="Творческая_биография"><span id=".D0.A2.D0.B2.D0.BE.D1.80.D1.87.D0.B5.D1.81.D0.BA.D0.B0.D1.8F_.D0.B1.D0.B8.D0.BE.D0.B3.D1.80.D0.B0.D1.84.D0.B8.D1.8F"></span>Творческая биография</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Творческая биография»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=1" title="Редактировать код раздела «Творческая биография»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В 1944&#160;году поступил в <a href="/wiki/%D0%9C%D0%A1%D0%A5%D0%A8" class="mw-redirect" title="МСХШ">МСХШ</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>В 1958&#160;году закончил <a href="/wiki/%D0%9C%D0%93%D0%90%D0%A5%D0%98_%D0%B8%D0%BC._%D0%92._%D0%98._%D0%A1%D1%83%D1%80%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0" class="mw-redirect" title="МГАХИ им. В. И. Сурикова">Московский художественный институт им. В.&#160;И.&#160;Сурикова</a>. В том же 1958&#160;году участвует сразу в двух этапных для его поколения художников выставках:
+</p>
+<ul><li>в 4-й московской Молодежной выставке, Кузнецкий мост, 11, Москва;</li>
+<li>экспонирует «Женский портрет» в московском Манеже на Всесоюзной художественной выставке «40 лет ВЛКСМ».<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<p>После защиты диплома зарабатывал на жизнь как <a href="/wiki/%D0%98%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80" class="mw-redirect" title="Иллюстратор">иллюстратор</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> в различных издательствах. В 1962&#160;году вступает в <a href="/wiki/%D0%A1%D0%A5_%D0%A1%D0%A1%D0%A1%D0%A0" class="mw-redirect" title="СХ СССР">СХ СССР</a>.
+</p><p>В 1968&#160;году принят в штат в Комбината графических искусств <a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D1%8E%D0%B7_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Московский Союз художников">Московского Союза художников</a>; экспонирует там <a href="/wiki/%D0%AD%D1%81%D1%82%D0%B0%D0%BC%D0%BF" title="Эстамп">эстампы</a>: <a href="/wiki/%D0%9B%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B2%D1%8E%D1%80%D0%B0" title="Линогравюра">линогравюры</a> и <a href="/wiki/%D0%9B%D0%B8%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F" title="Литография">литографии</a>.
+</p><p>В 1987&#160;году, совместно с <a href="/wiki/%D0%97%D0%BB%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%A1%D0%B0%D0%B2%D0%B5%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Злотников, Юрий Савельевич">Ю. Злотниковым</a>, <a href="/wiki/%D0%9F%D1%80%D0%B8%D0%B3%D0%BE%D0%B2,_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Пригов, Дмитрий Александрович">Д. Приговым</a>, <a href="/wiki/%D0%9E%D1%80%D0%BB%D0%BE%D0%B2,_%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Орлов, Борис Константинович">Б. Орловым</a>, <a href="/w/index.php?title=%D0%9C%D0%B0%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;redlink=1" class="new" title="Малиновский, Павел Борисович (страница отсутствует)">П. Малиновским</a>) участвует в создании «Первого творческого объединения».
+</p><p>Относительный успех приходит к художнику в годы падения <a href="/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%BD%D0%B0%D0%B2%D0%B5%D1%81" title="Железный занавес">железного занавеса</a> и распада СССР. После 1989&#160;года Андреенков становится востребованным, его приглашают участвовать во множестве выставок России и за рубежом.
+</p><p>Зрители и критики отмечают музыкальность работ художника: об этом говорят и сочетания контрастных, часто очень звучных, спектрально-чистых цветов, и ясность пропорций, и заострённая резкость границ между цветовыми плоскостями, и выразительный линейный ритм. В самих названиях работ заметны прямые отсылки к музыкальным темам: перед нами многочисленные «Созвучия», «Концерты», «Вариации», «Фуги» (Красная, Синяя, Зелёная), «Трио» (Альт, Виолончель, Скрипка), «Ритмы» и&#160;т.&#160;д.
+</p>
+<blockquote><p>Искусство Андреенкова многое говорит чувству. Наверное, уже оттого, что автор щедро наделен качеством, которое заражает одаренного человека стремлением к творчеству именно в пластической сфере. Я говорю об особом даре способности поражаться какому-то сочетанию красок, испытывать волнение от разрыва пространства между линиями или от давления объёмов и масс. &lt;…&gt; Работы Владимира Андреенкова отмечены некой романтизацией пластического материала…
+</p><p>Его помыслы обращены не к открытию новых мировых истин, а к познанию законов искусства; он занят методологией живописного творчества.
+</p><p>
+— <a href="/wiki/%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%98%D0%BB%D1%8C%D0%B8%D1%87" title="Морозов, Александр Ильич">Александр Морозов</a>, доктор искусствознания<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup></p></blockquote>
+<div class="mw-heading mw-heading2"><h2 id="Выставки"><span id=".D0.92.D1.8B.D1.81.D1.82.D0.B0.D0.B2.D0.BA.D0.B8"></span>Выставки</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Выставки»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=2" title="Редактировать код раздела «Выставки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure class="mw-default-size mw-halign-left" typeof="mw:File/Thumb"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Katalog_Vladimir_Andreenkov.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/7/78/Katalog_Vladimir_Andreenkov.jpg" decoding="async" width="210" height="210" class="mw-file-element" data-file-width="210" data-file-height="210" /></a><figcaption>N. Brykina, G. Segato, V. Morozov&#160;: <b>Vladimir Andreenkov. Katalog</b>. 2007</figcaption></figure>
+<ul><li>1970&#160;: Выставка «Шесть советских художников» («Sechs Sowjetische Künstler») в престижной галерее Рене Циглера (Galerie Renée Ziegler) в <a href="/wiki/%D0%A6%D1%8E%D1%80%D0%B8%D1%85" title="Цюрих">Цюрихе</a>, Швейцария.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>1970, 11 сентября&#160;— 1 ноября&#160;: Выставка «Nuova correnti a Mosca», Musee Belle Arti, <a href="/wiki/%D0%9B%D1%83%D0%B3%D0%B0%D0%BD%D0%BE" title="Лугано">Лугано</a>, Швейцария.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>1974&#160;: Выставка «Progressive Strömungen in Moskau, 1957—1970» / «Прогрессивные течения в Москве 1957—1970»; Музей <a href="/wiki/%D0%91%D0%BE%D1%85%D1%83%D0%BC" title="Бохум">Бохума</a>, ФРГ.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>1980&#160;: первая персональная выставка Владимира Андреенкова: Выставочный зал <a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D1%8E%D0%B7_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Московский Союз художников">МОСХ</a> на Беговой, 7/9 в Москве (отметим, признания в академической среде, сопротивлявшейся любому проявлению новаторства, эта выставка автору не принесла).</li>
+<li>1987&#160;: Выставка московских живописцев: В. Андреенков, <a href="/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%BD%D0%BE%D0%B2,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Андронов, Николай Иванович">Н. Андронов</a>, <a href="/wiki/%D0%91%D1%83%D0%BB%D0%B3%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0,_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0" title="Булгакова, Ольга Васильевна">О. Булгакова</a>, <a rel="nofollow" class="external text" href="http://www.artpanorama.su/index.php?category=artist&amp;id=75&amp;show=short">Н. Егоршина</a>, В. Кулаков, И. Мещерякова, <a href="/wiki/%D0%A1%D0%B8%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Ситников, Александр Григорьевич">А. Ситников</a>. <a href="/wiki/%D0%94%D1%83%D0%B1%D0%BB%D0%B8%D0%BD" title="Дублин">Дублин</a>, Ирландия.</li>
+<li>1994&#160;: Выставка в галерее «Фиоретто», Венеция, Италия</li>
+<li>1997&#160;: «Пути абстракции», ЦВЗ Манеж, Москва</li>
+<li>2001&#160;: Персональная выставка в Доме художника на ул. Кузнецкий мост. Москва</li>
+<li>2003&#160;: «Абстракция в России. Вторая половина XX&#160;века», <a href="/wiki/%D0%93%D0%A2%D0%93" class="mw-redirect" title="ГТГ">ГТГ</a>, Москва</li>
+<li>2007&#160;: Ретроспектива Владимира Андреенкова в Галерее Нади Брыкиной, <a href="/wiki/%D0%A6%D1%8E%D1%80%D0%B8%D1%85" title="Цюрих">Цюрих</a>. Швейцария</li>
+<li>2010 сентябрь-октябрь&#160;: <a rel="nofollow" class="external text" href="http://artinvestment.ru/news/exhibitions/20101019_andreenkov.html">Юбилейная выставка <b>«Владимир Андреенков. Новые построения»</b></a>, Nadja Brykina Gallery (Мясницкая, 24), Москва</li>
+<li>2013&#160;: «Город», Nadja Brykina Gallery, <a href="/wiki/%D0%A6%D1%8E%D1%80%D0%B8%D1%85" title="Цюрих">Цюрих</a></li>
+<li>2014&#160;: <a rel="nofollow" class="external text" href="http://schwingen.net/events/%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0-%D0%B2%D0%B5%D1%80%D1%82%D0%B8%D0%BA%D0%B0%D0%BB%D0%B8-%D1%86%D1%8E%D1%80%D0%B8%D1%85">Выставка «Вертикали»</a>&#160;: Владимир Андреенков&#160;— <a href="/wiki/%D0%9B%D0%BE%D0%B7%D0%B5,_%D0%A0%D0%B8%D1%85%D0%B0%D1%80%D0%B4_%D0%9F%D0%B0%D1%83%D0%BB%D1%8C" title="Лозе, Рихард Пауль">Рихард Пауль Лозе</a> (24 октября&#160;— 20 декабря, Nadja Brykina Gallery, <a href="/wiki/%D0%A6%D1%8E%D1%80%D0%B8%D1%85" title="Цюрих">Цюрих</a>, Швейцария)</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Видео"><span id=".D0.92.D0.B8.D0.B4.D0.B5.D0.BE"></span>Видео</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Видео»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=3" title="Редактировать код раздела «Видео»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=KI2OSawIhyE">Вернисаж персональной выставки Владимира Андреенкова,</a> приуроченной к его 80-летнему юбилею. Галерея Шазина,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup> Москва. (2010, продолжительность 6 мин.)</li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=gVeeNgljjm4">Художник Владимир Емельянович Андреенков показывает живопись и скульптуру разных лет в своей мастерской</a>. Приезд в Немчиновку, на место, где установлен памятный знак в честь Казимира Малевича. Куб был водружён по выполненному в 1988&#160;году проекту Андреенкова. (Галерея Шазина / Shazina Gallery, 2010; продолжительность 8 мин.)</li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=hvXDBIxjBQ0#t">Прямая речь художника. Владимир Андреенков подводит итог творческого пути</a> в год своего 80-летия. (Галерея Шазина / Shazina Gallery, 2010; продолжительность 11 мин.)</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140819102754/http://brykina.com/galleries/video.php?&amp;video_id=5&amp;lang=de">Film über Vladimir Andreenkov</a>. (Творческий путь художника; фильм на немецком языке, 9 мин. 30 с. Галерея Нади Брыкиной)</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Музейные_коллекции"><span id=".D0.9C.D1.83.D0.B7.D0.B5.D0.B9.D0.BD.D1.8B.D0.B5_.D0.BA.D0.BE.D0.BB.D0.BB.D0.B5.D0.BA.D1.86.D0.B8.D0.B8"></span>Музейные коллекции</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Музейные коллекции»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=4" title="Редактировать код раздела «Музейные коллекции»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/%D0%93%D0%A2%D0%93" class="mw-redirect" title="ГТГ">Государственная Третьяковская галерея, Москва</a></li>
+<li><a href="/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9" class="mw-redirect" title="Государственный Русский музей">Государственный Русский музей, Санкт-Петербург</a></li>
+<li><a href="/wiki/%D0%A2%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2" class="mw-redirect" title="Тульский музей изобразительных искусств">Тульский музей изобразительных искусств</a></li>
+<li><a href="/wiki/%D0%91%D0%B5%D0%BB%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9" title="Белгородский государственный художественный музей">Белгородский государственный художественный музей</a></li>
+<li><a rel="nofollow" class="external text" href="http://orelmusizo.ru/">Орловский музей изобразительных искусств</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140812052011/http://kuzbassizo.ru/">Кемеровской областной музей изобразительных искусств</a></li>
+<li><a rel="nofollow" class="external text" href="http://primgallery.com/">Приморская государственная картинная галерея, г. Владивосток</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%91%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%BD%D0%BE%D0%B9_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%9C%D0%B0%D1%81%D0%BB%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0" class="mw-redirect" title="Могилёвский областной художественный музей имени Масленникова">Могилёвский художественный музей</a>, <a href="/wiki/%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C" title="Беларусь">Республика Беларусь</a></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Изображения_в_сети"><span id=".D0.98.D0.B7.D0.BE.D0.B1.D1.80.D0.B0.D0.B6.D0.B5.D0.BD.D0.B8.D1.8F_.D0.B2_.D1.81.D0.B5.D1.82.D0.B8"></span>Изображения в сети</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Изображения в сети»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=5" title="Редактировать код раздела «Изображения в сети»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140820104802/http://www.brykina.com/galleries/getphoto.php?mode=web&amp;photo_id=78">Автопортрет, 1953</a>. Холст, масло, 51&#160;×&#160;35&#160;см. Галерея Нади Брыкиной</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140819082454/http://iskusstvo.msk.ru/2003/6/i/andreenkov13.jpg">Архангел. Первый вариант. 1962</a>. Холст, масло. 135&#160;×&#160;110&#160;см.</li>
+<li><a rel="nofollow" class="external text" href="http://artinvestment.ru/temp/cache/20101019_transformation.jpg">Трансформация №&#160;41. Воспоминание о Рембрандте. (3-й вариант), 1965</a>. Холст, масло. 92&#160;×&#160;65&#160;см на сайте ArtInvestment.Ru</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140819083142/http://brykina.com/galleries/getphoto.php?mode=web&amp;photo_id=89">Две вертикали, 1971</a>. Холст, масло, 100 х 60&#160;см. Галерея Нади Брыкиной</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140819084025/http://brykina.com/galleries/getphoto.php?mode=web&amp;photo_id=94">Три синих вертикали, 1976</a>. Холст, масло, 160&#160;×&#160;120&#160;см. Галерея Нади Брыкиной</li>
+<li><a rel="nofollow" class="external text" href="http://dbprng00ikc2j.cloudfront.net/work/image/409723/d14s2l/20110205054023-Andreenkov_new_constructions_Oct_2010_Bild_SMALL.jpg">Спокойствие, 1982</a>. Холст, масло, 80 х 60&#160;см. Галерея Нади Брыкиной</li>
+<li><a rel="nofollow" class="external text" href="http://www.senejart.narod.ru/sc-pic/i5666.jpg">В метро. 1985, из серии «Ритмы города»</a> Бумага, цветная <a href="/wiki/%D0%9B%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B2%D1%8E%D1%80%D0%B0" title="Линогравюра">линогравюра</a></li>
+<li><a rel="nofollow" class="external text" href="http://dbprng00ikc2j.cloudfront.net/work/image/415331/d14s2l/20110217022242-Andreenkov_HarmonieNr1_1989_PER_SMALL.jpg">Созвучие №&#160;1. 1989</a>. Холст, масло. 80&#160;×&#160;70&#160;см. Галерея Нади Брыкиной</li>
+<li><a rel="nofollow" class="external text" href="http://www.virtualrm.spb.ru/files/images/%20В.Е.%20Борьба%20есть%20борьба.preview.JPG">Борьба есть борьба. 1990</a>. Цветная линогравюра. 73,3&#160;×&#160;63 / 57&#160;×&#160;48&#160;см. Приморская государственная картинная галерея, г. Владивосток</li>
+<li><a rel="nofollow" class="external text" href="http://shazina.com/big/picture_2301.jpg">Созвучия №&#160;64; серия «В». 1992</a>. Холст, масло, 90&#160;×&#160;80&#160;см. Галерея Шазина</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140819085232/http://iskusstvo.msk.ru/2003/6/i/andreenkov02.jpg">Созвучия. 1995</a>. Бумага, пастель. 31&#160;×&#160;22&#160;см.</li>
+<li><a rel="nofollow" class="external text" href="http://www.brykina.com/img/popup/Vladimir_Andreenkov_61.jpg">Конструкция цвета, 1999</a>. Холст, масло. 80&#160;×&#160;75&#160;см. Галерея Нади Брыкиной</li>
+<li><a rel="nofollow" class="external text" href="http://img1.liveinternet.ru/images/attach/b/2/24/353/24353526_1210071751_IMG_5828.jpg">Трио (скрипка). 2004</a>. Холст, масло, 81&#160;×&#160;41&#160;см. Галерея Шазина</li>
+<li><a rel="nofollow" class="external text" href="http://www.shazina.com/ru/pictures.aspx?PictureID=2271">Трансформация. 1965—2005</a>. Холст на картоне, масло, 50&#160;×&#160;35&#160;см. Галерея Шазина</li>
+<li><a rel="nofollow" class="external text" href="http://www.shazina.com/big/picture_2366.jpg">Конструктивный Крест 1975—2006</a>. Крашенное дерево, 45&#160;×&#160;23&#160;×&#160;22&#160;см. Галерея Шазина</li>
+<li><a rel="nofollow" class="external text" href="http://shazina.com/big/picture_2356.jpg">Рельеф (желто-синий), 2006</a>. Крашенное дерево, 52&#160;×&#160;20&#160;×&#160;6&#160;см. Галерея Шазина</li>
+<li><a rel="nofollow" class="external text" href="http://shazina.com/big/picture_2347.jpg">Конструкция цвета (охра), 2008</a>. Холст, масло, 85&#160;×&#160;70&#160;см. Галерея Шазина</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Литература"><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span>Литература</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Литература»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=6" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Monographie_Vladimir_Andreenkov.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/b/ba/Monographie_Vladimir_Andreenkov.jpg" decoding="async" width="210" height="210" class="mw-file-element" data-file-width="210" data-file-height="210" /></a><figcaption>Urs Häner, Nadja Brykina&#160;: <b>Vladimir Andreenkov. Monographie</b>. 2003</figcaption></figure>
+<ul><li><style data-mw-deduplicate="TemplateStyles:r141305934">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free a::after,.mw-parser-output .id-lock-limited a::after,.mw-parser-output .id-lock-registration a::after,.mw-parser-output .id-lock-subscription a::after,.mw-parser-output .cs1-ws-icon a::after{content:"";width:1.1em;height:1.1em;display:inline-block;vertical-align:middle;background-position:center;background-repeat:no-repeat;background-size:contain}.mw-parser-output .id-lock-free.id-lock-free a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")}.mw-parser-output .id-lock-limited.id-lock-limited a::after,.mw-parser-output .id-lock-registration.id-lock-registration a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")}.mw-parser-output .id-lock-subscription.id-lock-subscription a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")}.mw-parser-output .cs1-ws-icon a::after{background-image:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}html.skin-theme-clientpref-night .mw-parser-output .id-lock-free a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-limited a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-registration a::after,html.skin-theme-clientpref-night .mw-parser-output .id-lock-subscription a::after{filter:invert(1)hue-rotate(180deg)}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}html.skin-theme-clientpref-os .mw-parser-output .id-lock-free a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-limited a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-registration a::after,html.skin-theme-clientpref-os .mw-parser-output .id-lock-subscription a::after{filter:invert(1)hue-rotate(180deg)}}</style><span class="citation no-wikidata" data-wikidata-property-id="P1343">«Другое искусство»: Москва 1956—1976. В двух томах&#32;&#47;&#32;Сост. <a href="/wiki/%D0%A2%D0%B0%D0%BB%D0%BE%D1%87%D0%BA%D0%B8%D0%BD,_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4_%D0%9F%D1%80%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Талочкин, Леонид Прохорович">Л.&#160;П.&#160;Талочкин</a>, И.&#160;Г.&#160;Алпатова.&#160;— Москва: Художественная галерея «Московская коллекция», СП «Интербук», 1991.&#160;— Т.&#160;1, 2.&#160;— С.&#160;172, 174, 205 (I); 8, 17 (II).&#160;— Т.1: 342 с.; Т.2: 234&#160;с.</span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r141305934" /><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Urs Häner, Nadja Brykina.</i>&#32;Vladimir Andreenkov. Monographie&#32;&#47;&#32;Nadja Brykina.&#160;— M, N &amp; O Art Publishing, 2003.&#160;— С.&#160;380 color plates, 416 p..&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5901401158" class="internal mw-magiclink-isbn">ISBN 5-901401-15-8</a>.</span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r141305934" /><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Nadja Brykina, Georgeo Segato, Yuri Zlotnikov, Vladimir Morozov.</i>&#32;<a rel="nofollow" class="external text" href="http://kuenstler.wikia.com/wiki/Datei:Katalog_Vladimir_Andreenkov.jpg">Vladimir Andreenkov. Katalog</a>.&#160;— Nadja Brykina Gallery AG, 2007.&#160;— 200 color plates, 234 p.&#160;с.&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9783952315552" class="internal mw-magiclink-isbn">ISBN 978-3-9523155-5-2</a>.</span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r141305934" /><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Andrei Erofeev und Jean-Hubert Martin.</i>&#32;<a rel="nofollow" class="external text" href="https://archive.org/details/kunstimverborgen0000gosu">Kunst im Verborgenen – Nonkonformisten, Rußland 1957-1995&#160;; aus der Sammlung des Staatlichen Zarizino-Museums</a>.&#160;— München: Prestel, 1995.&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/3791314386" class="internal mw-magiclink-isbn">ISBN 3-7913-1438-6</a>.</span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r141305934" /><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Nadja Brykina, Urs Häner.</i>&#32;Mikhail Krunov, Alexei Kamensky, Vladimir Andreenkov, Yuri Zlotnikov.&#160;— Nadja Brykina Gallery AG., 2006.&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/3033005071" class="internal mw-magiclink-isbn">ISBN 3-033-00507-1</a>.</span></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=7" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Школа была организована в 1939&#160;году, и после войны располагалась в Лаврушинском переулке в Москве, окна в окна со старым зданием <a href="/wiki/%D0%93%D0%A2%D0%93" class="mw-redirect" title="ГТГ">ГТГ</a>. Здесь учился весь цвет будущей московской нонконформистской сцены: <a href="/wiki/%D0%9A%D0%B0%D0%B1%D0%B0%D0%BA%D0%BE%D0%B2,_%D0%98%D0%BB%D1%8C%D1%8F_%D0%98%D0%BE%D1%81%D0%B8%D1%84%D0%BE%D0%B2%D0%B8%D1%87" title="Кабаков, Илья Иосифович">И. Кабаков</a>, <a href="/wiki/%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2,_%D0%9E%D0%BB%D0%B5%D0%B3_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Васильев, Олег Владимирович">О. Васильев</a>, <a href="/wiki/%D0%91%D1%83%D0%BB%D0%B0%D1%82%D0%BE%D0%B2,_%D0%AD%D1%80%D0%B8%D0%BA_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Булатов, Эрик Владимирович">Э. Булатов</a>, <a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Каменский, Алексей Васильевич">А. Каменский</a>, <a href="/wiki/%D0%A1%D0%BE%D0%BA%D0%BE%D0%B2,_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Соков, Леонид Петрович">Л. Соков</a>, <a href="/wiki/%D0%AF%D0%BD%D0%BA%D0%B8%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B8%D1%87" title="Янкилевский, Владимир Борисович">В. Янкилевский</a>, <a href="/wiki/%D0%9C%D0%B0%D0%BA%D0%B0%D1%80%D0%B5%D0%B2%D0%B8%D1%87,_%D0%98%D0%B3%D0%BE%D1%80%D1%8C_%D0%93%D0%BB%D0%B5%D0%B1%D0%BE%D0%B2%D0%B8%D1%87" title="Макаревич, Игорь Глебович">И. Макаревич</a>, <a href="/wiki/%D0%98%D0%BD%D1%84%D0%B0%D0%BD%D1%82%D0%B5,_%D0%A4%D1%80%D0%B0%D0%BD%D1%81%D0%B8%D1%81%D0%BA%D0%BE" title="Инфанте, Франсиско">Ф. Инфанте</a>.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.art-lyceum.ru/index.php?option=com_content&amp;view=article&amp;id=23&amp;Itemid=11">Подробная история первых лет существования «Московской средней художественной школы» на сайте «МАХЛ РАХ»&#160;— сегодняшнего её преемника.</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>&#32;Дата обращения: 17 августа 2014.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20140819123234/http://www.art-lyceum.ru/index.php?option=com_content&amp;view=article&amp;id=23&amp;Itemid=11">Архивировано</a> 19 августа 2014 года.</span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Всесоюзная художественная выставка «40 лет ВЛКСМ». Каталог. М., МК СССР, 1958.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://picasaweb.google.com/106355857965768758829/jBanBE">Пример работы Владимира Андреенкова—иллюстратора: книга «Скандинавские сказания»</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20151029081058/https://picasaweb.google.com/106355857965768758829/jBanBE">Архивная копия</a> от 29 октября 2015 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, М., <a href="/wiki/%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)" title="Детская литература (издательство)">Детская литература</a>, 1970.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ais-aica.ru/index.php?option=com_content&amp;view=article&amp;id=1972:2011-03-04-18-23-34&amp;catid=413&amp;Itemid=267">Страница Александра Ильича Морозова (1941—2010)</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140819095328/http://www.ais-aica.ru/index.php?option=com_content&amp;view=article&amp;id=1972:2011-03-04-18-23-34&amp;catid=413&amp;Itemid=267">Архивная копия</a> от 19 августа 2014 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, доктора искусствознания, профессора, члена-корреспондента РАХ, заслуженного деятеля искусств РФ, на сайте Ассоциации искусствоведов.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text">Вместе с Андреенковым в выставке участвовали <a href="/wiki/%D0%AE%D0%BB%D0%BE_%D0%A1%D0%BE%D0%BE%D1%81%D1%82%D0%B5%D1%80" class="mw-redirect" title="Юло Соостер">Юло Соостер</a>, И. Кабаков, В. Янкилевский, <a href="/wiki/%D0%91%D0%B0%D1%87%D1%83%D1%80%D0%B8%D0%BD,_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Бачурин, Евгений Владимирович">Е. Бачурин</a>, <a href="/wiki/%D0%9A%D1%83%D0%BF%D0%B5%D1%80,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87" title="Купер, Юрий Леонидович">Юрий Купер</a>.<br /> См: <a rel="nofollow" class="external text" href="http://retro.seals.ch/digbib/view?pid=wbw-002:1970:57::1025">Kunstchronik: (Das) Werk, Volume 57 (1970)</a>, Issue 7, Page 487.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">Выставка в Лугано проходила с 11 сентября по 1 ноября 1970&#160;года. Наряду с Андреенковым, в выставке участвовали ещё 57 советских нонконформистов. Среди них такие художники, как Ф. Инфантэ, <a rel="nofollow" class="external text" href="http://www.novymuseum.ru/artists/author/nusberg_l_v/">Л. Нусберг</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140808050608/http://www.novymuseum.ru/artists/author/nusberg_l_v/">Архивная копия</a> от 8 августа 2014 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, <a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%BF%D0%B5%D0%B2%D1%86%D0%B5%D0%B2,_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Краснопевцев, Дмитрий Михайлович">Д. Краснопевцев</a>, <a href="/wiki/%D0%A8%D1%82%D0%B5%D0%B9%D0%BD%D0%B1%D0%B5%D1%80%D0%B3,_%D0%AD%D0%B4%D1%83%D0%B0%D1%80%D0%B4_%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Штейнберг, Эдуард Аркадьевич">Э. Штейнберг</a>, <a href="/wiki/%D0%92%D0%B5%D1%87%D1%82%D0%BE%D0%BC%D0%BE%D0%B2,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Вечтомов, Николай Евгеньевич">Н. Вечтомов</a>, <a href="/wiki/%D0%9D%D0%BE%D0%BB%D0%B5%D0%B2-%D0%A1%D0%BE%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Нолев-Соболев, Юрий Александрович">Ю. Соболев</a>.</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">См: «Другое искусство»: Москва 1956—1976. В двух томах.&#160;— М.: Художественная галерея «Московская коллекция», СП «Интербук»; 1991. Сост. <a href="/wiki/%D0%A2%D0%B0%D0%BB%D0%BE%D1%87%D0%BA%D0%B8%D0%BD,_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4_%D0%9F%D1%80%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Талочкин, Леонид Прохорович">Л.&#160;П.&#160;Талочкин</a>, И.&#160;Г.&#160;Алпатова. Т.1. С.174-175.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">Nuove correnti a Mosca. (New Currents in Moscow)&#160;— Museo Belle Arti, Lugano, Italy&#160;— 1970 Paperback. Publisher: Museo Belle Arti (1970).</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">12 января—10 февраля 1974; Музей <a href="/wiki/%D0%91%D0%BE%D1%85%D1%83%D0%BC" title="Бохум">Бохума</a> / Museum Bochum. Ausstellungskatalog, editor Arsén Pohribný.</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><span data-interwiki-lang="en" data-interwiki-article="Shazina Gallery"><a href="/w/index.php?title=%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F_%D0%A8%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Галерея Шазина (страница отсутствует)">Галерея Шазина в Википедии</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a href="https://en.wikipedia.org/wiki/Shazina_Gallery" class="extiw" title="en:Shazina Gallery"><span title="Shazina Gallery — версия статьи «Галерея Шазина» на английском языке">[англ.]</span></a></sup></span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Ссылки"><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span>Ссылки</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Ссылки»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=8" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140819082836/http://www.art9.ru/andreenkov_info.php">Страница Андреенкова на <b>Art9.Ru</b></a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140819084310/http://iskusstvo.msk.ru/2003/6/05_48_55.htm">Беседа Владимира Андреенкова</a> с искусствоведом <a href="/wiki/%D0%91%D0%BE%D0%B4%D0%B5,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Боде, Михаил Юрьевич">Михаилом Боде</a>; опубликована в журнале «<a href="/wiki/%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE_(%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB)" title="Искусство (журнал)">Искусство</a>», №&#160;6, 2003</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140819084957/http://www.brykina.com/galleries/?target_id=4">62 работы художника, созданные с 1953-го по 2004&#160;год на сайте <b>Nadja Brykina Gallery</b></a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140819091713/http://kuenstler.wikia.com/wiki/Wladimir_Jemeljanowitsch_Andrejenkow">Страница В. Андреенкова на <b>Künstler Wiki</b></a></li>
+<li><a rel="nofollow" class="external text" href="http://www.shazina.com/ru/persons.aspx?PersonID=35">Страница художника Андреенкова на сайте <b>Галерея Шазина</b></a> (живопись, скульптура, видео)</li>
+<li><a rel="nofollow" class="external text" href="http://www.russianartgallery.org/contemporary/andreenkov.php">24 картины Андреенкова разных лет</a>, биография на английском языке на сайте <b>Contemporary Russian Art</b></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Ссылки_на_внешние_ресурсы" data-name="External links" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div class="skin-invert-image" style="float: left;"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span>&#160;<span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q18019647#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div>&#160;&#160;В&#160;библиографических каталогах</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <a rel="nofollow" class="external text" href="https://d-nb.info/gnd/137345992">137345992</a></li>
+<li><a href="/wiki/VIAF" title="VIAF">VIAF</a>: <a rel="nofollow" class="external text" href="https://viaf.org/viaf/81549430/">81549430</a></li>
+<li><a href="/wiki/WorldCat" title="WorldCat">WorldCat VIAF</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/81549430">81549430</a></li></ul>
+</div></td></tr></tbody></table></div></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=0" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Андреенков,_Владимир_Емельянович&amp;oldid=142930137">https://ru.wikipedia.org/w/index.php?title=Андреенков,_Владимир_Емельянович&amp;oldid=142930137</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_23_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="Категория:Родившиеся 23 августа">Родившиеся 23 августа</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_1930_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Родившиеся в 1930 году">Родившиеся в 1930 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_%D0%A7%D0%B0%D1%83%D1%81%D0%B0%D1%85" title="Категория:Родившиеся в Чаусах">Родившиеся в Чаусах</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Персоналии по алфавиту">Персоналии по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Художники по алфавиту">Художники по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D0%B8_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Деятели изобразительного искусства по алфавиту">Деятели изобразительного искусства по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_XX_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Художники XX века">Художники XX века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_XXI_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Художники XXI века">Художники XXI века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Художники СССР">Художники СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Художники России">Художники России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA%D0%B8_%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BB%D0%B8%D1%86%D0%B5%D1%8F" title="Категория:Выпускники Московского академического художественного лицея">Выпускники Московского академического художественного лицея</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA%D0%B8_%D0%9C%D0%93%D0%A5%D0%98_%D0%B8%D0%BC._%D0%A1%D1%83%D1%80%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0" title="Категория:Выпускники МГХИ им. Сурикова">Выпускники МГХИ им. Сурикова</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BD%D0%B5%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Художники неофициального искусства СССР">Художники неофициального искусства СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Современные художники России">Современные художники России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Графики России">Графики России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B8_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Графики СССР">Графики СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8-%D0%B8%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Художники-иллюстраторы России">Художники-иллюстраторы России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B" title="Категория:Художники Москвы">Художники Москвы</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D0%BE%D1%80%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Скульпторы России">Скульпторы России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D0%BE%D1%80%D1%8B_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B" title="Категория:Скульпторы Москвы">Скульпторы Москвы</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D0%BE%D1%80%D1%8B_XXI_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Скульпторы XXI века">Скульпторы XXI века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D0%BE%D1%80%D1%8B-%D0%B0%D0%B1%D1%81%D1%82%D1%80%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D1%81%D1%82%D1%8B" title="Категория:Скульпторы-абстракционисты">Скульпторы-абстракционисты</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8-%D0%B0%D0%B1%D1%81%D1%82%D1%80%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B8%D1%81%D1%82%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Художники-абстракционисты России">Художники-абстракционисты России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D0%B1%D1%81%D1%82%D1%80%D0%B0%D0%BA%D1%86%D0%B8%D0%B8" title="Категория:Художники геометрической абстракции">Художники геометрической абстракции</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8_%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Категория:Википедия:Биографии современников">Википедия:Биографии современников</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8:_%D0%B7%D0%B0%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D1%8C_%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_P373_%D0%B2_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Википедия:Статьи с изображениями: заполнить свойство P373 в Викиданных">Википедия:Статьи с изображениями: заполнить свойство P373 в Викиданных</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2%2C+%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80+%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2%2C+%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80+%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-namespaces-label"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;oldid=142930137" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2%2C_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;id=142930137&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2590%25D0%25BD%25D0%25B4%25D1%2580%25D0%25B5%25D0%25B5%25D0%25BD%25D0%25BA%25D0%25BE%25D0%25B2%2C_%25D0%2592%25D0%25BB%25D0%25B0%25D0%25B4%25D0%25B8%25D0%25BC%25D0%25B8%25D1%2580_%25D0%2595%25D0%25BC%25D0%25B5%25D0%25BB%25D1%258C%25D1%258F%25D0%25BD%25D0%25BE%25D0%25B2%25D0%25B8%25D1%2587"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2590%25D0%25BD%25D0%25B4%25D1%2580%25D0%25B5%25D0%25B5%25D0%25BD%25D0%25BA%25D0%25BE%25D0%25B2%2C_%25D0%2592%25D0%25BB%25D0%25B0%25D0%25B4%25D0%25B8%25D0%25BC%25D0%25B8%25D1%2580_%25D0%2595%25D0%25BC%25D0%25B5%25D0%25BB%25D1%258C%25D1%258F%25D0%25BD%25D0%25BE%25D0%25B2%25D0%25B8%25D1%2587"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2%2C_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q18019647" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q18019647#sitelinks-wikipedia" title="Добавить ссылки на другие языки" class="wbc-editpage">Добавить ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 24 января 2025 в 18:39.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.log.warn("This page is using the deprecated ResourceLoader module \"codex-search-styles\".\n[1.43] Use a CodexModule with codexComponents to set your specific components used: https://www.mediawiki.org/wiki/Codex#Using_a_limited_subset_of_components");mw.config.set({"wgHostname":"mw-web.eqiad.main-8669bc5c8-9rqss","wgBackendResponseTime":175,"wgPageParseReport":{"limitreport":{"cputime":"0.564","walltime":"0.781","ppvisitednodes":{"value":2846,"limit":1000000},"postexpandincludesize":{"value":44646,"limit":2097152},"templateargumentsize":{"value":8256,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":10,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":21801,"limit":5000000},"entityaccesscount":{"value":10,"limit":400},"timingprofile":["100.00%  717.640      1 -total"," 62.28%  446.936      1 Шаблон:Художник"," 58.32%  418.531      1 Шаблон:Карточка"," 31.50%  226.030     11 Шаблон:Wikidata","  9.71%   69.707      1 Шаблон:ВС","  7.60%   54.523      5 Шаблон:Книга","  7.06%   50.647      1 Шаблон:Примечания","  6.80%   48.797      1 Шаблон:ФИО","  5.96%   42.759      1 Шаблон:Карточка/оригинал_имени","  5.63%   40.426      1 Шаблон:ВД-Преамбула"]},"scribunto":{"limitreport-timeusage":{"value":"0.391","limit":"10.000"},"limitreport-memusage":{"value":7203293,"limit":52428800},"limitreport-logs":"Loaded datatype string of P742 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P136 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-web.eqiad.main-5b95fccc77-b99vd","timestamp":"20250317123932","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0410\u043d\u0434\u0440\u0435\u0435\u043d\u043a\u043e\u0432, \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u0415\u043c\u0435\u043b\u044c\u044f\u043d\u043e\u0432\u0438\u0447","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%87","sameAs":"http:\/\/www.wikidata.org\/entity\/Q18019647","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q18019647","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2014-08-16T16:54:24Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/00\/Vladimir_Andreenkov_Portrait.jpg"}</script>
+</body>
+</html>

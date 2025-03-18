@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Авидан, Давид — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"cfc9edcd-dfbd-4386-b3d9-e434fd1bba59","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Авидан,_Давид","wgTitle":"Авидан, Давид","wgCurRevisionId":140553906,"wgRevisionId":140553906,"wgArticleId":5724190,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Страницы, использующие расширение JsonConfig","Википедия:Cite web (не указан язык)","Статьи о писателях без ссылки на Викитеку","Шаблон:Писатель:гражданство:Непустое значение","Страницы, использующие волшебные ссылки ISBN","Родившиеся 21 февраля","Родившиеся в 1934 году","Умершие 11 мая","Умершие в 1995 году","Выпускники Еврейского университета в Иерусалиме","Лауреаты премии имени Бялика","Персоналии по алфавиту","Писатели по алфавиту","Умершие в Тель-Авиве","Поэты Израиля","Поэты на иврите","Художники Израиля","Режиссёры Израиля","Поэты XX века","Художники XX века"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Авидан,_Давид","wgRelevantArticleId":5724190,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":140553906,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q706526","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};
+RLSTATE={"ext.gadget.common-site":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","codex-search-styles":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","oojs-ui.styles.icons-media","oojs-ui-core.icons"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.44.0-wmf.20">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/d5/David_Avidan_sketch.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1142">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/d5/David_Avidan_sketch.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="761">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/David_Avidan_sketch.png/640px-David_Avidan_sketch.png">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="609">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Авидан, Давид — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="//ru.m.wikipedia.org/wiki/%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="login.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Авидан_Давид rootpage-Авидан_Давид skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Авидан, Давид</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div role="note" class="hatnote navigation-not-searchable dabhide">В Википедии есть статьи о других людях с фамилией <a href="/wiki/%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD" class="mw-disambig" title="Авидан">Авидан</a>.</div>
+<table class="infobox infobox-e63aa12f0a1fbc9a" style="" data-name="Писатель"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Давид Авидан</th></tr><tr><td colspan="2" class="" style="text-align:center;"><span data-wikidata-property-id="P1559" class="no-wikidata"><a href="/wiki/%D0%98%D0%B2%D1%80%D0%B8%D1%82" title="Иврит">ивр.</a> <span lang="he" dir="rtl" style="font-size: 110%; font-style: normal; line-height: 1em;">דוד אבידן</span>&#8206;</span></td></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-claim-id="Q706526$7ADB6B50-04E7-4544-810F-BDD5E56F8BD9" class="wikidata-claim" data-wikidata-property-id="P18"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File/Frameless"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:David_Avidan_sketch.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/David_Avidan_sketch.png/274px-David_Avidan_sketch.png" decoding="async" width="274" height="261" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/David_Avidan_sketch.png/411px-David_Avidan_sketch.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/David_Avidan_sketch.png/548px-David_Avidan_sketch.png 2x" data-file-width="701" data-file-height="667" /></a></span></span></span> </td></tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:9em;">Имя при рождении</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q706526$958be5c7-4dbb-8633-a0c6-ae45986d2de4" class="wikidata-claim" data-wikidata-property-id="P1477"><span class="wikidata-snak wikidata-main-snak"><span lang="mul" style="font-style:italic;">David Moritz (דוד מוריץ)</span></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:9em;">Дата рождения</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P569"><span class="nowrap"><a href="/wiki/21_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F" title="21 февраля">21 февраля</a> <a href="/wiki/1934_%D0%B3%D0%BE%D0%B4" title="1934 год">1934</a></span><span style="display:none">(<span class="bday">1934-02-21</span>)</span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:9em;">Место рождения</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P19" class="no-wikidata"><a href="/wiki/%D0%A2%D0%B5%D0%BB%D1%8C-%D0%90%D0%B2%D0%B8%D0%B2" title="Тель-Авив">Тель-Авив</a>, <a href="/wiki/%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C" title="Израиль">Израиль</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:9em;">Дата смерти</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P570"><span class="nowrap"><a href="/wiki/11_%D0%BC%D0%B0%D1%8F" title="11 мая">11 мая</a> <a href="/wiki/1995_%D0%B3%D0%BE%D0%B4" title="1995 год">1995</a></span><span style="display:none">(<span class="dday">1995-05-11</span>)</span></span> <span class="nowrap">(61 год)</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:9em;">Место смерти</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P20" class="no-wikidata">Там же</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:9em;">Гражданство</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P27" class="no-wikidata"><span class="nowrap" data-sort-value="Израиль"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/22px-Flag_of_Israel.svg.png" decoding="async" width="22" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/33px-Flag_of_Israel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/44px-Flag_of_Israel.svg.png 2x" data-file-width="1100" data-file-height="800" /></span></span></span>&#160;<a href="/wiki/%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C" title="Израиль"><span class="wrap">Израиль</span></a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:9em;">Образование</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q706526$78607FBB-DAE6-4A6A-B21F-C4E7E7CA1C84" class="wikidata-claim" data-wikidata-property-id="P69"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%95%D0%B2%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%B2_%D0%98%D0%B5%D1%80%D1%83%D1%81%D0%B0%D0%BB%D0%B8%D0%BC%D0%B5" title="Еврейский университет в Иерусалиме">Еврейский университет в Иерусалиме</a></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:9em;">Род деятельности</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q706526$B84A6363-370A-4C6F-9DED-B10CB484981D" class="wikidata-claim" data-wikidata-property-id="P106"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9F%D0%BE%D1%8D%D1%82" title="Поэт">поэт</a></span></span>,&#32;<span data-wikidata-claim-id="Q706526$599DBA1B-342A-47C6-A887-5D7485492782" class="wikidata-claim" data-wikidata-property-id="P106"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA" title="Художник">художник</a></span></span>,&#32;<span data-wikidata-claim-id="Q706526$94B91038-B6AF-46DB-9BA7-9704CF10B043" class="wikidata-claim" data-wikidata-property-id="P106"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9F%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" title="Писатель">писатель</a></span></span>,&#32;<span data-wikidata-claim-id="Q706526$69AA9E92-7165-40B9-BDC4-A8672529FC09" class="wikidata-claim" data-wikidata-property-id="P106"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%90%D0%BA%D1%82%D1%91%D1%80" class="mw-redirect" title="Актёр">актёр</a></span></span>,&#32;<span data-wikidata-claim-id="Q706526$0A6FA284-F7FC-4BEF-97A0-7C48B6FBBD24" class="wikidata-claim" data-wikidata-property-id="P106"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA" title="Переводчик">переводчик</a></span></span>,&#32;<span data-wikidata-claim-id="Q706526$F9F26444-3602-46BA-B91E-4AAD48765AFF" class="wikidata-claim" data-wikidata-property-id="P106"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9A%D0%B8%D0%BD%D0%BE%D0%B0%D0%BA%D1%82%D1%91%D1%80" class="mw-redirect" title="Киноактёр">киноактёр</a></span></span>,&#32;<span data-wikidata-claim-id="Q706526$1981CCF6-D49B-470D-993F-59BF07F77A92" class="wikidata-claim" data-wikidata-property-id="P106"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9A%D0%B8%D0%BD%D0%BE%D1%80%D0%B5%D0%B6%D0%B8%D1%81%D1%81%D1%91%D1%80" title="Кинорежиссёр">кинорежиссёр</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:9em;">Годы творчества</th>
+<td class="plainlist">
+с <span class="wikidata-claim" data-wikidata-property-id="P2031" data-wikidata-claim-id="Q706526$02A1401D-CDC5-413A-A4D6-68923B4F89C5"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/1952_%D0%B3%D0%BE%D0%B4" title="1952 год">1952</a></span></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:9em;">Язык произведений</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P6886" class="no-wikidata"><a href="/wiki/%D0%98%D0%B2%D1%80%D0%B8%D1%82" title="Иврит">Иврит</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:9em;">Премии</th>
+<td class="plainlist">
+<a href="/wiki/%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%91%D1%8F%D0%BB%D0%B8%D0%BA%D0%B0" title="Литературная премия имени Бялика">Литературная премия имени Бялика</a> (<a href="/wiki/1993_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B5" title="1993 год в литературе">1993</a>)</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:9em;">Награды</th>
+<td class="plainlist">
+<div style="text-align:justify"><span class="wikidata-claim" data-wikidata-property-id="P166" data-wikidata-claim-id="Q706526$CFBFAF9F-892A-4999-8CAD-0E56E8170A36"><span class="wikidata-snak wikidata-main-snak"><span style="display:inline-block; text-align:left"><a href="/wiki/%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%91%D1%8F%D0%BB%D0%B8%D0%BA%D0%B0" title="Литературная премия имени Бялика">литературная премия имени Бялика</a> (<span class="nowrap"><a href="/wiki/1993_%D0%B3%D0%BE%D0%B4" title="1993 год">1993</a></span>)</span></span></span></div></td>
+</tr><tr><td colspan="2" class="infobox-below" style=";"><span data-wikidata-claim-id="Q706526$700B0ACD-33CA-441C-B270-71DF6A1EC098" class="wikidata-claim" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:David_Avidan" title="commons:Category:David Avidan"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></span>&#160;<a href="https://commons.wikimedia.org/wiki/Category:David_Avidan" class="extiw" title="commons:Category:David Avidan">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table>
+<p><b>Давид Авидан</b> (<a href="/wiki/%D0%98%D0%B2%D1%80%D0%B8%D1%82" title="Иврит">ивр.</a> <span lang="he" dir="rtl" style="font-size: 110%; font-style: normal; line-height: 1em;">דוד אבידן</span>&#8206;; <a href="/wiki/21_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F" title="21 февраля">21 февраля</a>, <a href="/wiki/1934" class="mw-redirect" title="1934">1934</a>, <a href="/wiki/%D0%A2%D0%B5%D0%BB%D1%8C-%D0%90%D0%B2%D0%B8%D0%B2" title="Тель-Авив">Тель-Авив</a>, <a href="/wiki/%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C" title="Израиль">Израиль</a>&#160;— <a href="/wiki/11_%D0%BC%D0%B0%D1%8F" title="11 мая">11 мая</a>, <a href="/wiki/1995" class="mw-redirect" title="1995">1995</a>, там же)&#160;— израильский <a href="/wiki/%D0%9F%D0%BE%D1%8D%D1%82" title="Поэт">поэт</a>, <a href="/wiki/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA" title="Художник">художник</a>, <a href="/wiki/%D0%9A%D0%B8%D0%BD%D0%BE%D1%80%D0%B5%D0%B6%D0%B8%D1%81%D1%81%D1%91%D1%80" title="Кинорежиссёр">кинорежиссёр</a>, <a href="/wiki/%D0%9F%D1%83%D0%B1%D0%BB%D0%B8%D1%86%D0%B8%D1%81%D1%82" class="mw-redirect" title="Публицист">публицист</a> и <a href="/wiki/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D1%81%D1%82" title="Сценарист">киносценарист</a>. Авидан&#160;— автор 20 книг <a href="/wiki/%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%B0_%D0%BD%D0%B0_%D0%B8%D0%B2%D1%80%D0%B8%D1%82%D0%B5" title="Литература на иврите">поэзии на иврите</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Биография_и_литературная_деятельность"><span class="tocnumber">1</span> <span class="toctext">Биография и литературная деятельность</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Награды"><span class="tocnumber">2</span> <span class="toctext">Награды</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Книги_стихов"><span class="tocnumber">3</span> <span class="toctext">Книги стихов</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Переводы_на_русский_язык"><span class="tocnumber">4</span> <span class="toctext">Переводы на русский язык</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Ссылки"><span class="tocnumber">5</span> <span class="toctext">Ссылки</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Примечания"><span class="tocnumber">6</span> <span class="toctext">Примечания</span></a></li>
+</ul>
+</div>
+
+<div class="mw-heading mw-heading2"><h2 id="Биография_и_литературная_деятельность"><span id=".D0.91.D0.B8.D0.BE.D0.B3.D1.80.D0.B0.D1.84.D0.B8.D1.8F_.D0.B8_.D0.BB.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.BD.D0.B0.D1.8F_.D0.B4.D0.B5.D1.8F.D1.82.D0.B5.D0.BB.D1.8C.D0.BD.D0.BE.D1.81.D1.82.D1.8C"></span>Биография и литературная деятельность</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Биография и литературная деятельность»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4&amp;action=edit&amp;section=1" title="Редактировать код раздела «Биография и литературная деятельность»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Авидан родился в <a href="/wiki/%D0%A2%D0%B5%D0%BB%D1%8C-%D0%90%D0%B2%D0%B8%D0%B2" title="Тель-Авив">Тель-Авиве</a>, серьезно начал заниматься литературной деятельностью в начале 1950-х годов, будучи студентом <a href="/wiki/%D0%95%D0%B2%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%B2_%D0%98%D0%B5%D1%80%D1%83%D1%81%D0%B0%D0%BB%D0%B8%D0%BC%D0%B5" title="Еврейский университет в Иерусалиме">Еврейского университета в Иерусалиме</a>, где изучал литературу и философию. В основном он писал на <a href="/wiki/%D0%98%D0%B2%D1%80%D0%B8%D1%82" title="Иврит">иврите</a>, был так же и художником авангардистского толка. Авидан переводил собственные стихи на английский язык, получил несколько наград и как поэт, и как <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA" title="Переводчик">переводчик</a>.
+</p><p>Состоял в поэтической группе «Ликрат» (вместе с <a href="/wiki/%D0%97%D0%B0%D1%85,_%D0%9D%D0%B0%D1%82%D0%B0%D0%BD" title="Зах, Натан">Натаном Захом</a>, <a href="/wiki/%D0%90%D0%BC%D0%B8%D1%85%D0%B0%D0%B9,_%D0%98%D0%B5%D1%85%D1%83%D0%B4%D0%B0" title="Амихай, Иехуда">Йехудой Амихаем</a>, <a href="/w/index.php?title=%D0%94%D0%BE%D1%80,_%D0%9C%D0%BE%D1%88%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Дор, Моше (страница отсутствует)">Моше Дором</a> и др.). Авидан был кандидатом на получение Нобелевской премии, но при этом ему не предлагали достойного заработка или не платили гонораров<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>, а также критиковали за <a href="/wiki/%D0%AD%D0%B3%D0%BE%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B8%D0%B7%D0%BC" title="Эгоцентризм">эгоцентризм</a>, <a href="/wiki/%D0%A8%D0%BE%D0%B2%D0%B8%D0%BD%D0%B8%D0%B7%D0%BC" title="Шовинизм">шовинистские</a> и <a href="/wiki/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%B8%D1%8F" title="Технократия">технократические</a> взгляды. Отрицательные отзывы критики получила, в частности, его первая книга стихов «Бразим аруфей сфатаим» («Краны с отрубленными губами», 1954). Первый благоприятный отзыв написал Габриэль Мокед (редактор литературного периодического издания «Ахшав»), который впоследствии стал одним из самых близких друзей Авидана.
+</p><p>Тем не менее к началу 1990-х годов из-за проблем с заработком, психическое состояние Авидана ухудшилось; в 1995 году он покончил с собой в Тель-Авиве.
+</p><p>Только после смерти литературная репутация Авидана изменилась в положительную сторону и в профессиональных кругах, и в читательском пространстве. Теперь он входит в канон израильских поэтов в качестве одной из ключевых фигур наряду с Иегудой Амихаей и Натаном Захом, которые актуализировали применительно к ивритской поэзии англо-американскую традицию.
+</p><p>Авидан по сравнению с Амихаем и Захом отличается более радикальной поэтикой, что усложняет переводческую задачу. Одним из лучших переводчиков Авидана на русский считается поэт <a href="/wiki/%D0%93%D1%80%D0%B8%D0%BD%D0%B1%D0%B5%D1%80%D0%B3,_%D0%A1%D0%B0%D0%B2%D0%B5%D0%BB%D0%B8%D0%B9_%D0%A1%D0%BE%D0%BB%D0%BE%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Гринберг, Савелий Соломонович">Савелий Гринберг</a><sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>. Книга переводов Гринберга с послесловием <a href="/wiki/%D0%97%D0%B8%D0%BD%D0%B3%D0%B5%D1%80,_%D0%9D%D0%B5%D0%BA%D0%BE%D0%B4" title="Зингер, Некод">Некода Зингера</a> вышла в издательстве «Мосты Культуры/Гешарим» в 2003 году.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Награды"><span id=".D0.9D.D0.B0.D0.B3.D1.80.D0.B0.D0.B4.D1.8B"></span>Награды</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Награды»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4&amp;action=edit&amp;section=2" title="Редактировать код раздела «Награды»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В 1993 году Авидан стал лауреатом (совместно с <a href="/wiki/%D0%9A%D0%B0%D1%85%D0%B0%D0%BD%D0%B0-%D0%9A%D0%B0%D1%80%D0%BC%D0%BE%D0%BD,_%D0%90%D0%BC%D0%B0%D0%BB%D0%B8%D1%8F" title="Кахана-Кармон, Амалия">Амалией Кахана-Кармон</a>) <a href="/wiki/%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%91%D1%8F%D0%BB%D0%B8%D0%BA%D0%B0" title="Литературная премия имени Бялика">премии имени Х. Бялика</a><sup id="cite_ref-bialik_6-0" class="reference"><a href="#cite_note-bialik-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Книги_стихов"><span id=".D0.9A.D0.BD.D0.B8.D0.B3.D0.B8_.D1.81.D1.82.D0.B8.D1.85.D0.BE.D0.B2"></span>Книги стихов</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Книги стихов»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4&amp;action=edit&amp;section=3" title="Редактировать код раздела «Книги стихов»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li>«Краны с отрубленными губами» («Бразим аруфей сфатаим»), 1954;</li>
+<li>«Личные проблемы» («Бе́айот ишийот»), 1957;</li>
+<li>«Промежуточный итог» («Сиккум бейнаим»), 1960;</li>
+<li>«Pressure Poems», 1962;</li>
+<li>«Кое-что для кое-кого», 1964;</li>
+<li>«Невозможные стихи» («Ширим билти эфшариим»), 1970;</li>
+<li>«Прикладные стихи» («Ширим шимушиим»), 1973;</li>
+<li>«Книга возможностей&#160;— поэмы и более», 1985.</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Переводы_на_русский_язык"><span id=".D0.9F.D0.B5.D1.80.D0.B5.D0.B2.D0.BE.D0.B4.D1.8B_.D0.BD.D0.B0_.D1.80.D1.83.D1.81.D1.81.D0.BA.D0.B8.D0.B9_.D1.8F.D0.B7.D1.8B.D0.BA"></span>Переводы на русский язык</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Переводы на русский язык»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4&amp;action=edit&amp;section=4" title="Редактировать код раздела «Переводы на русский язык»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li>Авидан Д. Сборник стихотворений / Пер. с иврита С. Гринберга. М.: Мосты культуры; Иерусалим: Гешарим, 2003. 208 с. <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5932731494" class="internal mw-magiclink-isbn">ISBN 5-93273-149-4</a></li>
+<li>Антология ивритской литературы. Еврейская литература 19-20 веков в русских переводах. Составители: Хамуталь Бар-Йосеф, Зоя Копельман. М., 1999. 631 с.</li>
+<li>Авидан Д. <a rel="nofollow" class="external text" href="http://samlib.ru/d/dubinskaja_a_a/">Кое-что для кое-кого</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150530183040/http://samlib.ru/d/dubinskaja_a_a/">Архивная копия</a> от 30 мая 2015 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> / Пер. А. Дубинской</li>
+<li>Авидан Д. <a rel="nofollow" class="external text" href="http://www.litural.ru/?file=770">Из ранних стихотворений</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150530203740/http://www.litural.ru/?file=770">Архивная копия</a> от 30 мая 2015 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> / Пер. с иврита Н. Быстров</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Ссылки"><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span>Ссылки</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Ссылки»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4&amp;action=edit&amp;section=5" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a rel="nofollow" class="external text" href="http://vcisch1.narod.ru/AVIDAN/Avidan.htm">vcisch1.narod</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20150530182857/http://vcisch1.narod.ru/AVIDAN/Avidan.htm">Архивная копия</a> от 30 мая 2015 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>&#160;— информация и переводы стихов Д. Авидана</li>
+<li><span class="citation"> <i><a rel="nofollow" class="external text" href="https://eleven.co.il/article/10032">Авидан Давид</a></i> — статья из <a href="/wiki/%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F_%D0%B5%D0%B2%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F#Электронная_версия" title="Краткая еврейская энциклопедия">Электронной еврейской энциклопедии</a></span></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070501045434/http://library.osu.edu/sites/users/galron.1/00470.php">לקסיקון הספרות העברית החדשה&#160;— דוד אבידן </a></li>
+<li><a rel="nofollow" class="external text" href="http://query.nytimes.com/gst/fullpage.html?res=990CEFDE1E3EF930A25756C0A963958260">NY Times obituary, retrieved October 5, 2008</a></li>
+<li><a rel="nofollow" class="external text" href="https://dvoetochie.wordpress.com/2014/06/04/singer-avidan/">Некод Зингер. "Авиданиум" Гринберга</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20180710225338/https://dvoetochie.wordpress.com/2014/06/04/singer-avidan/">Архивная копия</a> от 10 июля 2018 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4&amp;action=edit&amp;section=6" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://vcisch1.narod.ru/AVIDAN/Avidan.htm">Страница Давида Авидана на vcisch1.narod.ru</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 30 мая 2015.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150530182857/http://vcisch1.narod.ru/AVIDAN/Avidan.htm">Архивировано</a> 30 мая 2015 года.</span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://magazines.gorky.media/arion/2004/3/zi28-pr.html">Некод Зингер&#160;— О назначении поэта и поэзии (израильская поэзия на иврите) // «Арион», 2004. №&#160;3.</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>&#32;Дата обращения: 30 мая 2015.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150528224956/http://magazines.russ.ru/arion/2004/3/zi28-pr.html">Архивировано</a> 28 мая 2015 года.</span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://magazines.gorky.media/zerkalo/2000/15/13sha.html">Яков Шаус&#160;— Обманчивый лаконизм // «Зеркало», 2000. №&#160;15-16.</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>&#32;Дата обращения: 30 мая 2015.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150530183955/http://magazines.russ.ru/zerkalo/2000/15/13sha.html">Архивировано</a> 30 мая 2015 года.</span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://magazines.gorky.media/nlo/2004/68/bara21.html">Александр Бараш&#160;— Русско-ивритские литературные связи в режиме real time // «НЛО», 2004. №&#160;68.</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>&#32;Дата обращения: 30 мая 2015.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150530183117/http://magazines.russ.ru/nlo/2004/68/bara21.html">Архивировано</a> 30 мая 2015 года.</span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://magazines.gorky.media/zerkalo/2005/25/aig6.html">Геннадий Айги&#160;— Я — малевичеанец // «Зеркало», 2005. №&#160;25.</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>&#32;Дата обращения: 30 мая 2015.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150530183744/http://magazines.russ.ru/zerkalo/2005/25/aig6.html">Архивировано</a> 30 мая 2015 года.</span></span>
+</li>
+<li id="cite_note-bialik-6"><span class="mw-cite-backlink"><a href="#cite_ref-bialik_6-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.tel-aviv.gov.il/Hebrew/_MultimediaServer/Documents/12516738.pdf">List of Bialik Prize recipients 1933–2004 (in Hebrew), Tel Aviv Municipality website</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20071217143811/http://www.tel-aviv.gov.il/Hebrew/_MultimediaServer/Documents/12516738.pdf">Архивировано</a> 17 декабря 2007 года.</span></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Ссылки_на_внешние_ресурсы" data-name="External links" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div class="skin-invert-image" style="float: left;"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span>&#160;<span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q706526#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div>&#160;&#160;Тематические сайты</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://www.discogs.com/artist/3776638">Discogs</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.imdb.com/name/nm0043117">Internet Movie Database</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.kinopoisk.ru/name/1197911/">Кинопоиск</a></li>
+<li><a rel="nofollow" class="external text" href="https://musicbrainz.org/artist/6fda22cc-86e4-4369-918e-b1fa2cb60d01">MusicBrainz</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Словари и энциклопедии</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://www.zgbk.com/ecph/words?SiteID=1&amp;ID=233884">Большая китайская</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.sapere.it/enciclopedia/Avidan,+David.html">De Agostini</a></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><style data-mw-deduplicate="TemplateStyles:r113287755">.mw-parser-output .ts-navbox-plaintitle{font-size:100%!important;margin:0 6em!important}</style></div><table class="nowraplinks authoritycontrol collapsible collapsed navbox-subgroup" style="border-spacing:0;text-align: left;"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><div id="В_библиографических_каталогах" class="ts-navbox-plaintitle" style="font-size:114%;margin:0 5em">В&#160;библиографических каталогах</div></th></tr><tr><td class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Национальная библиотека Франции">BNF</a>: <a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb15517157v">15517157v</a></li>
+<li><a href="/wiki/CiNii" title="CiNii">CiNii</a>: <a rel="nofollow" class="external text" href="https://ci.nii.ac.jp/author/DA0382891X">DA0382891X</a></li>
+<li><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <a rel="nofollow" class="external text" href="https://d-nb.info/gnd/103647791">103647791</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D1%85_%D0%BD%D0%B0%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9" title="Международный идентификатор стандартных наименований">ISNI</a>: <a rel="nofollow" class="external text" href="http://isni.org/isni/0000000122804630">0000000122804630</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F" title="Национальная библиотека Израиля">J9U</a>: <a rel="nofollow" class="external text" href="https://www.nli.org.il/en/authorities/987007258180405171">987007258180405171</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B0" title="Контрольный номер Библиотеки Конгресса">LCCN</a>: <a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/n84160653">n84160653</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B8_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%97%D0%B0%D0%B3%D1%80%D0%B5%D0%B1%D0%B0" title="Национальная и университетская библиотека Загреба">NSK</a>: <a rel="nofollow" class="external text" href="https://katalog.nsk.hr/F/?func=direct&amp;local_base=nsk10&amp;doc_number=000294378">000294378</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%BE%D0%B2" title="Королевская национальная библиотека Нидерландов">NTA</a>: <a rel="nofollow" class="external text" href="https://data.bibliotheken.nl/doc/thes/p113618956">113618956</a></li>
+<li><a href="/wiki/NUKAT" title="NUKAT">NUKAT</a>: <a rel="nofollow" class="external text" href="http://nukat.edu.pl/aut/n%202008083486">n2008083486</a></li>
+<li><a href="/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8" title="Университетская система документации">SUDOC</a>: <a rel="nofollow" class="external text" href="https://www.idref.fr/116387742">116387742</a></li>
+<li><a href="/wiki/VIAF" title="VIAF">VIAF</a>: <a rel="nofollow" class="external text" href="https://viaf.org/viaf/56919013/">56919013</a></li>
+<li><a href="/wiki/WorldCat" title="WorldCat">WorldCat VIAF</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/56919013">56919013</a></li>
+<li><span title="Union List of Artist Names" style="border-bottom: 1px dotted; cursor: help;">ULAN</span>: <a rel="nofollow" class="external text" href="https://www.getty.edu/vow/ULANFullDisplay?find=&amp;role=&amp;nation=&amp;subjectid=500482758">500482758</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=0" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Авидан,_Давид&amp;oldid=140553906">https://ru.wikipedia.org/w/index.php?title=Авидан,_Давид&amp;oldid=140553906</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_21_%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F" title="Категория:Родившиеся 21 февраля">Родившиеся 21 февраля</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_1934_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Родившиеся в 1934 году">Родившиеся в 1934 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_11_%D0%BC%D0%B0%D1%8F" title="Категория:Умершие 11 мая">Умершие 11 мая</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_%D0%B2_1995_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Умершие в 1995 году">Умершие в 1995 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA%D0%B8_%D0%95%D0%B2%D1%80%D0%B5%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0_%D0%B2_%D0%98%D0%B5%D1%80%D1%83%D1%81%D0%B0%D0%BB%D0%B8%D0%BC%D0%B5" title="Категория:Выпускники Еврейского университета в Иерусалиме">Выпускники Еврейского университета в Иерусалиме</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B0%D1%83%D1%80%D0%B5%D0%B0%D1%82%D1%8B_%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D0%B8_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%91%D1%8F%D0%BB%D0%B8%D0%BA%D0%B0" title="Категория:Лауреаты премии имени Бялика">Лауреаты премии имени Бялика</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Персоналии по алфавиту">Персоналии по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Писатели по алфавиту">Писатели по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_%D0%B2_%D0%A2%D0%B5%D0%BB%D1%8C-%D0%90%D0%B2%D0%B8%D0%B2%D0%B5" title="Категория:Умершие в Тель-Авиве">Умершие в Тель-Авиве</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%8D%D1%82%D1%8B_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F" title="Категория:Поэты Израиля">Поэты Израиля</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%8D%D1%82%D1%8B_%D0%BD%D0%B0_%D0%B8%D0%B2%D1%80%D0%B8%D1%82%D0%B5" title="Категория:Поэты на иврите">Поэты на иврите</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F" title="Категория:Художники Израиля">Художники Израиля</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%B5%D0%B6%D0%B8%D1%81%D1%81%D1%91%D1%80%D1%8B_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F" title="Категория:Режиссёры Израиля">Режиссёры Израиля</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%8D%D1%82%D1%8B_XX_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Поэты XX века">Поэты XX века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_XX_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Художники XX века">Художники XX века</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B5_JsonConfig" title="Категория:Страницы, использующие расширение JsonConfig">Страницы, использующие расширение JsonConfig</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BE_%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%D1%85_%D0%B1%D0%B5%D0%B7_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%82%D0%B5%D0%BA%D1%83" title="Категория:Статьи о писателях без ссылки на Викитеку">Статьи о писателях без ссылки на Викитеку</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9F%D0%B8%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C:%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE:%D0%9D%D0%B5%D0%BF%D1%83%D1%81%D1%82%D0%BE%D0%B5_%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B5" title="Категория:Шаблон:Писатель:гражданство:Непустое значение">Шаблон:Писатель:гражданство:Непустое значение</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD%2C+%D0%94%D0%B0%D0%B2%D0%B8%D0%B4" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD%2C+%D0%94%D0%B0%D0%B2%D0%B8%D0%B4" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-namespaces-label"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4&amp;oldid=140553906" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD%2C_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4&amp;id=140553906&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2590%25D0%25B2%25D0%25B8%25D0%25B4%25D0%25B0%25D0%25BD%2C_%25D0%2594%25D0%25B0%25D0%25B2%25D0%25B8%25D0%25B4"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2590%25D0%25B2%25D0%25B8%25D0%25B4%25D0%25B0%25D0%25BD%2C_%25D0%2594%25D0%25B0%25D0%25B2%25D0%25B8%25D0%25B4"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD%2C_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:David_Avidan" hreflang="en"><span>Викисклад</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q706526" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%AF%D9%8A%DA%A4%D9%8A%D8%AF_%D8%A7%DA%A4%D9%8A%D8%AF%D8%A7%D9%86" title="ديڤيد اڤيدان — Egyptian Arabic" lang="arz" hreflang="arz" data-title="ديڤيد اڤيدان" data-language-autonym="مصرى" data-language-local-name="Egyptian Arabic" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/David_Avidan" title="David Avidan — каталанский" lang="ca" hreflang="ca" data-title="David Avidan" data-language-autonym="Català" data-language-local-name="каталанский" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/David_Avidan" title="David Avidan — немецкий" lang="de" hreflang="de" data-title="David Avidan" data-language-autonym="Deutsch" data-language-local-name="немецкий" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/David_Avidan" title="David Avidan — английский" lang="en" hreflang="en" data-title="David Avidan" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/David_Avidan" title="David Avidan — эсперанто" lang="eo" hreflang="eo" data-title="David Avidan" data-language-autonym="Esperanto" data-language-local-name="эсперанто" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%93%D7%95%D7%93_%D7%90%D7%91%D7%99%D7%93%D7%9F" title="דוד אבידן — иврит" lang="he" hreflang="he" data-title="דוד אבידן" data-language-autonym="עברית" data-language-local-name="иврит" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%B4%D5%A1%D5%BE%D5%AB%D5%A4_%D4%B1%D5%BE%D5%AB%D5%A4%D5%A1%D5%B6" title="Դավիդ Ավիդան — армянский" lang="hy" hreflang="hy" data-title="Դավիդ Ավիդան" data-language-autonym="Հայերեն" data-language-local-name="армянский" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/David_Avidan" title="David Avidan — итальянский" lang="it" hreflang="it" data-title="David Avidan" data-language-autonym="Italiano" data-language-local-name="итальянский" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/David_Avidan" title="David Avidan — румынский" lang="ro" hreflang="ro" data-title="David Avidan" data-language-autonym="Română" data-language-local-name="румынский" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%94%D0%B0%D0%B2%D0%B8%D0%B4_%D0%90%D0%B2%D1%96%D0%B4%D0%B0%D0%BD" title="Давид Авідан — украинский" lang="uk" hreflang="uk" data-title="Давид Авідан" data-language-autonym="Українська" data-language-local-name="украинский" class="interlanguage-link-target"><span>Українська</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q706526#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 3 октября 2024 в 13:42.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.log.warn("This page is using the deprecated ResourceLoader module \"codex-search-styles\".\n[1.43] Use a CodexModule with codexComponents to set your specific components used: https://www.mediawiki.org/wiki/Codex#Using_a_limited_subset_of_components");mw.config.set({"wgHostname":"mw-web.eqiad.main-7fd96bd568-b5l57","wgBackendResponseTime":156,"wgPageParseReport":{"limitreport":{"cputime":"0.393","walltime":"0.668","ppvisitednodes":{"value":2066,"limit":1000000},"postexpandincludesize":{"value":55459,"limit":2097152},"templateargumentsize":{"value":6202,"limit":2097152},"expansiondepth":{"value":17,"limit":100},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":6212,"limit":5000000},"entityaccesscount":{"value":13,"limit":400},"timingprofile":["100.00%  618.138      1 -total"," 66.69%  412.235      1 Шаблон:Писатель"," 62.39%  385.676      1 Шаблон:Карточка"," 15.68%   96.926      1 Шаблон:Внешние_ссылки"," 11.97%   74.006      6 Шаблон:Wikidata","  9.66%   59.725      1 Шаблон:Примечания","  8.56%   52.908      6 Шаблон:Cite_web","  6.29%   38.883      1 Шаблон:Однофамильцы","  6.08%   37.584      1 Шаблон:Карточка/оригинал_имени","  2.65%   16.403      1 Шаблон:Wikidata/p569"]},"scribunto":{"limitreport-timeusage":{"value":"0.285","limit":"10.000"},"limitreport-memusage":{"value":7205981,"limit":52428800},"limitreport-logs":"Loaded datatype string of P742 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P136 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P6886 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-web.codfw.migration-556487dc98-dq2r6","timestamp":"20250312042152","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0410\u0432\u0438\u0434\u0430\u043d, \u0414\u0430\u0432\u0438\u0434","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%90%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD,_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4","sameAs":"http:\/\/www.wikidata.org\/entity\/Q706526","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q706526","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-05-30T14:38:47Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d5\/David_Avidan_sketch.png"}</script>
+</body>
+</html>

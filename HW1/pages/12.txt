@@ -1,0 +1,867 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Авалишвили, Юрий Григорьевич — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"116fe30d-2f73-4797-a770-d9159245a0cf","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Авалишвили,_Юрий_Григорьевич","wgTitle":"Авалишвили, Юрий Григорьевич","wgCurRevisionId":142382047,"wgRevisionId":142382047,"wgArticleId":4751540,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Страницы, использующие расширение JsonConfig","Википедия:Статьи с нерабочими ссылками","Википедия:Статьи с вики-разметкой в изображении карточки","Википедия:Биографии современников","Википедия:Статьи с изображениями: заполнить свойство P373 в Викиданных","Страницы, использующие волшебные ссылки ISBN","Родившиеся 2 апреля","Родившиеся в 1961 году","Родившиеся в Тбилиси","Выпускники Тбилисской академии художеств","Персоналии по алфавиту","Художники по алфавиту","Художники СССР","Члены Союза художников СССР","Художники Москвы","Художники XXI века","Художники XX века","Художники России XX века","Художники России XXI века","Современные художники России","Художники-пейзажисты России","Художники-портретисты России"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Авалишвили,_Юрий_Григорьевич","wgRelevantArticleId":4751540,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":119969238,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":40000,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q15102778","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};
+RLSTATE={"ext.gadget.common-site":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","codex-search-styles":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","oojs-ui.styles.icons-media","oojs-ui-core.icons"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cjquery.makeCollapsible.styles%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.page.gallery.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.44.0-wmf.20">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/b/b2/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1452">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/b/b2/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="968">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="774">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Авалишвили, Юрий Григорьевич — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="//ru.m.wikipedia.org/wiki/%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="login.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Авалишвили_Юрий_Григорьевич rootpage-Авалишвили_Юрий_Григорьевич skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Авалишвили, Юрий Григорьевич</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"><div id="mw-fr-revision-messages"><div class="cdx-message mw-fr-message-box cdx-message--block cdx-message--notice mw-fr-basic mw-fr-draft-not-synced plainlinks noprint"><span class="cdx-message__icon"></span><div class="cdx-message__content">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;stable=1">версии, проверенной 11 февраля 2022 года</a>; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;oldid=119969238&amp;diff=cur&amp;diffonly=0">60 правок</a>.</div></div></div></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div role="note" class="hatnote navigation-not-searchable dabhide">В Википедии есть статьи о других людях с такой фамилией, см. <a href="/wiki/%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8_(%D1%84%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F)" class="mw-disambig" title="Авалишвили (фамилия)">Авалишвили</a>.</div>
+<table class="infobox infobox-c90f77e1a88b7776" style="" data-name="Художник"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Юрий Григорьевич Авалишвили</th></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-property-id="P18" class="no-wikidata"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8.jpg" class="mw-file-description"><img alt="Художник Юрий Григорьевич Авалишвили" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8.jpg/300px-%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8.jpg" decoding="async" width="300" height="363" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8.jpg/450px-%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/b/b2/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8.jpg 2x" data-file-width="524" data-file-height="634" /></a></span></span> </td></tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Дата&#160;рождения</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q15102778$223A4E20-1411-4561-B9E7-DCAD830730B5" class="wikidata-claim" data-wikidata-property-id="P569"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/2_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="2 апреля">2 апреля</a> <a href="/wiki/1961_%D0%B3%D0%BE%D0%B4" title="1961 год">1961</a></span><span style="display:none">(<span class="bday">1961-04-02</span>)</span></span> <span style="white-space:nowrap;">(63 года)</span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Место рождения</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q15102778$808A0E64-1988-4766-9AD8-5F1B735C40F7" class="wikidata-claim" data-wikidata-property-id="P19"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A2%D0%B1%D0%B8%D0%BB%D0%B8%D1%81%D0%B8" title="Тбилиси">Тбилиси</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" title="Грузинская Советская Социалистическая Республика">Грузинская ССР</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA" title="Союз Советских Социалистических Республик">СССР</a></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Гражданство</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P27" class="no-wikidata"><span class="nowrap" data-sort-value="СССР"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/22px-Flag_of_the_Soviet_Union.svg.png" decoding="async" width="22" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/33px-Flag_of_the_Soviet_Union.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/44px-Flag_of_the_Soviet_Union.svg.png 2x" data-file-width="1200" data-file-height="600" /></span></span></span>&#160;<a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA" title="Союз Советских Социалистических Республик"><span class="wrap">СССР</span></a></span><br /><span class="nowrap" data-sort-value="Грузия"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/22px-Flag_of_Georgia.svg.png" decoding="async" width="22" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/33px-Flag_of_Georgia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/44px-Flag_of_Georgia.svg.png 2x" data-file-width="900" data-file-height="600" /></span></span></span>&#160;<a href="/wiki/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F" title="Грузия"><span class="wrap">Грузия</span></a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Род&#160;деятельности</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q15102778$C36188E8-BD73-43AD-AC1E-BBD8E9E68FBC" class="wikidata-claim" data-wikidata-property-id="P106"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA" title="Художник">художник</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Жанр</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P136" class="no-wikidata"><a href="/wiki/%D0%96%D0%B8%D0%B2%D0%BE%D0%BF%D0%B8%D1%81%D1%8C" title="Живопись">живопись</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Учёба</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q15102778$f875e877-1720-44e4-acb6-b11e4e3c2466" class="wikidata-claim" data-wikidata-property-id="P69"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A2%D0%B1%D0%B8%D0%BB%D0%B8%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2" title="Тбилисская государственная академия художеств">Тбилисская академия художеств</a></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Сайт</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P856" class="no-wikidata"><a rel="nofollow" class="external text" href="http://yuri-avalishvili.art">Официальный сайт</a></span></td>
+</tr><tr><td colspan="2" class="infobox-below" style=";"><span data-wikidata-claim-id="Q15102778$f17c0b58-4521-7101-e9a2-7fca0e7d965a" class="wikidata-claim" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:Avalishvili_Yuri_Grigorevich" title="commons:Category:Avalishvili Yuri Grigorevich"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></span>&#160;<a href="https://commons.wikimedia.org/wiki/Category:Avalishvili_Yuri_Grigorevich" class="extiw" title="commons:Category:Avalishvili Yuri Grigorevich">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table>
+<p><b>Юрий Григорьевич <a href="/wiki/%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8" title="Авалишвили">Авалишвили</a></b> (<span class="bday" title="1961-04-2"><a href="/wiki/2_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="2 апреля">2 апреля</a> <a href="/wiki/1961" class="mw-redirect" title="1961">1961</a></span>, <a href="/wiki/%D0%A2%D0%B1%D0%B8%D0%BB%D0%B8%D1%81%D0%B8" title="Тбилиси">Тбилиси</a>, <a href="/wiki/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F" title="Грузия">Грузия</a>) — художник-живописец, <a href="//upload.wikimedia.org/wikipedia/commons/f/f0/%D0%A1%D0%BE%D1%8E%D0%B7-%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-%D0%A1%D0%A1%D0%A1%D0%A0.jpg" class="internal" title="Союз-художников-СССР.jpg">член союза художников СССР</a>, <a rel="nofollow" class="external text" href="http://artistunion.ru/tsph-cat1%20.pdf">член творческого союза профессиональных художников</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>; <a href="//upload.wikimedia.org/wikipedia/commons/5/5b/%D0%A1%D0%BE%D1%8E%D0%B7-%D1%85%D1%83%D0%B4-%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8.jpg" class="internal" title="Союз-худ-России.jpg">член творческого союза художников России</a>, <a href="//upload.wikimedia.org/wikipedia/commons/7/70/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9-%D1%85%D1%83%D0%B4%D1%84%D0%BE%D0%BD%D0%B4.jpg" class="internal" title="Международный-худфонд.jpg">член Международного художественного фонда</a>, <a href="//upload.wikimedia.org/wikipedia/commons/9/9d/International_Academy_of_Contemporary_Art.jpg" class="internal" title="International Academy of Contemporary Art.jpg">действительный член Международной академии современных искусств (2023)</a>, <a href="//upload.wikimedia.org/wikipedia/commons/8/83/Honorary_artist_of_russia.jpg" class="internal" title="Honorary artist of russia.jpg">почетный деятель искусств России</a><sup id="cite_ref-:0_2-0" class="reference"><a href="#cite_note-:0-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Биография"><span class="tocnumber">1</span> <span class="toctext">Биография</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Сотрудничество"><span class="tocnumber">2</span> <span class="toctext">Сотрудничество</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Творчество"><span class="tocnumber">3</span> <span class="toctext">Творчество</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Галерея"><span class="tocnumber">4</span> <span class="toctext">Галерея</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Награды"><span class="tocnumber">5</span> <span class="toctext">Награды</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Работы_в_собраниях_и_музеях"><span class="tocnumber">6</span> <span class="toctext">Работы в собраниях и музеях</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Выставки"><span class="tocnumber">7</span> <span class="toctext">Выставки</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Библиография"><span class="tocnumber">8</span> <span class="toctext">Библиография</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Примечания"><span class="tocnumber">9</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Источники"><span class="tocnumber">10</span> <span class="toctext">Источники</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Ссылки"><span class="tocnumber">11</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+
+<div class="mw-heading mw-heading2"><h2 id="Биография"><span id=".D0.91.D0.B8.D0.BE.D0.B3.D1.80.D0.B0.D1.84.D0.B8.D1.8F"></span>Биография</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Биография»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=1" title="Редактировать код раздела «Биография»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Юрий <a href="/wiki/%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8" title="Авалишвили">Авалишвилли</a> родился в <a href="/wiki/%D0%A2%D0%B1%D0%B8%D0%BB%D0%B8%D1%81%D0%B8" title="Тбилиси">Тбилиси</a>, в <a href="/wiki/%D0%93%D1%80%D1%83%D0%B7%D0%B8%D1%8F" title="Грузия">Грузии,</a> в семье <a href="/wiki/%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8" title="Авалишвили">Авалова</a> Григория Елисеевича инженера мостов и тоннелей и   Валентины Сергеевны Зиминой архитектора. Его художественными учителями стали художник <a href="/wiki/%D0%94%D0%B6%D0%B0%D0%BF%D0%B0%D1%80%D0%B8%D0%B4%D0%B7%D0%B5,_%D0%A3%D1%87%D0%B0_%D0%9C%D0%B0%D0%BB%D0%B0%D0%BA%D0%B8%D0%B5%D0%B2%D0%B8%D1%87" title="Джапаридзе, Уча Малакиевич">Уча Джапаридзе</a>, <a href="/wiki/%D0%92%D0%B5%D0%BF%D1%85%D0%B2%D0%B0%D0%B4%D0%B7%D0%B5,_%D0%94%D0%B6%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B8_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" class="mw-redirect" title="Вепхвадзе, Джованни Алексеевич">Джованни Вепхвадзе</a>, Гиви Церадзе и Дмитрий Эристави. Окончания <a href="/wiki/%D0%A2%D0%B1%D0%B8%D0%BB%D0%B8%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2" title="Тбилисская государственная академия художеств">Тбилисской государственной академии художеств</a> в 1988.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Сотрудничество"><span id=".D0.A1.D0.BE.D1.82.D1.80.D1.83.D0.B4.D0.BD.D0.B8.D1.87.D0.B5.D1.81.D1.82.D0.B2.D0.BE"></span>Сотрудничество</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Сотрудничество»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=2" title="Редактировать код раздела «Сотрудничество»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В 1988 году Юрий Авалишвили переехал в Москву, где активно сотрудничал с коллекционером, меценатом и
+<a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BD%D0%B8%D0%BB%D0%BE%D0%B2,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%98%D0%B7%D0%BE%D1%81%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%D1%87" title="Корнилов, Николай Изосимович">художником Николаем Корниловым</a>, с которым его связала крепкая дружба.
+</p><p>С 1994 года художественный <a href="//upload.wikimedia.org/wikipedia/commons/a/a6/%D0%90%D1%81%D1%81-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE-%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BE%D0%B2-%D0%BC%D0%B8%D1%80%D0%B0.jpg" class="internal" title="Асс-искусство-народов-мира.jpg">эксперт ассоциации «Искусство народов мира»</a> (Association «Art of the peoples of the world»).
+</p><p>С 2001 года - <a href="//upload.wikimedia.org/wikipedia/commons/8/8d/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82-%D1%81%D0%BE%D1%8E%D0%B7%D0%B0-%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8.jpg" class="internal" title="Художественный-эксперт-союза-художников-Грузии.jpg">художественный эксперт союза художников Грузии</a>, <a href="//upload.wikimedia.org/wikipedia/commons/8/88/%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82-%D0%B0%D1%80%D1%82-%D0%B0%D1%80%D1%81%D0%B8.jpg" class="internal" title="Эксперт-арт-арси.jpg">художественный эксперт</a> центра развития искусства «АРТ-АРСИ» и <a href="//upload.wikimedia.org/wikipedia/commons/4/46/Center-m.jpg" class="internal" title="Center-m.jpg">представитель и художественный эксперт</a> галереи «Центр-М» при правительстве Москвы.
+</p><p>С 2005 года - <a href="//upload.wikimedia.org/wikipedia/commons/f/f2/Museum-of-Modern-Renaissance.jpg" class="internal" title="Museum-of-Modern-Renaissance.jpg">представитель и художественный эксперт</a> Музея «Museum of Modern Renaissance» Бостон, США и  <a href="//upload.wikimedia.org/wikipedia/commons/b/bd/%D0%90%D1%81%D1%81-%D1%85%D1%83%D0%B4-%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%B8%D1%81%D1%82%D0%BE%D0%B2.jpg" class="internal" title="Асс-худ-портретистов.jpg">член экспертного совета</a> Музея портрета.
+</p><p>С 2019 г. <a href="//upload.wikimedia.org/wikipedia/commons/0/0c/Art-elitarch-awards.jpg" class="internal" title="Art-elitarch-awards.jpg">заместитель председателя художественного конкурса</a> «Искусство. Совершенство. Признание».
+</p>
+<style data-mw-deduplicate="TemplateStyles:r142621938">.mw-parser-output .ts-Скрытый_блок{margin:0;overflow:hidden;border-collapse:collapse;box-sizing:border-box}.mw-parser-output .ts-Скрытый_блок-title{text-align:center;font-weight:bold;line-height:1.6em;min-height:1.2em}.mw-parser-output .ts-Скрытый_блок .mw-collapsible-content{overflow-x:auto;overflow-y:hidden;clear:both}.mw-parser-output .ts-Скрытый_блок::before,.mw-parser-output .ts-Скрытый_блок .mw-collapsible-toggle{padding-top:.1em;width:6em;font-weight:normal;font-size:calc(90%/0.95)}.mw-parser-output .ts-Скрытый_блок-rightHideLink .mw-collapsible-toggle{float:right;text-align:right}.mw-parser-output .ts-Скрытый_блок-leftHideLink .mw-collapsible-toggle{float:left;text-align:left}.mw-parser-output .ts-Скрытый_блок-gray{padding:2px;border:1px solid var(--border-color-base,#a2a9b1)}.mw-parser-output .ts-Скрытый_блок-transparent{border:none}.mw-parser-output .ts-Скрытый_блок-gray .ts-Скрытый_блок-title{background:var(--background-color-neutral,#eaecf0);padding:.1em 6em;padding-right:0}.mw-parser-output .ts-Скрытый_блок-transparent .ts-Скрытый_блок-title{background:transparent;padding:.1em 5.5em;padding-right:0}.mw-parser-output .ts-Скрытый_блок-gray .mw-collapsible-content{padding:.25em 1em}.mw-parser-output .ts-Скрытый_блок-transparent .mw-collapsible-content{padding:.25em 0}.mw-parser-output .ts-Скрытый_блок-gray.ts-Скрытый_блок-rightHideLink .mw-collapsible-toggle{padding-right:1em}.mw-parser-output .ts-Скрытый_блок-transparent.ts-Скрытый_блок-rightHideLink .mw-collapsible-toggle{padding-right:0}.mw-parser-output .ts-Скрытый_блок-gray.ts-Скрытый_блок-leftHideLink .mw-collapsible-toggle{padding-left:1em}.mw-parser-output .ts-Скрытый_блок-transparent.ts-Скрытый_блок-leftHideLink .mw-collapsible-toggle{padding-left:0}.mw-parser-output .ts-Скрытый_блок-gray.ts-Скрытый_блок-rightHideLink .ts-Скрытый_блок-title-leftTitle{padding-left:1em}.mw-parser-output .ts-Скрытый_блок-gray.ts-Скрытый_блок-leftHideLink .ts-Скрытый_блок-title-leftTitle{padding-left:6.5em}.mw-parser-output .ts-Скрытый_блок-gray.ts-Скрытый_блок-leftHideLink .ts-Скрытый_блок-title-rightTitle{padding-right:1em}.mw-parser-output .ts-Скрытый_блок-transparent.ts-Скрытый_блок-rightHideLink .ts-Скрытый_блок-title-rightTitle,.mw-parser-output .ts-Скрытый_блок-transparent.ts-Скрытый_блок-rightHideLink .ts-Скрытый_блок-title-leftTitle{padding-left:0}.mw-parser-output .ts-Скрытый_блок-transparent.ts-Скрытый_блок-leftHideLink .ts-Скрытый_блок-title-rightTitle,.mw-parser-output .ts-Скрытый_блок-transparent.ts-Скрытый_блок-leftHideLink .ts-Скрытый_блок-title-leftTitle{padding-right:0}.mw-parser-output .ts-Скрытый_блок+.ts-Скрытый_блок,.mw-parser-output .ts-Скрытый_блок+link+.ts-Скрытый_блок{border-top-style:hidden}</style><div class="mw-collapsible mw-collapsed ts-Скрытый_блок ts-Скрытый_блок-gray ts-Скрытый_блок-rightHideLink" style=""><div class="ts-Скрытый_блок-title" style="text-align: left; color: black; background-color: lavender; font-weight: bold;"><i>Подтверждающие документы</i><div class="mw-collapsible-toggle-placeholder"></div></div><div class="mw-collapsible-content" style="color: black; background-color: ghostwhite; text-align: left;">
+<ul class="gallery mw-gallery-traditional center">
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%90%D1%81%D1%81-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE-%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BE%D0%B2-%D0%BC%D0%B8%D1%80%D0%B0.jpg" class="mw-file-description" title="Художественный эксперт союза художников Грузии"><img alt="Художественный эксперт союза художников Грузии" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/%D0%90%D1%81%D1%81-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE-%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BE%D0%B2-%D0%BC%D0%B8%D1%80%D0%B0.jpg/160px-%D0%90%D1%81%D1%81-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE-%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BE%D0%B2-%D0%BC%D0%B8%D1%80%D0%B0.jpg" decoding="async" width="160" height="123" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/%D0%90%D1%81%D1%81-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE-%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BE%D0%B2-%D0%BC%D0%B8%D1%80%D0%B0.jpg/240px-%D0%90%D1%81%D1%81-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE-%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BE%D0%B2-%D0%BC%D0%B8%D1%80%D0%B0.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/%D0%90%D1%81%D1%81-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE-%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BE%D0%B2-%D0%BC%D0%B8%D1%80%D0%B0.jpg/320px-%D0%90%D1%81%D1%81-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE-%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BE%D0%B2-%D0%BC%D0%B8%D1%80%D0%B0.jpg 2x" data-file-width="614" data-file-height="471" /></a></span></div>
+			<div class="gallerytext">Художественный эксперт союза художников Грузии</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82-%D0%B0%D1%80%D1%82-%D0%B0%D1%80%D1%81%D0%B8.jpg" class="mw-file-description" title="Художественный эксперт центра развития искусства «АРТ-АРСИ»"><img alt="Художественный эксперт центра развития искусства «АРТ-АРСИ»" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82-%D0%B0%D1%80%D1%82-%D0%B0%D1%80%D1%81%D0%B8.jpg/160px-%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82-%D0%B0%D1%80%D1%82-%D0%B0%D1%80%D1%81%D0%B8.jpg" decoding="async" width="160" height="152" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82-%D0%B0%D1%80%D1%82-%D0%B0%D1%80%D1%81%D0%B8.jpg/240px-%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82-%D0%B0%D1%80%D1%82-%D0%B0%D1%80%D1%81%D0%B8.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82-%D0%B0%D1%80%D1%82-%D0%B0%D1%80%D1%81%D0%B8.jpg/320px-%D0%AD%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D1%82-%D0%B0%D1%80%D1%82-%D0%B0%D1%80%D1%81%D0%B8.jpg 2x" data-file-width="897" data-file-height="851" /></a></span></div>
+			<div class="gallerytext">Художественный эксперт центра развития искусства «АРТ-АРСИ»</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Center-m.jpg" class="mw-file-description" title="Представитель и художественный эксперт галереи «Центр-М» при правительстве Москвы"><img alt="Представитель и художественный эксперт галереи «Центр-М» при правительстве Москвы" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Center-m.jpg/122px-Center-m.jpg" decoding="async" width="122" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/46/Center-m.jpg/183px-Center-m.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/46/Center-m.jpg/244px-Center-m.jpg 2x" data-file-width="567" data-file-height="836" /></a></span></div>
+			<div class="gallerytext">Представитель и художественный эксперт галереи «Центр-М» при правительстве Москвы</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Museum-of-Modern-Renaissance.jpg" class="mw-file-description" title="Представитель и художественный эксперт музея «Museum of Modern Renaissance» Бостон, США"><img alt="Представитель и художественный эксперт музея «Museum of Modern Renaissance» Бостон, США" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Museum-of-Modern-Renaissance.jpg/139px-Museum-of-Modern-Renaissance.jpg" decoding="async" width="139" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Museum-of-Modern-Renaissance.jpg/209px-Museum-of-Modern-Renaissance.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Museum-of-Modern-Renaissance.jpg/278px-Museum-of-Modern-Renaissance.jpg 2x" data-file-width="773" data-file-height="1000" /></a></span></div>
+			<div class="gallerytext">Представитель и художественный эксперт музея «Museum of Modern Renaissance» Бостон, США</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%90%D1%81%D1%81-%D1%85%D1%83%D0%B4-%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%B8%D1%81%D1%82%D0%BE%D0%B2.jpg" class="mw-file-description" title="Член экспертного совета музея портрета «Россия - Взгляд из третьего тысячелетия»"><img alt="Член экспертного совета музея портрета «Россия - Взгляд из третьего тысячелетия»" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/%D0%90%D1%81%D1%81-%D1%85%D1%83%D0%B4-%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%B8%D1%81%D1%82%D0%BE%D0%B2.jpg/123px-%D0%90%D1%81%D1%81-%D1%85%D1%83%D0%B4-%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%B8%D1%81%D1%82%D0%BE%D0%B2.jpg" decoding="async" width="123" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/%D0%90%D1%81%D1%81-%D1%85%D1%83%D0%B4-%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%B8%D1%81%D1%82%D0%BE%D0%B2.jpg/185px-%D0%90%D1%81%D1%81-%D1%85%D1%83%D0%B4-%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%B8%D1%81%D1%82%D0%BE%D0%B2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/%D0%90%D1%81%D1%81-%D1%85%D1%83%D0%B4-%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%B8%D1%81%D1%82%D0%BE%D0%B2.jpg/247px-%D0%90%D1%81%D1%81-%D1%85%D1%83%D0%B4-%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%B8%D1%81%D1%82%D0%BE%D0%B2.jpg 2x" data-file-width="686" data-file-height="1000" /></a></span></div>
+			<div class="gallerytext">Член экспертного совета музея портрета «Россия - Взгляд из третьего тысячелетия»</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Art-elitarch-awards.jpg" class="mw-file-description" title="Заместитель председателя конкурса «Искусство. Совершенство. Признание»"><img alt="Заместитель председателя конкурса «Искусство. Совершенство. Признание»" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Art-elitarch-awards.jpg/127px-Art-elitarch-awards.jpg" decoding="async" width="127" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Art-elitarch-awards.jpg/191px-Art-elitarch-awards.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Art-elitarch-awards.jpg/254px-Art-elitarch-awards.jpg 2x" data-file-width="636" data-file-height="900" /></a></span></div>
+			<div class="gallerytext">Заместитель председателя конкурса «Искусство. Совершенство. Признание»</div>
+		</li>
+</ul>
+</div></div>
+<div class="mw-heading mw-heading2"><h2 id="Творчество"><span id=".D0.A2.D0.B2.D0.BE.D1.80.D1.87.D0.B5.D1.81.D1.82.D0.B2.D0.BE"></span>Творчество</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Творчество»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=3" title="Редактировать код раздела «Творчество»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В начале своей творческой деятельности Юрий написал большой цикл работ, который первоначально определял как «посткубистический реализм». Из всей коллекции до наших дней дошла только одна работа «Шаги Моисея», за которую он получил награду&#160; «Золотая кисть». В дальнейшем он начал экспериментировать в попытках отказаться от классических форм построения композиций. Расширялись возможности композиционных&#160; интерпретаций в которых сохранялись базовые элементы реализма. Такой подход Юрия Авалишвили находится в контексте постмодернизма, поэтому его творчество можно и нужно отнести к этому направлению в Искусстве.
+</p><p>Юрий Авалишвили принимал участие в более чем в двухстах выставках и аукционах в Тбилиси, Москве, Санкт-Петербурге, а также — на Кипре, в Балтиморе, Лондоне, Риме, Париже.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Галерея"><span id=".D0.93.D0.B0.D0.BB.D0.B5.D1.80.D0.B5.D1.8F"></span>Галерея</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Галерея»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=4" title="Редактировать код раздела «Галерея»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div style="margin: 25px auto">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r142621938" /><div class="mw-collapsible mw-collapsed ts-Скрытый_блок ts-Скрытый_блок-gray ts-Скрытый_блок-rightHideLink" style=""><div class="ts-Скрытый_блок-title" style="text-align: left; color: black; background-color: lavender; font-weight: bold;"><i>Картины номинанты различных конкурсов и фестивалей</i><div class="mw-collapsible-toggle-placeholder"></div></div><div class="mw-collapsible-content" style="color: black; background-color: ghostwhite; text-align: left;">
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%A3%D0%BA%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%BF%D1%82%D0%B8%D0%B2%D0%BE%D0%B9.jpg" class="mw-file-description" title="«Укрощение строптивой»"><img alt="«Укрощение строптивой»" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/%D0%A3%D0%BA%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%BF%D1%82%D0%B8%D0%B2%D0%BE%D0%B9.jpg/96px-%D0%A3%D0%BA%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%BF%D1%82%D0%B8%D0%B2%D0%BE%D0%B9.jpg" decoding="async" width="96" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/%D0%A3%D0%BA%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%BF%D1%82%D0%B8%D0%B2%D0%BE%D0%B9.jpg/144px-%D0%A3%D0%BA%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%BF%D1%82%D0%B8%D0%B2%D0%BE%D0%B9.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5d/%D0%A3%D0%BA%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%BF%D1%82%D0%B8%D0%B2%D0%BE%D0%B9.jpg/193px-%D0%A3%D0%BA%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D1%82%D1%80%D0%BE%D0%BF%D1%82%D0%B8%D0%B2%D0%BE%D0%B9.jpg 2x" data-file-width="343" data-file-height="640" /></a></span></div>
+			<div class="gallerytext">«Укрощение строптивой»</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9F%D1%80%D0%BE%D0%B1%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5.jpg" class="mw-file-description" title="«Пробуждение»"><img alt="«Пробуждение»" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/%D0%9F%D1%80%D0%BE%D0%B1%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5.jpg/158px-%D0%9F%D1%80%D0%BE%D0%B1%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5.jpg" decoding="async" width="158" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/%D0%9F%D1%80%D0%BE%D0%B1%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5.jpg/237px-%D0%9F%D1%80%D0%BE%D0%B1%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/%D0%9F%D1%80%D0%BE%D0%B1%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5.jpg/316px-%D0%9F%D1%80%D0%BE%D0%B1%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5.jpg 2x" data-file-width="545" data-file-height="620" /></a></span></div>
+			<div class="gallerytext">«Пробуждение»</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9C%D0%B0%D0%B4%D0%BE%D0%BD%D0%BD%D0%B0_21_%D0%B2%D0%B5%D0%BA%D0%B0.jpg" class="mw-file-description" title="«Мадонна 21 века»"><img alt="«Мадонна 21 века»" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/%D0%9C%D0%B0%D0%B4%D0%BE%D0%BD%D0%BD%D0%B0_21_%D0%B2%D0%B5%D0%BA%D0%B0.jpg/156px-%D0%9C%D0%B0%D0%B4%D0%BE%D0%BD%D0%BD%D0%B0_21_%D0%B2%D0%B5%D0%BA%D0%B0.jpg" decoding="async" width="156" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/%D0%9C%D0%B0%D0%B4%D0%BE%D0%BD%D0%BD%D0%B0_21_%D0%B2%D0%B5%D0%BA%D0%B0.jpg/234px-%D0%9C%D0%B0%D0%B4%D0%BE%D0%BD%D0%BD%D0%B0_21_%D0%B2%D0%B5%D0%BA%D0%B0.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/%D0%9C%D0%B0%D0%B4%D0%BE%D0%BD%D0%BD%D0%B0_21_%D0%B2%D0%B5%D0%BA%D0%B0.jpg/312px-%D0%9C%D0%B0%D0%B4%D0%BE%D0%BD%D0%BD%D0%B0_21_%D0%B2%D0%B5%D0%BA%D0%B0.jpg 2x" data-file-width="537" data-file-height="620" /></a></span></div>
+			<div class="gallerytext">«Мадонна 21 века»</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9E%D1%81%D0%BC%D1%8B%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.jpg" class="mw-file-description" title="«Осмысление»"><img alt="«Осмысление»" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/%D0%9E%D1%81%D0%BC%D1%8B%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.jpg/156px-%D0%9E%D1%81%D0%BC%D1%8B%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.jpg" decoding="async" width="156" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/%D0%9E%D1%81%D0%BC%D1%8B%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.jpg/234px-%D0%9E%D1%81%D0%BC%D1%8B%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/%D0%9E%D1%81%D0%BC%D1%8B%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.jpg/312px-%D0%9E%D1%81%D0%BC%D1%8B%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.jpg 2x" data-file-width="537" data-file-height="620" /></a></span></div>
+			<div class="gallerytext">«Осмысление»</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81.jpg" class="mw-file-description" title="«Вопрос»"><img alt="«Вопрос»" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81.jpg/141px-%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81.jpg" decoding="async" width="141" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81.jpg/212px-%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81.jpg/282px-%D0%92%D0%BE%D0%BF%D1%80%D0%BE%D1%81.jpg 2x" data-file-width="486" data-file-height="620" /></a></span></div>
+			<div class="gallerytext">«Вопрос»</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%95%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B8%D1%81%D1%8B.jpg" class="mw-file-description" title="«Евангелисты»"><img alt="«Евангелисты»" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/%D0%95%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B8%D1%81%D1%8B.jpg/160px-%D0%95%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B8%D1%81%D1%8B.jpg" decoding="async" width="160" height="137" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/%D0%95%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B8%D1%81%D1%8B.jpg/240px-%D0%95%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B8%D1%81%D1%8B.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f6/%D0%95%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B8%D1%81%D1%8B.jpg/320px-%D0%95%D0%B2%D0%B0%D0%BD%D0%B3%D0%B5%D0%BB%D0%B8%D1%81%D1%8B.jpg 2x" data-file-width="724" data-file-height="620" /></a></span></div>
+			<div class="gallerytext">«Евангелисты»</div>
+		</li>
+</ul>
+</div></div>
+</div>
+<div class="mw-heading mw-heading2"><h2 id="Награды"><span id=".D0.9D.D0.B0.D0.B3.D1.80.D0.B0.D0.B4.D1.8B"></span>Награды</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Награды»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=5" title="Редактировать код раздела «Награды»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Юрий Авалишвили - <a href="//upload.wikimedia.org/wikipedia/commons/8/83/Honorary_artist_of_russia.jpg" class="internal" title="Honorary artist of russia.jpg">почетный деятель искусств России</a><sup id="cite_ref-:0_2-1" class="reference"><a href="#cite_note-:0-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>. С 2000 году - <a href="//upload.wikimedia.org/wikipedia/commons/b/b3/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC-%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%D1%8F-%D0%BA%D0%B8%D1%81%D1%82%D1%8C-2000.jpg" class="internal" title="Диплом-Золотая-кисть-2000.jpg">лауреат конкурса «Золотая Кисть»</a>. В 2019 году стал дважды лауреатом <a href="//upload.wikimedia.org/wikipedia/commons/5/5f/Art_perfection_recognition.jpg" class="internal" title="Art perfection recognition.jpg">международного конкурса «Искусство. Совершенство. Признание». Номинация – Живопись. Золотые медали.</a>. В 2023 году ему был вручён <a href="//upload.wikimedia.org/wikipedia/commons/9/9d/International_Academy_of_Contemporary_Art.jpg" class="internal" title="International Academy of Contemporary Art.jpg">диплом Международной академии современных искусств. 2023</a> и <a href="//upload.wikimedia.org/wikipedia/commons/e/e8/Order-star.jpg" class="internal" title="Order-star.jpg">Medal of the order&#160; Star of the Virtuoso - Medal</a>.
+</p>
+<div style="margin: 25px auto"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r142621938" /><div class="mw-collapsible mw-collapsed ts-Скрытый_блок ts-Скрытый_блок-gray ts-Скрытый_блок-rightHideLink" style=""><div class="ts-Скрытый_блок-title" style="text-align: left; color: black; background-color: lavender; font-weight: bold;"><i>Документы подтверждающие вручение дипломов и наград</i><div class="mw-collapsible-toggle-placeholder"></div></div><div class="mw-collapsible-content" style="color: black; background-color: ghostwhite; text-align: left;">
+<ul class="gallery mw-gallery-traditional center">
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Honorary_artist_of_russia.jpg" class="mw-file-description" title="Почетный деятель искусств России"><img alt="Почетный деятель искусств России" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Honorary_artist_of_russia.jpg/160px-Honorary_artist_of_russia.jpg" decoding="async" width="160" height="130" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Honorary_artist_of_russia.jpg/240px-Honorary_artist_of_russia.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Honorary_artist_of_russia.jpg/320px-Honorary_artist_of_russia.jpg 2x" data-file-width="986" data-file-height="800" /></a></span></div>
+			<div class="gallerytext">Почетный деятель искусств России</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC-%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%D1%8F-%D0%BA%D0%B8%D1%81%D1%82%D1%8C-2000.jpg" class="mw-file-description" title="Лауреат конкурса «Золотая Кисть», 2000 год"><img alt="Лауреат конкурса «Золотая Кисть», 2000 год" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC-%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%D1%8F-%D0%BA%D0%B8%D1%81%D1%82%D1%8C-2000.jpg/160px-%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC-%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%D1%8F-%D0%BA%D0%B8%D1%81%D1%82%D1%8C-2000.jpg" decoding="async" width="160" height="67" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b3/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC-%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%D1%8F-%D0%BA%D0%B8%D1%81%D1%82%D1%8C-2000.jpg/240px-%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC-%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%D1%8F-%D0%BA%D0%B8%D1%81%D1%82%D1%8C-2000.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b3/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC-%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%D1%8F-%D0%BA%D0%B8%D1%81%D1%82%D1%8C-2000.jpg/320px-%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC-%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%D1%8F-%D0%BA%D0%B8%D1%81%D1%82%D1%8C-2000.jpg 2x" data-file-width="1000" data-file-height="417" /></a></span></div>
+			<div class="gallerytext">Лауреат конкурса «Золотая Кисть», 2000 год</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Art_perfection_recognition.jpg" class="mw-file-description" title="Дважды лауреат международного конкурса «Искусство. Совершенство. Признание». Номинация – Живопись. Золотые медали, 2019 год"><img alt="Дважды лауреат международного конкурса «Искусство. Совершенство. Признание». Номинация – Живопись. Золотые медали, 2019 год" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Art_perfection_recognition.jpg/160px-Art_perfection_recognition.jpg" decoding="async" width="160" height="142" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Art_perfection_recognition.jpg/240px-Art_perfection_recognition.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Art_perfection_recognition.jpg/320px-Art_perfection_recognition.jpg 2x" data-file-width="865" data-file-height="768" /></a></span></div>
+			<div class="gallerytext">Дважды лауреат международного конкурса «Искусство. Совершенство. Признание». Номинация – Живопись. Золотые медали, 2019 год</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:International_Academy_of_Contemporary_Art.jpg" class="mw-file-description" title="Диплом Международной академии современных искусств, 2023 год."><img alt="Диплом Международной академии современных искусств, 2023 год." src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/International_Academy_of_Contemporary_Art.jpg/90px-International_Academy_of_Contemporary_Art.jpg" decoding="async" width="90" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/International_Academy_of_Contemporary_Art.jpg/135px-International_Academy_of_Contemporary_Art.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/International_Academy_of_Contemporary_Art.jpg/180px-International_Academy_of_Contemporary_Art.jpg 2x" data-file-width="502" data-file-height="1000" /></a></span></div>
+			<div class="gallerytext">Диплом Международной академии современных искусств, 2023 год.</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Order-star.jpg" class="mw-file-description" title="Медаль Ордена «Золотая Звезда Виртуоза» и сертификат."><img alt="Медаль Ордена «Золотая Звезда Виртуоза» и сертификат." src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Order-star.jpg/81px-Order-star.jpg" decoding="async" width="81" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Order-star.jpg/121px-Order-star.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Order-star.jpg/162px-Order-star.jpg 2x" data-file-width="700" data-file-height="1553" /></a></span></div>
+			<div class="gallerytext">Медаль Ордена «Золотая Звезда Виртуоза» и сертификат.</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Laureate_Art_of_the_World.jpg" class="mw-file-description" title="Лауреат Международной ассоциации «Искусство народов мира»."><img alt="Лауреат Международной ассоциации «Искусство народов мира»." src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Laureate_Art_of_the_World.jpg/132px-Laureate_Art_of_the_World.jpg" decoding="async" width="132" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Laureate_Art_of_the_World.jpg/198px-Laureate_Art_of_the_World.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Laureate_Art_of_the_World.jpg/264px-Laureate_Art_of_the_World.jpg 2x" data-file-width="3213" data-file-height="4387" /></a></span></div>
+			<div class="gallerytext">Лауреат Международной ассоциации «Искусство народов мира».</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Ferronni.jpg" class="mw-file-description" title="Обладатель диплома Академии Феррони (2005)."><img alt="Обладатель диплома Академии Феррони (2005)." src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ferronni.jpg/131px-Ferronni.jpg" decoding="async" width="131" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ferronni.jpg/196px-Ferronni.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ferronni.jpg/262px-Ferronni.jpg 2x" data-file-width="596" data-file-height="819" /></a></span></div>
+			<div class="gallerytext">Обладатель диплома Академии Феррони (2005).</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC-%D1%81%D0%BE%D1%8E%D0%B7%D0%B0-%D1%85%D1%83%D0%B4.jpg" class="mw-file-description" title="Лауреат диплома творческого союза художников России (московское отделение), 2007 год."><img alt="Лауреат диплома творческого союза художников России (московское отделение), 2007 год." src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC-%D1%81%D0%BE%D1%8E%D0%B7%D0%B0-%D1%85%D1%83%D0%B4.jpg/127px-%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC-%D1%81%D0%BE%D1%8E%D0%B7%D0%B0-%D1%85%D1%83%D0%B4.jpg" decoding="async" width="127" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC-%D1%81%D0%BE%D1%8E%D0%B7%D0%B0-%D1%85%D1%83%D0%B4.jpg/190px-%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC-%D1%81%D0%BE%D1%8E%D0%B7%D0%B0-%D1%85%D1%83%D0%B4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC-%D1%81%D0%BE%D1%8E%D0%B7%D0%B0-%D1%85%D1%83%D0%B4.jpg/254px-%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC-%D1%81%D0%BE%D1%8E%D0%B7%D0%B0-%D1%85%D1%83%D0%B4.jpg 2x" data-file-width="705" data-file-height="1000" /></a></span></div>
+			<div class="gallerytext">Лауреат диплома творческого союза художников России (московское отделение), 2007 год.</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:TSPH_diploma.jpg" class="mw-file-description" title="Почетный диплом ТСПХ, 2008 год."><img alt="Почетный диплом ТСПХ, 2008 год." src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/TSPH_diploma.jpg/127px-TSPH_diploma.jpg" decoding="async" width="127" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/TSPH_diploma.jpg/191px-TSPH_diploma.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/TSPH_diploma.jpg/255px-TSPH_diploma.jpg 2x" data-file-width="726" data-file-height="1024" /></a></span></div>
+			<div class="gallerytext">Почетный диплом ТСПХ, 2008 год.</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Slavic_traditions.jpg" class="mw-file-description" title="Диплом участника - Десятый международный фестиваль литературы и культуры «Славянские традиции», 2018 год."><img alt="Диплом участника - Десятый международный фестиваль литературы и культуры «Славянские традиции», 2018 год." src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Slavic_traditions.jpg/125px-Slavic_traditions.jpg" decoding="async" width="125" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Slavic_traditions.jpg/187px-Slavic_traditions.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Slavic_traditions.jpg/250px-Slavic_traditions.jpg 2x" data-file-width="711" data-file-height="1024" /></a></span></div>
+			<div class="gallerytext">Диплом участника - Десятый международный фестиваль литературы и культуры «Славянские традиции», 2018 год.</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Alter_Ego_Exhibition_Diploma.jpg" class="mw-file-description" title="Диплом участника выставки арт-группы Alter Ego, 2018 год."><img alt="Диплом участника выставки арт-группы Alter Ego, 2018 год." src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Alter_Ego_Exhibition_Diploma.jpg/128px-Alter_Ego_Exhibition_Diploma.jpg" decoding="async" width="128" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Alter_Ego_Exhibition_Diploma.jpg/192px-Alter_Ego_Exhibition_Diploma.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Alter_Ego_Exhibition_Diploma.jpg/256px-Alter_Ego_Exhibition_Diploma.jpg 2x" data-file-width="728" data-file-height="1024" /></a></span></div>
+			<div class="gallerytext">Диплом участника выставки арт-группы Alter Ego, 2018 год.</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:June_year.jpg" class="mw-file-description" title="Диплом участника выставки «Июньский год» московского выставочного зала «Тушино», 2018 год."><img alt="Диплом участника выставки «Июньский год» московского выставочного зала «Тушино», 2018 год." src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/June_year.jpg/125px-June_year.jpg" decoding="async" width="125" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/June_year.jpg/188px-June_year.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/June_year.jpg/250px-June_year.jpg 2x" data-file-width="712" data-file-height="1024" /></a></span></div>
+			<div class="gallerytext">Диплом участника выставки «Июньский год» московского выставочного зала «Тушино», 2018 год.</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Exhibition_Rhythm_and_Concord.jpg" class="mw-file-description" title="Диплом за участие в Выставке «Ритм и Согласие» в Культурном центре Посольства республики Армения в России, 2020 год."><img alt="Диплом за участие в Выставке «Ритм и Согласие» в Культурном центре Посольства республики Армения в России, 2020 год." src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Exhibition_Rhythm_and_Concord.jpg/130px-Exhibition_Rhythm_and_Concord.jpg" decoding="async" width="130" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Exhibition_Rhythm_and_Concord.jpg/194px-Exhibition_Rhythm_and_Concord.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Exhibition_Rhythm_and_Concord.jpg/259px-Exhibition_Rhythm_and_Concord.jpg 2x" data-file-width="4950" data-file-height="6870" /></a></span></div>
+			<div class="gallerytext">Диплом за участие в Выставке «Ритм и Согласие» в Культурном центре Посольства республики Армения в России, 2020 год.</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Art_perfection_recognition.jpg" class="mw-file-description" title="Золотые медали конкурсов «Искусство. Совершенство. Признание»."><img alt="Золотые медали конкурсов «Искусство. Совершенство. Признание»." src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Art_perfection_recognition.jpg/160px-Art_perfection_recognition.jpg" decoding="async" width="160" height="142" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Art_perfection_recognition.jpg/240px-Art_perfection_recognition.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Art_perfection_recognition.jpg/320px-Art_perfection_recognition.jpg 2x" data-file-width="865" data-file-height="768" /></a></span></div>
+			<div class="gallerytext">Золотые медали конкурсов «Искусство. Совершенство. Признание».</div>
+		</li>
+</ul>
+</div></div></div>
+<ul><li>В 1995 г. -<a href="//upload.wikimedia.org/wikipedia/commons/1/1a/Laureate_Art_of_the_World.jpg" class="internal" title="Laureate Art of the World.jpg">Лауреат Международной ассоциации «Искусство народов мира»</a>.</li>
+<li>С 2005 г.&#160;- <a href="//upload.wikimedia.org/wikipedia/commons/d/df/Ferronni.jpg" class="internal" title="Ferronni.jpg">обладатель диплома Академии Феррони</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>С 2007 г.&#160;-  <a href="//upload.wikimedia.org/wikipedia/commons/2/20/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC-%D1%81%D0%BE%D1%8E%D0%B7%D0%B0-%D1%85%D1%83%D0%B4.jpg" class="internal" title="Диплом-союза-худ.jpg">лауреат диплома творческого союза художников России (московское отделение)</a>.</li>
+<li>С 2008 г.&#160;- <a href="//upload.wikimedia.org/wikipedia/commons/d/db/TSPH_diploma.jpg" class="internal" title="TSPH diploma.jpg">почетный диплом ТСПХ</a>.</li>
+<li>В 2018 г.&#160;-  <a href="//upload.wikimedia.org/wikipedia/commons/4/45/Slavic_traditions.jpg" class="internal" title="Slavic traditions.jpg">диплом участника десятого международного фестиваля литературы и культуры «Славянские традиции»</a>. В том же году вручён диплом  <a href="//upload.wikimedia.org/wikipedia/commons/d/d0/Alter_Ego_Exhibition_Diploma.jpg" class="internal" title="Alter Ego Exhibition Diploma.jpg">участника выставки арт-группы Alter Ego</a> и диплом  <a href="//upload.wikimedia.org/wikipedia/commons/b/bb/June_year.jpg" class="internal" title="June year.jpg">участника выставки «Июньский год» московского выставочного зала «Тушино»</a>.</li>
+<li>В 2019 г.&#160;-  <a href="//upload.wikimedia.org/wikipedia/commons/9/91/Empire_expert_club.jpg" class="internal" title="Empire expert club.jpg">лауреат диплома клуба экспертов «Ампир»</a> и в том же году награждён  <a href="//upload.wikimedia.org/wikipedia/commons/5/5f/Art_perfection_recognition.jpg" class="internal" title="Art perfection recognition.jpg">золотыми медалями конкурсов «Искусство. Совершенство. Признание</a>» за работы «Души звезд»<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup> и «Единство четырех»<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>В 2020 г. - диплом вручён за участие в  <a href="//upload.wikimedia.org/wikipedia/commons/6/68/Exhibition_Rhythm_and_Concord.jpg" class="internal" title="Exhibition Rhythm and Concord.jpg">выставке «Ритм и Согласие» в Культурном центре Посольства республики Армения в России</a>.</li></ul>
+<div style="margin: 25px auto"></div>
+<div class="mw-heading mw-heading2"><h2 id="Работы_в_собраниях_и_музеях"><span id=".D0.A0.D0.B0.D0.B1.D0.BE.D1.82.D1.8B_.D0.B2_.D1.81.D0.BE.D0.B1.D1.80.D0.B0.D0.BD.D0.B8.D1.8F.D1.85_.D0.B8_.D0.BC.D1.83.D0.B7.D0.B5.D1.8F.D1.85"></span>Работы в собраниях и музеях</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Работы в собраниях и музеях»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=6" title="Редактировать код раздела «Работы в собраниях и музеях»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2_%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8" title="Государственный музей искусств Грузии">Государственный музей искусств Грузии</a>, <a href="/wiki/%D0%A2%D0%B1%D0%B8%D0%BB%D0%B8%D1%81%D0%B8" title="Тбилиси">Тбилиси</a><sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>;</li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B3%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F_%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8" title="Национальная картинная галерея Армении">Национальная картинная галерея Армении</a>, <a href="/wiki/%D0%95%D1%80%D0%B5%D0%B2%D0%B0%D0%BD" title="Ереван">Ереван</a>;</li>
+<li>Museum of Modern Renaissance, <a href="/wiki/%D0%91%D0%BE%D1%81%D1%82%D0%BE%D0%BD" title="Бостон">Бостон</a>;</li>
+<li>Одесский государственный музей Западного и Восточного искусства, <a href="/wiki/%D0%9E%D0%B4%D0%B5%D1%81%D1%81%D0%B0" title="Одесса">Одесса</a>;</li>
+<li><a href="/wiki/%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D0%BE-%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D1%8B_%D0%B8_%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D0%B8_%D0%A6%D0%B2%D0%B5%D1%82%D0%B0%D0%B5%D0%B2%D1%8B%D1%85" title="Литературно-художественный музей Марины и Анастасии Цветаевых">Литературно-художественный музей Марины и Анастасии Цветаевых</a>, <a href="/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2_(%D0%B3%D0%BE%D1%80%D0%BE%D0%B4)" title="Александров (город)">Александров</a>;</li>
+<li>Музей К.&#160;Д.&#160;Бальмонта, <a href="/wiki/%D0%A8%D1%83%D1%8F" title="Шуя">Шуя</a>;</li>
+<li><a href="/wiki/%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9" title="Ярославский художественный музей">Ярославский художественный музей</a>, <a href="/wiki/%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BB%D1%8C" title="Ярославль">Ярославль</a>;</li>
+<li>Музей портрета «Россия&#160;— Взгляд из третьего тысячелетия», Москва;</li>
+<li>Музей портрета «Национальная портретная галерея». Museum portrait «National Portrait Gallery»&#160;— Коллекция музея&#160;— Бальмонт Константин Дмитриевич;</li>
+<li>Омский государственный музей, <a href="/wiki/%D0%9E%D0%BC%D1%81%D0%BA" title="Омск">Омск</a>;</li>
+<li>Щучинский государственный музей, <a href="/wiki/%D0%A9%D1%83%D1%87%D0%B8%D0%BD%D1%81%D0%BA" title="Щучинск">Щучинск</a>;</li>
+<li>Кокчетавский государственный музей, <a href="/wiki/%D0%9A%D0%BE%D0%BA%D1%88%D0%B5%D1%82%D0%B0%D1%83" title="Кокшетау">Кокшетау</a>;</li>
+<li>Галерея «<a href="/wiki/%D0%9C%E2%80%99%D0%90%D0%A0%D0%A1" title="М’АРС">М’АРС</a>», <a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0" title="Москва">Москва</a>;</li>
+<li>Галерея «Никор», Москва;</li>
+<li>частные коллекции России, Швейцарии, США, Германии, Израиля, Голландии, Франции, Великобритании и др.</li></ul>
+<div style="margin: 25px auto">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r142621938" /><div class="mw-collapsible mw-collapsed ts-Скрытый_блок ts-Скрытый_блок-gray ts-Скрытый_блок-rightHideLink" style=""><div class="ts-Скрытый_блок-title" style="text-align: left; color: black; background-color: lavender; font-weight: bold;"><i>Документы из собраний и музейных фондов</i><div class="mw-collapsible-toggle-placeholder"></div></div><div class="mw-collapsible-content" style="color: black; background-color: ghostwhite; text-align: left;">
+<ul class="gallery mw-gallery-traditional center">
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2-%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8-01.jpg" class="mw-file-description" title="Государственный музей искусств Грузии, Тбилиси, ул. Кецховели, 1. (лист 1, листов 3)"><img alt="Государственный музей искусств Грузии, Тбилиси, ул. Кецховели, 1. (лист 1, листов 3)" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2-%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8-01.jpg/125px-%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2-%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8-01.jpg" decoding="async" width="125" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2-%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8-01.jpg/188px-%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2-%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8-01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2-%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8-01.jpg/250px-%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2-%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8-01.jpg 2x" data-file-width="696" data-file-height="1000" /></a></span></div>
+			<div class="gallerytext">Государственный музей искусств Грузии, Тбилиси, ул. Кецховели, 1.<br /> <i>(лист 1, листов 3)</i></div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2-%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8-02.jpg" class="mw-file-description" title="(лист 2)"><img alt="(лист 2)" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2-%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8-02.jpg/128px-%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2-%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8-02.jpg" decoding="async" width="128" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2-%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8-02.jpg/192px-%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2-%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8-02.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2-%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8-02.jpg/256px-%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2-%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8-02.jpg 2x" data-file-width="711" data-file-height="1001" /></a></span></div>
+			<div class="gallerytext"><i>(лист 2)</i></div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2-%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8-03.jpg" class="mw-file-description" title="(лист 3)"><img alt="(лист 3)" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2-%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8-03.jpg/127px-%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2-%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8-03.jpg" decoding="async" width="127" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2-%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8-03.jpg/191px-%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2-%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8-03.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2-%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8-03.jpg/254px-%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2-%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8-03.jpg 2x" data-file-width="707" data-file-height="1000" /></a></span></div>
+			<div class="gallerytext"><i>(лист 3)</i></div>
+		</li>
+</ul>
+<ul class="gallery mw-gallery-traditional center">
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-01.jpg" class="mw-file-description" title="Национальная картинная галерея Армении, Ереван/ (лист 1, листов 3)"><img alt="Национальная картинная галерея Армении, Ереван/ (лист 1, листов 3)" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-01.jpg/128px-%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-01.jpg" decoding="async" width="128" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-01.jpg/192px-%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-01.jpg/257px-%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-01.jpg 2x" data-file-width="714" data-file-height="1001" /></a></span></div>
+			<div class="gallerytext">Национальная картинная галерея Армении, Ереван/<br /> <i>(лист 1, листов 3)</i></div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-02.jpg" class="mw-file-description" title="(лист 2)"><img alt="(лист 2)" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-02.jpg/117px-%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-02.jpg" decoding="async" width="117" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-02.jpg/176px-%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-02.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/81/%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-02.jpg/235px-%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-02.jpg 2x" data-file-width="653" data-file-height="1000" /></a></span></div>
+			<div class="gallerytext"><i>(лист 2)</i></div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-03.jpg" class="mw-file-description" title="(лист 3)"><img alt="(лист 3)" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-03.jpg/127px-%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-03.jpg" decoding="async" width="127" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-03.jpg/190px-%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-03.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4d/%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-03.jpg/253px-%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-03.jpg 2x" data-file-width="704" data-file-height="1000" /></a></span></div>
+			<div class="gallerytext"><i>(лист 3)</i></div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-04.jpg" class="mw-file-description" title="(лист 4)"><img alt="(лист 4)" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-04.jpg/105px-%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-04.jpg" decoding="async" width="105" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3a/%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-04.jpg/158px-%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-04.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3a/%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-04.jpg/210px-%D0%93%D0%B0%D0%BB%D0%B5%D1%80%D0%B5%D1%8F-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8-04.jpg 2x" data-file-width="440" data-file-height="752" /></a></span></div>
+			<div class="gallerytext"><i>(лист 4)</i></div>
+		</li>
+</ul>
+<ul class="gallery mw-gallery-traditional center">
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Museum-of-Modern-Renaissance.jpg" class="mw-file-description" title="Museum of Modern Renaissance, Бостон, США."><img alt="Museum of Modern Renaissance, Бостон, США." src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Museum-of-Modern-Renaissance.jpg/139px-Museum-of-Modern-Renaissance.jpg" decoding="async" width="139" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Museum-of-Modern-Renaissance.jpg/209px-Museum-of-Modern-Renaissance.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Museum-of-Modern-Renaissance.jpg/278px-Museum-of-Modern-Renaissance.jpg 2x" data-file-width="773" data-file-height="1000" /></a></span></div>
+			<div class="gallerytext">Museum of Modern Renaissance, Бостон, США.</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Museum-of-Modern-Renaissance-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Museum-of-Modern-Renaissance-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0.jpg/139px-Museum-of-Modern-Renaissance-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0.jpg" decoding="async" width="139" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Museum-of-Modern-Renaissance-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0.jpg/208px-Museum-of-Modern-Renaissance-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Museum-of-Modern-Renaissance-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0.jpg/278px-Museum-of-Modern-Renaissance-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0.jpg 2x" data-file-width="772" data-file-height="1000" /></a></span></div>
+			<div class="gallerytext"></div>
+		</li>
+</ul>
+<ul class="gallery mw-gallery-traditional center">
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9E%D0%B4%D0%B5%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9.jpg" class="mw-file-description" title="Одесский государственный музей Западного и Восточного искусства, Одесса,Украина."><img alt="Одесский государственный музей Западного и Восточного искусства, Одесса,Украина." src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/%D0%9E%D0%B4%D0%B5%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9.jpg/131px-%D0%9E%D0%B4%D0%B5%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9.jpg" decoding="async" width="131" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/%D0%9E%D0%B4%D0%B5%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9.jpg/197px-%D0%9E%D0%B4%D0%B5%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/%D0%9E%D0%B4%D0%B5%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9.jpg/263px-%D0%9E%D0%B4%D0%B5%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9.jpg 2x" data-file-width="731" data-file-height="1000" /></a></span></div>
+			<div class="gallerytext">Одесский государственный музей Западного и Восточного искусства, Одесса,Украина.</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9C%D1%83%D0%B7%D0%B5%D0%B9-%D0%A6%D0%B2%D0%B5%D1%82%D0%B0%D0%B5%D0%B2%D1%8B%D1%85.jpg" class="mw-file-description" title="Литературно-художественный музей Марины и Анастасии Цветаевых, г. Александров, Россия."><img alt="Литературно-художественный музей Марины и Анастасии Цветаевых, г. Александров, Россия." src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9-%D0%A6%D0%B2%D0%B5%D1%82%D0%B0%D0%B5%D0%B2%D1%8B%D1%85.jpg/125px-%D0%9C%D1%83%D0%B7%D0%B5%D0%B9-%D0%A6%D0%B2%D0%B5%D1%82%D0%B0%D0%B5%D0%B2%D1%8B%D1%85.jpg" decoding="async" width="125" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9-%D0%A6%D0%B2%D0%B5%D1%82%D0%B0%D0%B5%D0%B2%D1%8B%D1%85.jpg/187px-%D0%9C%D1%83%D0%B7%D0%B5%D0%B9-%D0%A6%D0%B2%D0%B5%D1%82%D0%B0%D0%B5%D0%B2%D1%8B%D1%85.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9-%D0%A6%D0%B2%D0%B5%D1%82%D0%B0%D0%B5%D0%B2%D1%8B%D1%85.jpg/250px-%D0%9C%D1%83%D0%B7%D0%B5%D0%B9-%D0%A6%D0%B2%D0%B5%D1%82%D0%B0%D0%B5%D0%B2%D1%8B%D1%85.jpg 2x" data-file-width="694" data-file-height="1000" /></a></span></div>
+			<div class="gallerytext">Литературно-художественный музей Марины и Анастасии Цветаевых, г. Александров, Россия.</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%91%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D1%80%D1%82-%D0%A8%D1%83%D1%8F.jpg" class="mw-file-description" title="Музей К.Д.Бальмонта, Россия, г. Шуя, Ивановская обл., пл.Революции, 8."><img alt="Музей К.Д.Бальмонта, Россия, г. Шуя, Ивановская обл., пл.Революции, 8." src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/%D0%91%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D1%80%D1%82-%D0%A8%D1%83%D1%8F.jpg/128px-%D0%91%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D1%80%D1%82-%D0%A8%D1%83%D1%8F.jpg" decoding="async" width="128" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/%D0%91%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D1%80%D1%82-%D0%A8%D1%83%D1%8F.jpg/192px-%D0%91%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D1%80%D1%82-%D0%A8%D1%83%D1%8F.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/%D0%91%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D1%80%D1%82-%D0%A8%D1%83%D1%8F.jpg/255px-%D0%91%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D1%80%D1%82-%D0%A8%D1%83%D1%8F.jpg 2x" data-file-width="710" data-file-height="1000" /></a></span></div>
+			<div class="gallerytext">Музей К.Д.Бальмонта, Россия, г. Шуя, Ивановская обл., пл.Революции, 8.</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%91%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D0%BD%D1%82-%D0%A8%D1%83%D1%8F-%D1%83%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D0%B5.jpg" class="mw-file-description" title="Музей К.Д.Бальмонта"><img alt="Музей К.Д.Бальмонта" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/%D0%91%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D0%BD%D1%82-%D0%A8%D1%83%D1%8F-%D1%83%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D0%B5.jpg/160px-%D0%91%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D0%BD%D1%82-%D0%A8%D1%83%D1%8F-%D1%83%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D0%B5.jpg" decoding="async" width="160" height="134" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/%D0%91%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D0%BD%D1%82-%D0%A8%D1%83%D1%8F-%D1%83%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D0%B5.jpg/240px-%D0%91%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D0%BD%D1%82-%D0%A8%D1%83%D1%8F-%D1%83%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D0%B5.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/%D0%91%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D0%BD%D1%82-%D0%A8%D1%83%D1%8F-%D1%83%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D0%B5.jpg/320px-%D0%91%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D0%BD%D1%82-%D0%A8%D1%83%D1%8F-%D1%83%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D0%B5.jpg 2x" data-file-width="890" data-file-height="747" /></a></span></div>
+			<div class="gallerytext">Музей К.Д.Бальмонта</div>
+		</li>
+		<li class="gallerybox" style="width: 195px">
+			<div class="thumb" style="width: 190px; height: 210px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9.jpg" class="mw-file-description" title="Ярославский художественный музей, г.Ярославль, Россия."><img alt="Ярославский художественный музей, г.Ярославль, Россия." src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9.jpg/137px-%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9.jpg" decoding="async" width="137" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9.jpg/206px-%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1d/%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9.jpg/275px-%D0%AF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9.jpg 2x" data-file-width="900" data-file-height="1179" /></a></span></div>
+			<div class="gallerytext">Ярославский художественный музей, г.Ярославль, Россия.</div>
+		</li>
+</ul>
+</div></div>
+</div>
+<div class="mw-heading mw-heading2"><h2 id="Выставки"><span id=".D0.92.D1.8B.D1.81.D1.82.D0.B0.D0.B2.D0.BA.D0.B8"></span>Выставки</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Выставки»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=7" title="Редактировать код раздела «Выставки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r142621938" /><div class="mw-collapsible mw-collapsed ts-Скрытый_блок ts-Скрытый_блок-gray ts-Скрытый_блок-rightHideLink" style=""><div class="ts-Скрытый_блок-title" style="text-align: left; color: black; background-color: lavender; font-weight: bold;"><i>Перечень художественных выставок с участием Юрия Авалишвили</i><div class="mw-collapsible-toggle-placeholder"></div></div><div class="mw-collapsible-content" style="color: black; background-color: ghostwhite; text-align: left;">
+<ul><li>1988-1990 весенние республиканские выставки союза художников Грузии, г. Тбилиси;</li>
+<li>1991 «Золотая кисть». ЦДХ, Москва;</li>
+<li>1991 «Пространство и дух», Москва;</li>
+<li>1991 Художественный аукцион. Кипр, Греция;</li>
+<li>1991 Серия выставок-продаж в галерее «ТА-ИС», Москва;</li>
+<li>1991 Серия выставок в галерее «АКЦИЯ». ЦДХ, Москва;</li>
+<li>1991 Выставка-продажа в галерее «М'АРС», Москва;</li>
+<li>1991 Выставка в Ассоциации «Искусство народов мира», Москва;</li>
+<li>1991 Выставка в галерее «Никор», Москва;</li>
+<li>1991 Серия выставок-продаж в Совинцентре в галерее «ОЛЬГА» Москва;</li>
+<li>1992 Художественная ярмарка «АРТ МИФ 2", Центральный выставочный зал «Манеж», Москва;</li>
+<li>1992 Серия из 9 выставок-продаж в галерее «АКЦИЯ». Москва;</li>
+<li>1992 Выставка произведений русских художников «ЭКСПО», Балтимор, США;</li>
+<li>1992 Серия выставок «ТА-ИС», Москва;</li>
+<li>1992 Серия выставок-продаж в галерее «М'АРС», Москва;</li>
+<li>1992 Выставка-продажа в галерее «Никор», Москва;</li>
+<li>1992 «Хаммер центр" Совинцентр галерея «ОЛЬГА», Москва;</li>
+<li>1992 «Андрей и Михаил». «Экспоцентр», Москва;</li>
+<li>2000 «АРТ-САЛОН-2000». ЦДХ Москва<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>;</li>
+<li>2000 «Золотая кисть». ЦДХ, Москва;</li>
+<li>2000 «Мастер класс». Этнографический музей, Санкт-Петербург;</li>
+<li>2000 Выставка в выставочном центре «Выхино», Москва;</li>
+<li>2000 Персональная выставка в галерее «Никор», Москва;</li>
+<li>2003 Выставка в галерее «Март». ЦДХ, Москва;</li>
+<li>2003 Выставка в выставочном центре «Выхино», Москва;</li>
+<li>2004 Выставка в галерее «Гармония», гост. Рэдиссон-Славянская, Москва;</li>
+<li>2004 Выставка «On The Wall», Оlimpia Grand Hall, Лондон;</li>
+<li>2004 Выставка в галерее «Lolita's Art Garden», Лондон;</li>
+<li>2004 Выставка в галерее «Arcima», Париж;</li>
+<li>2005 Выставка в галерее «Гармония», гост. Рэдиссон-Славянская, Москва;</li>
+<li>2006 Музей Владимира Высоцкого, Москва;</li>
+<li>2006 Выставка в салоне «Новый», Санкт-Петербург<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>&#160;;</li>
+<li>2006 «Tal Tevere alla Moscova» Рим Италия;</li>
+<li>2007 Государственная галерея "«Творчество», Москва;</li>
+<li>2007 Современник ЦДХ, Москва;</li>
+<li>2007 Музей Владимира Высоцкого, Москва;</li>
+<li>2007 «Транзит из детства», ЦДХ, Москва;</li>
+<li>2007 «Свойства искренности», ЦДХ, Москва;</li>
+<li>2007 Галерея «Sen Bruk» музей Высоцкого;</li>
+<li>2007 «FYR arte contemporanea Premio LEONARDO DA VINCI»;</li>
+<li>2008 Государственная галерея «Выхино»;</li>
+<li>2008 Второй Московский Фестиваль искусств «Традиция и Современность»; Манеж, Москва;</li>
+<li>2008 «Мифология пространства» галерея ВХУТЕМАС.</li>
+<li>2008 Галерея Хасая Алиева в «Центре Защиты от Стресса»<sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>2008 Галерея Alter-ego ЦДХ Москва;</li>
+<li>2008 галерея Ардена "Осенний экспромт»;</li>
+<li>2008 «Транзит из детства», ЦДХ, Москва;</li>
+<li>2009 «Цвет и слово» «Общественный благотворительный фонд Аквариус центр творчества» Центральный дом журналиста.</li>
+<li>2009 галерея «Никор" 20 лет «Искусство народов мира» «Творчество», Москва;</li>
+<li>2009 Москва галерея «Тушино»;</li>
+<li>2009 Галерея «Alter-ego» ЦДХ Москва;</li>
+<li>2009 Выставка в галерее «Lolita's Art Garden», Лондон;</li>
+<li>2009 галерея «vinsent» «Фестиваль дыни»<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>2010 выставка из коллекции Н. И. Корнилова ЦДХ Москва</li>
+<li>2010 выставка из коллекции Н. И. Корнилова в галерее «Творчество», Москва</li>
+<li>2010 галерея Ардена Москва</li>
+<li>2010 Галерея «Sen Bruk» музей Высоцкого</li>
+<li>2010 Выставка в галерее «Lolita's Art Garden», Лондон</li>
+<li>2010 галерея «Тушино» Москва</li>
+<li>2011 Выставка в галерее «Lolita's Art Garden», Лондон</li>
+<li>2011 Museum of Modern Renaissance США</li>
+<li>2011 Музей Владимира Высоцкого, Москва</li>
+<li>2011 Выставка в галерее «Март». ЦДХ, Москва</li>
+<li>2011 галерея Тушино Москва</li>
+<li>2009 «Цвет и слово» «Общественный благотворительный фонд аквариус центр творчества» Дом журналиста, Москва</li>
+<li>2011 галерея Ардена «Осенний экспромт»</li>
+<li>2012 Выставка в галерее «Lolita's Art Garden», Лондон</li>
+<li>2012 Museum of Modern Renaissance США</li>
+<li>2012 Галерея «Alter-ego» ЦДХ Москва</li>
+<li>2012 Московский государственный Выставочный зал «Творчество»</li>
+<li>2012 Музей Владимира Высоцкого, Москва</li>
+<li>2013 Museum of Modern Renaissance США</li>
+<li>2013 Выставка в галерее «Lolita's Art Garden», Лондон</li>
+<li>2013 Музей Владимира Высоцкого, Москва</li>
+<li>2013 Московский государственный Выставочный зал «Творчество»</li>
+<li>2014 галерея Ардена</li>
+<li>2014 «Общественный благотворительный фонд аквариус центр творчества» Дом журналиста, Москва</li>
+<li>2014 Московский государственный Выставочный зал «Творчество»</li>
+<li>2014 Галерея «Alter-ego» ЦДХ Москва</li>
+<li>2014 Museum of Modern Renaissance США</li>
+<li>2015 галерея Ардена</li>
+<li>2015 Выставка ЦДХ, Москва</li>
+<li>2016 галерея Ардена</li>
+<li>2016 Museum of Modern Renaissance США</li>
+<li>2016 Выставка в ЦДХ, Москва</li>
+<li>2016 «Общественный благотворительный фонд аквариус центр творчества» Дом журналиста, Москва</li>
+<li>2017 ЦДРИ на кузнецком мосту</li>
+<li>2017 галерея Ардена</li>
+<li>2017 Выставка в ЦДХ, Москва</li>
+<li>2018 «С любовью о любви» Выставочный зал «Тушино» Москва</li>
+<li>2018 выставка словенские традиции Крым Россия</li>
+<li>2018 ЦДРИ на кузнецком мосту</li>
+<li>2019 выставка Международная ассоциация фондов мира Москва</li>
+<li>2019 Галерея «Alter-ego» ЦДХ Москва</li>
+<li>2019 музей арт. модерн Москва</li>
+<li>2019 ЦДРИ на Кузнецком мосту</li>
+<li>2019 библиотека Добролюбова</li>
+<li>2020 «Ритм и Согласие» Культурный центр</li>
+<li>2019 Москва галерея Тушино<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+</div></div>
+<div class="mw-heading mw-heading2"><h2 id="Библиография"><span id=".D0.91.D0.B8.D0.B1.D0.BB.D0.B8.D0.BE.D0.B3.D1.80.D0.B0.D1.84.D0.B8.D1.8F"></span>Библиография</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=8" title="Редактировать раздел «Библиография»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=8" title="Редактировать код раздела «Библиография»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Произведения Авалишвили опубликованы во многих российских и международных каталогах: «Искусство России» (2002, 2003, 2004), «Артиндекс» (2006), «Современный русский реализм» (2003), «Реализм XXI века. Живопись» (2004); каталог выставки «On The Wall»(Лондон, 2004); каталог «FYR arte contemporanea Premio LEONARDO DA VINCI» (Италия, Флоренция); «100 сontemporary international artists» (2007); каталог 11-й выставки Коктебель-Карадаг; каталог «Творческого союза профессиональных художников» (2008) и т. д.
+</p>
+<ul><li>Каталог выставки «Пространство и дух», Москва, 1991.</li>
+<li>Каталог международной художественной ярмарки «ЦДХ-2000», Центральный Дом художника, Москва, 2000.</li>
+<li>Каталог выставки «Золотая кисть», Центральный Дом художника, Москва, 2000.</li>
+<li>Буклет выставки «Мастер класс», Русский музей, Санкт Петербург, 2000.</li>
+<li>Журнал «Художественный совет», 2 (14), 2000.</li>
+<li>Каталог международной художественной ярмарки «ЦДХ-2001», Центральный Дом художника, Москва, 2001.</li>
+<li>«Искусство России 2002», М.: СканРус, 2002.</li>
+<li>«Искусство России 2003», М.: СканРус, 2003.</li>
+<li>«Современный русский реализм», М.: СканРус, 2003.</li>
+<li>«Искусство России 2004», М.: СканРус, 2004.</li>
+<li>«Реализм XXI века. Живопись», М.: СканРус, 2004.</li>
+<li>Каталог выставки «On The Wall», Лондон, 2004.</li>
+<li>Буклет выставки галереи «Arcima», Париж, 2004.</li>
+<li>Иллюстрации к книге Т. Семеновой «Монсегюр» М.: ЗАО «КЖИ ЗА РУЛЕМ», 2004.</li>
+<li>Каталог-справочник «ARTINDEX», Художники 06 Выпуск 4.2006, Санкт-Петербург.</li>
+<li>Каталог «FYR arte contemporanea Premio LEONARDO DA VINCI», Италия, Флоренция.</li>
+<li>«100 сontemporary international artists» (2007), USA <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9783836510219" class="internal mw-magiclink-isbn">ISBN 978-3-8365-1021-9</a>.</li>
+<li>Каталог 11-й выставки Коктебель-Карадаг.</li>
+<li>Каталог «Творческого союза профессиональных художников» (2008).</li>
+<li>Иллюстрации к книге Т. Семеновой «Колодец времени» <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785906819666" class="internal mw-magiclink-isbn">ISBN 978-5906819-66-6</a><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>Иллюстрации к книге Т. Семеновой «Дочь Нефертити» <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785902937067" class="internal mw-magiclink-isbn">ISBN 978-5-902937-06-7</a><sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Иллюстрации к книге Т. Семеновой «Тамерлан. Копье Судьбы» <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5902937027" class="internal mw-magiclink-isbn">ISBN 5-902937-02-7</a><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>Иллюстрации к книге Т. Семеновой «По следам инков» <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785902937081" class="internal mw-magiclink-isbn">ISBN 978-5-902937-08-1</a><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Иллюстрации к книге Т. Семеновой «Наложница императора» <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5902937019" class="internal mw-magiclink-isbn">ISBN 5-902937-01-9</a><sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Каталог «Творческий союз художников России» «Российской академии художеств» Москва 2009.</li>
+<li>«Меценат и мир» Литературно&#160;— художественный культурологический международный журнал<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup></li>
+<li>Буклет фестиваля дыни.</li>
+<li>Авалишвили Юрий, Сафонкин Лев: «Вечный поиск самого себя…» интервью «Наука и религия», ежемесячный научно-популярный журнал.&#160; — Москва: Наука и религия, 2010.&#160;— №&#160;6.&#160;— С. 64, 3 стр. обложк.: цв.ил.&#160;— ISSN 0130-7045<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=9" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=9" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://artistunion.ru/tsph-cat1%20.pdf"><i>ТСПХ Каталог Москва 2008</i></a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 25 декабря 2019.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160127074533/http://artistunion.ru/tsph-cat1%20.pdf">Архивировано</a> 27 января 2016 года.</span></span>
+</li>
+<li id="cite_note-:0-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-:0_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-:0_2-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://www.academarts.com/prezidium"><i>Президиум Академии</i></a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 12 января 2020.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20191127172619/https://www.academarts.com/prezidium">Архивировано</a> 27 ноября 2019 года.</span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://accadem-ferroni.ucoz.com/index/laureaty_diplomov/0-5"><i>Список Дипломов Академии Феррони</i></a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 17 сентября 2019.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190408035553/http://accadem-ferroni.ucoz.com/index/laureaty_diplomov/0-5">Архивировано</a> 8 апреля 2019 года.</span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://artexawards.com/?page_id=2089"><i>Лауреаты и дипломанты международного конкурса АЕА-2019 (весенний сезон) «Искусство. Совершенство. Признание»</i></a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 17 сентября 2019.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190603072836/http://artexawards.com/?page_id=2089">Архивировано</a> 3 июня 2019 года.</span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://artexawards.com/?page_id=2286"><i>Лауреаты и дипломанты международного конкурса АЕА-2019 (осенний сезон) «Искусство. Совершенство. Признание»</i></a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 12 января 2020.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20200112122021/http://artexawards.com/?page_id=2286">Архивировано</a> 12 января 2020 года.</span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://howlingpixel.com/i-ru/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2_%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8"><i>Государственный музей искусств Грузии</i></a>&#160;<small class="ref-info">(недоступная ссылка)</small></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.artinfo.ru/russbank.asp?src=%2Fartbank%2Fscripts%2Frussian%2Fevent%2Fevent_base%2Eidc%3Fsubject_id%3D301%26topic_sort%3D1"><i>Московский международный художественный салон "ЦДХ - 2000"</i></a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 25 декабря 2019.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20191220084705/http://www.artinfo.ru/russbank.asp?src=%2Fartbank%2Fscripts%2Frussian%2Fevent%2Fevent%5Fbase%2Eidc%3Fsubject%5Fid%3D301%26topic%5Fsort%3D1">Архивировано</a> 20 декабря 2019 года.</span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://news.spbland.ru/i/19628/"><i>Современная салонная живопись в галерее салона «Новый» 02.06.2006</i></a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 25 декабря 2019.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20191225195634/http://news.spbland.ru/i/19628/">Архивировано</a> 25 декабря 2019 года.</span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.artistunion.ru/news090608.html"><i>ТСПХ, 18.00 – открытие выставки работ художников Москвы в галерее Хасая Алиева в «Центре Защиты от Стресса»</i></a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 25 декабря 2019.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190904090221/http://www.artistunion.ru/news090608.html">Архивировано</a> 4 сентября 2019 года.</span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://www.souzveche.ru/articles/culture/7493/"><i>«Союзное вече» 01 февраля 2010 года Дыня вместо тыквы. Недавно в московской галерее «Винсент» впервые в России прошел фестиваль «Дыня-Арт»</i></a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 25 декабря 2019.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20191225195633/https://www.souzveche.ru/articles/culture/7493/">Архивировано</a> 25 декабря 2019 года.</span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://vz-tushino.ru/2019/05/07-06-23-06-2019-vystavka-iyunskij-god/yurij-avalishvili-heruvim-ezkiz-k-3-hramu-kompozitsiya-n-8-h-m-100h85-2/"><i>Выставочный зал «Тушино» Юрий Авалишвили. Херувим. Эзкиз к 3 храму. </i></a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 25 декабря 2019.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20191225195636/http://vz-tushino.ru/2019/05/07-06-23-06-2019-vystavka-iyunskij-god/yurij-avalishvili-heruvim-ezkiz-k-3-hramu-kompozitsiya-n-8-h-m-100h85-2/">Архивировано</a> 25 декабря 2019 года.</span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.ng.ru/ng_exlibris/2009-05-21/5_smirenie.html"><i>«Куда подевалось смирение?» Новая газета, 21.05.2009 </i></a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 25 декабря 2019.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20191225195632/http://www.ng.ru/ng_exlibris/2009-05-21/5_smirenie.html">Архивировано</a> 25 декабря 2019 года.</span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://irbissearch.tonb.ru/CGI/irbis64r_91/cgiirbis_64.exe?LNG=&amp;C21COM=S&amp;I21DBN=EKC&amp;P21DBN=N&amp;S21FMT=&amp;S21ALL=%3C.%3EA%3D%D0%9A%D1%83%D0%B7%D1%8C%D0%BC%D0%B5%D0%BD%D0%BA%D0%BE,%20%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB%20%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D0%B8%D1%87%40%3C.%3E&amp;Z21ID=&amp;S21SRW=dz&amp;S21SRD=&amp;S21STN=1&amp;S21REF=&amp;S21CNR=20"><i>Колодец времени / Татьяна Семёнова, Павел Кузьменко; рисунки Юрия Авалишвили.&#160;— Москва&#160;: ФАЭТОН, 2009</i></a></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://spblib.ru/catalog/-/books/10692183-doch-nefertiti"><i>«Дочь Нефертити» Издательство: Фаэтон (Москва), 2007</i></a>&#160;<small class="ref-info">(недоступная ссылка)</small></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://webirbis.spsl.nsc.ru/irbis64r_01/cgi/cgiirbis_64.exe?Z21ID=&amp;I21DBN=CAT&amp;P21DBN=CAT&amp;S21STN=1&amp;S21REF=3&amp;S21FMT=fullwebr&amp;C21COM=S&amp;S21CNR=20&amp;S21P01=0&amp;S21P02=1&amp;S21P03=A=&amp;S21STR=%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%2C%20%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0%20%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0"><i>Тамерлан. Копье Судьбы / Татьяна Семёнова; рисунки Юрия Авалишвили.&#160;— Москва&#160;: ФАЭТОН, 2006</i></a></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://www.fantlab.ru/edition44165"><i>«По следам инков» Издательство: Фаэтон (Москва), 2007</i></a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 25 декабря 2019.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20191225195635/https://www.fantlab.ru/edition44165">Архивировано</a> 25 декабря 2019 года.</span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://www.fantlab.ru/edition3912"><i>«Наложница императора» Издательство: Фаэтон (Москва), 2005</i></a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 25 декабря 2019.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20191225195633/https://www.fantlab.ru/edition3912">Архивировано</a> 25 декабря 2019 года.</span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.mecenat-and-world.ru/41-44/avalishvili.htm"><i>«Меценат и мир» Семеричность отражения</i></a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 25 декабря 2019.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20191203231852/http://www.mecenat-and-world.ru/41-44/avalishvili.htm">Архивировано</a> 3 декабря 2019 года.</span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://epub.krlib.ru:808/cgi-bin/irbis64r_15/cgiirbis_64.exe?LNG=&amp;P21DBN=STATI&amp;I21DBN=STATI_PRINT&amp;S21FMT=infow_wh_print&amp;C21COM=F&amp;Z21MFN=6509"><i>Авалишвили, Юрий, Сафонкин, Лев: Вечный поиск самого себя…&#160;: интервью Наука и религия</i></a>&#160;<small class="ref-info">(недоступная ссылка)</small></span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Источники"><span id=".D0.98.D1.81.D1.82.D0.BE.D1.87.D0.BD.D0.B8.D0.BA.D0.B8"></span>Источники</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=10" title="Редактировать раздел «Источники»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=10" title="Редактировать код раздела «Источники»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><i>Музей портрета «Национальная портретная галерея». Museum portrait «National Portrait Gallery»&#160;— Художники Музея. Cовременные художники-портретисты россии.&#160;— Авалишвили Юрий</i></li>
+<li><a rel="nofollow" class="external text" href="https://www.risunoc.com/2018/12/garmonichnyy-mir-yuriy-avalishvili.html"><i>Современные художники, фотографы и скульпторы со всего мира «Гармоничный мир. Юрий Григорьевич Авалишвили»</i></a></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Ссылки"><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span>Ссылки</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=11" title="Редактировать раздел «Ссылки»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=11" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a rel="nofollow" class="external text" href="http://aidinian.org.ru/stati-ob-iskusstve/yurij-avalishvili/"><i>С.Айдинян. «Взгляд в Небо»</i></a></li>
+<li><a rel="nofollow" class="external text" href="http://nekrasov-art.com/geyzery-podsoznaniya-v-cdh/hudozhniki/"><i>Художники, участники Международного Арт-Проекта Андрея Некрасова «Гейзеры Подсознания в ЦДХ»</i></a></li>
+<li><i><a rel="nofollow" class="external text" href="http://yuri-avalishvili.art/2011-09-21-08-21-48.html">Документы из музеев на персональном сайте художника</a></i></li>
+<li><a rel="nofollow" class="external text" href="http://www.iknow.xyz/result.php?search=List-of-Popular-Georgian-Artists"><i>List of Popular Georgian Artists</i></a></li>
+<li><a rel="nofollow" class="external text" href="http://rossiya-daleevezde.narod.ru/hudojniki.htm"><i>Некоммерческий проект «Россия&#160;— далее везде» Ольга Алешина «Завтра и вчера»</i></a></li>
+<li><a rel="nofollow" class="external text" href="http://convent.ru/roscon/2005/"><i>«РосКон 2005: Результаты» Москва, 10&#160;— 13 февраля 2005</i></a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20200117001709/http://convent.ru/roscon/2005/">Архивная копия</a> от 17 января 2020 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw‐api‐int.codfw.main‐744c7bc577‐slm6w
+Cached time: 20250310105453
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.499 seconds
+Real time usage: 0.659 seconds
+Preprocessor visited node count: 4620/1000000
+Post‐expand include size: 67530/2097152 bytes
+Template argument size: 18567/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 10/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 93796/5000000 bytes
+Lua time usage: 0.286/10.000 seconds
+Lua memory usage: 7233552/52428800 bytes
+Number of Wikibase entities loaded: 8/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  596.856      1 -total
+ 58.57%  349.576      1 Шаблон:Художник
+ 54.99%  328.227      1 Шаблон:Карточка
+ 20.54%  122.567      5 Шаблон:Hider
+ 11.85%   70.724      1 Шаблон:Примечания
+  9.69%   57.838      5 Шаблон:Начало_скрытого_блока
+  8.50%   50.754     14 Шаблон:Cite_web
+  8.16%   48.688      6 Шаблон:Wikidata
+  6.39%   38.117      1 Шаблон:ФИО
+  5.40%   32.253     45 Шаблон:Ifempty
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:4751540:|#|:idhash:canonical and timestamp 20250310105453 and revision id 142382047. Rendering was triggered because: api-parse
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=0" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Авалишвили,_Юрий_Григорьевич&amp;oldid=142382047">https://ru.wikipedia.org/w/index.php?title=Авалишвили,_Юрий_Григорьевич&amp;oldid=142382047</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_2_%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F" title="Категория:Родившиеся 2 апреля">Родившиеся 2 апреля</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_1961_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Родившиеся в 1961 году">Родившиеся в 1961 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_%D0%A2%D0%B1%D0%B8%D0%BB%D0%B8%D1%81%D0%B8" title="Категория:Родившиеся в Тбилиси">Родившиеся в Тбилиси</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A2%D0%B1%D0%B8%D0%BB%D0%B8%D1%81%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%B8_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2" title="Категория:Выпускники Тбилисской академии художеств">Выпускники Тбилисской академии художеств</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Персоналии по алфавиту">Персоналии по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Художники по алфавиту">Художники по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Художники СССР">Художники СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A7%D0%BB%D0%B5%D0%BD%D1%8B_%D0%A1%D0%BE%D1%8E%D0%B7%D0%B0_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Члены Союза художников СССР">Члены Союза художников СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B" title="Категория:Художники Москвы">Художники Москвы</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_XXI_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Художники XXI века">Художники XXI века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_XX_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Художники XX века">Художники XX века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_XX_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Художники России XX века">Художники России XX века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_XXI_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Художники России XXI века">Художники России XXI века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Современные художники России">Современные художники России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8-%D0%BF%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6%D0%B8%D1%81%D1%82%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Художники-пейзажисты России">Художники-пейзажисты России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8-%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%B8%D1%81%D1%82%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Художники-портретисты России">Художники-портретисты России</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B5_JsonConfig" title="Категория:Страницы, использующие расширение JsonConfig">Страницы, использующие расширение JsonConfig</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Статьи с нерабочими ссылками">Википедия:Статьи с нерабочими ссылками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%B2%D0%B8%D0%BA%D0%B8-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%BE%D0%B9_%D0%B2_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8_%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B8" title="Категория:Википедия:Статьи с вики-разметкой в изображении карточки">Википедия:Статьи с вики-разметкой в изображении карточки</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8_%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Категория:Википедия:Биографии современников">Википедия:Биографии современников</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8:_%D0%B7%D0%B0%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D1%8C_%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_P373_%D0%B2_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Википедия:Статьи с изображениями: заполнить свойство P373 в Викиданных">Википедия:Статьи с изображениями: заполнить свойство P373 в Викиданных</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8%2C+%D0%AE%D1%80%D0%B8%D0%B9+%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8%2C+%D0%AE%D1%80%D0%B8%D0%B9+%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-namespaces-label"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;stable=1"><span>Читать</span></a></li><li id="ca-current" class="collapsible selected mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]" accesskey="v"><span>Текущая версия</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;oldid=142382047" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8%2C_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;id=142382047&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2590%25D0%25B2%25D0%25B0%25D0%25BB%25D0%25B8%25D1%2588%25D0%25B2%25D0%25B8%25D0%25BB%25D0%25B8%2C_%25D0%25AE%25D1%2580%25D0%25B8%25D0%25B9_%25D0%2593%25D1%2580%25D0%25B8%25D0%25B3%25D0%25BE%25D1%2580%25D1%258C%25D0%25B5%25D0%25B2%25D0%25B8%25D1%2587"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2590%25D0%25B2%25D0%25B0%25D0%25BB%25D0%25B8%25D1%2588%25D0%25B2%25D0%25B8%25D0%25BB%25D0%25B8%2C_%25D0%25AE%25D1%2580%25D0%25B8%25D0%25B9_%25D0%2593%25D1%2580%25D0%25B8%25D0%25B3%25D0%25BE%25D1%2580%25D1%258C%25D0%25B5%25D0%25B2%25D0%25B8%25D1%2587"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8%2C_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Avalishvili_Yuri_Grigorevich" hreflang="en"><span>Викисклад</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q15102778" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Yuriy_Avalishvili" title="Yuriy Avalishvili — узбекский" lang="uz" hreflang="uz" data-title="Yuriy Avalishvili" data-language-autonym="Oʻzbekcha / ўзбекча" data-language-local-name="узбекский" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q15102778#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 30 декабря 2024 в 01:25.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.log.warn("This page is using the deprecated ResourceLoader module \"codex-search-styles\".\n[1.43] Use a CodexModule with codexComponents to set your specific components used: https://www.mediawiki.org/wiki/Codex#Using_a_limited_subset_of_components");mw.config.set({"wgHostname":"mw-web.eqiad.main-7bc664cbbc-fwvc7","wgBackendResponseTime":176,"wgPageParseReport":{"limitreport":{"cputime":"0.499","walltime":"0.659","ppvisitednodes":{"value":4620,"limit":1000000},"postexpandincludesize":{"value":67530,"limit":2097152},"templateargumentsize":{"value":18567,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":10,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":93796,"limit":5000000},"entityaccesscount":{"value":8,"limit":400},"timingprofile":["100.00%  596.856      1 -total"," 58.57%  349.576      1 Шаблон:Художник"," 54.99%  328.227      1 Шаблон:Карточка"," 20.54%  122.567      5 Шаблон:Hider"," 11.85%   70.724      1 Шаблон:Примечания","  9.69%   57.838      5 Шаблон:Начало_скрытого_блока","  8.50%   50.754     14 Шаблон:Cite_web","  8.16%   48.688      6 Шаблон:Wikidata","  6.39%   38.117      1 Шаблон:ФИО","  5.40%   32.253     45 Шаблон:Ifempty"]},"scribunto":{"limitreport-timeusage":{"value":"0.286","limit":"10.000"},"limitreport-memusage":{"value":7233552,"limit":52428800},"limitreport-logs":"Loaded datatype string of P742 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P136 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-api-int.codfw.main-744c7bc577-slm6w","timestamp":"20250310105453","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0410\u0432\u0430\u043b\u0438\u0448\u0432\u0438\u043b\u0438, \u042e\u0440\u0438\u0439 \u0413\u0440\u0438\u0433\u043e\u0440\u044c\u0435\u0432\u0438\u0447","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87","sameAs":"http:\/\/www.wikidata.org\/entity\/Q15102778","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q15102778","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2013-10-24T20:05:03Z","dateModified":"2024-12-30T01:25:37Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b2\/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87_%D0%90%D0%B2%D0%B0%D0%BB%D0%B8%D1%88%D0%B2%D0%B8%D0%BB%D0%B8.jpg","headline":"\u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a-\u0436\u0438\u0432\u043e\u043f\u0438\u0441\u0435\u0446, \u0447\u043b\u0435\u043d \u0441\u043e\u044e\u0437\u0430 \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a\u043e\u0432 \u0421\u0421\u0421\u0420"}</script>
+</body>
+</html>

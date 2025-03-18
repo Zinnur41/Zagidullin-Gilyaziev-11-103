@@ -1,0 +1,1652 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Адабашьян, Александр Артёмович — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"9f724659-d286-4842-8651-e886a7ea8891","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Адабашьян,_Александр_Артёмович","wgTitle":"Адабашьян, Александр Артёмович","wgCurRevisionId":143792777,"wgRevisionId":143792777,"wgArticleId":33986,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Статьи с нерабочими ссылками","Википедия:Статьи с нераспознанным языком (ref)","Википедия:Cite web (заменить webcitation-архив: deadlink no)","Википедия:Cite web (не указан язык)","Википедия:Статьи с источниками из Викиданных","Википедия:Биографии современников","Википедия:Статьи с изображениями: заполнить свойство P373 в Викиданных","Страницы с неизвестными параметрами шаблона Кинематографист","Статьи со ссылками на Викисклад","Родившиеся 10 августа","Родившиеся в 1945 году","Родившиеся в Москве","Персоналии по алфавиту","Сценаристы по алфавиту","Сценаристы СССР","Сценаристы России","Сценаристы XX века","Сценаристы XXI века","Художники по алфавиту","Деятели изобразительного искусства по алфавиту","Художники СССР","Художники России","Художники XX века","Художники XXI века","Актёры по алфавиту","Актёры СССР","Актёры России","Актёры XX века","Актёры XXI века","Кинорежиссёры по алфавиту","Кинорежиссёры СССР","Кинорежиссёры России","Кинорежиссёры XX века","Кинорежиссёры XXI века","Заслуженные деятели искусств Российской Федерации","Заслуженные художники РСФСР","Лауреаты Государственной премии Казахской ССР","Художники кино России","Преподаватели Высших курсов сценаристов и режиссёров","Выпускники МГХПА имени С. Г. Строганова","Плакатисты СССР","Художники-киноплакатисты","Лауреаты Царскосельской художественной премии","Лауреаты премии «Фигаро»"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Адабашьян,_Александр_Артёмович","wgRelevantArticleId":33986,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":143792777,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":40000,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q4057207","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};
+RLSTATE={"ext.gadget.common-site":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","codex-search-styles":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","oojs-ui.styles.icons-media","oojs-ui-core.icons"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.44.0-wmf.20">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/2023_Alexander_Adabashyan.jpg/1200px-2023_Alexander_Adabashyan.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1426">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/2023_Alexander_Adabashyan.jpg/800px-2023_Alexander_Adabashyan.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="950">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/2023_Alexander_Adabashyan.jpg/640px-2023_Alexander_Adabashyan.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="760">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Адабашьян, Александр Артёмович — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="//ru.m.wikipedia.org/wiki/%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="login.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Адабашьян_Александр_Артёмович rootpage-Адабашьян_Александр_Артёмович skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Адабашьян, Александр Артёмович</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div role="note" class="hatnote navigation-not-searchable dabhide">В Википедии есть статьи о других людях с фамилией <a href="/wiki/%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD" class="mw-disambig" title="Адабашьян">Адабашьян</a>.</div>
+<table class="infobox infobox-278229705d77adc4" style="" data-name="Кинематографист"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Александр Адабашьян</th></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-property-id="P18" class="no-wikidata"><span typeof="mw:File/Frameless"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:2023_Alexander_Adabashyan.jpg" class="mw-file-description" title="Александр Адабашьян в 2023 году"><img alt="Александр Адабашьян в 2023 году" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/2023_Alexander_Adabashyan.jpg/222px-2023_Alexander_Adabashyan.jpg" decoding="async" width="222" height="264" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/2023_Alexander_Adabashyan.jpg/333px-2023_Alexander_Adabashyan.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/2023_Alexander_Adabashyan.jpg/444px-2023_Alexander_Adabashyan.jpg 2x" data-file-width="1712" data-file-height="2034" /></a></span><br /><span data-wikidata-qualifier-id="P2096" class="media-caption" style="display:block">Александр Адабашьян в 2023 году</span></span> </td></tr>
+<tr>
+<th scope="row" class="plainlist">Дата&#160;рождения</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q4057207$3BE5495C-2944-4F05-A9C6-7AB68F0443E4" class="wikidata-claim" data-wikidata-property-id="P569"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/10_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="10 августа">10 августа</a> <a href="/wiki/1945_%D0%B3%D0%BE%D0%B4" title="1945 год">1945</a></span><span style="display:none">(<span class="bday">1945-08-10</span>)</span></span><sup id="cite_ref-_f0fa4c70b9ca0668_1-0" class="reference"><a href="#cite_note-_f0fa4c70b9ca0668-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup> <span style="white-space:nowrap;">(79 лет)</span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Место&#160;рождения</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q4057207$F9BBB8E5-3332-4CAF-AE00-6603C0C3951E" class="wikidata-claim" data-wikidata-property-id="P19"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0" title="Москва">Москва</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA" title="Союз Советских Социалистических Республик">СССР</a></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Гражданство</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P27" class="no-wikidata"><span class="nowrap" data-sort-value="СССР"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/22px-Flag_of_the_Soviet_Union.svg.png" decoding="async" width="22" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/33px-Flag_of_the_Soviet_Union.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/44px-Flag_of_the_Soviet_Union.svg.png 2x" data-file-width="1200" data-file-height="600" /></span></span></span>&#160;<a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA" title="Союз Советских Социалистических Республик"><span class="wrap">СССР</span></a></span> → <span class="nowrap" data-sort-value="Россия"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/22px-Flag_of_Russia.svg.png" decoding="async" width="22" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/33px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/44px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></span></span></span>&#160;<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия"><span class="wrap">Россия</span></a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Профессия</th>
+<td class="plainlist">
+<div data-wikidata-property-id="P106" class="no-wikidata">
+<a href="/wiki/%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D1%81%D1%82" title="Сценарист">сценарист</a>, <a href="/wiki/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA" title="Художник">художник</a>, <a href="/wiki/%D0%90%D0%BA%D1%82%D1%91%D1%80" class="mw-redirect" title="Актёр">актёр</a>, <a href="/wiki/%D0%9A%D0%B8%D0%BD%D0%BE%D1%80%D0%B5%D0%B6%D0%B8%D1%81%D1%81%D1%91%D1%80" title="Кинорежиссёр">кинорежиссёр</a></div></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Карьера</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P2031" class="no-wikidata">1968&#160;— наст. время</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Направление</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P136" class="no-wikidata"><a href="/wiki/%D0%94%D1%80%D0%B0%D0%BC%D0%B0_(%D0%B6%D0%B0%D0%BD%D1%80)" title="Драма (жанр)">драма</a>, <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F" title="Комедия">комедия</a>, <a href="/wiki/%D0%9C%D0%B5%D0%BB%D0%BE%D0%B4%D1%80%D0%B0%D0%BC%D0%B0" title="Мелодрама">мелодрама</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Награды</th>
+<td class="plainlist">
+<div data-wikidata-property-id="P166" class="no-wikidata">
+<style data-mw-deduplicate="TemplateStyles:r117420385">.mw-parser-output .ts-Ряд{width:auto;border-collapse:collapse}.mw-parser-output .ts-Ряд td{padding-right:2px;padding-left:2px;text-align:center}.mw-parser-output .ts-Ряд td:first-child{padding-left:0;text-align:left}.mw-parser-output .ts-Ряд td:last-child{padding-right:0;text-align:right}.mw-parser-output .ts-Ряд.pull-left{}.mw-parser-output .ts-Ряд.pull-center{margin:0 auto!important}.mw-parser-output .ts-Ряд.pull-right{clear:right;margin:0 0 0 auto!important}.mw-parser-output .ts-Ряд.pull-justify{width:100%}body.skin-minerva .mw-parser-output .ts-Ряд{display:table}body.skin-minerva .mw-parser-output .ts-Ряд td{padding:2px}body.skin-minerva .mw-parser-output .ts-Ряд:not(.pull-justify){width:auto!important}</style><table role="presentation" class="infobox-inherit ts-Ряд pull-left"><tbody><tr><td><span typeof="mw:File"><a href="/wiki/%D0%97%D0%B0%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Заслуженный деятель искусств Российской Федерации — 2016"><img alt="Заслуженный деятель искусств Российской Федерации — 2016" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Honoured_Science_Worker_of_the_Russian_Federation.png/20px-Honoured_Science_Worker_of_the_Russian_Federation.png" decoding="async" width="20" height="26" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Honoured_Science_Worker_of_the_Russian_Federation.png/30px-Honoured_Science_Worker_of_the_Russian_Federation.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Honoured_Science_Worker_of_the_Russian_Federation.png/40px-Honoured_Science_Worker_of_the_Russian_Federation.png 2x" data-file-width="400" data-file-height="525" /></a></span></td><td><span typeof="mw:File"><a href="/wiki/%D0%97%D0%B0%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA_%D0%A0%D0%A1%D0%A4%D0%A1%D0%A0" title="Заслуженный художник РСФСР — 1983"><img alt="Заслуженный художник РСФСР — 1983" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Honoured_Artist_RSFSR_%28visual_arts%29.png/40px-Honoured_Artist_RSFSR_%28visual_arts%29.png" decoding="async" width="22" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/Honoured_Artist_RSFSR_%28visual_arts%29.png/60px-Honoured_Artist_RSFSR_%28visual_arts%29.png 2x" data-file-width="325" data-file-height="593" /></a></span></td><td><span typeof="mw:File"><a href="/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0" title="Государственная премия Казахской ССР"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/State_Prize_of_the_Kazakh_Soviet_Socialist_Republic.png/22px-State_Prize_of_the_Kazakh_Soviet_Socialist_Republic.png" decoding="async" width="22" height="38" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/State_Prize_of_the_Kazakh_Soviet_Socialist_Republic.png/33px-State_Prize_of_the_Kazakh_Soviet_Socialist_Republic.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/State_Prize_of_the_Kazakh_Soviet_Socialist_Republic.png/44px-State_Prize_of_the_Kazakh_Soviet_Socialist_Republic.png 2x" data-file-width="388" data-file-height="662" /></a></span></td>
+</tr></tbody></table></div></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">IMDb</a></th>
+<td class="plainlist">
+<span data-wikidata-claim-id="q4057207$438EE9B0-47CB-4AB4-B7C5-83ADE233174A" class="wikidata-claim" data-wikidata-property-id="P345"><span class="wikidata-snak wikidata-main-snak"><a href="https://www.imdb.com/name/nm0010383/" class="extiw" title="imdbname:0010383">ID&#160;0010383</a></span></span></td>
+</tr><tr><td colspan="2" class="infobox-below" style=";"><span data-wikidata-claim-id="Q4057207$e45dc82d-450f-9c65-9388-f479bd40032d" class="wikidata-claim" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:Alexander_Adabashyan" title="commons:Category:Alexander Adabashyan"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a></span>&#160;<a href="https://commons.wikimedia.org/wiki/Category:Alexander_Adabashyan" class="extiw" title="commons:Category:Alexander Adabashyan">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table>
+<p><b>Алекса́ндр Артёмович Адабашья́н</b> (род. <a href="/wiki/10_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="10 августа">10 августа</a> <a href="/wiki/1945" class="mw-redirect" title="1945">1945</a>, <a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0" title="Москва">Москва</a>, <a href="/wiki/%D0%A1%D0%A1%D0%A1%D0%A0" class="mw-redirect" title="СССР">СССР</a>) — советский и российский <a href="/wiki/%D0%9A%D0%B8%D0%BD%D0%BE%D0%B4%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D1%83%D1%80%D0%B3" class="mw-redirect" title="Кинодраматург">кинодраматург</a>, художник-постановщик, актёр, кинорежиссёр; <a href="/wiki/%D0%97%D0%B0%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Заслуженный деятель искусств Российской Федерации">заслуженный деятель искусств Российской Федерации</a> (2016), лауреат Государственной премии Казахской ССР (1978).
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Биография"><span class="tocnumber">1</span> <span class="toctext">Биография</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Общественная_позиция"><span class="tocnumber">2</span> <span class="toctext">Общественная позиция</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Семья"><span class="tocnumber">3</span> <span class="toctext">Семья</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Фильмография"><span class="tocnumber">4</span> <span class="toctext">Фильмография</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Признание_и_награды"><span class="tocnumber">5</span> <span class="toctext">Признание и награды</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Примечания"><span class="tocnumber">6</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Ссылки"><span class="tocnumber">7</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+
+<div class="mw-heading mw-heading2"><h2 id="Биография"><span id=".D0.91.D0.B8.D0.BE.D0.B3.D1.80.D0.B0.D1.84.D0.B8.D1.8F"></span>Биография</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Биография»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=1" title="Редактировать код раздела «Биография»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Александр Адабашьян родился в Москве в семье <a href="/wiki/%D0%90%D1%80%D0%BC%D1%8F%D0%BD%D0%B5" title="Армяне">армян</a> Артёма Адабашьяна и Валентины Бархударовой<sup id="cite_ref-ЭТ_2-0" class="reference"><a href="#cite_note-ЭТ-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>. Воспитывался на русской культуре, <a href="/wiki/%D0%90%D1%80%D0%BC%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Армянский язык">армянским языком</a> не владеет<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup>. Его мама была преподавателем немецкого языка, отец&#160;— инженером, работал начальником главного комитета в Министерстве монтажно-строительных работ<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>В 1962 году он поступил в <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE-%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%A1._%D0%93._%D0%A1%D1%82%D1%80%D0%BE%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0" title="Российский государственный художественно-промышленный университет имени С. Г. Строганова">Московское высшее художественно-промышленное училище</a><sup id="cite_ref-ЭТ_2-1" class="reference"><a href="#cite_note-ЭТ-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>. В 1964 году был призван на службу в армию<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>. Отслужив три года, вернулся в училище. В 1971 году окончил факультет художественной обработки металлов.
+</p><p>В 1970 году во время летней практики работал на съёмках дипломной работы своего друга <a href="/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%BB%D0%BA%D0%BE%D0%B2,_%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Михалков, Никита Сергеевич">Никиты Михалкова</a> «<a href="/wiki/%D0%A1%D0%BF%D0%BE%D0%BA%D0%BE%D0%B9%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D0%B2_%D0%BA%D0%BE%D0%BD%D1%86%D0%B5_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B" title="Спокойный день в конце войны">Спокойный день в конце войны</a>» как декоратор под руководством <a href="/w/index.php?title=%D0%A8%D1%80%D0%B5%D1%82%D0%B5%D1%80,_%D0%98%D1%80%D0%B8%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Шретер, Ирина Викторовна (страница отсутствует)">Ирины Шретер</a><sup id="cite_ref-ПМ_6-0" class="reference"><a href="#cite_note-ПМ-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>. В качестве художника-постановщика совместно с <a href="/wiki/%D0%A0%D0%BE%D0%B4%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B8%D1%87" title="Родионов, Алексей Борисович">Алексеем Родионовым</a> принял участие в съёмках режиссёрского дебюта <a href="/wiki/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Никоненко, Сергей Петрович">Сергея Никоненко</a>&#160;— короткометражного фильма «Петрухина фамилия» (1971)<sup id="cite_ref-ЭТ_2-2" class="reference"><a href="#cite_note-ЭТ-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Творческое сотрудничество с Михалковым продолжилось на съёмках картины «<a href="/wiki/%D0%A1%D0%B2%D0%BE%D0%B9_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D1%87%D1%83%D0%B6%D0%B8%D1%85,_%D1%87%D1%83%D0%B6%D0%BE%D0%B9_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D1%81%D0%B2%D0%BE%D0%B8%D1%85" title="Свой среди чужих, чужой среди своих">Свой среди чужих, чужой среди своих</a>» (1974) и «<a href="/wiki/%D0%A0%D0%B0%D0%B1%D0%B0_%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8" title="Раба любви">Раба любви</a>» (1975), где Адабашьян работал в качестве художника-постановщика, а в его следующих фильмах («<a href="/wiki/%D0%9D%D0%B5%D0%BE%D0%BA%D0%BE%D0%BD%D1%87%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%8C%D0%B5%D1%81%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BF%D0%B8%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE" title="Неоконченная пьеса для механического пианино">Неоконченная пьеса для механического пианино</a>», «<a href="/wiki/%D0%9F%D1%8F%D1%82%D1%8C_%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%B2_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Пять вечеров (фильм)">Пять вечеров</a>», «<a href="/wiki/%D0%9D%D0%B5%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE_%D0%B4%D0%BD%D0%B5%D0%B9_%D0%B8%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%9E%D0%B1%D0%BB%D0%BE%D0%BC%D0%BE%D0%B2%D0%B0" class="mw-redirect" title="Несколько дней из жизни Обломова">Несколько дней из жизни Обломова</a>», «<a href="/wiki/%D0%9E%D1%87%D0%B8_%D1%87%D1%91%D1%80%D0%BD%D1%8B%D0%B5_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Очи чёрные (фильм)">Очи чёрные</a>») выступил также как сценарист.
+</p><p>Кроме этого, Александр Адабашьян сыграл более сорока эпизодических ролей, создав на экране яркие запоминающиеся образы, такие, как инженер Тимофеев в «<a href="/wiki/%D0%9F%D1%8F%D1%82%D1%8C_%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%B2_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Пять вечеров (фильм)">Пяти вечерах</a>», дворецкий Бэрримор в «<a href="/wiki/%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%A8%D0%B5%D1%80%D0%BB%D0%BE%D0%BA%D0%B0_%D0%A5%D0%BE%D0%BB%D0%BC%D1%81%D0%B0_%D0%B8_%D0%B4%D0%BE%D0%BA%D1%82%D0%BE%D1%80%D0%B0_%D0%92%D0%B0%D1%82%D1%81%D0%BE%D0%BD%D0%B0:_%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0_%D0%91%D0%B0%D1%81%D0%BA%D0%B5%D1%80%D0%B2%D0%B8%D0%BB%D0%B5%D0%B9" title="Приключения Шерлока Холмса и доктора Ватсона: Собака Баскервилей">Собаке Баскервилей</a>» и <a href="/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%91%D0%B5%D1%80%D0%BB%D0%B8%D0%BE%D0%B7" title="Михаил Александрович Берлиоз">Берлиоз</a> в телесериале «<a href="/wiki/%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80_%D0%B8_%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" class="mw-redirect" title="Мастер и Маргарита (телесериал)">Мастер и Маргарита</a>».
+</p><p>На протяжении сорока лет читает курс лекций по кинодраматургии и изобразительному решению фильма на <a href="/wiki/%D0%92%D0%9A%D0%A1%D0%A0" class="mw-redirect" title="ВКСР">Высших курсах сценаристов и режиссёров</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup>. В 2000—2002 годах вместе с <a href="/wiki/%D0%94%D0%BE%D0%B1%D1%80%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9,_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Добровольский, Андрей Михайлович">Андреем Добровольским</a> вёл режиссёрскую мастерскую.
+</p><p>В 1990 году дебютировал в качестве режиссёра, сняв французский фильм «<a href="/wiki/%D0%9C%D0%B0%D0%B4%D0%BE,_%D0%B4%D0%BE_%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" title="Мадо, до востребования">Мадо, до востребования</a>», включённый на <a href="/wiki/%D0%9A%D0%B0%D0%BD%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%B8%D0%BD%D0%BE%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C" title="Каннский кинофестиваль">Каннском фестивале</a> в программу «Перспективы французского кино» и получивший в ней главный приз<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span class="cite-bracket">&#91;</span>8<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>В 2002 году Александр Адабашьян <a href="/wiki/%D0%90%D0%B7%D0%B0%D0%B7%D0%B5%D0%BB%D1%8C_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" class="mw-redirect" title="Азазель (фильм)">экранизировал</a> роман <a href="/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%90%D0%BA%D1%83%D0%BD%D0%B8%D0%BD" title="Борис Акунин">Бориса Акунина</a> «<a href="/wiki/%D0%90%D0%B7%D0%B0%D0%B7%D0%B5%D0%BB%D1%8C_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD_%D0%90%D0%BA%D1%83%D0%BD%D0%B8%D0%BD%D0%B0)" class="mw-redirect" title="Азазель (роман Акунина)">Азазель</a>». На конечной стадии съёмок возникли разногласия с продюсерами «<a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_(%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F)" title="Первый канал (Россия)">Первого канала</a>», режиссёр не смог отстоять собственную концепцию фильма и снял свою фамилию из титров<sup id="cite_ref-ЭТ_2-3" class="reference"><a href="#cite_note-ЭТ-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-С_9-0" class="reference"><a href="#cite_note-С-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>В играх «<a href="/wiki/%D0%A4%D0%BE%D1%80%D1%82_%D0%91%D0%BE%D1%8F%D1%80%D0%B4_(%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F)" class="mw-redirect" title="Форт Боярд (русская версия)">Форт Боярд</a>» 2004 года играл роль звездочёта Фура<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span class="cite-bracket">&#91;</span>10<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>В <a href="/wiki/1997_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%B0%D1%82%D1%80%D0%B5" title="1997 год в театре">1997</a> году поставил в <a href="/wiki/%D0%9C%D0%B0%D1%80%D0%B8%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80" title="Мариинский театр">Мариинском театре</a> оперу «<a href="/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%93%D0%BE%D0%B4%D1%83%D0%BD%D0%BE%D0%B2_(%D0%BE%D0%BF%D0%B5%D1%80%D0%B0)" title="Борис Годунов (опера)">Борис Годунов</a>»<sup id="cite_ref-bre1_11-0" class="reference"><a href="#cite_note-bre1-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>, а в <a href="/wiki/1998_%D0%B3%D0%BE%D0%B4_%D0%B2_%D1%82%D0%B5%D0%B0%D1%82%D1%80%D0%B5" title="1998 год в театре">1998</a>&#160;году&#160;— «<a href="/wiki/%D0%A5%D0%BE%D0%B2%D0%B0%D0%BD%D1%89%D0%B8%D0%BD%D0%B0_(%D0%BE%D0%BF%D0%B5%D1%80%D0%B0)" title="Хованщина (опера)">Хованщину</a>» в театре «<a href="/wiki/%D0%9B%D0%B0_%D0%A1%D0%BA%D0%B0%D0%BB%D0%B0" title="Ла Скала">Ла Скала</a>»<sup id="cite_ref-ЭТ_2-4" class="reference"><a href="#cite_note-ЭТ-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>Занимался дизайном интерьеров, оформил для <a href="/wiki/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80" title="Ресторатор">ресторатора</a> <a href="/wiki/%D0%A2%D0%B0%D0%B1%D0%B0%D0%BA%D0%BE%D0%B2,_%D0%90%D0%BD%D1%82%D0%BE%D0%BD_%D0%9E%D0%BB%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D1%87" title="Табаков, Антон Олегович">Антона Табакова</a> рестораны «Обломов», «Антонио», «Грибоедов»<sup id="cite_ref-С_9-1" class="reference"><a href="#cite_note-С-9"><span class="cite-bracket">&#91;</span>9<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Общественная_позиция"><span id=".D0.9E.D0.B1.D1.89.D0.B5.D1.81.D1.82.D0.B2.D0.B5.D0.BD.D0.BD.D0.B0.D1.8F_.D0.BF.D0.BE.D0.B7.D0.B8.D1.86.D0.B8.D1.8F"></span>Общественная позиция</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Общественная позиция»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=2" title="Редактировать код раздела «Общественная позиция»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В марте 2014 года поддержал <a href="/wiki/%D0%90%D0%BD%D0%BD%D0%B5%D0%BA%D1%81%D0%B8%D1%8F_%D0%9A%D1%80%D1%8B%D0%BC%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B5%D0%B9" title="Аннексия Крыма Российской Федерацией">аннексию Крыма</a>, подписал <a href="/wiki/%D0%94%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D0%B8_%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%E2%80%94_%D0%B2_%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D1%83_%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%B8_%D0%BF%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B0_%D0%BF%D0%BE_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B5_%D0%B8_%D0%9A%D1%80%D1%8B%D0%BC%D1%83" title="Деятели культуры России — в поддержку позиции президента по Украине и Крыму">письмо</a> президенту России Владимиру Путину в поддержку аннексии<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span class="cite-bracket">&#91;</span>12<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span class="cite-bracket">&#91;</span>13<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>В 2023 году, комментируя <a href="/wiki/%D0%92%D1%82%D0%BE%D1%80%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%BD%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%83_(%D1%81_2022)" title="Вторжение России на Украину (с 2022)">ввод войск на территорию Украины,</a> заявил что «война началась на Майдане в 2014-м, и спровоцировали её <a href="/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8" title="Соединённые Штаты Америки">Штаты</a>», которые искусственно затягивают конфликт, «чтобы ослабить Европу, чтобы ослабить Россию, чтобы заработать на продаже оружия, углеводородах»<sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span class="cite-bracket">&#91;</span>14<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Семья"><span id=".D0.A1.D0.B5.D0.BC.D1.8C.D1.8F"></span>Семья</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Семья»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=3" title="Редактировать код раздела «Семья»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li>Отец&#160;— Артём Карпович Адабашьян (1910—1974)<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span class="cite-bracket">&#91;</span>15<span class="cite-bracket">&#93;</span></a></sup>, инженер, начальник главка в Министерстве монтажных и специальных строительных работ СССР.</li>
+<li>Мать&#160;— Валентина Никитична Бархударова (1917—1995), преподаватель немецкого языка<sup id="cite_ref-ЭТ_2-5" class="reference"><a href="#cite_note-ЭТ-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>Первая жена&#160;— Марина Лебешева, сестра <a href="/wiki/%D0%9B%D0%B5%D0%B1%D0%B5%D1%88%D0%B5%D0%B2,_%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Лебешев, Павел Тимофеевич">Павла Лебешева</a>, умерла от заражения крови в 1975&#160;году.</li>
+<li>Вторая жена&#160;— Екатерина Шадрина<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span class="cite-bracket">&#91;</span>16<span class="cite-bracket">&#93;</span></a></sup>.
+<ul><li>Дочь&#160;— Александра, окончила греко-византийское отделение филологического факультета МГУ, преподавательница.</li>
+<li>Дочь&#160;— Екатерина.
+<ul><li>Семеро внуков.</li></ul></li></ul></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Фильмография"><span id=".D0.A4.D0.B8.D0.BB.D1.8C.D0.BC.D0.BE.D0.B3.D1.80.D0.B0.D1.84.D0.B8.D1.8F"></span>Фильмография</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Фильмография»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=4" title="Редактировать код раздела «Фильмография»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<table class="wikitable" style="margin-right: 0;">
+<tbody><tr>
+<th rowspan="2" width="33">Год
+</th>
+<th rowspan="2" width="300">Название
+</th></tr>
+<tr>
+<th width="75">Сценарист
+</th>
+<th width="75">Художник
+</th>
+<th width="75">Режиссёр
+</th>
+<th width="400">Роль
+</th></tr>
+<tr>
+<td>1968
+</td>
+<td><a href="/wiki/24-25_%D0%BD%D0%B5_%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%89%D0%B0%D0%B5%D1%82%D1%81%D1%8F" title="24-25 не возвращается">24-25 не возвращается</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>сотрудник бакинской милиции</i>
+</td></tr>
+<tr>
+<td>1970
+</td>
+<td><a href="/wiki/%D0%A1%D0%BF%D0%BE%D0%BA%D0%BE%D0%B9%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C_%D0%B2_%D0%BA%D0%BE%D0%BD%D1%86%D0%B5_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B" title="Спокойный день в конце войны">Спокойный день в конце войны</a>
+</td>
+<td>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>1971
+</td>
+<td><a href="/w/index.php?title=%D0%9F%D0%B5%D1%82%D1%80%D1%83%D1%85%D0%B8%D0%BD%D0%B0_%D1%84%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D1%8F&amp;action=edit&amp;redlink=1" class="new" title="Петрухина фамилия (страница отсутствует)">Петрухина фамилия</a>
+</td>
+<td>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>1973
+</td>
+<td><a href="/w/index.php?title=%D0%9F%D0%BE%D0%BA%D0%BB%D0%BE%D0%BD%D0%BD%D0%B8%D0%BA_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1973)&amp;action=edit&amp;redlink=1" class="new" title="Поклонник (фильм, 1973) (страница отсутствует)">Поклонник</a>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>1974
+</td>
+<td><a href="/wiki/%D0%A1%D0%B2%D0%BE%D0%B9_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D1%87%D1%83%D0%B6%D0%B8%D1%85,_%D1%87%D1%83%D0%B6%D0%BE%D0%B9_%D1%81%D1%80%D0%B5%D0%B4%D0%B8_%D1%81%D0%B2%D0%BE%D0%B8%D1%85" title="Свой среди чужих, чужой среди своих">Свой среди чужих, чужой среди своих</a>
+</td>
+<td>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td><i>информатор Брылова / господин из грёз Брылова</i>
+</td></tr>
+<tr>
+<td>1975
+</td>
+<td><a href="/wiki/%D0%A0%D0%B0%D0%B1%D0%B0_%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8" title="Раба любви">Раба любви</a>
+</td>
+<td>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td><i>режиссёр немого кино</i>
+</td></tr>
+<tr>
+<td>1976
+</td>
+<td><a href="/wiki/%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D1%8C_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F" title="Матерь человеческая">Матерь человеческая</a>
+</td>
+<td>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>1977
+</td>
+<td><a href="/wiki/%D0%9D%D0%B5%D0%BE%D0%BA%D0%BE%D0%BD%D1%87%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BF%D1%8C%D0%B5%D1%81%D0%B0_%D0%B4%D0%BB%D1%8F_%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BF%D0%B8%D0%B0%D0%BD%D0%B8%D0%BD%D0%BE" title="Неоконченная пьеса для механического пианино">Неоконченная пьеса для механического пианино</a>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="3">1978
+</td>
+<td><a href="/wiki/%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D0%B8%D0%B0%D0%B4%D0%B0" title="Сибириада">Сибириада</a>
+</td>
+<td>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td><i>продавец ювелирных украшений в Елани</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D1%8F%D1%82%D1%8C_%D0%B2%D0%B5%D1%87%D0%B5%D1%80%D0%BE%D0%B2_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Пять вечеров (фильм)">Пять вечеров</a>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td><i>Михаил Тимофеев, главный инженер</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%8D%D0%BA%D1%81%D0%BF%D1%80%D0%B5%D1%81%D1%81_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1977)" title="Транссибирский экспресс (фильм, 1977)">Транссибирский экспресс</a>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="2">1979
+</td>
+<td><a href="/wiki/%D0%9D%D0%B5%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE_%D0%B4%D0%BD%D0%B5%D0%B9_%D0%B8%D0%B7_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_%D0%98._%D0%98._%D0%9E%D0%B1%D0%BB%D0%BE%D0%BC%D0%BE%D0%B2%D0%B0" title="Несколько дней из жизни И. И. Обломова">Несколько дней из жизни И. И. Обломова</a>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td><i>сановный господин в Петербурге (в титрах не указан)</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%93%D0%BE%D1%80%D0%BE%D0%B4_%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D0%BB_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Город принял (фильм)">Город принял</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>Марчелло (он же Рудольф Вышеградский), мошенник</i>
+</td></tr>
+<tr>
+<td>1980
+</td>
+<td><a href="/w/index.php?title=%D0%9E%D1%82%D0%BA%D1%83%D0%B4%D0%B0_%D0%B2_%D1%82%D1%80%D0%B0%D0%B2%D0%B5_%D1%80%D1%8B%D0%B1%D0%B0%3F&amp;action=edit&amp;redlink=1" class="new" title="Откуда в траве рыба? (страница отсутствует)">Откуда в траве рыба?</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>эпизод</i>
+</td></tr>
+<tr>
+<td rowspan="2">1981
+</td>
+<td><a href="/wiki/%D0%A0%D0%BE%D0%B4%D0%BD%D1%8F" title="Родня">Родня</a>
+</td>
+<td>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td><i>Саня, официант / стекольщик на перроне</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%A8%D0%B5%D1%80%D0%BB%D0%BE%D0%BA%D0%B0_%D0%A5%D0%BE%D0%BB%D0%BC%D1%81%D0%B0_%D0%B8_%D0%B4%D0%BE%D0%BA%D1%82%D0%BE%D1%80%D0%B0_%D0%92%D0%B0%D1%82%D1%81%D0%BE%D0%BD%D0%B0:_%D0%A1%D0%BE%D0%B1%D0%B0%D0%BA%D0%B0_%D0%91%D0%B0%D1%81%D0%BA%D0%B5%D1%80%D0%B2%D0%B8%D0%BB%D0%B5%D0%B9" title="Приключения Шерлока Холмса и доктора Ватсона: Собака Баскервилей">Приключения Шерлока Холмса и доктора Ватсона: Собака Баскервилей</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>Джон Бэрримор, дворецкий Баскервилей</i>
+</td></tr>
+<tr>
+<td rowspan="2">1982
+</td>
+<td><a href="/wiki/%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1982)" title="Избранные (фильм, 1982)">Избранные</a>
+</td>
+<td>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D0%BE%D0%BB%D1%91%D1%82%D1%8B_%D0%B2%D0%BE_%D1%81%D0%BD%D0%B5_%D0%B8_%D0%BD%D0%B0%D1%8F%D0%B2%D1%83" title="Полёты во сне и наяву">Полёты во сне и наяву</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>скульптор (озвучивает <a href="/wiki/%D0%91%D0%BE%D0%B3%D0%B0%D1%82%D1%8B%D1%80%D1%91%D0%B2,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D0%B8%D1%87" title="Богатырёв, Юрий Георгиевич">Юрий Богатырёв</a>)</i>
+</td></tr>
+<tr>
+<td rowspan="3">1983
+</td>
+<td><a href="/wiki/%D0%91%D0%B5%D0%B7_%D1%81%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Без свидетелей">Без свидетелей</a>
+</td>
+<td>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A0%D0%B5%D1%86%D0%B5%D0%BF%D1%82_%D0%B5%D1%91_%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D1%81%D1%82%D0%B8" title="Рецепт её молодости">Рецепт её молодости</a>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D0%BE%D1%86%D0%B5%D0%BB%D1%83%D0%B9_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1983)" title="Поцелуй (фильм, 1983)">Поцелуй</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>Сергей фон Раббек, сын генерала</i>
+</td></tr>
+<tr>
+<td rowspan="3">1984
+</td>
+<td><a href="/w/index.php?title=%D0%92%D0%BE%D1%81%D0%BA%D1%80%D0%B5%D1%81%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%83%D0%BB%D0%BA%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;action=edit&amp;redlink=1" class="new" title="Воскресные прогулки (фильм) (страница отсутствует)">Воскресные прогулки</a>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D1%8B%D0%B8%D0%B3%D1%80%D1%8B%D1%88_%D0%BE%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%81%D0%B0%D0%BD%D1%82%D0%B0" title="Выигрыш одинокого коммерсанта">Выигрыш одинокого коммерсанта</a>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%94%D0%B2%D0%B0_%D0%B3%D1%83%D1%81%D0%B0%D1%80%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Два гусара (фильм)">Два гусара</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>купец</i>
+</td></tr>
+<tr>
+<td>1985
+</td>
+<td>В поисках выхода (киноальманах), Реквием по филею (Незаменимый)
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>эпизод</i>
+</td></tr>
+<tr>
+<td rowspan="3">1986
+</td>
+<td><a href="/wiki/%D0%9C%D0%BE%D0%B9_%D0%BB%D1%8E%D0%B1%D0%B8%D0%BC%D1%8B%D0%B9_%D0%BA%D0%BB%D0%BE%D1%83%D0%BD_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Мой любимый клоун (фильм)">Мой любимый клоун</a>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A5%D1%80%D0%B0%D0%BD%D0%B8_%D0%BC%D0%B5%D0%BD%D1%8F,_%D0%BC%D0%BE%D0%B9_%D1%82%D0%B0%D0%BB%D0%B8%D1%81%D0%BC%D0%B0%D0%BD" title="Храни меня, мой талисман">Храни меня, мой талисман</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>месье Дардье, французский турист</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9E%D0%B1%D0%B2%D0%B8%D0%BD%D1%8F%D0%B5%D1%82%D1%81%D1%8F_%D1%81%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0" title="Обвиняется свадьба">Обвиняется свадьба</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>Борис Горин, тамада</i>
+</td></tr>
+<tr>
+<td>1987
+</td>
+<td><a href="/wiki/%D0%9E%D1%87%D0%B8_%D1%87%D1%91%D1%80%D0%BD%D1%8B%D0%B5_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Очи чёрные (фильм)">Очи чёрные</a>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td><i>медработник в санатории (в титрах не указан)</i>
+</td></tr>
+<tr>
+<td>1988
+</td>
+<td><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%BE%D0%B4%D0%BD%D0%BE%D0%B9_%D0%B1%D0%B8%D0%BB%D1%8C%D1%8F%D1%80%D0%B4%D0%BD%D0%BE%D0%B9_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" class="mw-redirect" title="История одной бильярдной команды (фильм)">История одной бильярдной команды</a>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>1989
+</td>
+<td><a href="/wiki/%D0%9E%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA%D0%B8%D0%B9_%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" class="mw-redirect" title="Одинокий охотник (фильм)">Одинокий охотник</a>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="2">1990
+</td>
+<td><a href="/wiki/%D0%9C%D0%B0%D0%B4%D0%BE,_%D0%B4%D0%BE_%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" title="Мадо, до востребования">Мадо, до востребования</a>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D0%BA%D1%82%D1%80%D0%B8%D1%81%D0%B0_%D0%B4%D0%BB%D1%8F_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BC%D0%B8%D0%BD%D0%B8%D1%81%D1%82%D1%80%D0%B0" title="Испанская актриса для русского министра">Испанская актриса для русского министра</a>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>1991
+</td>
+<td><a href="/wiki/%D0%90%D0%B3%D0%B5%D0%BD%D1%82%D1%8B_%D0%9A%D0%93%D0%91_%D1%82%D0%BE%D0%B6%D0%B5_%D0%B2%D0%BB%D1%8E%D0%B1%D0%BB%D1%8F%D1%8E%D1%82%D1%81%D1%8F" title="Агенты КГБ тоже влюбляются">Агенты КГБ тоже влюбляются</a>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>1992
+</td>
+<td><a href="/wiki/%D0%9F%D1%80%D0%B8%D1%81%D1%83%D1%82%D1%81%D1%82%D0%B2%D0%B8%D0%B5_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Присутствие (фильм)">Присутствие</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>эколог</i>
+</td></tr>
+<tr>
+<td>1993
+</td>
+<td><a href="/wiki/%D0%9D%D0%B0%D1%81%D1%82%D1%8F_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Настя (фильм)">Настя</a>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>представитель министерства культуры</i>
+</td></tr>
+<tr>
+<td>1994
+</td>
+<td><span data-interwiki-lang="en" data-interwiki-article="Like Two Crocodiles"><a href="/w/index.php?title=%D0%9A%D0%B0%D0%BA_%D0%B4%D0%B2%D0%B0_%D0%BA%D1%80%D0%BE%D0%BA%D0%BE%D0%B4%D0%B8%D0%BB%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Как два крокодила (страница отсутствует)">Как два крокодила</a></span><sup class="noprint" style="font-style:normal; font-weight:normal;"><a href="https://en.wikipedia.org/wiki/Like_Two_Crocodiles" class="extiw" title="en:Like Two Crocodiles"><span title="Like Two Crocodiles — версия статьи «Как два крокодила» на английском языке">[англ.]</span></a></sup> (<a href="/wiki/%D0%98%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Итальянский язык">итал.</a>&#160;<span lang="it" style="font-style:italic;">Come due coccodrilli</span>, Италия)
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="2">1995
+</td>
+<td><a href="/wiki/%D0%94%D0%BE%D0%BC_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Дом (телесериал)">Дом</a>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5_%D0%BA%D0%B0%D0%BD%D0%B8%D0%BA%D1%83%D0%BB%D1%8B" title="Московские каникулы">Московские каникулы</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>Саня, интеллигентный алкоголик-пессимист</i>
+</td></tr>
+<tr>
+<td>1996
+</td>
+<td><a href="/w/index.php?title=%D0%A8%D1%80%D0%B0%D0%BC._%D0%9F%D0%BE%D0%BA%D1%83%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_%D0%9F%D0%B8%D0%BD%D0%BE%D1%87%D0%B5%D1%82%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Шрам. Покушение на Пиночета (страница отсутствует)">Шрам. Покушение на Пиночета</a> (Россия&#160;— Чили)
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>1999
+</td>
+<td><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82_%D0%B8_%D0%B5%D0%B3%D0%BE_%D0%B2%D0%BD%D1%83%D1%87%D0%BA%D0%B0" title="Президент и его внучка">Президент и его внучка</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>министр здравоохранения, в прошлом&#160;— акушер роддома</i>
+</td></tr>
+<tr>
+<td rowspan="2">2000
+</td>
+<td><a href="/wiki/%D0%A7%D1%91%D1%80%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BC%D0%BD%D0%B0%D1%82%D0%B0_(%D0%BA%D0%B8%D0%BD%D0%BE%D0%B0%D0%BB%D1%8C%D0%BC%D0%B0%D0%BD%D0%B0%D1%85)" title="Чёрная комната (киноальманах)">Чёрная комната</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>муж</i> (новелла «Клеопатра»)
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BD%D1%82%D1%8B_%26_Co" title="Бременские музыканты &amp; Co">Бременские музыканты &amp; Co</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>Осёл-старший</i>
+</td></tr>
+<tr>
+<td rowspan="4">2002
+</td>
+<td><a href="/wiki/%D0%90%D0%B7%D0%B0%D0%B7%D0%B5%D0%BB%D1%8C_(%D0%BC%D0%B8%D0%BD%D0%B8-%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" class="mw-redirect" title="Азазель (мини-сериал)">Азазель</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%A4%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2002)&amp;action=edit&amp;redlink=1" class="new" title="Фотограф (фильм, 2002) (страница отсутствует)">Фотограф</a> (<a href="/wiki/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Испанский язык">исп.</a>&#160;<span lang="es" style="font-style:italic;">El Fotógrafo</span>, Чили)
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;action=edit&amp;redlink=1" class="new" title="Александр Пушкин (фильм) (страница отсутствует)">Александр Пушкин</a> (телеспектакль)
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>эпизод</i>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%A2%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE_%D1%80%D0%B0%D0%B7...&amp;action=edit&amp;redlink=1" class="new" title="Только раз... (страница отсутствует)">Только раз...</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i><a href="/wiki/%D0%A1%D0%BD%D0%B5%D0%B3%D1%83%D1%80%D0%BE%D1%87%D0%BA%D0%B0" title="Снегурочка">Снегурочка</a></i>
+</td></tr>
+<tr>
+<td rowspan="3">2004
+</td>
+<td><a href="/wiki/%D0%93%D0%BE%D0%B4_%D0%9B%D0%BE%D1%88%D0%B0%D0%B4%D0%B8:_%D0%A1%D0%BE%D0%B7%D0%B2%D0%B5%D0%B7%D0%B4%D0%B8%D0%B5_%D1%81%D0%BA%D0%BE%D1%80%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0" title="Год Лошади: Созвездие скорпиона">Год Лошади: Созвездие скорпиона</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>олигарх</i>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%9E_%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8_%D0%B2_%D0%BB%D1%8E%D0%B1%D1%83%D1%8E_%D0%BF%D0%BE%D0%B3%D0%BE%D0%B4%D1%83&amp;action=edit&amp;redlink=1" class="new" title="О любви в любую погоду (страница отсутствует)">О любви в любую погоду</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>бомж</i>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%AF_%D1%82%D0%B5%D0%B1%D1%8F_%D0%BB%D1%8E%D0%B1%D0%BB%D1%8E_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)&amp;action=edit&amp;redlink=1" class="new" title="Я тебя люблю (телесериал) (страница отсутствует)">Я тебя люблю</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>Тарас Асламазян, фотограф</i>
+</td></tr>
+<tr>
+<td rowspan="2">2005
+</td>
+<td><a href="/wiki/%D0%9C%D0%B0%D1%81%D1%82%D0%B5%D1%80_%D0%B8_%D0%9C%D0%B0%D1%80%D0%B3%D0%B0%D1%80%D0%B8%D1%82%D0%B0_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" class="mw-redirect" title="Мастер и Маргарита (телесериал)">Мастер и Маргарита</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i><a href="/wiki/%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%91%D0%B5%D1%80%D0%BB%D0%B8%D0%BE%D0%B7" title="Михаил Александрович Берлиоз">Михаил Александрович Берлиоз</a>, председатель МАССОЛИТа</i>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%A1%D1%87%D0%B0%D1%81%D1%82%D1%8C%D0%B5_%D1%82%D1%8B_%D0%BC%D0%BE%D1%91&amp;action=edit&amp;redlink=1" class="new" title="Счастье ты моё (страница отсутствует)">Счастье ты моё</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>драматург, муж Верки</i>
+</td></tr>
+<tr>
+<td rowspan="3">2006
+</td>
+<td><a href="/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BB%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9_%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%BE%D0%BA" title="Заколдованный участок">Заколдованный участок</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>Михалыч, геодезист</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D1%8B_%D0%BD%D0%B5_%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D0%B5_%D0%BC%D0%B5%D0%BD%D1%8F" title="Вы не оставите меня">Вы не оставите меня</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>«актив района»</i>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%94%D0%B5%D0%B2%D1%8F%D1%82%D1%8C_%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5%D0%B2_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)&amp;action=edit&amp;redlink=1" class="new" title="Девять месяцев (телесериал) (страница отсутствует)">Девять месяцев</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>Дмитрий Дмитриевич</i>
+</td></tr>
+<tr>
+<td rowspan="3">2007
+</td>
+<td><a href="/wiki/%D0%98%D0%B3%D1%80%D0%B0_%D1%81%D0%BB%D0%BE%D0%B2._%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D1%86%D0%B0_%D0%BE%D0%BB%D0%B8%D0%B3%D0%B0%D1%80%D1%85%D0%B0" title="Игра слов. Переводчица олигарха">Игра слов. Переводчица олигарха</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>Сергей Юрьевич Баталов, отец Ирины</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/12_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="12 (фильм)">12</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>судебный пристав</i>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%94%D0%B6%D0%BE%D0%BA%D0%BE%D0%BD%D0%B4%D0%B0_%D0%BD%D0%B0_%D0%B0%D1%81%D1%84%D0%B0%D0%BB%D1%8C%D1%82%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Джоконда на асфальте (страница отсутствует)">Джоконда на асфальте</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>синьор Ванутти</i>
+</td></tr>
+<tr>
+<td rowspan="4">2008
+</td>
+<td><a href="/wiki/%D0%9E%D1%82%D1%86%D1%8B_%D0%B8_%D0%B4%D0%B5%D1%82%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2008)" title="Отцы и дети (фильм, 2008)">Отцы и дети</a>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%94%D0%BE%D0%BC%D0%BE%D0%B2%D0%BE%D0%B9_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2008)" title="Домовой (фильм, 2008)">Домовой</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>Александр, редактор литературного издательства</i>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE_%D0%A2%D1%80%D0%BE%D0%B8_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)&amp;action=edit&amp;redlink=1" class="new" title="Золото Трои (телесериал) (страница отсутствует)">Золото Трои</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>Умберто Фантоцци</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D0%BB%D1%8E%D1%81_%D0%BE%D0%B4%D0%B8%D0%BD" title="Плюс один">Плюс один</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>мужчина у ларька</i>
+</td></tr>
+<tr>
+<td>2009
+</td>
+<td><a href="/w/index.php?title=%D0%9E%D0%B4%D0%BD%D0%B0%D0%B6%D0%B4%D1%8B_%D1%8F_%D0%BF%D1%80%D0%BE%D1%81%D0%BD%D1%83%D1%81%D1%8C&amp;action=edit&amp;redlink=1" class="new" title="Однажды я проснусь (страница отсутствует)">Однажды я проснусь</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>эпизод</i>
+</td></tr>
+<tr>
+<td rowspan="7">2010
+</td>
+<td><a href="/w/index.php?title=%D0%A1%D0%BC%D0%B5%D1%80%D1%82%D1%8C_%D0%B2_%D0%BF%D0%B5%D0%BD%D1%81%D0%BD%D0%B5,_%D0%B8%D0%BB%D0%B8_%D0%9D%D0%B0%D1%88_%D0%A7%D0%B5%D1%85%D0%BE%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Смерть в пенсне, или Наш Чехов (страница отсутствует)">Смерть в пенсне, или Наш Чехов</a>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>Хорхе</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A3%D1%82%D0%BE%D0%BC%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%BE%D0%BB%D0%BD%D1%86%D0%B5%D0%BC_2:_%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" title="Утомлённые солнцем 2: Предстояние">Утомлённые солнцем 2: Предстояние</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>Игорь, партийный функционер</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA_%D1%81_%D0%B1%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%D0%B0_%D0%9A%D0%B0%D0%BF%D1%83%D1%86%D0%B8%D0%BD%D0%BE%D0%BA" title="Человек с бульвара Капуцинок">Человек с бульвара Капуцинок</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>строитель-философ</i>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%9B%D0%B8%D0%B3%D0%BE%D0%B2%D0%BA%D0%B0_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)&amp;action=edit&amp;redlink=1" class="new" title="Лиговка (телесериал) (страница отсутствует)">Лиговка</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>«Филателист», хозяин магазина</i>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%9D%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%D0%B4%D0%BD%D0%B8%D0%B9_%D0%B4%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%B8%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Новогодний детектив (страница отсутствует)">Новогодний детектив</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>Пал Палыч, управляющий банком</i>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%A1%D0%BB%D0%BE%D0%BD_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2010)&amp;action=edit&amp;redlink=1" class="new" title="Слон (фильм, 2010) (страница отсутствует)">Слон</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>Петрович, ветеринар</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D0%BE%D1%86%D0%B5%D0%BB%D1%83%D0%B9_%D1%81%D0%BA%D0%B2%D0%BE%D0%B7%D1%8C_%D1%81%D1%82%D0%B5%D0%BD%D1%83" title="Поцелуй сквозь стену">Поцелуй сквозь стену</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>Ярило Ольгович Карташов, шеф и двоюродный дядя Кеши, <a href="/wiki/%D0%A8%D0%B0%D1%80%D0%BB%D0%B0%D1%82%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" title="Шарлатанство">маг-шарлатан</a></i>
+</td></tr>
+<tr>
+<td rowspan="2">2011
+</td>
+<td><a href="/w/index.php?title=%D0%9A%D1%80%D0%B8%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BE%D0%B1%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Криминальные обстоятельства (страница отсутствует)">Криминальные обстоятельства</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>Николай Павлович</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B5%D0%BA%D0%B0%D0%BC%D0%B5%D1%80%D0%BE%D0%BD" title="Московский декамерон">Московский декамерон</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>художник по костюмам</i>
+</td></tr>
+<tr>
+<td rowspan="6">2013
+</td>
+<td><a href="/wiki/%D0%9A%D1%83!_%D0%9A%D0%B8%D0%BD-%D0%B4%D0%B7%D0%B0-%D0%B4%D0%B7%D0%B0" title="Ку! Кин-дза-дза">Ку! Кин-дза-дза</a>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>робот Абрадокс</i> (озвучивание)
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D0%BE%D0%B1%D0%B0%D1%87%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2013)" title="Собачий рай (фильм, 2013)">Собачий рай</a>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td><i>Борис</i>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%9A%D0%BE%D1%81%D1%83%D1%85%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;action=edit&amp;redlink=1" class="new" title="Косухи (фильм) (страница отсутствует)">Косухи</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>Илья Артёмович</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D1%91%D1%82%D1%80_%D0%9B%D0%B5%D1%89%D0%B5%D0%BD%D0%BA%D0%BE._%D0%92%D1%81%D1%91,_%D1%87%D1%82%D0%BE_%D0%B1%D1%8B%D0%BB%D0%BE%E2%80%A6" title="Пётр Лещенко. Всё, что было…">Пётр Лещенко. Всё, что было…</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>Поль, парижский бармен</i>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%92_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%B8%D0%B4%D1%91%D1%82_%D1%81%D0%BD%D0%B5%D0%B3&amp;action=edit&amp;redlink=1" class="new" title="В России идёт снег (страница отсутствует)">В России идёт снег</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>мэр</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A8%D0%B5%D1%80%D0%BB%D0%BE%D0%BA_%D0%A5%D0%BE%D0%BB%D0%BC%D1%81_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB,_2013)" title="Шерлок Холмс (телесериал, 2013)">Шерлок Холмс</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>редактор</i>
+</td></tr>
+<tr>
+<td>2014
+</td>
+<td><a href="/wiki/%D0%A1%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D1%83%D0%B4%D0%B0%D1%80_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2014)" title="Солнечный удар (фильм, 2014)">Солнечный удар</a>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>фотограф</i>
+</td></tr>
+<tr>
+<td rowspan="2">2015
+</td>
+<td><a href="/wiki/%D0%91%D0%B5%D0%B7_%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%86_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2015)" title="Без границ (фильм, 2015)">Без границ</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>фотограф</i>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%A2%D0%BE%D1%87%D0%BA%D0%B8_%D0%BE%D0%BF%D0%BE%D1%80%D1%8B&amp;action=edit&amp;redlink=1" class="new" title="Точки опоры (страница отсутствует)">Точки опоры</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>Яков Моисеевич, антиквар</i>
+</td></tr>
+<tr>
+<td rowspan="3">2016
+</td>
+<td><a href="/w/index.php?title=%D0%96%D0%B8%D0%BB%D0%B8-%D0%B1%D1%8B%D0%BB%D0%B8_%D0%BC%D1%8B&amp;action=edit&amp;redlink=1" class="new" title="Жили-были мы (страница отсутствует)">Жили-были мы</a>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td><i>дед Данила / дядька с лошадью</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%93%D0%B5%D1%80%D0%BE%D0%B9_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2016)" title="Герой (фильм, 2016)">Герой</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>Лев Эммануилович Чиж, поверенный Елизаветы Ивановны Езерской, потомок белоэмигрантов</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%B5%D0%B4%D0%BD%D1%8B%D0%B5_%D0%BB%D1%8E%D0%B4%D0%B8_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Бедные люди (телесериал)">Бедные люди</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>Павел Шорохов, издатель</i>
+</td></tr>
+<tr>
+<td>2017
+</td>
+<td><a href="/wiki/%D0%A1%D0%BE%D0%B1%D0%B8%D0%B1%D0%BE%D1%80_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Собибор (фильм)">Собибор</a>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="2">2018
+</td>
+<td><a href="/w/index.php?title=%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%B0%D1%82_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)&amp;action=edit&amp;redlink=1" class="new" title="Дипломат (телесериал) (страница отсутствует)">Дипломат</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>Стасик Липкин</i>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%9E%D0%BF%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%B5%D1%80_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)&amp;action=edit&amp;redlink=1" class="new" title="Оппозиционер (фильм) (страница отсутствует)">Оппозиционер</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>эпизод</i>
+</td></tr>
+<tr>
+<td>2020
+</td>
+<td><a href="/w/index.php?title=%D0%9F%D1%80%D0%BE_%D0%9B%D1%91%D0%BB%D1%8E_%D0%B8_%D0%9C%D0%B8%D0%BD%D1%8C%D0%BA%D1%83&amp;action=edit&amp;redlink=1" class="new" title="Про Лёлю и Миньку (страница отсутствует)">Про Лёлю и Миньку</a>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td><i>тряпичник</i>
+</td></tr>
+<tr>
+<td>2022
+</td>
+<td><a href="/wiki/%D0%A0%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B8_%D1%81%D1%82%D1%80%D0%BE%D0%B3%D0%BE%D0%B3%D0%BE_%D1%80%D0%B5%D0%B6%D0%B8%D0%BC%D0%B0" title="Родители строгого режима">Родители строгого режима</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>Валентин Александрович Литвин, отец Бориса</i>
+</td></tr>
+<tr>
+<td rowspan="2">2023
+</td>
+<td><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D1%8C_%D0%B8_%D0%A8%D1%83%D1%82_(%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)" title="Король и Шут (сериал)">Король и Шут</a>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
+</td>
+<td><i>Анатолий Евграфович Гордарик / Одноглазый</i>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%9A%D0%B0%D1%82%D1%8F-%D0%9A%D0%B0%D1%82%D1%8F&amp;action=edit&amp;redlink=1" class="new" title="Катя-Катя (страница отсутствует)">Катя-Катя</a>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td><center><span typeof="mw:File"><span title="Да"><img alt="зелёная ✓" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/15px-Yes_check.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/23px-Yes_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Yes_check.svg/30px-Yes_check.svg.png 2x" data-file-width="600" data-file-height="600" /></span></span><span style="display:none;">Y</span></center>
+</td>
+<td>
+</td>
+<td>
+</td></tr>
+</tbody></table>
+<div class="mw-heading mw-heading2"><h2 id="Признание_и_награды"><span id=".D0.9F.D1.80.D0.B8.D0.B7.D0.BD.D0.B0.D0.BD.D0.B8.D0.B5_.D0.B8_.D0.BD.D0.B0.D0.B3.D1.80.D0.B0.D0.B4.D1.8B"></span>Признание и награды</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Признание и награды»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=5" title="Редактировать код раздела «Признание и награды»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li>1978&#160;— Лауреат Государственной премии Казахской ССР имени <a href="/wiki/%D0%91%D0%B0%D0%B9%D1%81%D0%B5%D0%B8%D1%82%D0%BE%D0%B2%D0%B0,_%D0%9A%D1%83%D0%BB%D1%8F%D1%88_%D0%96%D0%B0%D1%81%D1%8B%D0%BC%D0%BE%D0%B2%D0%BD%D0%B0" title="Байсеитова, Куляш Жасымовна">К. Байсеитовой</a>.</li>
+<li>1983&#160;— <a href="/wiki/%D0%97%D0%B0%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA_%D0%A0%D0%A1%D0%A4%D0%A1%D0%A0" title="Заслуженный художник РСФСР">Заслуженный художник РСФСР</a> (<a href="/wiki/6_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="6 января">6 января</a> <a href="/wiki/1983_%D0%B3%D0%BE%D0%B4" title="1983 год">1983 года</a>)&#160;— <i>за заслуги в области советского киноискусства</i><sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span class="cite-bracket">&#91;</span>17<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-bre1_11-1" class="reference"><a href="#cite_note-bre1-11"><span class="cite-bracket">&#91;</span>11<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>1990&#160;— Приз Молодёжного жюри МКФ «Европа чинема» в Равенне <i>за фильм «<a href="/wiki/%D0%9C%D0%B0%D0%B4%D0%BE,_%D0%B4%D0%BE_%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" title="Мадо, до востребования">Мадо, до востребования</a>»</i><sup id="cite_ref-bpm-140_18-0" class="reference"><a href="#cite_note-bpm-140-18"><span class="cite-bracket">&#91;</span>18<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li><a href="/wiki/%D0%A1%D0%B5%D0%B7%D0%B0%D1%80_(%D0%BA%D0%B8%D0%BD%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F,_1991)" title="Сезар (кинопремия, 1991)">1991</a>&#160;— номинация на премию «<a href="/wiki/%D0%A1%D0%B5%D0%B7%D0%B0%D1%80_(%D0%BA%D0%B8%D0%BD%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F)" title="Сезар (кинопремия)">Сезар</a>» за лучшую дебютную работу (фильм «<a href="/wiki/%D0%9C%D0%B0%D0%B4%D0%BE,_%D0%B4%D0%BE_%D0%B2%D0%BE%D1%81%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F" title="Мадо, до востребования">Мадо, до востребования</a>»)<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span class="cite-bracket">&#91;</span>19<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>1991&#160;— Премия имени Флайяно «Серебряный пегас» (Италия&#160;— за лучший иностранный сценарий).</li>
+<li>1993&#160;— Премия имени Феллини за лучший европейский сценарий.</li>
+<li>2006&#160;— Приз VII Российского фестиваля кинокомедий «Улыбнись, Россия!»&#160;— <i>за вклад в комедию</i><sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span class="cite-bracket">&#91;</span>20<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>2013&#160;— Специальный приз жюри «За современный стиль киномышления» на кинофестивале «<a href="/wiki/%D0%9E%D0%BA%D0%BD%D0%BE_%D0%B2_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D1%83_(%D0%BA%D0%B8%D0%BD%D0%BE%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C)" title="Окно в Европу (кинофестиваль)">Окно в Европу</a>» в <a href="/wiki/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D0%B3" title="Выборг">Выборге</a> (фильм «<a href="/wiki/%D0%A1%D0%BE%D0%B1%D0%B0%D1%87%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2013)" title="Собачий рай (фильм, 2013)">Собачий рай</a>»)<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span class="cite-bracket">&#91;</span>21<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>2014&#160;— номинация на премию «<a href="/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9_%D0%BE%D1%80%D1%91%D0%BB_(%D0%BA%D0%B8%D0%BD%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F,_2014)" title="Золотой орёл (кинопремия, 2014)">Золотой орёл</a>» <i><a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%C2%AB%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9_%D0%BE%D1%80%D1%91%D0%BB%C2%BB_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D0%B8%D0%B9_%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B9" title="Премия «Золотой орёл» за лучший сценарий">За лучший сценарий</a></i> (фильм «<a href="/wiki/%D0%A1%D0%BE%D0%B1%D0%B0%D1%87%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2013)" title="Собачий рай (фильм, 2013)">Собачий рай</a>»).</li>
+<li>2016&#160;— <a href="/wiki/%D0%97%D0%B0%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D1%8C_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Заслуженный деятель искусств Российской Федерации">Заслуженный деятель искусств Российской Федерации</a> (<a href="/wiki/29_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="29 января">29 января</a> <a href="/wiki/2016_%D0%B3%D0%BE%D0%B4" title="2016 год">2016 года</a>)&#160;— <i>за заслуги в развитии отечественной культуры и искусства, многолетнюю плодотворную деятельность</i><sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span class="cite-bracket">&#91;</span>22<span class="cite-bracket">&#93;</span></a></sup>.</li>
+<li>2016&#160;— Приз имени Станислава и Андрея Ростоцких на XXIV кинофестивале «<a href="/wiki/%D0%9E%D0%BA%D0%BD%D0%BE_%D0%B2_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D1%83_(%D0%BA%D0%B8%D0%BD%D0%BE%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C)" title="Окно в Европу (кинофестиваль)">Окно в Европу</a>» в Выборге (автору сценария, художнику и актёру фильма «<a href="/w/index.php?title=%D0%96%D0%B8%D0%BB%D0%B8-%D0%B1%D1%8B%D0%BB%D0%B8_%D0%BC%D1%8B&amp;action=edit&amp;redlink=1" class="new" title="Жили-были мы (страница отсутствует)">Жили-были мы</a>»).</li>
+<li>2017&#160;— номинация на премию «<a href="/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9_%D0%BE%D1%80%D1%91%D0%BB_(%D0%BA%D0%B8%D0%BD%D0%BE%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F,_2017)" title="Золотой орёл (кинопремия, 2017)">Золотой орёл</a>» <a href="/wiki/%D0%9F%D1%80%D0%B5%D0%BC%D0%B8%D1%8F_%C2%AB%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9_%D0%BE%D1%80%D1%91%D0%BB%C2%BB_%D0%B7%D0%B0_%D0%BB%D1%83%D1%87%D1%88%D1%83%D1%8E_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%B0" title="Премия «Золотой орёл» за лучшую работу художника-постановщика">за лучшую работу художника-постановщика</a> (фильм «Жили-были мы»).</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=6" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-_f0fa4c70b9ca0668-1"><span class="mw-cite-backlink"><a href="#cite_ref-_f0fa4c70b9ca0668_1-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3491832 citetype_Q55341040 citetype_Q847959 citetype_Q84863712 citetype_Q24579448 citetype_Q130735522 citetype_Q783794" data-entity-id="Q37312"><a class="external text" href="https://wikidata-externalid-url.toolforge.org/?p=345&amp;url_prefix=https://www.imdb.com/&amp;id=nm0010383">Internet Movie Database</a>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span><span class="wef_low_priority_links"> — 1990.</span></span></span>
+</li>
+<li id="cite_note-ЭТ-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-ЭТ_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-ЭТ_2-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-ЭТ_2-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-ЭТ_2-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-ЭТ_2-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-ЭТ_2-5"><sup><i><b>6</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160324044839/http://enc.vkarp.com/2012/01/23/%D0%B1-%D0%B0%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%B0%D1%80%D1%82%D0%B5%D0%BC%D0%BE%D0%B2%D0%B8%D1%87/">Энциклопедия театра. Александр Артёмович Адабашьян</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 20 мая 2018.&#32;Архивировано из <a rel="nofollow" class="external text" href="http://enc.vkarp.com/2012/01/23/%D0%B1-%D0%B0%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD-%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%B0%D1%80%D1%82%D0%B5%D0%BC%D0%BE%D0%B2%D0%B8%D1%87/">оригинала</a> 24 марта 2016 года.</span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://golosarmenii.am/article/18624/aleksandr-adabashyan-imperii-rushilis-iz-za-oshibochnogo-predstavleniya-o-svobode-">Александр Адабашьян: «Империи рушились из-за ошибочного представления о свободе»</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160203231707/http://golosarmenii.am/article/18624/aleksandr-adabashyan-imperii-rushilis-iz-za-oshibochnogo-predstavleniya-o-svobode-">Архивная копия</a> от 3 февраля 2016 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> // «Голос Армении», 25.06.2013</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://www.armmuseum.ru/news-blog/2018/5/15/--3">Художник и актер Александр Адабашьян: рафинировано интеллигентен</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<i>Армянский музей Москвы и культуры наций</i>.&#32;Дата обращения: 11 августа 2021.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20210811110839/https://www.armmuseum.ru/news-blog/2018/5/15/--3">Архивировано</a> 11 августа 2021 года.</span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="citation"><i>Юрий Шумило и Александр Пигарев.</i>&#32;<a rel="nofollow" class="external text" href="http://media.wix.com/ugd/f60917_9dd4b7ecf7704181b64ceaa7dd83daec.pdf">Александр Адабашьян: «Служба — это особая форма жизни!»</a><span class="hidden-ref" style="display:none">&#160;<small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></span>&#160;// Военный&#160;: журнал.&#160;— <abbr title="Москва">М.</abbr>: АНО РИА «Вертикаль», 2016.&#160;— Май&#32;(<span class="nowrap">№ 5</span>).&#160;— <span class="nowrap">С. 69—72</span>.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160916104315/http://media.wix.com/ugd/f60917_9dd4b7ecf7704181b64ceaa7dd83daec.pdf">Архивировано</a> 16&#160;сентября 2016&#160;года.</span></span>
+</li>
+<li id="cite_note-ПМ-6"><span class="mw-cite-backlink"><a href="#cite_ref-ПМ_6-0">↑</a></span> <span class="reference-text"><span class="citation"><i>Диакон Фёдор Котрелев.</i>&#32;<span lang="ru"><a rel="nofollow" class="external text" href="http://www.pravmir.ru/aleksandr-adabashyan-interesnee-idti-ne-po-shosse-a-po-tropinke/">Александр Адабашьян: интереснее идти не по шоссе, а по тропинке</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</span></span>.&#32;<i>«Православный мир»</i>&#32;(10 августа 2009).&#32;Дата обращения: 11 августа 2021.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20210422212024/https://www.pravmir.ru/aleksandr-adabashyan-interesnee-idti-ne-po-shosse-a-po-tropinke/">Архивировано</a> 22 апреля 2021 года.</span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.kinobraz.ru/%D1%80%D0%B5%D0%B6%D0%B8%D1%81%D1%81%D0%B5%D1%80%D1%81%D0%BA%D0%BE%D0%B5-%D0%BE%D1%82%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%BA%D1%81%D1%80-1963-1973-%D0%B3-%D0%B3-2/">Режиссерское отделение</a>&#160;<small class="ref-info">(недоступная ссылка)</small> // Высшие курсы сценаристов и режиссёров</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="citation"><i>Елена Плахова.</i>&#32;<span lang="und">[<a rel="nofollow" class="external free" href="http://seance.ru/n/9/limage-russe/mado-do-vostrebovaniya/formula-kinouspeha-adabashyan/">http://seance.ru/n/9/limage-russe/mado-do-vostrebovaniya/formula-kinouspeha-adabashyan/</a> Александр Адабашьян.
+Российская формула киноуспеха]</span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<a href="/wiki/%D0%A1%D0%B5%D0%B0%D0%BD%D1%81_(%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB)" title="Сеанс (журнал)">Сеанс</a>, № 9&#32;(1990).&#32;Дата обращения: 28 февраля 2015.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150324121624/http://seance.ru/n/9/limage-russe/mado-do-vostrebovaniya/formula-kinouspeha-adabashyan/">Архивировано</a> 24 марта 2015 года.</span></span>
+</li>
+<li id="cite_note-С-9"><span class="mw-cite-backlink">↑ <a href="#cite_ref-С_9-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-С_9-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Филиппова Татьяна.</i>&#32;<span lang="ru"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150402090227/http://sobesednik.ru/publications/sobesednik/2009/01/2/ardabashyan_02_2009">Александр Адабашьян: Фраза «Овсянка, сэр» прилипла ко мне на всю жизнь…</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</span></span>&#32;<i>«<a href="/wiki/%D0%A1%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BD%D0%B8%D0%BA" class="mw-redirect" title="Собеседник">Собеседник</a>»</i>&#32;(20 января 2009).&#32;Дата обращения: 11 августа 2021.&#32;Архивировано из <a rel="nofollow" class="external text" href="http://sobesednik.ru/publications/sobesednik/2009/01/2/ardabashyan_02_2009">оригинала</a> 2 апреля 2015 года.</span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://www.kp.ru/daily/23329/30818/">«Мы - команда «Бедной Насти», Паспарту порвем на части!»</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>&#32;<a href="/wiki/%D0%9A%D0%BE%D0%BC%D1%81%D0%BE%D0%BC%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0" title="Комсомольская правда">Комсомольская правда</a>&#32;(30 июля 2004).&#32;Дата обращения: 4 октября 2021.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20211029183922/https://www.kp.ru/daily/23329/30818/">Архивировано</a> 29 октября 2021 года.</span></span>
+</li>
+<li id="cite_note-bre1-11"><span class="mw-cite-backlink">↑ <a href="#cite_ref-bre1_11-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-bre1_11-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text">Большая Российская энциклопедия: В 30 т. / Председатель науч.-ред. совета Ю.&#160;С.&#160;Осипов. Отв. ред С.&#160;Л.&#160;Кравец. Т. 1. А&#160;— Анкетирование.&#160;— М.: Большая Российская энциклопедия, 2005.&#160;— 766 с.: ил.: карт.</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://mkrf.ru/press-tsentr/novosti/ministerstvo/deyateli-kultury-rossii-v-podderzhku-pozitsii-prezidenta-po-ukraine-i-krymu">Деятели культуры России — в поддержку позиции Президента по Украине и Крыму</a> <small><a rel="nofollow" class="external text" href="https://archive.today/20140311194202/mkrf.ru/press-tsentr/novosti/ministerstvo/deyateli-kultury-rossii-v-podderzhku-pozitsii-prezidenta-po-ukraine-i-krymu">Архивировано</a> 11&#160;марта 2014&#160;года.</small> // Официальный сайт Министерства культуры Российской Федерации</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru-RU"><a rel="nofollow" class="external text" href="https://c-eho.info/aleksandr-adabashijan-na-ukraine-segodnja-ta-je-svadiba-v-malinovke-no-toliko-krovavaja/">Александр Адабашьян: На Украине сегодня та же «Свадьба в Малиновке», но только кровавая</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small></span>.&#32;<i>Крымское Эхо</i>&#32;(13 октября 2014).&#32;Дата обращения: 17 августа 2023.</span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><span class="citation"><i>Чаленко, Алексей.</i>&#32;<span lang="und"><a rel="nofollow" class="external text" href="https://www.lgz.ru/article/-8-6873-09-03-2023/bolshe-chem-khudozhnik/">Больше, чем художник</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<i><a href="/wiki/%D0%9B%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D0%BD%D0%B0%D1%8F_%D0%B3%D0%B0%D0%B7%D0%B5%D1%82%D0%B0" title="Литературная газета">Литературная газета</a></i>.&#32;Дата обращения: 17 августа 2023.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20230817123019/https://lgz.ru/article/-8-6873-09-03-2023/bolshe-chem-khudozhnik/">Архивировано</a> 17 августа 2023 года.</span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><span class="citation"><i>Сергей Лепешкин.</i>&#32;<span lang="und"><a rel="nofollow" class="external text" href="https://bozaboza.ru/people/adabashyan-artyom-karpovich-1910-1974/">Адабашьян Артём Карпович</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<i>Где дремлют мёртвые...</i>&#32;(15 октября 2011).&#32;Дата обращения: 7 августа 2023.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20230807003127/https://bozaboza.ru/people/adabashyan-artyom-karpovich-1910-1974/">Архивировано</a> 7 августа 2023 года.</span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150715030504/http://www.ogoniok.com/archive/1999/4591/04-30-37/">Неоконченная пьеса для Александра и Екатерины</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<a href="/wiki/%D0%9E%D0%B3%D0%BE%D0%BD%D1%91%D0%BA" title="Огонёк">Огонёк</a>.&#32;Дата обращения: 28 февраля 2015.&#32;Архивировано из <a rel="nofollow" class="external text" href="http://www.ogoniok.com/archive/1999/4591/04-30-37/">оригинала</a> 15 июля 2015 года.</span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://naukaprava.ru/catalog/1/113/67/41748?view=1">Указ Президиума Верховного Совета РСФСР от 6 января 1983 года «О присвоении почётного звания „Заслуженный художник РСФСР“ Адабашьяну&#160;А.&#160;А.»</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>&#32;Дата обращения: 9 июля 2019.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20190709205212/https://naukaprava.ru/catalog/1/113/67/41748%3Fview%3D1">Архивировано</a> 9 июля 2019 года.</span></span>
+</li>
+<li id="cite_note-bpm-140-18"><span class="mw-cite-backlink"><a href="#cite_ref-bpm-140_18-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://bpm--140.ru/Aleksandr_Artemovich_Adabashyan._Biograficheskaya_spravka.html">Александр Артемович Адабашьян. Биографическая справка</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;bpm--140.ru.&#32;Дата обращения: 24 февраля 2013.&#32;<a rel="nofollow" class="external text" href="https://www.webcitation.org/6Ei1MYJBr?url=http://bpm--140.ru/Aleksandr_Artemovich_Adabashyan._Biograficheskaya_spravka.html">Архивировано</a> 26 февраля 2013 года.</span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140812214641/http://www.academie-cinema.org/ceremonie/palmares-par-recherche/,personne,4395.html">Palmarès — Alexandre Adabachian</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 10 августа 2014.&#32;Архивировано из <a rel="nofollow" class="external text" href="http://www.academie-cinema.org/ceremonie/palmares-par-recherche/,personne,4395.html">оригинала</a> 12 августа 2014 года.</span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><span class="citation"><i>Боброва Н.</i>&#32;<span lang="und"><a rel="nofollow" class="external text" href="http://www.vmdaily.ru/article/26884.html">Гвоздём программы стал арбуз</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;vmdaily.ru; archive.org&#32;(5 сентября 2006).&#160;— Недоступная ссылка заменена архивной.&#32;Дата обращения: 17 февраля 2013.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20120104062327/http://www.vmdaily.ru/article/26884.html">Архивировано</a> 4 января 2012 года.</span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://vmdaily.ru/news/2013/08/15/zhenskij-vecher-v-viborge-pobedil-film-ona-tri-iz-chetireh-konkursov-viigrali-kinodami-209390.html">Женский вечер в Выборге: победил фильм «Она», три из четырех конкурсов выиграли кинодамы</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Вечерняя Москва&#32;(15 августа 2013).&#32;Дата обращения: 15 августа 2013.&#32;<a rel="nofollow" class="external text" href="https://www.webcitation.org/6IuZn241l?url=http://vmdaily.ru/news/2013/08/15/zhenskij-vecher-v-viborge-pobedil-film-ona-tri-iz-chetireh-konkursov-viigrali-kinodami-209390.html">Архивировано</a> 16 августа 2013 года.</span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://publication.pravo.gov.ru/Document/View/0001201602010039?index=16&amp;rangeSize=1">Указ Президента Российской Федерации от 29 января 2016 года №&#160;31 «О награждении государственными наградами Российской Федерации»</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 1 февраля 2016.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20160201202254/http://publication.pravo.gov.ru/Document/View/0001201602010039?index=16&amp;rangeSize=1">Архивировано</a> 1 февраля 2016 года.</span></span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Ссылки"><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span>Ссылки</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Ссылки»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=7" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<style data-mw-deduplicate="TemplateStyles:r137903846">.mw-parser-output .ts-Родственные_проекты{clear:right;float:right;width:19em;box-sizing:border-box;margin:0 0 .5em 1em;padding:.4em;background:var(--background-color-neutral-subtle,#f8f9fa);border:1px solid var(--border-color-base,#a2a9b1);font-size:90%}.mw-parser-output .ts-Родственные_проекты-header{margin-bottom:.2em;padding:.2em .6em;font-size:110%}.mw-parser-output .ts-Родственные_проекты-item{display:flex;padding:.2em .6em}.mw-parser-output .ts-Родственные_проекты-image{min-width:24px;display:inline-block;margin-right:.4em;flex:none;vertical-align:top;text-align:center}.mw-parser-output .ts-Родственные_проекты-image img{vertical-align:middle}.mw-parser-output .ts-Родственные_проекты-label{align-self:center}@media(max-width:719px){.mw-parser-output .ts-Родственные_проекты{clear:none;float:none;width:auto;margin-left:0;margin-right:0}}</style><div class="ts-Родственные_проекты ruwikiWikimediaNavigation metadata plainlinks plainlist noprint" role="navigation" aria-label="В родственных проектах"><ul><li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/24px-Notification-icon-Commons-logo.svg.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/36px-Notification-icon-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/48px-Notification-icon-Commons-logo.svg.png 2x" data-file-width="30" data-file-height="30" /></span></span></span><span class="ts-Родственные_проекты-label commons-ref"><a href="https://commons.wikimedia.org/wiki/Category:Alexander_Adabashyan" class="extiw" title="commons:Category:Alexander Adabashyan">Медиафайлы на&#160;Викискладе</a></span></li></ul></div>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150402150926/http://old.russiancinema.ru/template.php?dept_id=3&amp;e_dept_id=1&amp;e_person_id=13">Александр Адабашьян в «Энциклопедии отечественного кино»</a></li>
+<li><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://seance.ru/category/names/adabashyan-aleksandr/">Александр Адабашьян на сайте журнала «Сеанс»</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<small>seance.ru</small>.&#32;Дата обращения: 24 февраля 2013.&#32;<a rel="nofollow" class="external text" href="https://www.webcitation.org/6Ei1OBhgr?url=http://seance.ru/category/names/adabashyan-aleksandr/">Архивировано</a> 26 февраля 2013 года.</span></li>
+<li><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.rusactors.ru/a/adabashan/index.shtml">Адабашьян Александр Артёмович</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<small>rusactors.ru</small>.&#32;Дата обращения: 24 февраля 2013.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20130118002617/http://www.rusactors.ru/a/adabashan/index.shtml">Архивировано</a> 18 января 2013 года.</span></li>
+<li><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://archive.today/20130417142432/http://old.radiomayak.ru/tvp.html?id=170445">Александр Адабашьян в гостях у Фёклы Толстой и Петра Фадеева</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<small>radiomayak.ru</small>&#32;(29 декабря 2008).&#32;Дата обращения: 24 февраля 2013.&#32;Архивировано из <a rel="nofollow" class="external text" href="http://old.radiomayak.ru/tvp.html?id=170445">оригинала</a> 17 апреля 2013 года.</span></li>
+<li><span class="citation" id="CITEREF«Искусство_кино»"><span lang="und"><a rel="nofollow" class="external text" href="http://www.km.ru/kino/encyclopedia/adabashyan-aleksandr-artemovich">Александр Адабашьян</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<i>Архив редакции журнала «Искусство кино»</i>.&#32;<small>km.ru</small>.&#32;Дата обращения: 24 февраля 2013.&#32;<a rel="nofollow" class="external text" href="https://www.webcitation.org/6Ei1TcLFD?url=http://www.km.ru/kino/encyclopedia/adabashyan-aleksandr-artemovich">Архивировано</a> 26 февраля 2013 года.</span></li>
+<li><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://kinoart.ru/archive/2007/05/n5-article19">Александр Адабашьян: «Режиссура — это склад характера»</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Искусство кино, № 5&#32;(2007).&#32;Дата обращения: 1 марта 2015.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20150402140718/http://kinoart.ru/archive/2007/05/n5-article19">Архивировано</a> 2 апреля 2015 года.</span></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Ссылки_на_внешние_ресурсы" data-name="External links" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div class="skin-invert-image" style="float: left;"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span>&#160;<span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q4057207#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div>&#160;&#160;Тематические сайты</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://www.allocine.fr/personne/fichepersonne_gen_cpersonne=40994.html">AlloCiné</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.csfd.cz/tvurce/125961">ČSFD</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.imdb.com/name/nm0010383">Internet Movie Database</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.kinopoisk.ru/name/174179/">Кинопоиск</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Словари и энциклопедии</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://old.bigenc.ru/text/3257281">Большая российская (старая версия)</a></li>
+<li><a rel="nofollow" class="external text" href="https://tass.ru/encyclopedia/person/adabashyan-aleksandr-artemovich">Энциклопедия ТАСС</a></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><style data-mw-deduplicate="TemplateStyles:r113287755">.mw-parser-output .ts-navbox-plaintitle{font-size:100%!important;margin:0 6em!important}</style></div><table class="nowraplinks authoritycontrol collapsible collapsed navbox-subgroup" style="border-spacing:0;text-align: left;"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><div id="В_библиографических_каталогах" class="ts-navbox-plaintitle" style="font-size:114%;margin:0 5em">В&#160;библиографических каталогах</div></th></tr><tr><td class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Национальная библиотека Франции">BNF</a>: <a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb14046335g">14046335g</a></li>
+<li><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <a rel="nofollow" class="external text" href="https://d-nb.info/gnd/172964296">172964296</a></li>
+<li><span title="Istituto Centrale per il Catalogo Unico" style="border-bottom: 1px dotted; cursor: help;">ICCU</span>: <a rel="nofollow" class="external text" href="https://opac.sbn.it/opacsbn/opac/iccu/scheda_authority.jsp?bid=RT1V016197">RT1V016197</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D1%85_%D0%BD%D0%B0%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9" title="Международный идентификатор стандартных наименований">ISNI</a>: <a rel="nofollow" class="external text" href="http://isni.org/isni/0000000123419355">0000000123419355</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F" title="Национальная библиотека Израиля">J9U</a>: <a rel="nofollow" class="external text" href="https://www.nli.org.il/en/authorities/987007314011705171">987007314011705171</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B0" title="Контрольный номер Библиотеки Конгресса">LCCN</a>: <a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/n92036940">n92036940</a></li>
+<li><a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0" title="Латвийская национальная библиотека">LNB</a>: <a rel="nofollow" class="external text" href="https://kopkatalogs.lv/F/?func=direct&amp;local_base=lnc10&amp;doc_number=000278915">000278915</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%A7%D0%B5%D1%88%D1%81%D0%BA%D0%BE%D0%B9_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8" title="Национальная библиотека Чешской Республики">NKC</a>: <a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=xx0043342&amp;CON_LNG=ENG">xx0043342</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D0%B8" title="Национальная библиотека Австралии">NLA</a>: <a rel="nofollow" class="external text" href="https://nla.gov.au/anbd.aut-an40415106">40415106</a></li>
+<li><a href="/wiki/NUKAT" title="NUKAT">NUKAT</a>: <a rel="nofollow" class="external text" href="http://nukat.edu.pl/aut/n%202019021611">n2019021611</a></li>
+<li><a href="/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8" title="Университетская система документации">SUDOC</a>: <a rel="nofollow" class="external text" href="https://www.idref.fr/140090193">140090193</a></li>
+<li><a href="/wiki/VIAF" title="VIAF">VIAF</a>: <a rel="nofollow" class="external text" href="https://viaf.org/viaf/102399259/">102399259</a></li>
+<li><a href="/wiki/WorldCat" title="WorldCat">WorldCat VIAF</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/102399259">102399259</a></li>
+<li><span title="Сводный каталог библиотек Армении" style="border-bottom: 1px dotted; cursor: help;">UCAL</span>: <a rel="nofollow" class="external text" href="http://armunicat.nla.am/cgi-bin/koha/opac-authoritiesdetail.pl?marc=1&amp;authid=17140">17140</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=0" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Адабашьян,_Александр_Артёмович&amp;oldid=143792777">https://ru.wikipedia.org/w/index.php?title=Адабашьян,_Александр_Артёмович&amp;oldid=143792777</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_10_%D0%B0%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B0" title="Категория:Родившиеся 10 августа">Родившиеся 10 августа</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_1945_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Родившиеся в 1945 году">Родившиеся в 1945 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5" title="Категория:Родившиеся в Москве">Родившиеся в Москве</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Персоналии по алфавиту">Персоналии по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D1%81%D1%82%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Сценаристы по алфавиту">Сценаристы по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D1%81%D1%82%D1%8B_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Сценаристы СССР">Сценаристы СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D1%81%D1%82%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Сценаристы России">Сценаристы России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D1%81%D1%82%D1%8B_XX_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Сценаристы XX века">Сценаристы XX века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D1%81%D1%82%D1%8B_XXI_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Сценаристы XXI века">Сценаристы XXI века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Художники по алфавиту">Художники по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D0%B8_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Деятели изобразительного искусства по алфавиту">Деятели изобразительного искусства по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Художники СССР">Художники СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Художники России">Художники России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_XX_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Художники XX века">Художники XX века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_XXI_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Художники XXI века">Художники XXI века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BA%D1%82%D1%91%D1%80%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Актёры по алфавиту">Актёры по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BA%D1%82%D1%91%D1%80%D1%8B_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Актёры СССР">Актёры СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BA%D1%82%D1%91%D1%80%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Актёры России">Актёры России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BA%D1%82%D1%91%D1%80%D1%8B_XX_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Актёры XX века">Актёры XX века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BA%D1%82%D1%91%D1%80%D1%8B_XXI_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Актёры XXI века">Актёры XXI века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B8%D0%BD%D0%BE%D1%80%D0%B5%D0%B6%D0%B8%D1%81%D1%81%D1%91%D1%80%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Кинорежиссёры по алфавиту">Кинорежиссёры по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B8%D0%BD%D0%BE%D1%80%D0%B5%D0%B6%D0%B8%D1%81%D1%81%D1%91%D1%80%D1%8B_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Кинорежиссёры СССР">Кинорежиссёры СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B8%D0%BD%D0%BE%D1%80%D0%B5%D0%B6%D0%B8%D1%81%D1%81%D1%91%D1%80%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Кинорежиссёры России">Кинорежиссёры России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B8%D0%BD%D0%BE%D1%80%D0%B5%D0%B6%D0%B8%D1%81%D1%81%D1%91%D1%80%D1%8B_XX_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Кинорежиссёры XX века">Кинорежиссёры XX века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B8%D0%BD%D0%BE%D1%80%D0%B5%D0%B6%D0%B8%D1%81%D1%81%D1%91%D1%80%D1%8B_XXI_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Кинорежиссёры XXI века">Кинорежиссёры XXI века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%97%D0%B0%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B4%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D0%B8_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8" title="Категория:Заслуженные деятели искусств Российской Федерации">Заслуженные деятели искусств Российской Федерации</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%97%D0%B0%D1%81%D0%BB%D1%83%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A0%D0%A1%D0%A4%D0%A1%D0%A0" title="Категория:Заслуженные художники РСФСР">Заслуженные художники РСФСР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B0%D1%83%D1%80%D0%B5%D0%B0%D1%82%D1%8B_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D0%B8_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D0%BA%D0%BE%D0%B9_%D0%A1%D0%A1%D0%A0" title="Категория:Лауреаты Государственной премии Казахской ССР">Лауреаты Государственной премии Казахской ССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%B8%D0%BD%D0%BE_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Художники кино России">Художники кино России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%92%D1%8B%D1%81%D1%88%D0%B8%D1%85_%D0%BA%D1%83%D1%80%D1%81%D0%BE%D0%B2_%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2_%D0%B8_%D1%80%D0%B5%D0%B6%D0%B8%D1%81%D1%81%D1%91%D1%80%D0%BE%D0%B2" title="Категория:Преподаватели Высших курсов сценаристов и режиссёров">Преподаватели Высших курсов сценаристов и режиссёров</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA%D0%B8_%D0%9C%D0%93%D0%A5%D0%9F%D0%90_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%A1._%D0%93._%D0%A1%D1%82%D1%80%D0%BE%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0" title="Категория:Выпускники МГХПА имени С. Г. Строганова">Выпускники МГХПА имени С. Г. Строганова</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BB%D0%B0%D0%BA%D0%B0%D1%82%D0%B8%D1%81%D1%82%D1%8B_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Плакатисты СССР">Плакатисты СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8-%D0%BA%D0%B8%D0%BD%D0%BE%D0%BF%D0%BB%D0%B0%D0%BA%D0%B0%D1%82%D0%B8%D1%81%D1%82%D1%8B" title="Категория:Художники-киноплакатисты">Художники-киноплакатисты</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B0%D1%83%D1%80%D0%B5%D0%B0%D1%82%D1%8B_%D0%A6%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D1%81%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B9_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D0%B8" title="Категория:Лауреаты Царскосельской художественной премии">Лауреаты Царскосельской художественной премии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9B%D0%B0%D1%83%D1%80%D0%B5%D0%B0%D1%82%D1%8B_%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D0%B8_%C2%AB%D0%A4%D0%B8%D0%B3%D0%B0%D1%80%D0%BE%C2%BB" title="Категория:Лауреаты премии «Фигаро»">Лауреаты премии «Фигаро»</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Статьи с нерабочими ссылками">Википедия:Статьи с нерабочими ссылками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC_%D1%8F%D0%B7%D1%8B%D0%BA%D0%BE%D0%BC_(ref)" title="Категория:Википедия:Статьи с нераспознанным языком (ref)">Википедия:Статьи с нераспознанным языком (ref)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C_webcitation-%D0%B0%D1%80%D1%85%D0%B8%D0%B2:_deadlink_no)" title="Категория:Википедия:Cite web (заменить webcitation-архив: deadlink no)">Википедия:Cite web (заменить webcitation-архив: deadlink no)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8_%D0%B8%D0%B7_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Википедия:Статьи с источниками из Викиданных">Википедия:Статьи с источниками из Викиданных</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8_%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Категория:Википедия:Биографии современников">Википедия:Биографии современников</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8:_%D0%B7%D0%B0%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D1%8C_%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_P373_%D0%B2_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Википедия:Статьи с изображениями: заполнить свойство P373 в Викиданных">Википедия:Статьи с изображениями: заполнить свойство P373 в Викиданных</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%BD%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%BC%D0%B8_%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B0%D0%BC%D0%B8_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0_%D0%9A%D0%B8%D0%BD%D0%B5%D0%BC%D0%B0%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%81%D1%82" title="Категория:Страницы с неизвестными параметрами шаблона Кинематографист">Страницы с неизвестными параметрами шаблона Кинематографист</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Категория:Статьи со ссылками на Викисклад">Статьи со ссылками на Викисклад</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD%2C+%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80+%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD%2C+%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80+%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-namespaces-label"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87&amp;oldid=143792777" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD%2C_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87&amp;id=143792777&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2590%25D0%25B4%25D0%25B0%25D0%25B1%25D0%25B0%25D1%2588%25D1%258C%25D1%258F%25D0%25BD%2C_%25D0%2590%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2581%25D0%25B0%25D0%25BD%25D0%25B4%25D1%2580_%25D0%2590%25D1%2580%25D1%2582%25D1%2591%25D0%25BC%25D0%25BE%25D0%25B2%25D0%25B8%25D1%2587"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2590%25D0%25B4%25D0%25B0%25D0%25B1%25D0%25B0%25D1%2588%25D1%258C%25D1%258F%25D0%25BD%2C_%25D0%2590%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2581%25D0%25B0%25D0%25BD%25D0%25B4%25D1%2580_%25D0%2590%25D1%2580%25D1%2582%25D1%2591%25D0%25BC%25D0%25BE%25D0%25B2%25D0%25B8%25D1%2587"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD%2C_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Alexander_Adabashyan" hreflang="en"><span>Викисклад</span></a></li><li class="wb-otherproject-link wb-otherproject-wikinews mw-list-item"><a href="https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD" hreflang="ru"><span>Викиновости</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4057207" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%A7%D9%84%D9%8A%D9%83%D8%B3%D8%A7%D9%86%D8%AF%D8%B1_%D8%A7%D8%AF%D8%A7%D8%A8%D8%A7%D8%B4%D9%8A%D8%A7%D9%86" title="اليكساندر اداباشيان — Egyptian Arabic" lang="arz" hreflang="arz" data-title="اليكساندر اداباشيان" data-language-autonym="مصرى" data-language-local-name="Egyptian Arabic" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Aleksandr_Adaba%C5%9Fyan" title="Aleksandr Adabaşyan — азербайджанский" lang="az" hreflang="az" data-title="Aleksandr Adabaşyan" data-language-autonym="Azərbaycanca" data-language-local-name="азербайджанский" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Aleksandr_Adabasjan" title="Aleksandr Adabasjan — датский" lang="da" hreflang="da" data-title="Aleksandr Adabasjan" data-language-autonym="Dansk" data-language-local-name="датский" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Aleksandr_Adabashyan" title="Aleksandr Adabashyan — английский" lang="en" hreflang="en" data-title="Aleksandr Adabashyan" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Aleksandr_Adabashyan" title="Aleksandr Adabashyan — испанский" lang="es" hreflang="es" data-title="Aleksandr Adabashyan" data-language-autonym="Español" data-language-local-name="испанский" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DA%A9%D8%B3%D8%A7%D9%86%D8%AF%D8%B1_%D8%A2%D8%AF%D8%A7%D8%A8%D8%A7%D8%B4%DB%8C%D8%A7%D9%86" title="الکساندر آداباشیان — персидский" lang="fa" hreflang="fa" data-title="الکساندر آداباشیان" data-language-autonym="فارسی" data-language-local-name="персидский" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Alexandre_Adabachyan" title="Alexandre Adabachyan — французский" lang="fr" hreflang="fr" data-title="Alexandre Adabachyan" data-language-autonym="Français" data-language-local-name="французский" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D5%AC%D5%A5%D6%84%D5%BD%D5%A1%D5%B6%D5%A4%D6%80_%D4%B1%D5%A4%D5%A1%D5%A2%D5%A1%D5%B7%D5%B5%D5%A1%D5%B6" title="Ալեքսանդր Ադաբաշյան — армянский" lang="hy" hreflang="hy" data-title="Ալեքսանդր Ադաբաշյան" data-language-autonym="Հայերեն" data-language-local-name="армянский" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-hyw mw-list-item"><a href="https://hyw.wikipedia.org/wiki/%D4%B1%D5%AC%D5%A5%D6%84%D5%BD%D5%A1%D5%B6%D5%A4%D6%80_%D4%B1%D5%A4%D5%A1%D5%A2%D5%A1%D5%B7%D5%A5%D5%A1%D5%B6" title="Ալեքսանդր Ադաբաշեան — западноармянский" lang="hyw" hreflang="hyw" data-title="Ալեքսանդր Ադաբաշեան" data-language-autonym="Արեւմտահայերէն" data-language-local-name="западноармянский" class="interlanguage-link-target"><span>Արեւմտահայերէն</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%89%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%80%E3%83%90%E3%82%B7%E3%83%A3%E3%83%B3" title="アレクサンドル・アダバシャン — японский" lang="ja" hreflang="ja" data-title="アレクサンドル・アダバシャン" data-language-autonym="日本語" data-language-local-name="японский" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87_%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD" title="Александр Артёмович Адабашьян — казахский" lang="kk" hreflang="kk" data-title="Александр Артёмович Адабашьян" data-language-autonym="Қазақша" data-language-local-name="казахский" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Aleksandr_Adabasjan" title="Aleksandr Adabasjan — норвежский букмол" lang="nb" hreflang="nb" data-title="Aleksandr Adabasjan" data-language-autonym="Norsk bokmål" data-language-local-name="норвежский букмол" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Aleksandr_Adaba%C8%99ian" title="Aleksandr Adabașian — румынский" lang="ro" hreflang="ro" data-title="Aleksandr Adabașian" data-language-autonym="Română" data-language-local-name="румынский" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%27%D1%8F%D0%BD_%D0%9E%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D0%B5%D0%BC%D0%BE%D0%B2%D0%B8%D1%87" title="Адабаш&#039;ян Олександр Артемович — украинский" lang="uk" hreflang="uk" data-title="Адабаш&#039;ян Олександр Артемович" data-language-autonym="Українська" data-language-local-name="украинский" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vo mw-list-item"><a href="https://vo.wikipedia.org/wiki/Aleksandr_Adabajyan" title="Aleksandr Adabajyan — волапюк" lang="vo" hreflang="vo" data-title="Aleksandr Adabajyan" data-language-autonym="Volapük" data-language-local-name="волапюк" class="interlanguage-link-target"><span>Volapük</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4057207#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 3 марта 2025 в 20:30.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.log.warn("This page is using the deprecated ResourceLoader module \"codex-search-styles\".\n[1.43] Use a CodexModule with codexComponents to set your specific components used: https://www.mediawiki.org/wiki/Codex#Using_a_limited_subset_of_components");mw.config.set({"wgHostname":"mw-web.eqiad.main-7fd96bd568-cqxsw","wgBackendResponseTime":208,"wgPageParseReport":{"limitreport":{"cputime":"0.623","walltime":"0.900","ppvisitednodes":{"value":5161,"limit":1000000},"postexpandincludesize":{"value":106344,"limit":2097152},"templateargumentsize":{"value":16916,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":27242,"limit":5000000},"entityaccesscount":{"value":9,"limit":400},"timingprofile":["100.00%  768.532      1 -total"," 55.02%  422.820      1 Шаблон:Кинематографист"," 50.95%  391.535      1 Шаблон:Карточка"," 15.84%  121.734      1 Шаблон:Примечания"," 12.40%   95.311      1 Шаблон:Внешние_ссылки"," 11.46%   88.079      6 Шаблон:Wikidata","  9.28%   71.287      1 Шаблон:Wikidata/p569","  8.22%   63.177     21 Шаблон:Cite_web","  6.91%   53.128      1 Шаблон:Навигация","  6.01%   46.171      1 Шаблон:Карточка/оригинал_имени"]},"scribunto":{"limitreport-timeusage":{"value":"0.350","limit":"10.000"},"limitreport-memusage":{"value":8883803,"limit":52428800},"limitreport-logs":"Loaded datatype external-id of P345 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P5770 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P136 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-web.eqiad.main-7fd96bd568-tn7p2","timestamp":"20250317084653","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0410\u0434\u0430\u0431\u0430\u0448\u044c\u044f\u043d, \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0410\u0440\u0442\u0451\u043c\u043e\u0432\u0438\u0447","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%90%D0%B4%D0%B0%D0%B1%D0%B0%D1%88%D1%8C%D1%8F%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D1%80%D1%82%D1%91%D0%BC%D0%BE%D0%B2%D0%B8%D1%87","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4057207","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4057207","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-03-25T08:04:33Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2e\/2023_Alexander_Adabashyan.jpg","headline":"\u0441\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439 \u0438 \u0440\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u043a\u0438\u043d\u043e\u0434\u0440\u0430\u043c\u0430\u0442\u0443\u0440\u0433, \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a, \u0440\u0435\u0436\u0438\u0441\u0441\u0451\u0440, \u0430\u043a\u0442\u0451\u0440"}</script>
+</body>
+</html>

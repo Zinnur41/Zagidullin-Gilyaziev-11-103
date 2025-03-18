@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Анохин, Николай Юрьевич — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"d6b3889e-64cf-4d36-94f6-b396418ce0ae","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Анохин,_Николай_Юрьевич","wgTitle":"Анохин, Николай Юрьевич","wgCurRevisionId":138954461,"wgRevisionId":138954461,"wgArticleId":1073730,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Биографии современников","Википедия:Статьи с изображениями: заполнить свойство P373 в Викиданных","Статьи со ссылками на Викисклад","Википедия:Статьи без сносок с ноября 2011 года","Википедия:Статьи без сносок","Родившиеся 6 сентября","Родившиеся в 1956 году","Родившиеся в Москве","Выпускники МГХИ им. Сурикова","Персоналии по алфавиту","Художники по алфавиту","Деятели изобразительного искусства по алфавиту","Художники СССР","Художники России XX века","Художники России","Художники XX века","Художники-пейзажисты России"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Анохин,_Николай_Юрьевич","wgRelevantArticleId":1073730,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":92839792,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":7000,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q4066856","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};
+RLSTATE={"ext.gadget.common-site":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.page.gallery.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","codex-search-styles":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.page.media","ext.scribunto.logs","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","oojs-ui.styles.icons-media","oojs-ui-core.icons"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=codex-search-styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.page.gallery.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.44.0-wmf.20">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/c/cd/Nikolay_Anokhin.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1563">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/c/cd/Nikolay_Anokhin.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1042">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="834">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Анохин, Николай Юрьевич — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="//ru.m.wikipedia.org/wiki/%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="login.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Анохин_Николай_Юрьевич rootpage-Анохин_Николай_Юрьевич skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Анохин, Николай Юрьевич</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"><div id="mw-fr-revision-messages"><div class="cdx-message mw-fr-message-box cdx-message--block cdx-message--notice mw-fr-basic mw-fr-draft-not-synced plainlinks noprint"><span class="cdx-message__icon"></span><div class="cdx-message__content">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;stable=1">версии, проверенной 23 мая 2018 года</a>; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;oldid=92839792&amp;diff=cur&amp;diffonly=0">10 правок</a>.</div></div></div></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div role="note" class="hatnote navigation-not-searchable dabhide">В Википедии есть статьи о других людях с такой фамилией, см. <a href="/wiki/%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD" class="mw-disambig" title="Анохин">Анохин</a>; <a href="/wiki/%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9" class="mw-disambig" title="Анохин, Николай">Анохин, Николай</a>.</div>
+<table class="infobox infobox-3031b66f41eee1f8" style="" data-name="Художник"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Николай Анохин</th></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-property-id="P18" class="no-wikidata"><span typeof="mw:File/Frameless"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Nikolay_Anokhin.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Nikolay_Anokhin.jpg/274px-Nikolay_Anokhin.jpg" decoding="async" width="274" height="357" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Nikolay_Anokhin.jpg/411px-Nikolay_Anokhin.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/c/cd/Nikolay_Anokhin.jpg 2x" data-file-width="413" data-file-height="538" /></a></span></span> </td></tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Дата&#160;рождения</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P569"><span class="nowrap"><a href="/wiki/6_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="6 сентября">6 сентября</a> <a href="/wiki/1956_%D0%B3%D0%BE%D0%B4" title="1956 год">1956</a></span><span style="display:none">(<span class="bday">1956-09-06</span>)</span></span> <span class="nowrap">(68 лет)</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Место рождения</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q4066856$D40CCBB2-8D25-4627-B034-68F24EDC399C" class="wikidata-claim" data-wikidata-property-id="P19"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0" title="Москва">Москва</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA" title="Союз Советских Социалистических Республик">СССР</a></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Страна</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q4066856$26A7CCEC-BC8C-4503-8DB8-8368D9C23997" class="wikidata-claim" data-wikidata-property-id="P27"><span class="mw-image-border" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/20px-Flag_of_Russia.svg.png" decoding="async" width="20" height="13" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/30px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/40px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></span></span>&#160;<span class="country-name"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">Россия</a></span></span></span></li><li><span data-wikidata-claim-id="Q4066856$adbe5503-4649-3cca-200e-cc5f549946ce" class="wikidata-claim" data-wikidata-property-id="P27"><span class="mw-image-border" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/20px-Flag_of_the_Soviet_Union.svg.png" decoding="async" width="20" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/30px-Flag_of_the_Soviet_Union.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/40px-Flag_of_the_Soviet_Union.svg.png 2x" data-file-width="1200" data-file-height="600" /></span></span>&#160;<span class="country-name"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA" title="Союз Советских Социалистических Республик">СССР</a></span></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Род&#160;деятельности</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q4066856$EE700F1B-7302-4548-86B2-99C23A47E400" class="wikidata-claim" data-wikidata-property-id="P106"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA" title="Художник">художник</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Жанр</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q4066856$7361064C-C9C0-4242-B745-6DE270D3CC97" class="wikidata-claim" data-wikidata-property-id="P136"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9F%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6" title="Пейзаж">пейзаж</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Стиль</th>
+<td class="P135 plainlist">
+классическая живопись</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Учёба</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q4066856$64BA1522-0071-4C74-867F-06C625058A8F" class="wikidata-claim" data-wikidata-property-id="P69"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%92._%D0%98._%D0%A1%D1%83%D1%80%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0" title="Московский художественный институт имени В. И. Сурикова">Московский государственный академический художественный институт имени В. И. Сурикова</a></span></span></li></ul></td>
+</tr><tr><td colspan="2" class="infobox-below" style=";"><span data-wikidata-claim-id="q4066856$D405460D-8AD4-496E-9287-4C0509D39EAF" class="wikidata-claim" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:Nikolay_Anokhin" title="commons:Category:Nikolay Anokhin"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" decoding="async" width="15" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 1.5x" data-file-width="1024" data-file-height="1376" /></a></span>&#160;<a href="https://commons.wikimedia.org/wiki/Category:Nikolay_Anokhin" class="extiw" title="commons:Category:Nikolay Anokhin">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table>
+<p><b>Никола́й Ю́рьевич Ано́хин</b> (родился <a href="/wiki/6_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="6 сентября">6 сентября</a> <a href="/wiki/1966_%D0%B3%D0%BE%D0%B4" title="1966 год">1956&#160;года</a>, <a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0" title="Москва">Москва</a>, <a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA" title="Союз Советских Социалистических Республик">СССР</a>)&#160;— советский и российский <a href="/wiki/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA" title="Художник">художник</a>, живописец.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Биография"><span class="tocnumber">1</span> <span class="toctext">Биография</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Творческая_деятельность"><span class="tocnumber">2</span> <span class="toctext">Творческая деятельность</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Объединение_«Русский_Мир»"><span class="tocnumber">3</span> <span class="toctext">Объединение «Русский Мир»</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Ссылки"><span class="tocnumber">4</span> <span class="toctext">Ссылки</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Галерея"><span class="tocnumber">5</span> <span class="toctext">Галерея</span></a></li>
+</ul>
+</div>
+
+<div class="mw-heading mw-heading2"><h2 id="Биография"><span id=".D0.91.D0.B8.D0.BE.D0.B3.D1.80.D0.B0.D1.84.D0.B8.D1.8F"></span>Биография</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Биография»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=1" title="Редактировать код раздела «Биография»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Отец — Анохин Юрий Николаевич (<a href="/wiki/1926" class="mw-redirect" title="1926">1926</a>—<a href="/wiki/1977" class="mw-redirect" title="1977">1977</a>), заслуженный художник РСФСР.
+</p><p>Николай Анохин окончил <a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B8%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%92._%D0%98._%D0%A1%D1%83%D1%80%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0" class="mw-redirect" title="Московский государственный академический художественный институт имени В. И. Сурикова">Московский государственный академический художественный институт имени В. И. Сурикова</a>. Дипломная работа&#160;— историческая картина «Воззвание Минина».
+</p><p>В <a href="/wiki/1988" class="mw-redirect" title="1988">1988</a>—<a href="/wiki/1992" class="mw-redirect" title="1992">1992</a> прошёл стажировку в Творческой мастерской живописи <a href="/wiki/%D0%90%D0%A5_%D0%A1%D0%A1%D0%A1%D0%A0" class="mw-redirect" title="АХ СССР">Академии художеств СССР</a>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Творческая_деятельность"><span id=".D0.A2.D0.B2.D0.BE.D1.80.D1.87.D0.B5.D1.81.D0.BA.D0.B0.D1.8F_.D0.B4.D0.B5.D1.8F.D1.82.D0.B5.D0.BB.D1.8C.D0.BD.D0.BE.D1.81.D1.82.D1.8C"></span>Творческая деятельность</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Творческая деятельность»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=2" title="Редактировать код раздела «Творческая деятельность»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Творчество Николая Анохина представляет собой развитие <a href="/w/index.php?title=%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Классическое искусство (страница отсутствует)">классического</a> направления русской живописи, включающего элементы <a href="/wiki/%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%B7%D0%BC" title="Академизм">академизма</a> и <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC" title="Традиционализм">традиционализма</a>.
+</p><p>В <a href="/wiki/1987" class="mw-redirect" title="1987">1987</a>—<a href="/wiki/1993_%D0%B3%D0%BE%D0%B4" title="1993 год">1993&#160;годах</a> Н.&#160;Ю.&#160;Анохин работал с группой художников в северных областях России.
+В <a href="/wiki/1993" class="mw-redirect" title="1993">1993</a>—<a href="/wiki/2000_%D0%B3%D0%BE%D0%B4" title="2000 год">2000&#160;годах</a> занимался воссозданием интерьеров, иконостаса и росписей Рождественского собора <a href="/wiki/%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B5-%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_(%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0)" class="mw-redirect" title="Богородице-Рождественский монастырь (Москва)">Богородице-Рождественского монастыря</a> в <a href="/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0" title="Москва">Москве</a>.
+</p>
+<figure class="mw-halign-left" typeof="mw:File/Thumb"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:V_starom_dome_Rakitinyh_1998_by_Nikolay_Anokhin.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/V_starom_dome_Rakitinyh_1998_by_Nikolay_Anokhin.jpg/320px-V_starom_dome_Rakitinyh_1998_by_Nikolay_Anokhin.jpg" decoding="async" width="320" height="236" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ae/V_starom_dome_Rakitinyh_1998_by_Nikolay_Anokhin.jpg/480px-V_starom_dome_Rakitinyh_1998_by_Nikolay_Anokhin.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ae/V_starom_dome_Rakitinyh_1998_by_Nikolay_Anokhin.jpg/640px-V_starom_dome_Rakitinyh_1998_by_Nikolay_Anokhin.jpg 2x" data-file-width="705" data-file-height="520" /></a><figcaption>В старом доме Ракитиных. 1998</figcaption></figure>
+<p>Является основателем творческого объединения «<a href="/wiki/%D0%A1%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B2,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA,_1954)" title="Смирнов, Сергей Иванович (художник, 1954)">Русский Мир</a>» (<a href="/wiki/2002" class="mw-redirect" title="2002">2002</a>), в которое входят представители классического направления русской живописи, продолжающие и развивающие традиции <a href="/wiki/%D0%A1%D1%83%D1%80%D0%B8%D0%BA%D0%BE%D0%B2,_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" title="Суриков, Василий Иванович">В.&#160;И.&#160;Сурикова</a>, <a href="/wiki/%D0%92%D0%B0%D1%81%D0%BD%D0%B5%D1%86%D0%BE%D0%B2,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Васнецов, Виктор Михайлович">В.&#160;М.&#160;Васнецова</a>, <a href="/wiki/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Иванов, Александр Андреевич">А.&#160;А.&#160;Иванова</a>. Выставки творческого объединения «Русский мир» проходили в Москве <a href="/wiki/2002" class="mw-redirect" title="2002">2002</a>—<a href="/wiki/2004" class="mw-redirect" title="2004">2004</a>, <a href="/wiki/%D0%9C%D1%8E%D0%BD%D1%85%D0%B5%D0%BD" title="Мюнхен">Мюнхене</a> <a href="/wiki/2006" class="mw-redirect" title="2006">2006</a>, <a href="/wiki/%D0%92%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%D0%BD" title="Ватикан">Ватикане</a> <a href="/wiki/2007" class="mw-redirect" title="2007">2007</a>.
+</p><p>Работы Н.&#160;Ю.&#160;Анохина находятся в музейных собраниях и частных коллекциях <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия">России</a>, <a href="/wiki/%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F" title="Германия">Германии</a>, <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%8F" title="Англия">Англии</a>, <a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F" title="Япония">Японии</a>, <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a>, <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Франция">Франции</a>, <a href="/wiki/%D0%92%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%D0%BD" title="Ватикан">Ватикана</a>.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Объединение_«Русский_Мир»"><span id=".D0.9E.D0.B1.D1.8A.D0.B5.D0.B4.D0.B8.D0.BD.D0.B5.D0.BD.D0.B8.D0.B5_.C2.AB.D0.A0.D1.83.D1.81.D1.81.D0.BA.D0.B8.D0.B9_.D0.9C.D0.B8.D1.80.C2.BB"></span>Объединение «Русский Мир»</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Объединение «Русский Мир»»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=3" title="Редактировать код раздела «Объединение «Русский Мир»»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В состав творческого объединения «Русский Мир» входят художники:
+</p>
+<ul><li>Николай Анохин</li>
+<li><a href="/wiki/%D0%A1%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B2,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA,_1954)" title="Смирнов, Сергей Иванович (художник, 1954)">Сергей Смирнов</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%B2%D0%B5%D1%80%D0%B7%D0%BD%D0%B5%D0%B2,_%D0%98%D0%BB%D1%8C%D1%8F_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Каверзнев, Илья Александрович">Илья Каверзнев</a></li>
+<li><a href="/w/index.php?title=%D0%A2%D1%80%D0%B5%D1%82%D1%8C%D1%8F%D0%BA%D0%BE%D0%B2,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)&amp;action=edit&amp;redlink=1" class="new" title="Третьяков, Николай Николаевич (художник) (страница отсутствует)">Николай Третьяков</a></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Ссылки"><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span>Ссылки</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Ссылки»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=4" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure typeof="mw:File/Thumb"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Zima_moroz_i_solntse_by_Nikolay_Anokhin.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Zima_moroz_i_solntse_by_Nikolay_Anokhin.jpg/350px-Zima_moroz_i_solntse_by_Nikolay_Anokhin.jpg" decoding="async" width="350" height="218" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Zima_moroz_i_solntse_by_Nikolay_Anokhin.jpg/525px-Zima_moroz_i_solntse_by_Nikolay_Anokhin.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/Zima_moroz_i_solntse_by_Nikolay_Anokhin.jpg/700px-Zima_moroz_i_solntse_by_Nikolay_Anokhin.jpg 2x" data-file-width="833" data-file-height="519" /></a><figcaption>Зима. Мороз и солнце. 1998</figcaption></figure>
+<p>&#160;<small class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</small>
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080319132105/http://nikolayanokhin.com/album">Сайт Николая Анохина</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090403042858/http://www.miriskusstva.ru/content/view/5/6">О творчестве художника Николая Анохина</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.rol.ru/news/art/news/02/12/20_024.htm">Выставка объединения «Русский мир» в Третьяковской галерее</a></li>
+<li><a rel="nofollow" class="external text" href="http://rian.ru/society/20041129/746722.html">Выставка объединения «Русский мир» в Кремле</a></li>
+<li><a rel="nofollow" class="external text" href="http://informpskov.ru/print/8306.html">Выставка объединения «Русский мир» в Пскове</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090602015001/http://www.ruvr.ru/main.php?lng=rus&amp;q=24478&amp;cid=24&amp;p=20.03.2007">Выставка объединения «Русский мир» в Ватикане</a></li></ul>
+<p>&#160;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://www.archindy.org/criterion/vatican/2007/vis0312.html#art">Art of «Russian World» at Pontifical Council for Culture</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090602014950/http://www.ruvr.ru/main.php?lng=eng&amp;e=51&amp;p=05.04.2007">Exhibition of contemporary Russian artists titled «God’s land» opened in Vatican</a></li></ul>
+<p>&#160;<small class="ref-info" style="cursor:help;" title="на итальянском языке">(итал.)</small>
+</p>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090623155325/http://www.fides.org/aree/news/newsdet.php?idnews=12297&amp;lan=ita">«Terra del Signore»: mostra di pittura russa in Vaticano</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20071008095445/http://www.lucisullest.it/dett_news.php?id=991">Il Vaticano, cuore della cultura eterna</a></li></ul>
+<div class="mw-heading mw-heading2"><h2 id="Галерея"><span id=".D0.93.D0.B0.D0.BB.D0.B5.D1.80.D0.B5.D1.8F"></span>Галерея</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;veaction=edit&amp;section=5" title="Редактировать раздел «Галерея»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit&amp;section=5" title="Редактировать код раздела «Галерея»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul class="gallery mw-gallery-traditional">
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Ottepel_1991_by_Nikolay_Anokhin.jpg" class="mw-file-description" title="Оттепель. 1991"><img alt="Оттепель. 1991" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ottepel_1991_by_Nikolay_Anokhin.jpg/120px-Ottepel_1991_by_Nikolay_Anokhin.jpg" decoding="async" width="120" height="64" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ottepel_1991_by_Nikolay_Anokhin.jpg/180px-Ottepel_1991_by_Nikolay_Anokhin.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ottepel_1991_by_Nikolay_Anokhin.jpg/240px-Ottepel_1991_by_Nikolay_Anokhin.jpg 2x" data-file-width="850" data-file-height="456" /></a></span></div>
+			<div class="gallerytext">Оттепель. 1991</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Derevnya_2006_by_Nikolay_Anokhin.jpg" class="mw-file-description" title="Деревня. 2006"><img alt="Деревня. 2006" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Derevnya_2006_by_Nikolay_Anokhin.jpg/120px-Derevnya_2006_by_Nikolay_Anokhin.jpg" decoding="async" width="120" height="89" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Derevnya_2006_by_Nikolay_Anokhin.jpg/180px-Derevnya_2006_by_Nikolay_Anokhin.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/60/Derevnya_2006_by_Nikolay_Anokhin.jpg/240px-Derevnya_2006_by_Nikolay_Anokhin.jpg 2x" data-file-width="800" data-file-height="595" /></a></span></div>
+			<div class="gallerytext">Деревня. 2006</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Starye_Duby_1999.jpg" class="mw-file-description" title="Старые дубы. 1999"><img alt="Старые дубы. 1999" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Starye_Duby_1999.jpg/120px-Starye_Duby_1999.jpg" decoding="async" width="120" height="94" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Starye_Duby_1999.jpg/180px-Starye_Duby_1999.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Starye_Duby_1999.jpg/240px-Starye_Duby_1999.jpg 2x" data-file-width="2445" data-file-height="1912" /></a></span></div>
+			<div class="gallerytext">Старые дубы. 1999</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Barskiy_prud_by_Nikolay_Anokhin.jpg" class="mw-file-description" title="Барский пруд. 2004"><img alt="Барский пруд. 2004" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Barskiy_prud_by_Nikolay_Anokhin.jpg/120px-Barskiy_prud_by_Nikolay_Anokhin.jpg" decoding="async" width="120" height="100" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Barskiy_prud_by_Nikolay_Anokhin.jpg/180px-Barskiy_prud_by_Nikolay_Anokhin.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Barskiy_prud_by_Nikolay_Anokhin.jpg/240px-Barskiy_prud_by_Nikolay_Anokhin.jpg 2x" data-file-width="918" data-file-height="763" /></a></span></div>
+			<div class="gallerytext">Барский пруд. 2004</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Soyuzniki_2000.jpg" class="mw-file-description" title="Союзники. 2000"><img alt="Союзники. 2000" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Soyuzniki_2000.jpg/120px-Soyuzniki_2000.jpg" decoding="async" width="120" height="86" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Soyuzniki_2000.jpg/180px-Soyuzniki_2000.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Soyuzniki_2000.jpg/240px-Soyuzniki_2000.jpg 2x" data-file-width="1527" data-file-height="1094" /></a></span></div>
+			<div class="gallerytext">Союзники. 2000</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Kamin_v_buduare_Imperatritsy_by_Nikolay_Anokhin.jpg" class="mw-file-description" title="Малахитовый камин в будуаре Императрицы. 2004"><img alt="Малахитовый камин в будуаре Императрицы. 2004" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kamin_v_buduare_Imperatritsy_by_Nikolay_Anokhin.jpg/120px-Kamin_v_buduare_Imperatritsy_by_Nikolay_Anokhin.jpg" decoding="async" width="120" height="80" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kamin_v_buduare_Imperatritsy_by_Nikolay_Anokhin.jpg/180px-Kamin_v_buduare_Imperatritsy_by_Nikolay_Anokhin.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Kamin_v_buduare_Imperatritsy_by_Nikolay_Anokhin.jpg/240px-Kamin_v_buduare_Imperatritsy_by_Nikolay_Anokhin.jpg 2x" data-file-width="5002" data-file-height="3350" /></a></span></div>
+			<div class="gallerytext">Малахитовый камин в будуаре Императрицы. 2004</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Tsarskaya_opochivalnya_2004_by_Nikolay_Anokhin.jpg" class="mw-file-description" title="Царская опочивальня. 2004"><img alt="Царская опочивальня. 2004" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tsarskaya_opochivalnya_2004_by_Nikolay_Anokhin.jpg/120px-Tsarskaya_opochivalnya_2004_by_Nikolay_Anokhin.jpg" decoding="async" width="120" height="108" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tsarskaya_opochivalnya_2004_by_Nikolay_Anokhin.jpg/180px-Tsarskaya_opochivalnya_2004_by_Nikolay_Anokhin.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tsarskaya_opochivalnya_2004_by_Nikolay_Anokhin.jpg/240px-Tsarskaya_opochivalnya_2004_by_Nikolay_Anokhin.jpg 2x" data-file-width="4458" data-file-height="3994" /></a></span></div>
+			<div class="gallerytext">Царская опочивальня. 2004</div>
+		</li>
+		<li class="gallerybox" style="width: 155px">
+			<div class="thumb" style="width: 150px; height: 150px;"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Hronos_2007_by_Nikolay_Anokhin.jpg" class="mw-file-description" title="Хронос. 2007"><img alt="Хронос. 2007" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Hronos_2007_by_Nikolay_Anokhin.jpg/87px-Hronos_2007_by_Nikolay_Anokhin.jpg" decoding="async" width="87" height="120" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Hronos_2007_by_Nikolay_Anokhin.jpg/131px-Hronos_2007_by_Nikolay_Anokhin.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Hronos_2007_by_Nikolay_Anokhin.jpg/175px-Hronos_2007_by_Nikolay_Anokhin.jpg 2x" data-file-width="2073" data-file-height="2840" /></a></span></div>
+			<div class="gallerytext">Хронос. 2007</div>
+		</li>
+</ul>
+<style data-mw-deduplicate="TemplateStyles:r137903846">.mw-parser-output .ts-Родственные_проекты{clear:right;float:right;width:19em;box-sizing:border-box;margin:0 0 .5em 1em;padding:.4em;background:var(--background-color-neutral-subtle,#f8f9fa);border:1px solid var(--border-color-base,#a2a9b1);font-size:90%}.mw-parser-output .ts-Родственные_проекты-header{margin-bottom:.2em;padding:.2em .6em;font-size:110%}.mw-parser-output .ts-Родственные_проекты-item{display:flex;padding:.2em .6em}.mw-parser-output .ts-Родственные_проекты-image{min-width:24px;display:inline-block;margin-right:.4em;flex:none;vertical-align:top;text-align:center}.mw-parser-output .ts-Родственные_проекты-image img{vertical-align:middle}.mw-parser-output .ts-Родственные_проекты-label{align-self:center}@media(max-width:719px){.mw-parser-output .ts-Родственные_проекты{clear:none;float:none;width:auto;margin-left:0;margin-right:0}}</style><div class="ts-Родственные_проекты ruwikiWikimediaNavigation metadata plainlinks plainlist noprint" role="navigation" aria-label="В родственных проектах"><ul><li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/24px-Notification-icon-Commons-logo.svg.png" decoding="async" width="24" height="24" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/36px-Notification-icon-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/48px-Notification-icon-Commons-logo.svg.png 2x" data-file-width="30" data-file-height="30" /></span></span></span><span class="ts-Родственные_проекты-label commons-ref"><a href="https://commons.wikimedia.org/wiki/Category:Nikolay_Anokhin" class="extiw" title="commons:Category:Nikolay Anokhin">Медиафайлы на&#160;Викискладе</a></span></li></ul></div>
+<style data-mw-deduplicate="TemplateStyles:r137874932">.mw-parser-output .ambox{border:1px solid var(--border-color-base,#a2a9b1);border-left:10px solid #36c;background:var(--background-color-neutral-subtle,#f8f9fa);box-sizing:border-box;margin:0 10%}html body.mediawiki.skin-minerva .mw-parser-output .ambox{border-width:0 0 0 4px}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid var(--border-color-error,#b32424);background-color:var(--background-color-error-subtle,#fee7e6)}.mw-parser-output .ambox-delete{border-left:10px solid var(--border-color-error,#b32424)}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid var(--color-warning,#edab00)}.mw-parser-output .ambox-good{border-left:10px solid #66cc44}.mw-parser-output .ambox-discussion{border-left:10px solid #339966}.mw-parser-output .ambox-merge{border-left:10px solid #9932cc}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}.mw-parser-output .ambox .mbox-textsmall-div{font-size:90%}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(max-width:1366px){.mw-parser-output .ambox{margin-left:6%;margin-right:6%}}@media(max-width:719px){.mw-parser-output .ambox{margin-left:0;margin-right:0}}</style><table class="mbox-Нет_сносок plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Emblem-important.svg" class="mw-file-description"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/40px-Emblem-important.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/60px-Emblem-important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emblem-important.svg/80px-Emblem-important.svg.png 2x" data-file-width="48" data-file-height="48" /></a></span></div></td><td class="mbox-text"><div class="mbox-text-div">В статье есть список <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Авторитетные источники">источников</a>, но в этом разделе <b>не хватает <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BD%D0%BE%D1%81%D0%BA%D0%B8" title="Википедия:Сноски">сносок</a></b>.</div><div class="mbox-textsmall-div hide-when-compact"><span class="hide-when-compact"> Без сносок сложно <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C" title="Википедия:Проверяемость">определить, из какого источника</a> взято каждое отдельное утверждение. Вы можете улучшить статью, проставив <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8" title="Википедия:Ссылки на источники">сноски на источники</a>, подтверждающие информацию. Сведения без сносок <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8#Материал_без_источников" title="Википедия:Авторитетные источники">могут быть удалены</a>.</span>  <span class="mbox-date"><i>(<span class="date">22 ноября 2011</span>)</i></span></div></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐5b95fccc77‐4bg4p
+Cached time: 20250317123524
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.451 seconds
+Real time usage: 0.650 seconds
+Preprocessor visited node count: 1258/1000000
+Post‐expand include size: 31748/2097152 bytes
+Template argument size: 2510/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 7/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 11174/5000000 bytes
+Lua time usage: 0.347/10.000 seconds
+Lua memory usage: 5939456/52428800 bytes
+Number of Wikibase entities loaded: 10/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  604.149      1 -total
+ 70.65%  426.827      1 Шаблон:Художник
+ 67.13%  405.575      1 Шаблон:Карточка
+ 32.79%  198.114      8 Шаблон:Wikidata
+ 11.43%   69.036      1 Шаблон:Нет_сносок
+ 10.62%   64.161      1 Шаблон:Ambox
+  6.08%   36.747      1 Шаблон:Карточка/оригинал_имени
+  4.98%   30.083      1 Шаблон:Навигация
+  4.79%   28.922      1 Шаблон:ФИО
+  1.91%   11.546      1 Шаблон:Wikidata/p569
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:1073730:|#|:idhash:canonical and timestamp 20250317123524 and revision id 138954461. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=0" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Анохин,_Николай_Юрьевич&amp;oldid=138954461">https://ru.wikipedia.org/w/index.php?title=Анохин,_Николай_Юрьевич&amp;oldid=138954461</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_6_%D1%81%D0%B5%D0%BD%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="Категория:Родившиеся 6 сентября">Родившиеся 6 сентября</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_1956_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Родившиеся в 1956 году">Родившиеся в 1956 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B5" title="Категория:Родившиеся в Москве">Родившиеся в Москве</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA%D0%B8_%D0%9C%D0%93%D0%A5%D0%98_%D0%B8%D0%BC._%D0%A1%D1%83%D1%80%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0" title="Категория:Выпускники МГХИ им. Сурикова">Выпускники МГХИ им. Сурикова</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Персоналии по алфавиту">Персоналии по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Художники по алфавиту">Художники по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D0%B8_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Деятели изобразительного искусства по алфавиту">Деятели изобразительного искусства по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Художники СССР">Художники СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_XX_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Художники России XX века">Художники России XX века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Художники России">Художники России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_XX_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Художники XX века">Художники XX века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8-%D0%BF%D0%B5%D0%B9%D0%B7%D0%B0%D0%B6%D0%B8%D1%81%D1%82%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Художники-пейзажисты России">Художники-пейзажисты России</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8_%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Категория:Википедия:Биографии современников">Википедия:Биографии современников</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8:_%D0%B7%D0%B0%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D1%8C_%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE_P373_%D0%B2_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Википедия:Статьи с изображениями: заполнить свойство P373 в Викиданных">Википедия:Статьи с изображениями: заполнить свойство P373 в Викиданных</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Категория:Статьи со ссылками на Викисклад">Статьи со ссылками на Викисклад</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BD%D0%BE%D1%81%D0%BE%D0%BA_%D1%81_%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F_2011_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Википедия:Статьи без сносок с ноября 2011 года">Википедия:Статьи без сносок с ноября 2011 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BD%D0%BE%D1%81%D0%BE%D0%BA" title="Категория:Википедия:Статьи без сносок">Википедия:Статьи без сносок</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD%2C+%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9+%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD%2C+%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9+%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-namespaces-label"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;stable=1"><span>Читать</span></a></li><li id="ca-current" class="collapsible selected mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]" accesskey="v"><span>Текущая версия</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;oldid=138954461" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD%2C_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;id=138954461&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2590%25D0%25BD%25D0%25BE%25D1%2585%25D0%25B8%25D0%25BD%2C_%25D0%259D%25D0%25B8%25D0%25BA%25D0%25BE%25D0%25BB%25D0%25B0%25D0%25B9_%25D0%25AE%25D1%2580%25D1%258C%25D0%25B5%25D0%25B2%25D0%25B8%25D1%2587"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2590%25D0%25BD%25D0%25BE%25D1%2585%25D0%25B8%25D0%25BD%2C_%25D0%259D%25D0%25B8%25D0%25BA%25D0%25BE%25D0%25BB%25D0%25B0%25D0%25B9_%25D0%25AE%25D1%2580%25D1%258C%25D0%25B5%25D0%25B2%25D0%25B8%25D1%2587"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD%2C_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Nikolay_Anokhin" hreflang="en"><span>Викисклад</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4066856" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D9%86%D9%8A%D9%83%D9%88%D9%84%D8%A7%D9%89_%D8%A7%D9%86%D9%88%D8%AE%D9%8A%D9%86" title="نيكولاى انوخين — Egyptian Arabic" lang="arz" hreflang="arz" data-title="نيكولاى انوخين" data-language-autonym="مصرى" data-language-local-name="Egyptian Arabic" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Nikolay_Anokhin" title="Nikolay Anokhin — английский" lang="en" hreflang="en" data-title="Nikolay Anokhin" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4066856#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 15 июля 2024 в 10:32.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.log.warn("This page is using the deprecated ResourceLoader module \"codex-search-styles\".\n[1.43] Use a CodexModule with codexComponents to set your specific components used: https://www.mediawiki.org/wiki/Codex#Using_a_limited_subset_of_components");mw.config.set({"wgHostname":"mw-web.eqiad.main-8669bc5c8-25zvm","wgBackendResponseTime":133,"wgPageParseReport":{"limitreport":{"cputime":"0.451","walltime":"0.650","ppvisitednodes":{"value":1258,"limit":1000000},"postexpandincludesize":{"value":31748,"limit":2097152},"templateargumentsize":{"value":2510,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":7,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":11174,"limit":5000000},"entityaccesscount":{"value":10,"limit":400},"timingprofile":["100.00%  604.149      1 -total"," 70.65%  426.827      1 Шаблон:Художник"," 67.13%  405.575      1 Шаблон:Карточка"," 32.79%  198.114      8 Шаблон:Wikidata"," 11.43%   69.036      1 Шаблон:Нет_сносок"," 10.62%   64.161      1 Шаблон:Ambox","  6.08%   36.747      1 Шаблон:Карточка/оригинал_имени","  4.98%   30.083      1 Шаблон:Навигация","  4.79%   28.922      1 Шаблон:ФИО","  1.91%   11.546      1 Шаблон:Wikidata/p569"]},"scribunto":{"limitreport-timeusage":{"value":"0.347","limit":"10.000"},"limitreport-memusage":{"value":5939456,"limit":52428800},"limitreport-logs":"Loaded datatype string of P742 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P136 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-web.eqiad.main-5b95fccc77-4bg4p","timestamp":"20250317123524","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0410\u043d\u043e\u0445\u0438\u043d, \u041d\u0438\u043a\u043e\u043b\u0430\u0439 \u042e\u0440\u044c\u0435\u0432\u0438\u0447","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4066856","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4066856","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-03-23T20:46:38Z","dateModified":"2024-07-15T10:32:54Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/cd\/Nikolay_Anokhin.jpg"}</script>
+</body>
+</html>

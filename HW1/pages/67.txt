@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Андреев, Владимир Александрович (художник) — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"33a97e52-2352-48cc-a58d-c27e1a0b0a34","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Андреев,_Владимир_Александрович_(художник)","wgTitle":"Андреев, Владимир Александрович (художник)","wgCurRevisionId":142557142,"wgRevisionId":142557142,"wgArticleId":3011673,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Статьи без изображений (тип: человек; род занятий: художник)","Родившиеся 26 октября","Родившиеся в 1917 году","Персоналии по алфавиту","Родившиеся в Галичском уезде","Родившиеся в Галичском районе (Костромская область)","Умершие 25 января","Умершие в 1995 году","Умершие в Санкт-Петербурге","Кавалеры ордена Отечественной войны II степени","Кавалеры ордена Красной Звезды","Награждённые медалью «За взятие Берлина»","Награждённые медалью «За освобождение Варшавы»","Награждённые медалью «За боевые заслуги»","Награждённые медалью «За победу над Германией в Великой Отечественной войне 1941—1945 гг.»","Художники по алфавиту","Деятели изобразительного искусства по алфавиту","Художники СССР","Художники России","Художники XX века","Художники Санкт-Петербурга","Члены Союза художников СССР","Художники-портретисты России","Выпускники Санкт-Петербургской академии художеств имени Ильи Репина","Преподаватели Санкт-Петербургской художественно-промышленной академии","Члены Санкт-Петербургского Союза художников"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Андреев,_Владимир_Александрович_(художник)","wgRelevantArticleId":3011673,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":137799753,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q15064019","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};
+RLSTATE={"ext.gadget.common-site":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","codex-search-styles":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","oojs-ui.styles.icons-media","oojs-ui-core.icons"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cjquery.makeCollapsible.styles%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.44.0-wmf.20">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Андреев, Владимир Александрович (художник) — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="//ru.m.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="login.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Андреев_Владимир_Александрович_художник rootpage-Андреев_Владимир_Александрович_художник skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Андреев, Владимир Александрович (художник)</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"><div id="mw-fr-revision-messages"><div class="cdx-message mw-fr-message-box cdx-message--block cdx-message--notice mw-fr-basic mw-fr-draft-not-synced plainlinks noprint"><span class="cdx-message__icon"></span><div class="cdx-message__content">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)&amp;stable=1">версии, проверенной 14 мая 2024 года</a>; проверки требует <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)&amp;oldid=137799753&amp;diff=cur&amp;diffonly=0">1 правка</a>.</div></div></div></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><div role="note" class="hatnote navigation-not-searchable dabhide">В Википедии есть статьи о других людях с такой фамилией, см. <a href="/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2" class="mw-disambig" title="Андреев">Андреев</a>; <a href="/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80" class="mw-disambig" title="Андреев, Владимир">Андреев, Владимир</a>; <a href="/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" class="mw-disambig" title="Андреев, Владимир Александрович">Андреев, Владимир Александрович</a>.</div>
+<table class="infobox infobox-c3b0ad95696a0345" style="" data-name="Художник"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Андреев Владимир Александрович</th></tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Дата&#160;рождения</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P569"><span class="nowrap"><a href="/wiki/26_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="26 октября">26 октября</a> <a href="/wiki/1917_%D0%B3%D0%BE%D0%B4" title="1917 год">1917</a></span><span style="display:none">(<span class="bday">1917-10-26</span>)</span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Место рождения</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P19" class="no-wikidata">село Богчино, <a href="/wiki/%D0%93%D0%B0%D0%BB%D0%B8%D1%87%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%B5%D0%B7%D0%B4" title="Галичский уезд">Галичский уезд</a>, <a href="/wiki/%D0%9A%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D1%8F" title="Костромская губерния">Костромская губерния</a>; ныне&#160;— в <a href="/wiki/%D0%93%D0%B0%D0%BB%D0%B8%D1%87%D1%81%D0%BA%D0%B8%D0%B9_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_(%D0%9A%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)" title="Галичский район (Костромская область)">Галичском районе</a>, <a href="/wiki/%D0%9A%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C" title="Костромская область">Костромская область</a>)</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Дата смерти</th>
+<td class="plainlist">
+<span class="no-wikidata" data-wikidata-property-id="P570"><span class="nowrap"><a href="/wiki/25_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="25 января">25 января</a> <a href="/wiki/1995_%D0%B3%D0%BE%D0%B4" title="1995 год">1995</a></span><span style="display:none">(<span class="dday">1995-01-25</span>)</span></span> <span class="nowrap">(77 лет)</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Место смерти</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P20" class="no-wikidata"><a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3" title="Санкт-Петербург">Санкт-Петербург</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Гражданство</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P27" class="no-wikidata"><span class="nowrap" data-sort-value="РСФСР"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_the_Russian_Soviet_Federative_Socialist_Republic_%281954%E2%80%931991%29.svg/22px-Flag_of_the_Russian_Soviet_Federative_Socialist_Republic_%281954%E2%80%931991%29.svg.png" decoding="async" width="22" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_the_Russian_Soviet_Federative_Socialist_Republic_%281954%E2%80%931991%29.svg/33px-Flag_of_the_Russian_Soviet_Federative_Socialist_Republic_%281954%E2%80%931991%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_the_Russian_Soviet_Federative_Socialist_Republic_%281954%E2%80%931991%29.svg/44px-Flag_of_the_Russian_Soviet_Federative_Socialist_Republic_%281954%E2%80%931991%29.svg.png 2x" data-file-width="1200" data-file-height="600" /></span></span></span>&#160;<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" title="Российская Советская Федеративная Социалистическая Республика"><span class="wrap">РСФСР</span></a></span> <br /><span class="nowrap" data-sort-value="СССР"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/22px-Flag_of_the_Soviet_Union.svg.png" decoding="async" width="22" height="11" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/33px-Flag_of_the_Soviet_Union.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/44px-Flag_of_the_Soviet_Union.svg.png 2x" data-file-width="1200" data-file-height="600" /></span></span></span>&#160;<a href="/wiki/%D0%A1%D0%BE%D1%8E%D0%B7_%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D1%85_%D0%A1%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA" title="Союз Советских Социалистических Республик"><span class="wrap">СССР</span></a></span> <br /><span class="nowrap" data-sort-value="Россия"><span class="flagicon"><span class="mw-image-border noresize" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/22px-Flag_of_Russia.svg.png" decoding="async" width="22" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/33px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/44px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" /></span></span></span>&#160;<a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F" title="Россия"><span class="wrap">Россия</span></a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Род&#160;деятельности</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q15064019$F957898D-7578-483E-BC21-2E699F52EB38" class="wikidata-claim" data-wikidata-property-id="P106"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA" title="Художник">художник</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Жанр</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P136" class="no-wikidata"><a href="/wiki/%D0%96%D0%B8%D0%B2%D0%BE%D0%BF%D0%B8%D1%81%D1%8C" title="Живопись">живопись</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Стиль</th>
+<td class="P135 plainlist">
+<a href="/wiki/%D0%A0%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%BC_(%D0%B6%D0%B8%D0%B2%D0%BE%D0%BF%D0%B8%D1%81%D1%8C)" title="Реализм (живопись)">Реализм</a></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Учёба</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P69" class="no-wikidata"><a href="/wiki/%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%A0%D0%B5%D0%BF%D0%B8%D0%BD%D0%B0" class="mw-redirect" title="Институт имени Репина">Институт имени Репина</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Награды</th>
+<td class="plainlist">
+<div data-wikidata-property-id="P166" class="no-wikidata">
+<table style="background:transparent">
+<tbody><tr>
+<td><span data-wikidata-value-id="Q18200478"><span typeof="mw:File"><a href="/wiki/%D0%9E%D1%80%D0%B4%D0%B5%D0%BD_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_II_%D1%81%D1%82%D0%B5%D0%BF%D0%B5%D0%BD%D0%B8" title="Орден Отечественной войны II степени"><img alt="Орден Отечественной войны II степени" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/SU_Order_of_the_Patriotic_War_2nd_class_ribbon.svg/40px-SU_Order_of_the_Patriotic_War_2nd_class_ribbon.svg.png" decoding="async" width="40" height="17" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/SU_Order_of_the_Patriotic_War_2nd_class_ribbon.svg/60px-SU_Order_of_the_Patriotic_War_2nd_class_ribbon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/SU_Order_of_the_Patriotic_War_2nd_class_ribbon.svg/80px-SU_Order_of_the_Patriotic_War_2nd_class_ribbon.svg.png 2x" data-file-width="144" data-file-height="60" /></a></span></span> <span typeof="mw:File"><a href="/wiki/%D0%9E%D1%80%D0%B4%D0%B5%D0%BD_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B9_%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D1%8B" title="Орден Красной Звезды"><img alt="Орден Красной Звезды" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/SU_Order_of_the_Red_Star_ribbon.svg/40px-SU_Order_of_the_Red_Star_ribbon.svg.png" decoding="async" width="40" height="17" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/SU_Order_of_the_Red_Star_ribbon.svg/60px-SU_Order_of_the_Red_Star_ribbon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/SU_Order_of_the_Red_Star_ribbon.svg/80px-SU_Order_of_the_Red_Star_ribbon.svg.png 2x" data-file-width="144" data-file-height="60" /></a></span>
+</td></tr>
+<tr>
+<td><span data-wikidata-value-id="Q761641"><span class="mw-default-size" typeof="mw:File"><a href="/wiki/%D0%9C%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C_%C2%AB%D0%97%D0%B0_%D0%B2%D0%B7%D1%8F%D1%82%D0%B8%D0%B5_%D0%91%D0%B5%D1%80%D0%BB%D0%B8%D0%BD%D0%B0%C2%BB" title="Медаль «За взятие Берлина»"><img alt="Медаль «За взятие Берлина»" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SU_Medal_For_the_Capture_of_Berlin_ribbon.svg/41px-SU_Medal_For_the_Capture_of_Berlin_ribbon.svg.png" decoding="async" width="41" height="17" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SU_Medal_For_the_Capture_of_Berlin_ribbon.svg/63px-SU_Medal_For_the_Capture_of_Berlin_ribbon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SU_Medal_For_the_Capture_of_Berlin_ribbon.svg/82px-SU_Medal_For_the_Capture_of_Berlin_ribbon.svg.png 2x" data-file-width="144" data-file-height="60" /></a></span></span></td>
+<td><span typeof="mw:File"><a href="/wiki/%D0%9C%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C_%C2%AB%D0%97%D0%B0_%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%92%D0%B0%D1%80%D1%88%D0%B0%D0%B2%D1%8B%C2%BB" title="Медаль «За освобождение Варшавы»"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/SU_Medal_For_the_Liberation_of_Warsaw_ribbon.svg/40px-SU_Medal_For_the_Liberation_of_Warsaw_ribbon.svg.png" decoding="async" width="40" height="17" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/SU_Medal_For_the_Liberation_of_Warsaw_ribbon.svg/60px-SU_Medal_For_the_Liberation_of_Warsaw_ribbon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/SU_Medal_For_the_Liberation_of_Warsaw_ribbon.svg/80px-SU_Medal_For_the_Liberation_of_Warsaw_ribbon.svg.png 2x" data-file-width="144" data-file-height="60" /></a></span></td>
+<td><span typeof="mw:File"><a href="/wiki/%D0%9C%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C_%C2%AB%D0%97%D0%B0_%D0%B1%D0%BE%D0%B5%D0%B2%D1%8B%D0%B5_%D0%B7%D0%B0%D1%81%D0%BB%D1%83%D0%B3%D0%B8%C2%BB" title="Медаль «За боевые заслуги»"><img alt="Медаль «За боевые заслуги»" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/SU_Medal_For_Battle_Merit_ribbon.svg/40px-SU_Medal_For_Battle_Merit_ribbon.svg.png" decoding="async" width="40" height="17" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/SU_Medal_For_Battle_Merit_ribbon.svg/60px-SU_Medal_For_Battle_Merit_ribbon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/SU_Medal_For_Battle_Merit_ribbon.svg/80px-SU_Medal_For_Battle_Merit_ribbon.svg.png 2x" data-file-width="144" data-file-height="60" /></a></span></td>
+<td><span typeof="mw:File"><a href="/wiki/%D0%9C%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C_%C2%AB%D0%97%D0%B0_%D0%BF%D0%BE%D0%B1%D0%B5%D0%B4%D1%83_%D0%BD%D0%B0%D0%B4_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5%D0%B9_%D0%B2_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B5_1941%E2%80%941945_%D0%B3%D0%B3.%C2%BB" title="Медаль «За победу над Германией в Великой Отечественной войне 1941—1945&#160;гг.»"><img alt="Медаль «За победу над Германией в Великой Отечественной войне 1941—1945&#160;гг.»" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/SU_Medal_For_the_Victory_over_Germany_in_the_Great_Patriotic_War_1941-1945_ribbon.svg/40px-SU_Medal_For_the_Victory_over_Germany_in_the_Great_Patriotic_War_1941-1945_ribbon.svg.png" decoding="async" width="40" height="17" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/SU_Medal_For_the_Victory_over_Germany_in_the_Great_Patriotic_War_1941-1945_ribbon.svg/60px-SU_Medal_For_the_Victory_over_Germany_in_the_Great_Patriotic_War_1941-1945_ribbon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/SU_Medal_For_the_Victory_over_Germany_in_the_Great_Patriotic_War_1941-1945_ribbon.svg/80px-SU_Medal_For_the_Victory_over_Germany_in_the_Great_Patriotic_War_1941-1945_ribbon.svg.png 2x" data-file-width="144" data-file-height="60" /></a></span>
+</td></tr></tbody></table></div></td>
+</tr>
+</tbody></table>
+<p><b> Владимир Александрович Андреев</b> (<a href="/wiki/26_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="26 октября">26 октября</a> <a href="/wiki/1917" class="mw-redirect" title="1917">1917</a>, село Богчино, <a href="/wiki/%D0%93%D0%B0%D0%BB%D0%B8%D1%87%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%B5%D0%B7%D0%B4" title="Галичский уезд">Галичский уезд</a>, <a href="/wiki/%D0%9A%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D1%83%D0%B1%D0%B5%D1%80%D0%BD%D0%B8%D1%8F" title="Костромская губерния">Костромская губерния</a>, <a href="/wiki/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0" title="Российская республика">Российская республика</a>&#160;— <a href="/wiki/25_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="25 января">25 января</a> <a href="/wiki/1995" class="mw-redirect" title="1995">1995</a>, Санкт-Петербург, Российская Федерация)&#160;— советский <a href="/wiki/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA" title="Художник">художник</a>, живописец, педагог, член <a href="/wiki/%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D1%8E%D0%B7_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" class="mw-redirect" title="Ленинградский Союз художников">Санкт-Петербургского Союза художников</a> (до 1992 года&#160;— Ленинградской организации Союза художников РСФСР)<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Биография"><span class="tocnumber">1</span> <span class="toctext">Биография</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Примечания"><span class="tocnumber">2</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Выставки"><span class="tocnumber">3</span> <span class="toctext">Выставки</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Источники"><span class="tocnumber">4</span> <span class="toctext">Источники</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#См._также"><span class="tocnumber">5</span> <span class="toctext">См. также</span></a></li>
+</ul>
+</div>
+
+<div class="mw-heading mw-heading2"><h2 id="Биография"><span id=".D0.91.D0.B8.D0.BE.D0.B3.D1.80.D0.B0.D1.84.D0.B8.D1.8F"></span>Биография</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Биография»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)&amp;action=edit&amp;section=1" title="Редактировать код раздела «Биография»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>В. А. Андреев  родился 26 октября 1917 года в селе Богчино Галичского уезда Костромской губернии. Первоначальное художественное образование получил в Пермском художественном училище<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>В 1939 году призван в Красную Армию. С частями 1-го Белорусского фронта прошёл всю Великую Отечественную войну, встретив Победу в Берлине. Награждён «<a href="/wiki/%D0%9E%D1%80%D0%B4%D0%B5%D0%BD_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B9_%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D1%8B" title="Орден Красной Звезды">Орденом Красной Звезды</a>», медалями <a href="/wiki/%D0%9C%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C_%C2%AB%D0%97%D0%B0_%D0%B2%D0%B7%D1%8F%D1%82%D0%B8%D0%B5_%D0%91%D0%B5%D1%80%D0%BB%D0%B8%D0%BD%D0%B0%C2%BB" title="Медаль «За взятие Берлина»">«За взятие Берлина»</a>, <a href="/wiki/%D0%9C%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C_%C2%AB%D0%97%D0%B0_%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%92%D0%B0%D1%80%D1%88%D0%B0%D0%B2%D1%8B%C2%BB" title="Медаль «За освобождение Варшавы»">«За освобождение Варшавы»</a>, <a href="/wiki/%D0%9C%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C_%C2%AB%D0%97%D0%B0_%D0%B1%D0%BE%D0%B5%D0%B2%D1%8B%D0%B5_%D0%B7%D0%B0%D1%81%D0%BB%D1%83%D0%B3%D0%B8%C2%BB" title="Медаль «За боевые заслуги»">«За боевые заслуги»</a>, <a href="/wiki/%D0%9C%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C_%C2%AB%D0%97%D0%B0_%D0%BF%D0%BE%D0%B1%D0%B5%D0%B4%D1%83_%D0%BD%D0%B0%D0%B4_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5%D0%B9_%D0%B2_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B5_1941%E2%80%941945_%D0%B3%D0%B3.%C2%BB" title="Медаль «За победу над Германией в Великой Отечественной войне 1941—1945 гг.»">«За победу над Германией»</a>.
+</p><p>После демобилизации в 1947 году поступил на факультет живописи <a href="/wiki/%D0%98%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%A0%D0%B5%D0%BF%D0%B8%D0%BD%D0%B0" class="mw-redirect" title="Институт имени Репина">Ленинградского института живописи, скульптуры и архитектуры имени И.&#160;Е.&#160;Репина</a>, который окончил в 1953 году по мастерской <a href="/wiki/%D0%9E%D1%80%D0%B5%D1%88%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2,_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87" title="Орешников, Виктор Михайлович">Виктора Орешникова</a> с присвоением звания художника живописи. Дипломная работа&#160;— картина «В цеховой библиотеке»<sup id="cite_ref-3" class="reference"><a href="#cite_note-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup> (находится в собрании Ростовской областной картинной галереи)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup>.
+</p><p>С 1953 года постоянный участник выставок ленинградских художников. Писал жанровые и тематические картины, портреты, пейзажи, натюрморты. Наибольшее признание получили портреты современников&#160;— деятелей культуры и искусства, ветеранов войны, детские образы. Член <a href="/wiki/%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D1%8E%D0%B7_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" class="mw-redirect" title="Ленинградский Союз художников">Ленинградского Союза художников</a> с 1957 года. В 1953—1989 годах преподавал на кафедре общей живописи в <a href="/wiki/%D0%9B%D0%92%D0%A5%D0%9F%D0%A3" class="mw-redirect" title="ЛВХПУ">Ленинградском Высшем художественно-промышленном училище имени В.&#160;И.&#160;Мухиной</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup>. Персональные выставки художника прошли в Ленинграде в 1975, 1980 и 1984 годах.
+</p><p>Скончался 25 января 1995 года в Санкт-Петербурге на 78-м году жизни.
+</p><p>Произведения В. А. Андреева находятся в музеях и частных собраниях в России, США, Японии, Бельгии, Швейцарии, Франции и других странах.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)&amp;action=edit&amp;section=2" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">Справочник членов Союза художников СССР.&#160;— Т. 1.&#160;— <abbr title="Москва">М.</abbr>: Советский художник, 1979.&#160;— С. 44.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><i>Бахтияров, Р. А.</i> Андреев Владимир Александрович //Страницы памяти. Справочно-биографический сборник. 1941—1945. Художники Санкт-Петербургского (Ленинградского) Союза художников&#160;— ветераны Великой Отечественной войны. СПб: Петрополис, 2014. С. 30.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><i>Юбилейный Справочник выпускников Санкт-Петербургского академического института живописи, скульптуры и архитектуры имени И.&#160;Е.&#160;Репина Российской Академии художеств. 1915—2005.</i>&#160;— Санкт Петербург: «Первоцвет», 2007.&#160;— с.69.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><i>Владимир Александрович Андреев. Выставка произведений. Каталог.</i>&#160;— ЛОСХ РСФСР, 1980.&#160;— с.2.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><i>Традиции школы живописи государственной художественно-промышленной академии имени А.&#160;Л.&#160;Штиглица. Кафедра общей живописи.</i>&#160;— СПб., 2010. С. 14, 15, 270.</span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Выставки"><span id=".D0.92.D1.8B.D1.81.D1.82.D0.B0.D0.B2.D0.BA.D0.B8"></span>Выставки</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Выставки»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)&amp;action=edit&amp;section=3" title="Редактировать код раздела «Выставки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<style data-mw-deduplicate="TemplateStyles:r142621938">.mw-parser-output .ts-Скрытый_блок{margin:0;overflow:hidden;border-collapse:collapse;box-sizing:border-box}.mw-parser-output .ts-Скрытый_блок-title{text-align:center;font-weight:bold;line-height:1.6em;min-height:1.2em}.mw-parser-output .ts-Скрытый_блок .mw-collapsible-content{overflow-x:auto;overflow-y:hidden;clear:both}.mw-parser-output .ts-Скрытый_блок::before,.mw-parser-output .ts-Скрытый_блок .mw-collapsible-toggle{padding-top:.1em;width:6em;font-weight:normal;font-size:calc(90%/0.95)}.mw-parser-output .ts-Скрытый_блок-rightHideLink .mw-collapsible-toggle{float:right;text-align:right}.mw-parser-output .ts-Скрытый_блок-leftHideLink .mw-collapsible-toggle{float:left;text-align:left}.mw-parser-output .ts-Скрытый_блок-gray{padding:2px;border:1px solid var(--border-color-base,#a2a9b1)}.mw-parser-output .ts-Скрытый_блок-transparent{border:none}.mw-parser-output .ts-Скрытый_блок-gray .ts-Скрытый_блок-title{background:var(--background-color-neutral,#eaecf0);padding:.1em 6em;padding-right:0}.mw-parser-output .ts-Скрытый_блок-transparent .ts-Скрытый_блок-title{background:transparent;padding:.1em 5.5em;padding-right:0}.mw-parser-output .ts-Скрытый_блок-gray .mw-collapsible-content{padding:.25em 1em}.mw-parser-output .ts-Скрытый_блок-transparent .mw-collapsible-content{padding:.25em 0}.mw-parser-output .ts-Скрытый_блок-gray.ts-Скрытый_блок-rightHideLink .mw-collapsible-toggle{padding-right:1em}.mw-parser-output .ts-Скрытый_блок-transparent.ts-Скрытый_блок-rightHideLink .mw-collapsible-toggle{padding-right:0}.mw-parser-output .ts-Скрытый_блок-gray.ts-Скрытый_блок-leftHideLink .mw-collapsible-toggle{padding-left:1em}.mw-parser-output .ts-Скрытый_блок-transparent.ts-Скрытый_блок-leftHideLink .mw-collapsible-toggle{padding-left:0}.mw-parser-output .ts-Скрытый_блок-gray.ts-Скрытый_блок-rightHideLink .ts-Скрытый_блок-title-leftTitle{padding-left:1em}.mw-parser-output .ts-Скрытый_блок-gray.ts-Скрытый_блок-leftHideLink .ts-Скрытый_блок-title-leftTitle{padding-left:6.5em}.mw-parser-output .ts-Скрытый_блок-gray.ts-Скрытый_блок-leftHideLink .ts-Скрытый_блок-title-rightTitle{padding-right:1em}.mw-parser-output .ts-Скрытый_блок-transparent.ts-Скрытый_блок-rightHideLink .ts-Скрытый_блок-title-rightTitle,.mw-parser-output .ts-Скрытый_блок-transparent.ts-Скрытый_блок-rightHideLink .ts-Скрытый_блок-title-leftTitle{padding-left:0}.mw-parser-output .ts-Скрытый_блок-transparent.ts-Скрытый_блок-leftHideLink .ts-Скрытый_блок-title-rightTitle,.mw-parser-output .ts-Скрытый_блок-transparent.ts-Скрытый_блок-leftHideLink .ts-Скрытый_блок-title-leftTitle{padding-right:0}.mw-parser-output .ts-Скрытый_блок+.ts-Скрытый_блок,.mw-parser-output .ts-Скрытый_блок+link+.ts-Скрытый_блок{border-top-style:hidden}</style><div class="mw-collapsible mw-collapsed ts-Скрытый_блок ts-Скрытый_блок-gray ts-Скрытый_блок-rightHideLink" style=""><div class="ts-Скрытый_блок-title" style="text-align: left; color: black; background-color: lavender; font-weight: bold;"><i>Выставки с участием Андреева Владимира Александровича</i><div class="mw-collapsible-toggle-placeholder"></div></div><div class="mw-collapsible-content" style="color: black; background-color: ghostwhite; text-align: left;">
+<ul><li><a href="/wiki/1956" class="mw-redirect" title="1956">1956</a> год (<a href="/wiki/%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4" class="mw-redirect" title="Ленинград">Ленинград</a>): <i><a href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%BD%D0%BD%D1%8F%D1%8F_%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9_%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D1%85_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_1956_%D0%B3%D0%BE%D0%B4%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Осенняя выставка произведений ленинградских художников 1956 года (страница отсутствует)">Осенняя выставка произведений ленинградских художников</a></i>.</li>
+<li><a href="/wiki/1958" class="mw-redirect" title="1958">1958</a> год (<a href="/wiki/%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4" class="mw-redirect" title="Ленинград">Ленинград</a>): <i><a href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%BD%D0%BD%D1%8F%D1%8F_%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9_%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D1%85_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_1958_%D0%B3%D0%BE%D0%B4%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Осенняя выставка произведений ленинградских художников 1958 года (страница отсутствует)">Осенняя выставка произведений ленинградских художников</a></i>.</li>
+<li><a href="/wiki/1960" class="mw-redirect" title="1960">1960</a> год (<a href="/wiki/%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4" class="mw-redirect" title="Ленинград">Ленинград</a>): <i><a href="/wiki/%D0%92%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9_%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D1%85_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_1960_%D0%B3%D0%BE%D0%B4%D0%B0" class="mw-redirect" title="Выставка произведений ленинградских художников 1960 года">Выставка произведений ленинградских художников</a></i>.</li>
+<li><a href="/wiki/1961_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0_%D0%A1%D0%A1%D0%A1%D0%A0" class="mw-redirect" title="1961 год в истории изобразительного искусства СССР">1961</a> год (<a href="/wiki/%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4" class="mw-redirect" title="Ленинград">Ленинград</a>): <i><a href="/w/index.php?title=%D0%92%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9_%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D1%85_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_1961_%D0%B3%D0%BE%D0%B4%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Выставка произведений ленинградских художников 1961 года (страница отсутствует)">Выставка произведений ленинградских художников 1961 года</a></i>.</li>
+<li><a href="/wiki/1968" class="mw-redirect" title="1968">1968</a> год (<a href="/wiki/%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4" class="mw-redirect" title="Ленинград">Ленинград</a>): <i>Осенняя выставка произведений ленинградских художников</i>.</li></ul>
+</div></div>
+<div class="mw-heading mw-heading2"><h2 id="Источники"><span id=".D0.98.D1.81.D1.82.D0.BE.D1.87.D0.BD.D0.B8.D0.BA.D0.B8"></span>Источники</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Источники»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)&amp;action=edit&amp;section=4" title="Редактировать код раздела «Источники»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><i><a href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%BD%D0%BD%D1%8F%D1%8F_%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9_%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D1%85_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_1956_%D0%B3%D0%BE%D0%B4%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Осенняя выставка произведений ленинградских художников 1956 года (страница отсутствует)">Осенняя выставка произведений ленинградских художников 1956 года</a></i>.&#160;— Л: Ленинградский художник, 1958.&#160;— с.5.</li>
+<li><i><a href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%BD%D0%BD%D1%8F%D1%8F_%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9_%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D1%85_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_1958_%D0%B3%D0%BE%D0%B4%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Осенняя выставка произведений ленинградских художников 1958 года (страница отсутствует)">Осенняя выставка произведений ленинградских художников 1958 года. Каталог.</a></i>&#160;— Л: Художник РСФСР, 1959.&#160;— с.5.</li>
+<li><i><a href="/w/index.php?title=%D0%92%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9_%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D1%85_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_1961_%D0%B3%D0%BE%D0%B4%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Выставка произведений ленинградских художников 1961 года (страница отсутствует)">Выставка произведений ленинградских художников 1961 года. Каталог.</a></i>&#160;— Л: Художник РСФСР, 1964.&#160;— с.8.</li>
+<li><i><a href="/w/index.php?title=%D0%9E%D1%81%D0%B5%D0%BD%D0%BD%D1%8F%D1%8F_%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9_%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D1%85_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_1968_%D0%B3%D0%BE%D0%B4%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Осенняя выставка произведений ленинградских художников 1968 года (страница отсутствует)">Осенняя выставка произведений ленинградских художников 1968 года. Каталог</a></i>.&#160;— Л: Художник РСФСР, 1971.&#160;— с.5.</li>
+<li><i><a href="/w/index.php?title=%D0%92%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D1%8F%D1%8F_%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9_%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D1%85_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_1969_%D0%B3%D0%BE%D0%B4%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Весенняя выставка произведений ленинградских художников 1969 года (страница отсутствует)">Весенняя выставка произведений ленинградских художников 1969 года. Каталог</a></i>.&#160;— Л: Художник РСФСР, 1970.&#160;— с.7.</li>
+<li><i>Мямлин, И.</i> Сердце с правдой вдвоём… / Ленинградская правда, 1975, 1 июня.</li>
+<li><i>Справочник членов Союза художников СССР. Том 1.</i>&#160;— М: Советский художник, 1979.&#160;— с.44.</li>
+<li><i>Владимир Александрович Андреев. Выставка произведений. Каталог.</i>&#160;— ЛОСХ РСФСР, 1980.</li>
+<li><i>Справочник членов Ленинградской организации Союза художников РСФСР.</i>&#160;— Л: Художник РСФСР, 1980.&#160;— с.6.</li>
+<li><i>Иванов, С. В.</i> Неизвестный соцреализм. Ленинградская школа. СПб: НП-Принт, 2007. С. 390, 393, 398, 401, 406, 443.</li>
+<li><i>Юбилейный Справочник выпускников Санкт-Петербургского академического института живописи, скульптуры и архитектуры имени И.&#160;Е.&#160;Репина Российской Академии художеств. 1915—2005.</i>&#160;— Санкт Петербург: «Первоцвет», 2007.&#160;— с.69.</li>
+<li><i>Традиции школы живописи государственной художественно-промышленной академии имени А.&#160;Л.&#160;Штиглица. Кафедра общей живописи.</i>&#160;— СПб., 2010. С. 14, 15, 270.</li>
+<li><i>Бахтияров, Р. А.</i> Андреев Владимир Александрович //Страницы памяти. Справочно-биографический сборник. 1941—1945. Художники Санкт-Петербургского (Ленинградского) Союза художников&#160;— ветераны Великой Отечественной войны. СПб: Петрополис, 2014. С. 30—31.</li></ul>
+<div class="mw-heading mw-heading2"><h2 id="См._также"><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span>См. также</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)&amp;veaction=edit&amp;section=5" title="Редактировать раздел «См. также»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)&amp;action=edit&amp;section=5" title="Редактировать код раздела «См. также»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li><a href="/wiki/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE_%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D0%B0" title="Изобразительное искусство Ленинграда">Изобразительное искусство Ленинграда</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B6%D0%B8%D0%B2%D0%BE%D0%BF%D0%B8%D1%81%D1%86%D0%B5%D0%B2_%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%A1%D0%BE%D1%8E%D0%B7%D0%B0_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Список живописцев Ленинградского Союза художников">Список живописцев Ленинградского Союза художников</a></li>
+<li><a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1%D0%BE%D1%8E%D0%B7_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Санкт-Петербургский Союз художников">Ленинградский Союз художников</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Выставки_изобразительного_искусства_Ленинграда" data-name="Выставки ленинградских художников"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8_%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D1%85_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Перейти к шаблону «Выставки ленинградских художников»"><img alt="Перейти к шаблону «Выставки ленинградских художников»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Выставки_изобразительного_искусства_Ленинграда" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%92%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B8_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0_%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D0%B0" title="Выставки изобразительного искусства Ленинграда">Выставки изобразительного искусства Ленинграда</a></div></th></tr><tr><td class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F_%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0_%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D1%85_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Первая выставка ленинградских художников">Первая выставка ленинградских художников 1935 года</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0,_1960)" title="Советская Россия (выставка, 1960)">Советская Россия 1960 года</a></li>
+<li><a href="/wiki/%D0%9E%D1%81%D0%B5%D0%BD%D0%BD%D1%8F%D1%8F_%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0_%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B9_%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D1%85_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_1960_%D0%B3%D0%BE%D0%B4%D0%B0" title="Осенняя выставка произведений ленинградских художников 1960 года">Осенняя выставка 1960 года</a></li>
+<li><a href="/wiki/%D0%92%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0_%D0%BE%D0%B4%D0%B8%D0%BD%D0%BD%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D0%B8_%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D1%85_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_1972_%D0%B3%D0%BE%D0%B4%D0%B0" title="Выставка одиннадцати ленинградских художников 1972 года">Выставка одиннадцати ленинградских художников 1972 года</a></li>
+<li><a href="/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F_(%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0,_1975)" title="Советская Россия (выставка, 1975)">Советская Россия 1975 года</a></li>
+<li><a href="/wiki/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE_%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%D0%B0_(%D0%B2%D1%8B%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0)" title="Изобразительное искусство Ленинграда (выставка)">Изобразительное искусство Ленинграда 1976 года</a></li>
+<li><a href="/wiki/%D0%9B%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4,_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F,_%D0%BB%D1%8E%D0%B4%D0%B8" title="Ленинград, история, люди">Ленинград, история, люди 1988 года</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐api‐int.codfw.main‐54c7cf74fd‐4nl4d
+Cached time: 20250317075754
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.288 seconds
+Real time usage: 0.405 seconds
+Preprocessor visited node count: 2028/1000000
+Post‐expand include size: 52082/2097152 bytes
+Template argument size: 15470/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 6/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6305/5000000 bytes
+Lua time usage: 0.123/10.000 seconds
+Lua memory usage: 4222545/52428800 bytes
+Number of Wikibase entities loaded: 4/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  340.857      1 -total
+ 67.58%  230.355      1 Шаблон:Художник
+ 60.10%  204.841      1 Шаблон:Карточка
+ 15.91%   54.242      7 Шаблон:Wikidata
+ 12.45%   42.435      1 Шаблон:Hider
+ 11.33%   38.615      1 Шаблон:ФИО
+ 11.06%   37.689      1 Шаблон:Начало_скрытого_блока
+  9.70%   33.047      1 Шаблон:Карточка/оригинал_имени
+  4.31%   14.675      1 Шаблон:Выставки_ленинградских_художников
+  3.92%   13.368      1 Шаблон:Wikidata/p569
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:3011673:|#|:idhash:canonical and timestamp 20250317075754 and revision id 142557142. Rendering was triggered because: api-parse
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=0" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Андреев,_Владимир_Александрович_(художник)&amp;oldid=142557142">https://ru.wikipedia.org/w/index.php?title=Андреев,_Владимир_Александрович_(художник)&amp;oldid=142557142</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_26_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F" title="Категория:Родившиеся 26 октября">Родившиеся 26 октября</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_1917_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Родившиеся в 1917 году">Родившиеся в 1917 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Персоналии по алфавиту">Персоналии по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_%D0%93%D0%B0%D0%BB%D0%B8%D1%87%D1%81%D0%BA%D0%BE%D0%BC_%D1%83%D0%B5%D0%B7%D0%B4%D0%B5" title="Категория:Родившиеся в Галичском уезде">Родившиеся в Галичском уезде</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_%D0%93%D0%B0%D0%BB%D0%B8%D1%87%D1%81%D0%BA%D0%BE%D0%BC_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B5_(%D0%9A%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%BC%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C)" title="Категория:Родившиеся в Галичском районе (Костромская область)">Родившиеся в Галичском районе (Костромская область)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_25_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="Категория:Умершие 25 января">Умершие 25 января</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_%D0%B2_1995_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Умершие в 1995 году">Умершие в 1995 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_%D0%B2_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B5" title="Категория:Умершие в Санкт-Петербурге">Умершие в Санкт-Петербурге</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B0%D0%B2%D0%B0%D0%BB%D0%B5%D1%80%D1%8B_%D0%BE%D1%80%D0%B4%D0%B5%D0%BD%D0%B0_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B_II_%D1%81%D1%82%D0%B5%D0%BF%D0%B5%D0%BD%D0%B8" title="Категория:Кавалеры ордена Отечественной войны II степени">Кавалеры ордена Отечественной войны II степени</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B0%D0%B2%D0%B0%D0%BB%D0%B5%D1%80%D1%8B_%D0%BE%D1%80%D0%B4%D0%B5%D0%BD%D0%B0_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B9_%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D1%8B" title="Категория:Кавалеры ордена Красной Звезды">Кавалеры ордена Красной Звезды</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B0%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C%D1%8E_%C2%AB%D0%97%D0%B0_%D0%B2%D0%B7%D1%8F%D1%82%D0%B8%D0%B5_%D0%91%D0%B5%D1%80%D0%BB%D0%B8%D0%BD%D0%B0%C2%BB" title="Категория:Награждённые медалью «За взятие Берлина»">Награждённые медалью «За взятие Берлина»</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B0%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C%D1%8E_%C2%AB%D0%97%D0%B0_%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%92%D0%B0%D1%80%D1%88%D0%B0%D0%B2%D1%8B%C2%BB" title="Категория:Награждённые медалью «За освобождение Варшавы»">Награждённые медалью «За освобождение Варшавы»</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B0%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C%D1%8E_%C2%AB%D0%97%D0%B0_%D0%B1%D0%BE%D0%B5%D0%B2%D1%8B%D0%B5_%D0%B7%D0%B0%D1%81%D0%BB%D1%83%D0%B3%D0%B8%C2%BB" title="Категория:Награждённые медалью «За боевые заслуги»">Награждённые медалью «За боевые заслуги»</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B0%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BC%D0%B5%D0%B4%D0%B0%D0%BB%D1%8C%D1%8E_%C2%AB%D0%97%D0%B0_%D0%BF%D0%BE%D0%B1%D0%B5%D0%B4%D1%83_%D0%BD%D0%B0%D0%B4_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5%D0%B9_%D0%B2_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B9_%D0%9E%D1%82%D0%B5%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B5_1941%E2%80%941945_%D0%B3%D0%B3.%C2%BB" title="Категория:Награждённые медалью «За победу над Германией в Великой Отечественной войне 1941—1945 гг.»">Награждённые медалью «За победу над Германией в Великой Отечественной войне 1941—1945 гг.»</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Художники по алфавиту">Художники по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D0%B8_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Деятели изобразительного искусства по алфавиту">Деятели изобразительного искусства по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Художники СССР">Художники СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Художники России">Художники России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_XX_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Художники XX века">Художники XX века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D0%B0" title="Категория:Художники Санкт-Петербурга">Художники Санкт-Петербурга</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A7%D0%BB%D0%B5%D0%BD%D1%8B_%D0%A1%D0%BE%D1%8E%D0%B7%D0%B0_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%A1%D0%A1%D0%A1%D0%A0" title="Категория:Члены Союза художников СССР">Члены Союза художников СССР</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8-%D0%BF%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82%D0%B8%D1%81%D1%82%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Художники-портретисты России">Художники-портретисты России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA%D0%B8_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%B8_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%98%D0%BB%D1%8C%D0%B8_%D0%A0%D0%B5%D0%BF%D0%B8%D0%BD%D0%B0" title="Категория:Выпускники Санкт-Петербургской академии художеств имени Ильи Репина">Выпускники Санкт-Петербургской академии художеств имени Ильи Репина</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%B5%D0%BF%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%BE%D0%B9_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE-%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%B8" title="Категория:Преподаватели Санкт-Петербургской художественно-промышленной академии">Преподаватели Санкт-Петербургской художественно-промышленной академии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A7%D0%BB%D0%B5%D0%BD%D1%8B_%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%A1%D0%BE%D1%8E%D0%B7%D0%B0_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2" title="Категория:Члены Санкт-Петербургского Союза художников">Члены Санкт-Петербургского Союза художников</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытая категория: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9_(%D1%82%D0%B8%D0%BF:_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA;_%D1%80%D0%BE%D0%B4_%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D0%B8%D0%B9:_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)" title="Категория:Википедия:Статьи без изображений (тип: человек; род занятий: художник)">Википедия:Статьи без изображений (тип: человек; род занятий: художник)</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%2C+%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80+%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87+%28%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%29" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%2C+%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80+%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87+%28%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%29" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-namespaces-label"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)&amp;stable=1"><span>Читать</span></a></li><li id="ca-current" class="collapsible selected mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]" accesskey="v"><span>Текущая версия</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)&amp;oldid=142557142" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%2C_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%28%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%29&amp;id=142557142&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2590%25D0%25BD%25D0%25B4%25D1%2580%25D0%25B5%25D0%25B5%25D0%25B2%2C_%25D0%2592%25D0%25BB%25D0%25B0%25D0%25B4%25D0%25B8%25D0%25BC%25D0%25B8%25D1%2580_%25D0%2590%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2581%25D0%25B0%25D0%25BD%25D0%25B4%25D1%2580%25D0%25BE%25D0%25B2%25D0%25B8%25D1%2587_%28%25D1%2585%25D1%2583%25D0%25B4%25D0%25BE%25D0%25B6%25D0%25BD%25D0%25B8%25D0%25BA%29"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2590%25D0%25BD%25D0%25B4%25D1%2580%25D0%25B5%25D0%25B5%25D0%25B2%2C_%25D0%2592%25D0%25BB%25D0%25B0%25D0%25B4%25D0%25B8%25D0%25BC%25D0%25B8%25D1%2580_%25D0%2590%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2581%25D0%25B0%25D0%25BD%25D0%25B4%25D1%2580%25D0%25BE%25D0%25B2%25D0%25B8%25D1%2587_%28%25D1%2585%25D1%2583%25D0%25B4%25D0%25BE%25D0%25B6%25D0%25BD%25D0%25B8%25D0%25BA%29"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2%2C_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%28%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%29&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q15064019" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D5%8E%D5%AC%D5%A1%D5%A4%D5%AB%D5%B4%D5%AB%D6%80_%D4%B1%D5%B6%D5%A4%D6%80%D5%A5%D6%87" title="Վլադիմիր Անդրեև — армянский" lang="hy" hreflang="hy" data-title="Վլադիմիր Անդրեև" data-language-autonym="Հայերեն" data-language-local-name="армянский" class="interlanguage-link-target"><span>Հայերեն</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q15064019#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 7 января 2025 в 18:39.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.log.warn("This page is using the deprecated ResourceLoader module \"codex-search-styles\".\n[1.43] Use a CodexModule with codexComponents to set your specific components used: https://www.mediawiki.org/wiki/Codex#Using_a_limited_subset_of_components");mw.config.set({"wgHostname":"mw-web.eqiad.main-8669bc5c8-26n7h","wgBackendResponseTime":153,"wgPageParseReport":{"limitreport":{"cputime":"0.288","walltime":"0.405","ppvisitednodes":{"value":2028,"limit":1000000},"postexpandincludesize":{"value":52082,"limit":2097152},"templateargumentsize":{"value":15470,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":6305,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  340.857      1 -total"," 67.58%  230.355      1 Шаблон:Художник"," 60.10%  204.841      1 Шаблон:Карточка"," 15.91%   54.242      7 Шаблон:Wikidata"," 12.45%   42.435      1 Шаблон:Hider"," 11.33%   38.615      1 Шаблон:ФИО"," 11.06%   37.689      1 Шаблон:Начало_скрытого_блока","  9.70%   33.047      1 Шаблон:Карточка/оригинал_имени","  4.31%   14.675      1 Шаблон:Выставки_ленинградских_художников","  3.92%   13.368      1 Шаблон:Wikidata/p569"]},"scribunto":{"limitreport-timeusage":{"value":"0.123","limit":"10.000"},"limitreport-memusage":{"value":4222545,"limit":52428800},"limitreport-logs":"Loaded datatype string of P742 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P136 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-api-int.codfw.main-54c7cf74fd-4nl4d","timestamp":"20250317075754","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0410\u043d\u0434\u0440\u0435\u0435\u0432, \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440 \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0438\u0447 (\u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a)","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B5%D0%B2,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87_(%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q15064019","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q15064019","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-01-22T18:01:37Z","dateModified":"2025-01-07T18:39:37Z"}</script>
+</body>
+</html>

@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Амье, Куно — Википедия</title>
+<script>(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"a4a5752b-e208-42ba-9d7e-b3d826c505d2","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Амье,_Куно","wgTitle":"Амье, Куно","wgCurRevisionId":139024521,"wgRevisionId":139024521,"wgArticleId":2307014,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Cite web (не указан язык)","Википедия:Статьи с нерабочими ссылками","Страницы, использующие волшебные ссылки ISBN","Википедия:Статьи с источниками из Викиданных","Википедия:Страницы с неоднозначными геоцепочками (Швейцария)","Википедия:Страницы с геоцепочками в квалификаторах","Википедия:Страницы с неоднозначными геоцепочками в преамбуле","Википедия:Статьи без сносок","Википедия:Статьи с шаблонами недостатков по алфавиту","Родившиеся 28 марта","Родившиеся в 1868 году","Родившиеся в Золотурне","Умершие 6 июля","Умершие в 1961 году","Выпускники Мюнхенской академии художеств","Обучавшиеся в Академии Жюлиана","Почётные доктора Бернского университета","Персоналии по алфавиту","Художники по алфавиту","Деятели изобразительного искусства по алфавиту","Художники XIX века","Художники XX века","Скульпторы по алфавиту","Скульпторы Швейцарии","Скульпторы XIX века","Скульпторы XX века","Графики Швейцарии","Художники-постимпрессионисты","Художественная группа «Мост»"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Амье,_Куно","wgRelevantArticleId":2307014,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":139024521,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":8000,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q566797","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};
+RLSTATE={"ext.gadget.common-site":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","codex-search-styles":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","ext.scribunto.logs","site","mediawiki.page.ready","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","oojs-ui.styles.icons-media","oojs-ui-core.icons"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.flaggedRevs.basic%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cmediawiki.codex.messagebox.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.gadget.common-site&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.44.0-wmf.20">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ETH-BIB_Cuno_Amiet_Portraitfoto_Com_M01-0004-0013.tif/lossy-page1-1200px-ETH-BIB_Cuno_Amiet_Portraitfoto_Com_M01-0004-0013.tif.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1444">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ETH-BIB_Cuno_Amiet_Portraitfoto_Com_M01-0004-0013.tif/lossy-page1-800px-ETH-BIB_Cuno_Amiet_Portraitfoto_Com_M01-0004-0013.tif.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="962">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ETH-BIB_Cuno_Amiet_Portraitfoto_Com_M01-0004-0013.tif/lossy-page1-640px-ETH-BIB_Cuno_Amiet_Portraitfoto_Com_M01-0004-0013.tif.jpg">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="770">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Амье, Куно — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="//ru.m.wikipedia.org/wiki/%D0%90%D0%BC%D1%8C%D0%B5,_%D0%9A%D1%83%D0%BD%D0%BE">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%90%D0%BC%D1%8C%D0%B5,_%D0%9A%D1%83%D0%BD%D0%BE&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D1%8C%D0%B5,_%D0%9A%D1%83%D0%BD%D0%BE">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="login.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Амье_Куно rootpage-Амье_Куно skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Амье, Куно</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><table class="infobox infobox-7b58b66f88a22208" style="" data-name="Художник"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Куно Амье</th></tr><tr><td colspan="2" class="" style="text-align:center;"><span data-wikidata-claim-id="Q566797$6178ebde-4c37-64c1-0b88-d955726ad000" class="wikidata-claim" data-wikidata-property-id="P1559&#91;LANGUAGE!:RU&#93;"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Немецкий язык">нем.</a>&#160;<span lang="de" style="font-style:italic;">Cuno Amiet</span></span></span></td></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-claim-id="Q566797$a3142c21-4771-9f1c-118e-70dc7b729a27" class="wikidata-claim" data-wikidata-property-id="P18"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File/Frameless"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:ETH-BIB_Cuno_Amiet_Portraitfoto_Com_M01-0004-0013.tif" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/ETH-BIB_Cuno_Amiet_Portraitfoto_Com_M01-0004-0013.tif/lossy-page1-274px-ETH-BIB_Cuno_Amiet_Portraitfoto_Com_M01-0004-0013.tif.jpg" decoding="async" width="274" height="330" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/ETH-BIB_Cuno_Amiet_Portraitfoto_Com_M01-0004-0013.tif/lossy-page1-411px-ETH-BIB_Cuno_Amiet_Portraitfoto_Com_M01-0004-0013.tif.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/ETH-BIB_Cuno_Amiet_Portraitfoto_Com_M01-0004-0013.tif/lossy-page1-548px-ETH-BIB_Cuno_Amiet_Portraitfoto_Com_M01-0004-0013.tif.jpg 2x" data-file-width="4731" data-file-height="5691" /></a></span></span></span> </td></tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Дата&#160;рождения</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q566797$8C501A3D-94F0-4A48-BE71-4C3A1D893868" class="wikidata-claim" data-wikidata-property-id="P569"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/28_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="28 марта">28 марта</a> <a href="/wiki/1868_%D0%B3%D0%BE%D0%B4" title="1868 год">1868</a></span><span style="display:none">(<span class="bday">1868-03-28</span>)</span></span><sup id="cite_ref-_cfc8deb934f8e202_1-0" class="reference"><a href="#cite_note-_cfc8deb934f8e202-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-_72070582a31fa75d_2-0" class="reference"><a href="#cite_note-_72070582a31fa75d-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup><sup><a href="https://www.wikidata.org/wiki/Q566797#P569" class="extiw" title="d:Q566797">[…]</a></sup></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Место рождения</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="q566797$892A2190-1FD8-4C6E-84B6-352E5C70179A" class="wikidata-claim" data-wikidata-property-id="P19"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D1%83%D1%80%D0%BD" title="Золотурн">Золотурн</a></span>, <span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F" title="Швейцария">Швейцария</a></span><sup id="cite_ref-_134f310c0109d190_5-0" class="reference"><a href="#cite_note-_134f310c0109d190-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Дата смерти</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q566797$912D0BD6-2013-4382-80DB-813C943EE25B" class="wikidata-claim" data-wikidata-property-id="P570"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/6_%D0%B8%D1%8E%D0%BB%D1%8F" title="6 июля">6 июля</a> <a href="/wiki/1961_%D0%B3%D0%BE%D0%B4" title="1961 год">1961</a></span><span style="display:none">(<span class="dday">1961-07-06</span>)</span></span><sup id="cite_ref-_cfc8deb934f8e202_1-1" class="reference"><a href="#cite_note-_cfc8deb934f8e202-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-_8568c337d951a35c_3-0" class="reference"><a href="#cite_note-_8568c337d951a35c-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup><sup><a href="https://www.wikidata.org/wiki/Q566797#P570" class="extiw" title="d:Q566797">[…]</a></sup> <span style="white-space:nowrap;">(93 года)</span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Место смерти</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="q566797$2CBF5EE4-451D-4DDC-B05F-060020A88928" class="wikidata-claim" data-wikidata-property-id="P20"><span class="wikidata-snak wikidata-main-snak"><style data-mw-deduplicate="TemplateStyles:r138326222">.mw-parser-output .ts-Wikidata-redLink a{background:none;padding:0}.mw-parser-output .ts-Wikidata-redLink a.external{color:#ba0000;color:var(--color-link-red,#ba0000)}.mw-parser-output .ts-Wikidata-redLink a.external:visited{color:#a55858;color:var(--color-link-red--visited,#a55858)}</style><span class="ts-Wikidata-redLink plainlinks"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9E%D1%88%D0%B2%D0%B0%D0%BD%D0%B4&amp;action=edit&amp;editintro=T:Нет_статьи/editintro&amp;preload=T:Нет_статьи/preload&amp;preloadparams%5B%5D=Q33035234&amp;preloadparams%5B%5D=%D0%9E%D1%88%D0%B2%D0%B0%D0%BD%D0%B4&amp;preloadparams%5B%5D=%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F+%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B0">Ошванд</a></span><sup class="noprint"><a href="https://www.wikidata.org/wiki/Q33035234#sitelinks-wikipedia" class="extiw" title="d:Q33035234"><span>[вд]</span></a></sup></span>, <span data-wikidata-hash="ff7d020bde349c8d242c11107573a5e99318a583" class="wikidata-snak"><a href="/wiki/%D0%97%D0%B5%D0%B1%D0%B5%D1%80%D0%B3_(%D0%91%D0%B5%D1%80%D0%BD)" title="Зеберг (Берн)">Зееберг</a></span><sup id="cite_ref-_134f310c0109d190_5-1" class="reference"><a href="#cite_note-_134f310c0109d190-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Страна</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="q566797$216D1CF8-16A4-4ABA-9077-70251265F8F6" class="wikidata-claim" data-wikidata-property-id="P27"><span class="mw-image-border" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/15px-Flag_of_Switzerland.svg.png" decoding="async" width="15" height="15" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/23px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/30px-Flag_of_Switzerland.svg.png 2x" data-file-width="512" data-file-height="512" /></span></span>&#160;<span class="country-name"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F" title="Швейцария">Швейцария</a></span><sup id="cite_ref-_ba84ff3864063bc6_4-0" class="reference"><a href="#cite_note-_ba84ff3864063bc6-4"><span class="cite-bracket">&#91;</span>4<span class="cite-bracket">&#93;</span></a></sup></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Род&#160;деятельности</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q566797$531B8824-08E0-46DA-8488-0B8A47F601E6" class="wikidata-claim" data-wikidata-property-id="P106"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA" title="Художник">художник</a></span></span>,&#32;<span data-wikidata-claim-id="Q566797$2BF98385-D5A2-4FA0-982F-D7A21DBF6D58" class="wikidata-claim" data-wikidata-property-id="P106"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D0%BE%D1%80" class="mw-redirect" title="Скульптор">скульптор</a></span></span>,&#32;<span data-wikidata-claim-id="Q566797$E3C8B3DD-8040-4879-B8C2-761741C26B58" class="wikidata-claim" data-wikidata-property-id="P106"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%93%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD" title="Графический дизайн">графический дизайнер</a></span></span>,&#32;<span data-wikidata-claim-id="Q566797$3CA05EB0-A6B8-492C-A103-B55E0745A1BD" class="wikidata-claim" data-wikidata-property-id="P106"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%93%D1%80%D0%B0%D0%B2%D1%8E%D1%80%D0%B0" title="Гравюра">художник-гравёр</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Жанр</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P136" class="no-wikidata"><a href="/wiki/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA" title="Художник">художник</a>, <a href="/wiki/%D0%96%D0%B8%D0%B2%D0%BE%D0%BF%D0%B8%D1%81%D0%B5%D1%86" class="mw-redirect" title="Живописец">живописец</a>, <a href="/wiki/%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0" title="Графика">график</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Стиль</th>
+<td class="P135 plainlist">
+<a href="/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%B8%D0%BC%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B8%D0%B7%D0%BC" title="Постимпрессионизм">постимпрессионизм</a></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Учёба</th>
+<td class="plainlist">
+<ul><li><span data-wikidata-claim-id="Q566797$C6615184-662B-496C-9605-6CE29442B562" class="wikidata-claim" data-wikidata-property-id="P69"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%9C%D1%8E%D0%BD%D1%85%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D1%85_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2" title="Мюнхенская академия изобразительных искусств">Мюнхенская академия художеств</a></span></span></li><li><span data-wikidata-claim-id="Q566797$A5D6189E-AD2F-4A0B-ACA5-EBE60A1ABD71" class="wikidata-claim" data-wikidata-property-id="P69"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F_%D0%96%D1%8E%D0%BB%D0%B8%D0%B0%D0%BD%D0%B0" title="Академия Жюлиана">Академия Жюлиана</a></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="min-width:8em;">Награды</th>
+<td class="plainlist">
+<div style="text-align:justify"><span class="wikidata-claim" data-wikidata-property-id="P166" data-wikidata-claim-id="Q566797$82ed17ae-4143-8674-4063-e34e3b63bb64"><span class="wikidata-snak wikidata-main-snak"><span style="display:inline-block; text-align:left"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r138326222" /><span class="ts-Wikidata-redLink plainlinks"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9F%D0%BE%D1%87%D1%91%D1%82%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%BA%D1%82%D0%BE%D1%80_%D0%91%D0%B5%D1%80%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0&amp;action=edit&amp;editintro=T:Нет_статьи/editintro&amp;preload=T:Нет_статьи/preload&amp;preloadparams%5B%5D=Q56871267&amp;preloadparams%5B%5D=%D0%BF%D0%BE%D1%87%D1%91%D1%82%D0%BD%D1%8B%D0%B9+%D0%B4%D0%BE%D0%BA%D1%82%D0%BE%D1%80+%D0%91%D0%B5%D1%80%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE+%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0&amp;preloadparams%5B%5D=%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F+%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B0">почётный доктор Бернского университета</a></span><sup class="noprint"><a href="https://www.wikidata.org/wiki/Q56871267#sitelinks-wikipedia" class="extiw" title="d:Q56871267"><span>[вд]</span></a></sup></span></span></span></div></td>
+</tr><tr><td colspan="2" class="infobox-below" style=";"><span data-wikidata-claim-id="q566797$22692EFA-A3BB-4137-8E16-8FA50B98C729" class="wikidata-claim" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><span typeof="mw:File"><a href="https://commons.wikimedia.org/wiki/Category:Cuno_Amiet" title="commons:Category:Cuno Amiet"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png" decoding="async" width="15" height="20" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png 1.5x" data-file-width="1024" data-file-height="1376" /></a></span>&#160;<a href="https://commons.wikimedia.org/wiki/Category:Cuno_Amiet" class="extiw" title="commons:Category:Cuno Amiet">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table><div role="note" class="hatnote navigation-not-searchable dabhide">В Википедии есть статьи о других людях с такой фамилией, см. <a href="/wiki/%D0%90%D0%BC%D1%8C%D0%B5" class="mw-disambig" title="Амье">Амье</a>.</div>
+<p><b>Куно Амье</b> (<a href="/wiki/%D0%9D%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Немецкий язык">нем.</a>&#160;<span lang="de" style="font-style:italic;">Cuno Amiet</span>; <span data-wikidata-claim-id="Q566797$8C501A3D-94F0-4A48-BE71-4C3A1D893868" class="wikidata-claim" data-wikidata-property-id="P569"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/28_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="28 марта">28 марта</a> <a href="/wiki/1868_%D0%B3%D0%BE%D0%B4" title="1868 год">1868</a></span></span><sup id="cite_ref-_cfc8deb934f8e202_1-2" class="reference"><a href="#cite_note-_cfc8deb934f8e202-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-_72070582a31fa75d_2-1" class="reference"><a href="#cite_note-_72070582a31fa75d-2"><span class="cite-bracket">&#91;</span>2<span class="cite-bracket">&#93;</span></a></sup><sup><a href="https://www.wikidata.org/wiki/Q566797#P569" class="extiw" title="d:Q566797">[…]</a></sup></span>, <span data-wikidata-claim-id="q566797$892A2190-1FD8-4C6E-84B6-352E5C70179A" class="wikidata-claim" data-wikidata-property-id="P19"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D1%83%D1%80%D0%BD" title="Золотурн">Золотурн</a></span><sup id="cite_ref-_134f310c0109d190_5-2" class="reference"><a href="#cite_note-_134f310c0109d190-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup></span>&#160;— <span data-wikidata-claim-id="Q566797$912D0BD6-2013-4382-80DB-813C943EE25B" class="wikidata-claim" data-wikidata-property-id="P570"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/6_%D0%B8%D1%8E%D0%BB%D1%8F" title="6 июля">6 июля</a> <a href="/wiki/1961_%D0%B3%D0%BE%D0%B4" title="1961 год">1961</a></span></span><sup id="cite_ref-_cfc8deb934f8e202_1-3" class="reference"><a href="#cite_note-_cfc8deb934f8e202-1"><span class="cite-bracket">&#91;</span>1<span class="cite-bracket">&#93;</span></a></sup><sup id="cite_ref-_8568c337d951a35c_3-1" class="reference"><a href="#cite_note-_8568c337d951a35c-3"><span class="cite-bracket">&#91;</span>3<span class="cite-bracket">&#93;</span></a></sup><sup><a href="https://www.wikidata.org/wiki/Q566797#P570" class="extiw" title="d:Q566797">[…]</a></sup></span>, <span data-wikidata-claim-id="q566797$2CBF5EE4-451D-4DDC-B05F-060020A88928" class="wikidata-claim" data-wikidata-property-id="P20"><span class="wikidata-snak wikidata-main-snak"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r138326222" /><span class="ts-Wikidata-redLink plainlinks"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%9E%D1%88%D0%B2%D0%B0%D0%BD%D0%B4&amp;action=edit&amp;editintro=T:Нет_статьи/editintro&amp;preload=T:Нет_статьи/preload&amp;preloadparams%5B%5D=Q33035234&amp;preloadparams%5B%5D=%D0%9E%D1%88%D0%B2%D0%B0%D0%BD%D0%B4&amp;preloadparams%5B%5D=%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F+%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%BA%D0%B0">Ошванд</a></span><sup class="noprint"><a href="https://www.wikidata.org/wiki/Q33035234#sitelinks-wikipedia" class="extiw" title="d:Q33035234"><span>[вд]</span></a></sup></span>, <span data-wikidata-hash="ff7d020bde349c8d242c11107573a5e99318a583" class="wikidata-snak"><a href="/wiki/%D0%97%D0%B5%D0%B1%D0%B5%D1%80%D0%B3_(%D0%91%D0%B5%D1%80%D0%BD)" title="Зеберг (Берн)">Зееберг</a></span><sup id="cite_ref-_134f310c0109d190_5-3" class="reference"><a href="#cite_note-_134f310c0109d190-5"><span class="cite-bracket">&#91;</span>5<span class="cite-bracket">&#93;</span></a></sup></span>)&#160;— <a href="/wiki/%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F" title="Швейцария">швейцарский</a> <a href="/wiki/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA" title="Художник">художник</a>, <a href="/wiki/%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D0%BE%D1%80" class="mw-redirect" title="Скульптор">скульптор</a> и график. Будучи первым швейцарским художником, отдавшим предпочтение цвету в композиции, он был пионером <a href="/wiki/%D0%9C%D0%BE%D0%B4%D0%B5%D1%80%D0%BD%D0%B8%D0%B7%D0%BC_%D0%B2_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5" title="Модернизм в изобразительном искусстве">современного искусства</a> в Швейцарии<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span class="cite-bracket">&#91;</span>6<span class="cite-bracket">&#93;</span></a></sup>. Принадлежит к <a href="/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%B8%D0%BC%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B8%D0%B7%D0%BC" title="Постимпрессионизм">постимпрессионистскому</a> направлению в искусстве.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Биография"><span id=".D0.91.D0.B8.D0.BE.D0.B3.D1.80.D0.B0.D1.84.D0.B8.D1.8F"></span>Биография</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BC%D1%8C%D0%B5,_%D0%9A%D1%83%D0%BD%D0%BE&amp;veaction=edit&amp;section=1" title="Редактировать раздел «Биография»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BC%D1%8C%D0%B5,_%D0%9A%D1%83%D0%BD%D0%BE&amp;action=edit&amp;section=1" title="Редактировать код раздела «Биография»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p>Амье родился в семье чиновника кантона Золотурн, его отец был государственным архивариусом. Начал брать уроки живописи в 1882&#160;году. Осенью 1886&#160;года Куно уезжает вместе с художником-акварелистом <a href="/w/index.php?title=%D0%94%D0%B5%D0%BC%D0%BC%D0%B5,_%D0%9F%D0%B0%D1%83%D0%BB%D1%8C&amp;action=edit&amp;redlink=1" class="new" title="Демме, Пауль (страница отсутствует)">Паулем Демме</a> в <a href="/wiki/%D0%9C%D1%8E%D0%BD%D1%85%D0%B5%D0%BD" title="Мюнхен">Мюнхен</a> и поступает там в Академию изящных искусств. Среди учителей Амье были такие мастера, как <a href="/wiki/%D0%A5%D0%B0%D0%BA%D0%BB%D1%8C,_%D0%93%D0%B0%D0%B1%D1%80%D0%B8%D1%8D%D0%BB%D1%8C_%D1%84%D0%BE%D0%BD" title="Хакль, Габриэль фон">Габриэль фон Хакль</a>, <a href="/wiki/%D0%A0%D0%B0%D1%83%D0%BF,_%D0%9A%D0%B0%D1%80%D0%BB" title="Рауп, Карл">Карл Рауп</a> и <a href="/wiki/%D0%93%D1%83%D0%B7%D0%B8%D1%81,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%BE%D1%81" class="mw-redirect" title="Гузис, Николаос">Николаос Гузис</a>. В 1887 Амье знакомится в Академии с художником <a href="/wiki/%D0%94%D0%B6%D0%B0%D0%BA%D0%BE%D0%BC%D0%B5%D1%82%D1%82%D0%B8,_%D0%94%D0%B6%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B8" title="Джакометти, Джованни">Джованни Джакометти</a>, дружбу с которым сохранил на всю жизнь. В октябре <a href="/wiki/1888_%D0%B3%D0%BE%D0%B4" title="1888 год">1888&#160;года</a> оба молодых художника уезжают в <a href="/wiki/%D0%9F%D0%B0%D1%80%D0%B8%D0%B6" title="Париж">Париж</a> и поступают в <a href="/wiki/%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F_%D0%96%D1%8E%D0%BB%D0%B8%D0%B0%D0%BD%D0%B0" title="Академия Жюлиана">Академию Жюлиана</a>, где учатся у <a href="/wiki/%D0%91%D0%BE%D0%BD%D0%BD%D0%B0%D1%80,_%D0%9F%D1%8C%D0%B5%D1%80" title="Боннар, Пьер">Пьера Боннара</a>, <a href="/wiki/%D0%92%D1%8E%D0%B9%D0%B0%D1%80,_%D0%AD%D0%B4%D1%83%D0%B0%D1%80" title="Вюйар, Эдуар">Ж.&#160;Э.&#160;Вюйяра</a>, <a href="/wiki/%D0%94%D0%B5%D0%BD%D0%B8,_%D0%9C%D0%BE%D1%80%D0%B8%D1%81" title="Дени, Морис">Мориса Дени</a>, <a href="/wiki/%D0%A1%D0%B5%D1%80%D1%8E%D0%B7%D1%8C%D0%B5,_%D0%9F%D0%BE%D0%BB%D1%8C" title="Серюзье, Поль">Поля Серюзье</a> и <a href="/wiki/%D0%A0%D0%BE%D0%B1%D0%B5%D1%80-%D0%A4%D0%BB%D1%91%D1%80%D0%B8,_%D0%A2%D0%BE%D0%BD%D0%B8" title="Робер-Флёри, Тони">Тони Робера-Флёри</a>.
+</p><p>Совместно с <a href="/wiki/%D0%92%D0%B0%D0%BB%D0%BB%D0%BE%D1%82%D0%BE%D0%BD,_%D0%A4%D0%B5%D0%BB%D0%B8%D0%BA%D1%81" class="mw-redirect" title="Валлотон, Феликс">Феликсом Валлотоном</a> Куно Амье вступает в группу <a href="/wiki/%D0%A1%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%B8%D0%B7%D0%BC" title="Символизм">символистов</a> <a href="/wiki/%D0%9D%D0%B0%D0%B1%D0%B8_(%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0)" title="Наби (группа)">Наби</a>. В мае 1892&#160;года Амье уезжает в <a href="/wiki/%D0%91%D1%80%D0%B5%D1%82%D0%B0%D0%BD%D1%8C" title="Бретань">Бретань</a>, в рыбацкий городок <a href="/wiki/%D0%9F%D0%BE%D0%BD%D1%82-%D0%90%D0%B2%D0%B5%D0%BD" title="Понт-Авен">Понт-Авен</a>, в котором тогда жил и работал <a href="/wiki/%D0%93%D0%BE%D0%B3%D0%B5%D0%BD" class="mw-redirect" title="Гоген">Поль Гоген</a>, и остаётся здесь, в колонии художников, до июня 1893. В том же году Амье знакомится с крупным швейцарским художником-символистом <a href="/wiki/%D0%A5%D0%BE%D0%B4%D0%BB%D0%B5%D1%80,_%D0%A4%D0%B5%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D0%BD%D0%B4" title="Ходлер, Фердинанд">Фердинандом Ходлером</a>, посещает последнего в его ателье. Ходлер, как и Гоген, оказал сильное влияние на творчество Амье. В 1896&#160;году, во время посещения Дж. Джакометти в <a href="/wiki/%D0%A1%D1%82%D0%B0%D0%BC%D0%BF%D0%B0" title="Стампа">Стампе</a>, Амье знакомится с художником <a href="/wiki/%D0%A1%D0%B5%D0%B3%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%B8,_%D0%94%D0%B6%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%B8" title="Сегантини, Джованни">Джованни Сегантини</a>, мастерство которого интересовало Амье ещё с 1893&#160;года.
+</p>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Bern_Kunstmuseum_3.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bern_Kunstmuseum_3.jpg/220px-Bern_Kunstmuseum_3.jpg" decoding="async" width="220" height="139" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bern_Kunstmuseum_3.jpg/330px-Bern_Kunstmuseum_3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bern_Kunstmuseum_3.jpg/440px-Bern_Kunstmuseum_3.jpg 2x" data-file-width="2689" data-file-height="1704" /></a><figcaption><a href="/wiki/%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BC%D1%83%D0%B7%D0%B5%D0%B9_%D0%91%D0%B5%D1%80%D0%BD%D0%B0" class="mw-redirect" title="Художественный музей Берна">Художественный музей</a>, <a href="/wiki/%D0%91%D0%B5%D1%80%D0%BD" title="Берн">Берн</a>. Настенные декорации работы К. Амье</figcaption></figure>
+<p>В 1898 Ф. Ходлер, Дж. Джакометти и К. Амье организуют совместную выставку в <a href="/wiki/%D0%A6%D1%8E%D1%80%D0%B8%D1%85" title="Цюрих">цюрихском</a> Доме художника. В 1904&#160;году К. Амье вместе с Ходлером участвует в движении <a href="/wiki/%D0%92%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B5%D1%86%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD" title="Венский сецессион">Венский сецессион</a>. В 1905 организуется выставка работ К. Амье в <a href="/wiki/%D0%94%D1%80%D0%B5%D0%B7%D0%B4%D0%B5%D0%BD" title="Дрезден">дрезденской</a> галерее <i>Рихтер</i>. В 1919&#160;году Амье присваивается звание почётного доктора искусств <a href="/wiki/%D0%91%D0%B5%D1%80%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82" title="Бернский университет">Бернского университета</a>. С 1944&#160;года он&#160;— почётный член Союза художников Золотурна. К 90-летию мастера в 1958&#160;году состоялись выставка его работ в цюрихском художественном салоне <i>Вольфсберг</i> и ретроспективная выставка в Художественном музее Берна.
+</p><p>При жизни Амье называли «швейцарским Боннаром». Во время пожара в 1931&#160;году в <a href="/wiki/%D0%9C%D1%8E%D0%BD%D1%85%D0%B5%D0%BD" title="Мюнхен">мюнхенском</a> <a href="/wiki/%D0%A1%D1%82%D0%B5%D0%BA%D0%BB%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86_(%D0%9C%D1%8E%D0%BD%D1%85%D0%B5%D0%BD)" title="Стеклянный дворец (Мюнхен)">Стеклянном дворце</a> погибло 50 работ художника.
+Амье был близким другом швейцарского писателя <a href="/wiki/%D0%93%D0%B5%D1%81%D1%81%D0%B5,_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD" title="Гессе, Герман">Германа Гессе</a>. Портрет писателя кисти Амье, исполненный в 1919&#160;году на листе картона скупыми энергичными мазками, обозначен как «Портрет Эмиля Синклера». Под этим псевдонимом Гессе публиковал в 1917&#160;году свои политические воззвания против <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%B0%D1%8F_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0" title="Первая мировая война">Первой мировой войны</a>. В апреле 1920&#160;года Амье берет на воспитание сына Гессе Бруно<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span class="cite-bracket">&#91;</span>7<span class="cite-bracket">&#93;</span></a></sup> и дает начинающему художнику первые уроки рисования.
+</p>
+<div class="mw-heading mw-heading2"><h2 id="Примечания"><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span>Примечания</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BC%D1%8C%D0%B5,_%D0%9A%D1%83%D0%BD%D0%BE&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BC%D1%8C%D0%B5,_%D0%9A%D1%83%D0%BD%D0%BE&amp;action=edit&amp;section=2" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-_cfc8deb934f8e202-1"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_cfc8deb934f8e202_1-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_cfc8deb934f8e202_1-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-_cfc8deb934f8e202_1-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-_cfc8deb934f8e202_1-3"><sup><i><b>4</b></i></sup></a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q36570165" data-entity-id="Q17299517"><a rel="nofollow" class="external text" href="https://rkd.nl/artists/1538">Cuno Amiet</a>&#160;<span class="ref-info" style="cursor:help;" title="на нидерландском языке">(нидерл.)</span><span class="wef_low_priority_links"></span></span></span>
+</li>
+<li id="cite_note-_72070582a31fa75d-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_72070582a31fa75d_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_72070582a31fa75d_2-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q1787111 citetype_Q3331189" data-entity-id="Q24255573"><a rel="nofollow" class="external text" href="https://doi.org/10.1093/benz/9780199773787.article.B00004071">Cuno Amiet</a>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span><span class="wef_low_priority_links"> — <a href="/wiki/%D0%98%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D0%9E%D0%BA%D1%81%D1%84%D0%BE%D1%80%D0%B4%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0" title="Издательство Оксфордского университета">OUP</a>, 2006. — <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9780199773787" class="internal mw-magiclink-isbn">ISBN 978-0-19-977378-7</a></span></span></span>
+</li>
+<li id="cite_note-_8568c337d951a35c-3"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_8568c337d951a35c_3-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_8568c337d951a35c_3-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q7094076 citetype_Q1787111" data-entity-id="Q683543"><a rel="nofollow" class="external text" href="https://recherche.sik-isea.ch/sik:person-4000011/in/sikart">Cuno Amiet</a><span class="wef_low_priority_links"> — 2006.</span></span></span>
+</li>
+<li id="cite_note-_ba84ff3864063bc6-4"><span class="mw-cite-backlink"><a href="#cite_ref-_ba84ff3864063bc6_4-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q7094076" data-entity-id="Q73268604"><a rel="nofollow" class="external text" href="https://www.moma.org/collection/about">Museum of Modern Art online collection</a>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span><span class="wef_low_priority_links"></span></span></span>
+</li>
+<li id="cite_note-_134f310c0109d190-5"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_134f310c0109d190_5-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_134f310c0109d190_5-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-_134f310c0109d190_5-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-_134f310c0109d190_5-3"><sup><i><b>4</b></i></sup></a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q7094076 citetype_Q1787111" data-entity-id="Q683543">Amiet, Cuno // <a rel="nofollow" class="external text" href="https://recherche.sik-isea.ch/sik:person-4000011/in/sikart">SIKART</a><span class="wef_low_priority_links"> — 2006.</span></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.hls-dhs-dss.ch/textes/f/F21974.php">Pierre-André Lienhard / KMG: Cuno Amiet in the online Historical Dictionary of Switzerland, 2005.</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>&#32;Дата обращения: 23 апреля 2019.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20180216232350/http://www.hls-dhs-dss.ch/textes/f/F21974.php">Архивировано</a> 16 февраля 2018 года.</span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://www.romanbook.net/book/6356845/?page=5">Гессе Герман Листки памяти</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.</span>&#160;<small class="ref-info">(недоступная ссылка)</small></span>
+</li>
+</ol></div></div>
+<div class="mw-heading mw-heading2"><h2 id="Литература"><span id=".D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0"></span>Литература</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%90%D0%BC%D1%8C%D0%B5,_%D0%9A%D1%83%D0%BD%D0%BE&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Литература»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%90%D0%BC%D1%8C%D0%B5,_%D0%9A%D1%83%D0%BD%D0%BE&amp;action=edit&amp;section=3" title="Редактировать код раздела «Литература»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul><li>Franz Müller, Viola Radlach, unter Mitarbeit von Larissa Ullmann: Cuno Amiet. Die Gemälde 1883—1919. Schweizerisches Institut für Kunstwissenschaft / Scheidegger &amp; Spiess, Zürich 2014 (= Œuvrekataloge Schweizer Künstler und Künstlerinnen. 28), <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9783858814333" class="internal mw-magiclink-isbn">ISBN 978-3-85881-433-3</a>.</li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Ссылки_на_внешние_ресурсы" data-name="External links" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div class="skin-invert-image" style="float: left;"><span class="noprint skin-invert-image" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span>&#160;<span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q566797#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div>&#160;&#160;Тематические сайты</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://www.discogs.com/artist/4288007">Discogs</a></li>
+<li><a rel="nofollow" class="external text" href="https://rkd.nl/nl/explore/artists/1538">RKDartists</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Словари и энциклопедии</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="external text" href="https://wikidata-externalid-url.toolforge.org/?p=8313&amp;url_prefix=https://denstoredanske.lex.dk/&amp;id=Cuno_Amiet">Большая датская</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.enciclopedia.cat/ec-gec-0003582.xml">Большая каталанская</a></li>
+<li><a rel="nofollow" class="external text" href="https://snl.no/Cuno_Amiet">Большая норвежская</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.vle.lt/straipsnis/cuno-amiet">Литовская универсальная</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.enciklopedija.hr/Natuknica.aspx?ID=2267">Хорватская</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.sapere.it/enciclopedia/Amiet,+Cuno.html">De Agostini</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.deutsche-biographie.de/118502557.html">Neue Deutsche Biographie</a></li>
+<li><a rel="nofollow" class="external text" href="https://encyklopedia.pwn.pl/haslo/;3868733.html">PWN</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.treccani.it/enciclopedia/cuno-amiet">Treccani</a></li>
+<li><a rel="nofollow" class="external text" href="https://hls-dhs-dss.ch/fr/articles/021974">Швейцарский исторический</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Генеалогия и некрополистика</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://www.wikitree.com/wiki/Amiet-48">WikiTree</a></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><style data-mw-deduplicate="TemplateStyles:r113287755">.mw-parser-output .ts-navbox-plaintitle{font-size:100%!important;margin:0 6em!important}</style></div><table class="nowraplinks authoritycontrol collapsible collapsed navbox-subgroup" style="border-spacing:0;text-align: left;"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><div id="В_библиографических_каталогах" class="ts-navbox-plaintitle" style="font-size:114%;margin:0 5em">В&#160;библиографических каталогах</div></th></tr><tr><td class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>BIBSYS: <a rel="nofollow" class="external text" href="https://authority.bibsys.no/authority/rest/authorities/html/1634281495836">1634281495836</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8" title="Национальная библиотека Франции">BNF</a>: <a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb14969008f">14969008f</a>, <a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb119354761">119354761</a></li>
+<li><a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>: <a rel="nofollow" class="external text" href="https://d-nb.info/gnd/118502557">118502557</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80_%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D1%85_%D0%BD%D0%B0%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9" title="Международный идентификатор стандартных наименований">ISNI</a>: <a rel="nofollow" class="external text" href="http://isni.org/isni/0000000108665347">0000000108665347</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F" title="Национальная библиотека Израиля">J9U</a>: <a rel="nofollow" class="external text" href="https://www.nli.org.il/en/authorities/987007507958005171">987007507958005171</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B0" title="Контрольный номер Библиотеки Конгресса">LCCN</a>: <a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/n83224756">n83224756</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%BE%D0%B2" title="Королевская национальная библиотека Нидерландов">NTA</a>: <a rel="nofollow" class="external text" href="https://data.bibliotheken.nl/doc/thes/p069037981">069037981</a></li>
+<li><a href="/wiki/NUKAT" title="NUKAT">NUKAT</a>: <a rel="nofollow" class="external text" href="http://nukat.edu.pl/aut/n%20%2000038084">n00038084</a></li>
+<li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D0%B8" title="Национальная библиотека Швеции">LIBRIS</a>: <a rel="nofollow" class="external text" href="https://libris.kb.se/rp3565p92wpxsrj">rp3565p92wpxsrj</a></li>
+<li><a href="/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8" title="Университетская система документации">SUDOC</a>: <a rel="nofollow" class="external text" href="https://www.idref.fr/027277852">027277852</a></li>
+<li><a href="/wiki/VIAF" title="VIAF">VIAF</a>: <a rel="nofollow" class="external text" href="https://viaf.org/viaf/7399068/">7399068</a></li>
+<li><a href="/wiki/WorldCat" title="WorldCat">WorldCat VIAF</a>: <a rel="nofollow" class="external text" href="https://www.worldcat.org/identities/containsVIAFID/7399068">7399068</a></li>
+<li><span title="Union List of Artist Names" style="border-bottom: 1px dotted; cursor: help;">ULAN</span>: <a rel="nofollow" class="external text" href="https://www.getty.edu/vow/ULANFullDisplay?find=&amp;role=&amp;nation=&amp;subjectid=500005153">500005153</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<style data-mw-deduplicate="TemplateStyles:r137874932">.mw-parser-output .ambox{border:1px solid var(--border-color-base,#a2a9b1);border-left:10px solid #36c;background:var(--background-color-neutral-subtle,#f8f9fa);box-sizing:border-box;margin:0 10%}html body.mediawiki.skin-minerva .mw-parser-output .ambox{border-width:0 0 0 4px}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid var(--border-color-error,#b32424);background-color:var(--background-color-error-subtle,#fee7e6)}.mw-parser-output .ambox-delete{border-left:10px solid var(--border-color-error,#b32424)}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid var(--color-warning,#edab00)}.mw-parser-output .ambox-good{border-left:10px solid #66cc44}.mw-parser-output .ambox-discussion{border-left:10px solid #339966}.mw-parser-output .ambox-merge{border-left:10px solid #9932cc}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}.mw-parser-output .ambox .mbox-textsmall-div{font-size:90%}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(max-width:1366px){.mw-parser-output .ambox{margin-left:6%;margin-right:6%}}@media(max-width:719px){.mw-parser-output .ambox{margin-left:0;margin-right:0}}</style><table class="plainlinks metadata ambox ambox-style" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><span typeof="mw:File"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9A%D0%B0%D0%BA_%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Улучшение статьи"><img alt="Улучшение статьи" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wiki_letter_w.svg/40px-Wiki_letter_w.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wiki_letter_w.svg/60px-Wiki_letter_w.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wiki_letter_w.svg/80px-Wiki_letter_w.svg.png 2x" data-file-width="44" data-file-height="44" /></a></span></div></td><td class="mbox-text"><div class="mbox-text-div"><b>Для улучшения этой статьи <a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Rq/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F" title="Шаблон:Rq/Пояснения">желательно</a>:</b><ul style="margin-top: 0;">
+<li>Проставить <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BD%D0%BE%D1%81%D0%BA%D0%B8" title="Википедия:Сноски">сноски</a>, внести более точные указания на источники.</li></ul></div><div class="mbox-textsmall-div hide-when-compact">После исправления проблемы исключите её из списка. Удалите шаблон, если устранены все недостатки.</div></td></tr></tbody></table></div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=0" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Амье,_Куно&amp;oldid=139024521">https://ru.wikipedia.org/w/index.php?title=Амье,_Куно&amp;oldid=139024521</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_28_%D0%BC%D0%B0%D1%80%D1%82%D0%B0" title="Категория:Родившиеся 28 марта">Родившиеся 28 марта</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_1868_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Родившиеся в 1868 году">Родившиеся в 1868 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A0%D0%BE%D0%B4%D0%B8%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D1%83%D1%80%D0%BD%D0%B5" title="Категория:Родившиеся в Золотурне">Родившиеся в Золотурне</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_6_%D0%B8%D1%8E%D0%BB%D1%8F" title="Категория:Умершие 6 июля">Умершие 6 июля</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A3%D0%BC%D0%B5%D1%80%D1%88%D0%B8%D0%B5_%D0%B2_1961_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Умершие в 1961 году">Умершие в 1961 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D1%8B%D0%BF%D1%83%D1%81%D0%BA%D0%BD%D0%B8%D0%BA%D0%B8_%D0%9C%D1%8E%D0%BD%D1%85%D0%B5%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%B8_%D1%85%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2" title="Категория:Выпускники Мюнхенской академии художеств">Выпускники Мюнхенской академии художеств</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9E%D0%B1%D1%83%D1%87%D0%B0%D0%B2%D1%88%D0%B8%D0%B5%D1%81%D1%8F_%D0%B2_%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D0%B8_%D0%96%D1%8E%D0%BB%D0%B8%D0%B0%D0%BD%D0%B0" title="Категория:Обучавшиеся в Академии Жюлиана">Обучавшиеся в Академии Жюлиана</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D1%87%D1%91%D1%82%D0%BD%D1%8B%D0%B5_%D0%B4%D0%BE%D0%BA%D1%82%D0%BE%D1%80%D0%B0_%D0%91%D0%B5%D1%80%D0%BD%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82%D0%B0" title="Категория:Почётные доктора Бернского университета">Почётные доктора Бернского университета</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D0%B8%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Персоналии по алфавиту">Персоналии по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Художники по алфавиту">Художники по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%94%D0%B5%D1%8F%D1%82%D0%B5%D0%BB%D0%B8_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B0_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Деятели изобразительного искусства по алфавиту">Деятели изобразительного искусства по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_XIX_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Художники XIX века">Художники XIX века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8_XX_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Художники XX века">Художники XX века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D0%BE%D1%80%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Скульпторы по алфавиту">Скульпторы по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D0%BE%D1%80%D1%8B_%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D0%B8" title="Категория:Скульпторы Швейцарии">Скульпторы Швейцарии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D0%BE%D1%80%D1%8B_XIX_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Скульпторы XIX века">Скульпторы XIX века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BA%D1%83%D0%BB%D1%8C%D0%BF%D1%82%D0%BE%D1%80%D1%8B_XX_%D0%B2%D0%B5%D0%BA%D0%B0" title="Категория:Скульпторы XX века">Скульпторы XX века</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%93%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B8_%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D0%B8" title="Категория:Графики Швейцарии">Графики Швейцарии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%BD%D0%B8%D0%BA%D0%B8-%D0%BF%D0%BE%D1%81%D1%82%D0%B8%D0%BC%D0%BF%D1%80%D0%B5%D1%81%D1%81%D0%B8%D0%BE%D0%BD%D0%B8%D1%81%D1%82%D1%8B" title="Категория:Художники-постимпрессионисты">Художники-постимпрессионисты</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A5%D1%83%D0%B4%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%C2%AB%D0%9C%D0%BE%D1%81%D1%82%C2%BB" title="Категория:Художественная группа «Мост»">Художественная группа «Мост»</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%BC%D0%B8_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Статьи с нерабочими ссылками">Википедия:Статьи с нерабочими ссылками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8_%D0%B8%D0%B7_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Википедия:Статьи с источниками из Викиданных">Википедия:Статьи с источниками из Викиданных</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%BD%D0%B5%D0%BE%D0%B4%D0%BD%D0%BE%D0%B7%D0%BD%D0%B0%D1%87%D0%BD%D1%8B%D0%BC%D0%B8_%D0%B3%D0%B5%D0%BE%D1%86%D0%B5%D0%BF%D0%BE%D1%87%D0%BA%D0%B0%D0%BC%D0%B8_(%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D1%8F)" title="Категория:Википедия:Страницы с неоднозначными геоцепочками (Швейцария)">Википедия:Страницы с неоднозначными геоцепочками (Швейцария)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%B3%D0%B5%D0%BE%D1%86%D0%B5%D0%BF%D0%BE%D1%87%D0%BA%D0%B0%D0%BC%D0%B8_%D0%B2_%D0%BA%D0%B2%D0%B0%D0%BB%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%D0%B0%D1%85" title="Категория:Википедия:Страницы с геоцепочками в квалификаторах">Википедия:Страницы с геоцепочками в квалификаторах</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%BD%D0%B5%D0%BE%D0%B4%D0%BD%D0%BE%D0%B7%D0%BD%D0%B0%D1%87%D0%BD%D1%8B%D0%BC%D0%B8_%D0%B3%D0%B5%D0%BE%D1%86%D0%B5%D0%BF%D0%BE%D1%87%D0%BA%D0%B0%D0%BC%D0%B8_%D0%B2_%D0%BF%D1%80%D0%B5%D0%B0%D0%BC%D0%B1%D1%83%D0%BB%D0%B5" title="Категория:Википедия:Страницы с неоднозначными геоцепочками в преамбуле">Википедия:Страницы с неоднозначными геоцепочками в преамбуле</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_%D1%81%D0%BD%D0%BE%D1%81%D0%BE%D0%BA" title="Категория:Википедия:Статьи без сносок">Википедия:Статьи без сносок</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Википедия:Статьи с шаблонами недостатков по алфавиту">Википедия:Статьи с шаблонами недостатков по алфавиту</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%90%D0%BC%D1%8C%D0%B5%2C+%D0%9A%D1%83%D0%BD%D0%BE" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%90%D0%BC%D1%8C%D0%B5%2C+%D0%9A%D1%83%D0%BD%D0%BE" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-namespaces-label"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%90%D0%BC%D1%8C%D0%B5,_%D0%9A%D1%83%D0%BD%D0%BE" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%90%D0%BC%D1%8C%D0%B5,_%D0%9A%D1%83%D0%BD%D0%BE&amp;action=edit&amp;redlink=1" rel="discussion" class="new" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%90%D0%BC%D1%8C%D0%B5,_%D0%9A%D1%83%D0%BD%D0%BE"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BC%D1%8C%D0%B5,_%D0%9A%D1%83%D0%BD%D0%BE&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BC%D1%8C%D0%B5,_%D0%9A%D1%83%D0%BD%D0%BE&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BC%D1%8C%D0%B5,_%D0%9A%D1%83%D0%BD%D0%BE&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B"><span>Служебные страницы</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%90%D0%BC%D1%8C%D0%B5,_%D0%9A%D1%83%D0%BD%D0%BE" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%90%D0%BC%D1%8C%D0%B5,_%D0%9A%D1%83%D0%BD%D0%BE" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BC%D1%8C%D0%B5,_%D0%9A%D1%83%D0%BD%D0%BE&amp;oldid=139024521" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BC%D1%8C%D0%B5,_%D0%9A%D1%83%D0%BD%D0%BE&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%90%D0%BC%D1%8C%D0%B5%2C_%D0%9A%D1%83%D0%BD%D0%BE&amp;id=139024521&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2590%25D0%25BC%25D1%258C%25D0%25B5%2C_%25D0%259A%25D1%2583%25D0%25BD%25D0%25BE"><span>Получить короткий URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:QrCode&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2590%25D0%25BC%25D1%258C%25D0%25B5%2C_%25D0%259A%25D1%2583%25D0%25BD%25D0%25BE"><span>Скачать QR-код</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%90%D0%BC%D1%8C%D0%B5%2C_%D0%9A%D1%83%D0%BD%D0%BE&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%90%D0%BC%D1%8C%D0%B5,_%D0%9A%D1%83%D0%BD%D0%BE&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Cuno_Amiet" hreflang="en"><span>Викисклад</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q566797" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%83%D9%88%D9%86%D9%88_%D8%A3%D9%85%D9%8A%D9%8A%D8%AA" title="كونو أمييت — арабский" lang="ar" hreflang="ar" data-title="كونو أمييت" data-language-autonym="العربية" data-language-local-name="арабский" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D9%83%D9%88%D9%86%D9%88_%D8%A7%D9%85%D9%8A%D8%AA" title="كونو اميت — Egyptian Arabic" lang="arz" hreflang="arz" data-title="كونو اميت" data-language-autonym="مصرى" data-language-local-name="Egyptian Arabic" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%9A%D1%83%D0%BD%D0%BE_%D0%90%D0%BC%E2%80%99%D0%B5" title="Куно Ам’е — белорусский" lang="be" hreflang="be" data-title="Куно Ам’е" data-language-autonym="Беларуская" data-language-local-name="белорусский" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Cuno_Amiet" title="Cuno Amiet — немецкий" lang="de" hreflang="de" data-title="Cuno Amiet" data-language-autonym="Deutsch" data-language-local-name="немецкий" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Cuno_Amiet" title="Cuno Amiet — английский" lang="en" hreflang="en" data-title="Cuno Amiet" data-language-autonym="English" data-language-local-name="английский" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Cuno_Amiet" title="Cuno Amiet — испанский" lang="es" hreflang="es" data-title="Cuno Amiet" data-language-autonym="Español" data-language-local-name="испанский" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Cuno_Amiet" title="Cuno Amiet — финский" lang="fi" hreflang="fi" data-title="Cuno Amiet" data-language-autonym="Suomi" data-language-local-name="финский" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fo mw-list-item"><a href="https://fo.wikipedia.org/wiki/Cuno_Amiet" title="Cuno Amiet — фарерский" lang="fo" hreflang="fo" data-title="Cuno Amiet" data-language-autonym="Føroyskt" data-language-local-name="фарерский" class="interlanguage-link-target"><span>Føroyskt</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Cuno_Amiet" title="Cuno Amiet — французский" lang="fr" hreflang="fr" data-title="Cuno Amiet" data-language-autonym="Français" data-language-local-name="французский" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D4%BF%D5%B8%D6%82%D5%B6%D5%B8_%D4%B1%D5%B4%D5%AB%D5%A5" title="Կունո Ամիե — армянский" lang="hy" hreflang="hy" data-title="Կունո Ամիե" data-language-autonym="Հայերեն" data-language-local-name="армянский" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Cuno_Amiet" title="Cuno Amiet — индонезийский" lang="id" hreflang="id" data-title="Cuno Amiet" data-language-autonym="Bahasa Indonesia" data-language-local-name="индонезийский" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Cuno_Amiet" title="Cuno Amiet — итальянский" lang="it" hreflang="it" data-title="Cuno Amiet" data-language-autonym="Italiano" data-language-local-name="итальянский" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Cuno_Amiet" title="Cuno Amiet — нидерландский" lang="nl" hreflang="nl" data-title="Cuno Amiet" data-language-autonym="Nederlands" data-language-local-name="нидерландский" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Cuno_Amiet" title="Cuno Amiet — португальский" lang="pt" hreflang="pt" data-title="Cuno Amiet" data-language-autonym="Português" data-language-local-name="португальский" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Cuno_Amiet" title="Cuno Amiet — румынский" lang="ro" hreflang="ro" data-title="Cuno Amiet" data-language-autonym="Română" data-language-local-name="румынский" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Cuno_Amiet" title="Cuno Amiet — шведский" lang="sv" hreflang="sv" data-title="Cuno Amiet" data-language-autonym="Svenska" data-language-local-name="шведский" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Cuno_Amiet" title="Cuno Amiet — узбекский" lang="uz" hreflang="uz" data-title="Cuno Amiet" data-language-autonym="Oʻzbekcha / ўзбекча" data-language-local-name="узбекский" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q566797#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 18 июля 2024 в 07:51.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru">Условия использования</a>.</span><br />
+Wikipedia®&#160;— зарегистрированный товарный знак некоммерческой организации <a rel="nofollow" class="external text" href="https://wikimediafoundation.org/ru/">«Фонд Викимедиа» (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/ru">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%90%D0%BC%D1%8C%D0%B5,_%D0%9A%D1%83%D0%BD%D0%BE&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+</footer>
+
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet vector-menu-portal portal" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.log.warn("This page is using the deprecated ResourceLoader module \"codex-search-styles\".\n[1.43] Use a CodexModule with codexComponents to set your specific components used: https://www.mediawiki.org/wiki/Codex#Using_a_limited_subset_of_components");mw.config.set({"wgHostname":"mw-web.eqiad.canary-687fd55b8b-zgjsj","wgBackendResponseTime":153,"wgPageParseReport":{"limitreport":{"cputime":"0.719","walltime":"1.103","ppvisitednodes":{"value":2385,"limit":1000000},"postexpandincludesize":{"value":98839,"limit":2097152},"templateargumentsize":{"value":13605,"limit":2097152},"expansiondepth":{"value":19,"limit":100},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":11312,"limit":5000000},"entityaccesscount":{"value":30,"limit":400},"timingprofile":["100.00% 1033.279      1 -total"," 66.52%  687.313      1 Шаблон:Художник"," 64.26%  663.956      1 Шаблон:Карточка"," 22.91%  236.688     11 Шаблон:Wikidata"," 10.12%  104.552      1 Шаблон:Библиоинформация","  9.73%  100.533      1 Шаблон:Wikidata/p569","  8.45%   87.361      1 Шаблон:Rq","  8.14%   84.096      1 Шаблон:Ambox","  7.87%   81.313      1 Шаблон:ВД-Преамбула","  7.64%   78.914      1 Шаблон:ВД-Преамбула/основа"]},"scribunto":{"limitreport-timeusage":{"value":"0.582","limit":"10.000"},"limitreport-memusage":{"value":9796426,"limit":52428800},"limitreport-logs":"Loaded datatype string of P742 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P136 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw-web.eqiad.main-59c5d4b599-t2d6q","timestamp":"20250317165643","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0410\u043c\u044c\u0435, \u041a\u0443\u043d\u043e","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%90%D0%BC%D1%8C%D0%B5,_%D0%9A%D1%83%D0%BD%D0%BE","sameAs":"http:\/\/www.wikidata.org\/entity\/Q566797","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q566797","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-03-02T18:16:29Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/7\/74\/ETH-BIB_Cuno_Amiet_Portraitfoto_Com_M01-0004-0013.tif"}</script>
+</body>
+</html>
